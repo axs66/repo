@@ -1820,24 +1820,6 @@ Icon: https://axs66.github.io/repo/icon/camera.png
 Name: 隐私相机SneakyCam
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.Axs.sneakycam
-Version: 2.2.2
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
-Filename: ./debs/com.Axs.sneakycam_2.2.2_iphoneos-arm64.deb
-Size: 106488
-MD5sum: 12bbcf1e21218b5e26f3e13b8a5f6e5c
-SHA1: 17b4c5a58f3ae14b6210246d52e5b39496c3dae9
-SHA256: 2e833c523cd2b9e5a9a28f6890ee079966d1dc9b1237185353210f8d1e0e5a91
-Section: 系统增强
-Description: Discretely take a photo or record a video from anywhere, even with your screen off.即使在屏幕关闭的情况下，也可以在任何地方随意拍照或录制视频。 使用方法∶快速按两次音量上键开始录制视频，再次按两次停止录制，快速按两次音量下键拍摄照片。 此插件为转插，需要legacy64插件支持。
-Author: Spark
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/camera.png
-Name: 隐私相机SneakyCam
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
 Package: com.Axs.souvenir
 Version: 1.14
 Architecture: iphoneos-arm64
