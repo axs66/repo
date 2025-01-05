@@ -2555,6 +2555,24 @@ Icon: https://axs66.github.io/repo/icon/ShowMyTouches.png
 Name: ShowMyTouches
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.dvntm.showmytouches
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm & SINI
+Installed-Size: 484
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.2.0_iphoneos-arm64.deb
+Size: 75924
+MD5sum: 63446afa480673c063a3e64bfc0475eb
+SHA1: 915eefb250e439a0bb4b27d18e4e5b1d342c131f
+SHA256: 13f6be6baad1688a670857147867646d72664bc599f6e52d291f11a76acbaadb
+Section: 越狱插件
+Description: 触摸轨迹，基于开源代码的基础上，增加滑动轨迹效果
+Author: dvntm & SINI
+Icon: https://axs66.github.io/repo/icon/ShowMyTouches.png
+Name: ShowMyTouches触摸轨迹
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.edge.siri
 Version: 3.1.1-9
 Architecture: iphoneos-arm64
