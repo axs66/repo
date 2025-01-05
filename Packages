@@ -2759,6 +2759,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCEnableCleanOrigMsg
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.iosrxwy.heiheipay
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.iosrxwy.heiheipay_0.1-1_iphoneos-arm64.deb
+Size: 106484
+MD5sum: 56a5d2db78dcd8aa04dd66cdaa562fc4
+SHA1: a98783c8d2898cbfeb39f66211d53a1415d5087d
+SHA256: 9f30f8e18a837a1c863e70eeed84e9b704f3b711151689c5a339c59bae1f26e5
+Section: Tweaks
+Priority: optional
+Description: iOS内购插件，适用于小部分本地验证应用,若无效可点击购买后取消。
+Author: iosrxwy
+Icon: https://axs66.github.io/repo/icon/LockScreen.png
+Name: heiheipay
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.jd4iphone
 Version: 1.3
 Architecture: iphoneos-arm64
