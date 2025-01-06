@@ -1452,6 +1452,23 @@ Name: Picsew长截图 破解-Rootless
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/Picsew/js.json
 Sponsor: Axs
 
+Package: com.Axs.picsewvip
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: axs <qiaozhani000@163.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.picsewvip_1.0.0_iphoneos-arm64.deb
+Size: 25316
+MD5sum: 833f098c8c9a3d2d98c6dc8b5a6ca2df
+SHA1: 4c9fa75f3e49dea98c3a101c866733efb99f5b37
+SHA256: 103ad90bfbbf49d83d9ad7a2c624adf1201928a524907256578287108282e880
+Section: B-系统增强
+Description: App Store搜索Picsew，一款非常好用的长截图软件！本插件已默认解除Pro权限，如果无效请删除重下软件，测试版本号为3.11.4！无任何广告弹窗！
+Author: x <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/picsew.png
+Name: Picsew长截图 vip
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.picturemodule
 Version: 1.2
 Architecture: iphoneos-arm64
