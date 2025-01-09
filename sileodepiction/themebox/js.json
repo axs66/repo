@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能",
+                    "markdown": "微信美化插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能",
                     "useRawFormat": true,
                 },      
                {
@@ -32,7 +32,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://axs66.github.io/repo/sileodepiction/HBWechat/Screenshot_01.png"
+                            "url": "https://axs66.github.io/repo/sileodepiction/themebox/Screenshot_01.png"
                         }
                     ]
                 },
@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 11 月 12 日",
+                    "text": "2025 年 1 月 8 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -90,7 +90,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.临时修复微软语音接口，修复地区无法访问问题。\n2.支持导出本地音色配置，支持纳入本地音色配置，支持删除异常音色配置。\n3.新增音色记忆选择功能，新增添加本地明星音色配置。",
+                    "markdown": "1.修复灵动岛设备导航栏问题，修复109版本聊天页面昵称显示问题。\n2.我的主题增加删除功能（长按对应主题），注意，删除后主题将永久删除！直到你再次兑换。\n3.增加重新下载功能，如果你不小心改了配置文件可以重新下载回来。",
                     "useRawFormat": true
                 },
                 {
@@ -101,7 +101,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.优化插件移除部分代码。\n2.修复文本转语音图标消失的问题。\n3.新增[特色类功能]-自定义微信标题。\n4.设置首页的文本，除了好看没实际作用待新增。",
+                    "markdown": "微信美化主题。",
                     "useRawFormat": true
                 }
             ]
