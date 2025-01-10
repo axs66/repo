@@ -1217,6 +1217,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 去除misaka匿名艾特次数限制
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.movenotification16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.movenotification16_1.0_iphoneos-arm64.deb
+Size: 17412
+MD5sum: bffcc18158be642ba98f8c78b23996d8
+SHA1: f2ad3446b9d84a81070678cf8f3ffb48bd2cde06
+SHA256: 35cd86b41ea28825420c1413529b58be92007afed3785939f548cc440e13e25e
+Section: 系统增强
+Description: iOS16上的移动通知。
+Author: JunesiPhone
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/movenotification16.png
+Name: MoveNotification16
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.msgfilt.rootless
 Version: 1.0-5
 Architecture: iphoneos-arm64
