@@ -4808,3 +4808,22 @@ Icon: https://axs66.github.io/repo/icon/o2pro.png
 Name: o2Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
+Package: xc.lzsxcl.o2pro
+Version: 16.5
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 21196
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_16.5_iphoneos-arm64.deb
+Size: 7828548
+MD5sum: bae9b3be2c2fa67b0b210f4f3ec9c8e5
+SHA1: a8b40fa2c4cce61238e07ddbef791c672d4fbf18
+SHA256: 9fc104f8a181d42600a81891d0065c8339ee47ac678fd63afe02e3fe0a2266b0
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
+
