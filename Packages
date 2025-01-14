@@ -2661,6 +2661,24 @@ Author: tangerine
 Name: EdgeSiri
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/edgesiri/js.json
 
+Package: com.eevee.spotify
+Version: 5.8.4
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 1588
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Filename: ./debs/com.eevee.spotify_5.8.4_iphoneos-arm64.deb
+Size: 396136
+MD5sum: a08196501e6771e484f98fbc6faf8d88
+SHA1: 8b0b91fd58c1525576756d1475daeab5a9ae27d8
+SHA256: 8737da97a28d9229b4db4e8af3df57d02a373d626a6a28913d0080dbb914bdbf
+Section: 系统增强
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://axs66.github.io/repo/icon/spotify.png
+Name: EeveeSpotify
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.ethxnn88.visibleisland
 Version: 2.0
 Architecture: iphoneos-arm64
