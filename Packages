@@ -1383,11 +1383,11 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.net.dleasy_2.14.6_iphoneos-arm64.deb
-Size: 5533744
-MD5sum: 8f5d5ad6a8c46dd2c81e9cd7859faed9
-SHA1: f5cec1d1094f308dcdb1147e11335d83ceba45bf
-SHA256: 67f8b9e61350b2eca8773636bcd1d4f109013a84c01276c418a7d71259ed6955
-Section: 媒体类插件
+Size: 5537000
+MD5sum: 6f2e5d1030b03bd30014ccf1d6884459
+SHA1: f1d0370437101a1f9263ee5fb036740505e283ef
+SHA256: 7a6cdba62fb5cf2c287c05bb90cdbb75e58b50af27db8b1b2c3d19d8b7eb6d80
+Section: Tweaks
 Description: Download/Share images & videos from social apps easily!
 Author: AhmedBafkir
 Depiction: Axs
@@ -4353,14 +4353,16 @@ Installed-Size: 23200
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
 Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
-Size: 8700882
-MD5sum: 3ba64c6c17e4a92c3afc89a95a224532
-SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
-SHA256: 5d354834ad5d44fcd2c1e3bdb4d082c25df6f8ba48f837745c2be1aec3f8f981
-Section: Utilities
+Size: 6974384
+MD5sum: e3919d71e6c7d8ffbdf0bc0bbc11b3d2
+SHA1: 5f952a104b5d5d6353c59f370717e4fe52078c9e
+SHA256: 30a9bf854a73aa6920cb5c4a5210609c53b925df0559cfdedd22a8f77b997179
+Section: 应用程序
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Author: TIGI Software
+Icon: https://axs66.github.io/repo/icon/filza.png
 Name: Filza File Manager 64-bit
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.uckermark.siriplus
 Version: 1.3
