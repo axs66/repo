@@ -1742,6 +1742,24 @@ Icon: https://axs66.github.io/repo/icon/settingswidgetss.png
 Name: SettingsWidgets设置小部件
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.showmytouches
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm & SINI
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.showmytouches_1.2.1_iphoneos-arm64.deb
+Size: 82704
+MD5sum: 9725b76cd7d6d0ea96b391685dd00b9a
+SHA1: 357ac65bbb498ff5baab48e2ceb330c6dbe30999
+SHA256: c052d6cf307378cfb7d6b6caacd988cb38bdc10feca2df78bc2a0e19b32bafb6
+Section: 录屏轨迹
+Description: 触摸轨迹，基于开源代码的基础上，增加滑动轨迹效果
+Author: dvntm & SINI
+Icon: https://axs66.github.io/repo/icon/ShowMyTouches.png
+Name: ShowMyTouches触摸轨迹
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.singlevpns
 Version: 1.1
 Architecture: iphoneos-arm64
