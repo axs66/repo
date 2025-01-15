@@ -1470,6 +1470,23 @@ Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake
 Name: PanCake
 Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
 
+Package: com.Axs.picsewvip
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: axs <qiaozhani000@163.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.picsewvip_1.0.0_iphoneos-arm64.deb
+Size: 25248
+MD5sum: 73e9eab6b12e33e0782939e619dee96a
+SHA1: 898a7bc29120db11510fb439fc45ff3527c17bb9
+SHA256: 0ebbbe5149cdf2103789d24bd1bc44fff5fa11f91b8de6eda53a8699b38d33fb
+Section: 系统增强
+Description: App Store搜索Picsew，一款非常好用的长截图软件！本插件已默认解除Pro权限，如果无效请删除重下软件，测试版本号为3.11.4！无任何广告弹窗！
+Author: x <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/picsew.png
+Name: Picsew长截图 vip
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.picturemodule
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -2995,11 +3012,11 @@ Architecture: iphoneos-arm64
 Maintainer: mikifp <qiaozhani000@163.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.mikifp.griddy_1.0.5_iphoneos-arm64.deb
-Size: 19916
-MD5sum: b8b66c1e2f186ba9556f346d987d5e94
-SHA1: 9762783411ec57548d188d30536808c9a69d6c50
-SHA256: 8708536bd692a53f3c2e4de47cf3f76e82ad64fe41326f24bf5431c5db703ec2
-Section: B-系统增强
+Size: 19932
+MD5sum: af953915301bcc8f3fa393ade9a679cb
+SHA1: 47b237cd0dd989369332f692efd87dd078436cf8
+SHA256: 3942d8c44c07588de443aaace68ac8d37ac8e8a43de7ccae6f3fe8eb8063a464
+Section: 系统增强
 Description: Make your icons hit the griddy。使用 Griddy 将图标放置在网格上的任意 位置
 Author: mikifp <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/griddy.png
