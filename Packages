@@ -549,6 +549,24 @@ Icon: https://axs66.github.io/repo/icon/safari.png
 Name: SafariX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
 
+Package: com.0xkuj.safarix
+Version: 1.9.5
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 824
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.5_iphoneos-arm64.deb
+Size: 297600
+MD5sum: 032be8b186a55a8f6025368a444a58d8
+SHA1: b317b4b435b5af8d054a23e1efb243cd7dc441c1
+SHA256: 5c3ef6453a2d62b2075f8418c5e9df5f1a7fdf32dfbdfc3398d94e089d8bfb02
+Section: 系统增强
+Description: Safari Essential Features
+Author: 0xkuj
+Icon: htps://axs66.github.io/repo/icon/safari.png
+Name: SafariX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-5
 Architecture: iphoneos-arm64
