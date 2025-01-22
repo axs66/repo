@@ -98,7 +98,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "16.6",
+                    "text": "17.0",
                     "title": "插件版本"
                 },
                 {
@@ -108,7 +108,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 1 月 16 日",
+                    "text": "2025 年 1 月 22 日",
                     "title": "最后更新"
                 }
             ]
@@ -116,7 +116,11 @@
         {
             "class": "DepictionStackView",
             "tabname": "更新",
-            "views": [  
+            "views": [ 
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 17.0\n1.下个版本更新灵动岛宠物。\n2.解决了提出问题的人。",
+                },  
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 16.6\n1.解决了一些已知问题。\n2.解决了提出问题的人。",
