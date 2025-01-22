@@ -98,7 +98,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "17.0",
+                    "text": "17.0.1",
                     "title": "插件版本"
                 },
                 {
@@ -119,7 +119,7 @@
             "views": [ 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 17.0\n1.下个版本更新灵动岛宠物。\n2.解决了提出问题的人。",
+                    "markdown": "### 17.0.1\n1.阶段更新支持 键盘、跑马灯、不想努力了、宠物（不包含自定义）。\n2.解决了提出问题的人。",
                 },
                 {
                     "class": "DepictionSeparatorView"
