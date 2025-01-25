@@ -710,6 +710,24 @@ Icon: https://axs66.github.io/repo/icon/singlevpn.png
 Name: Single VPN
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.3dappversionspoofer
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 408
+Depends: com.opa334.altlist
+Filename: ./debs/com.Axs.3dappversionspoofer_2.1.1_iphoneos-arm64.deb
+Size: 60228
+MD5sum: 36f60051cf511b466e236237d8e8170a
+SHA1: febdf7dd970ccd818bd9a78363d342673dfdfd6e
+SHA256: fcce2d6b0568a325ef9fd4b33597d848d5527be0a4fe7f7d77457c20fde148cf
+Section: 系统增强
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/3dappversionspoofer.png
+Name: 3DAppVersionSpoofer
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.ThemePro
 Version: 3.1.1
 Architecture: iphoneos-arm64
