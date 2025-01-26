@@ -98,7 +98,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "17.0.1",
+                    "text": "17.2",
                     "title": "插件版本"
                 },
                 {
@@ -108,7 +108,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 1 月 22 日",
+                    "text": "2025 年 1 月 26 日",
                     "title": "最后更新"
                 }
             ]
@@ -116,7 +116,14 @@
         {
             "class": "DepictionStackView",
             "tabname": "更新",
-            "views": [ 
+            "views": [  
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 17.2\n1.导播台新增第三排。\n2.解决了提出问题的人。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 17.0.1\n1.阶段更新支持 键盘、跑马灯、不想努力了、宠物（不包含自定义）。\n2.解决了提出问题的人。",
