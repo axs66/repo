@@ -1506,6 +1506,23 @@ Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake
 Name: PanCake
 Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
 
+Package: com.Axs.passby
+Version: 1.9.1
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.Axs.passby_1.9.1_iphoneos-arm64.deb
+Size: 77588
+MD5sum: f41c4f895c2cd654d25851056a3db6b7
+SHA1: 86e48069c938a65dc072f656bd30c1636b1d1da6
+SHA256: f43f816e4141b7449f842565822bda125b7c4c21316d8e3434334b4df53172c8
+Section: 系统增强
+Description: Bypass passcode in many ways临时绕过人脸，WiFi自动解锁。
+Author: M哥 <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/passby.png
+Name: Passby智能化面容
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.picsewvip
 Version: 1.0.0
 Architecture: iphoneos-arm64
