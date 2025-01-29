@@ -2145,6 +2145,43 @@ Name: 微信插件管理Plus-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: admin@25mao.com
 
+Package: com.Axs.wechat
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.wechat_1.1.5_iphoneos-arm64.deb
+Size: 599464
+MD5sum: e78ba0fd6038dc83e508e41c2518f4c9
+SHA1: 25877fa42a17f2a0157ecdc59cc960cd25e4376c
+SHA256: 91442ebc6db36995fa3102d887586db4dafc523680a59588779ba2d774b9c404
+Section: 微信插件
+Priority: optional
+Homepage: https://trollstore.yourepo.com/
+Description: 微信插件
+Author: Jan
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChat
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechat/js.json
+
+Package: com.Axs.wechathelper
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/com.Axs.wechathelper_1.0-2_ iphoneos-arm64.deb
+Size: 69668
+MD5sum: 352d233c247bf6eaeb3d5c21a60d7f3d
+SHA1: 5f6082a927a93ee9467f1dee7b6c23066cd1f2a4
+SHA256: 7e56ff3c067bdc917fd12d67347dd9f0b27ff85b799237cb74db25756d40b9f5
+Section: 微信插件
+Priority: optional
+Author: 挂神
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 多开微信后台推送小助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sponsor: Sileo源™ <https://trollstore.yourepo.com/>
+
 Package: com.Axs.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
