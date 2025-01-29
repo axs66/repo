@@ -1093,6 +1093,24 @@ Name: CozyBadges彩色通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.eneko
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./debs/com.Axs.eneko_1.4.2_iphoneos-arm64.deb
+Size: 28772
+MD5sum: aa6ecb2378b32f66d9f5df7142e3504d
+SHA1: 4ce27202635c3a9824543efa7c870a0f2cc21fa8
+SHA256: e9463da95f5629e573ed9982ad2a5048e9f081796111177daab2364c4cd49388
+Section: B-系统增强
+Description: 壁纸插件，将你喜欢的视频设置成桌面或者锁屏壁纸
+Author: Traurige <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/eneko.png
+Name: Eneko动态视频壁纸
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/eneko/js.json
+
 Package: com.Axs.ersatz
 Version: 1.0.1
 Architecture: iphoneos-arm64
