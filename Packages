@@ -567,6 +567,24 @@ Icon: htps://axs66.github.io/repo/icon/safari.png
 Name: SafariX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
 
+Package: com.0xkuj.safarix
+Version: 1.9.7
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 908
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.7_iphoneos-arm64.deb
+Size: 300388
+MD5sum: 59f8eb0b162b2c837224cf4366ab6350
+SHA1: 3782bbc8f22ac1d489db77378e67d0181d5d4df7
+SHA256: 837cb3113645e1178425336a54507680341517719c0a6aa5fd5e982d14e246d3
+Section: 系统增强
+Description: Safari Essential Features
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/safari.png
+Name: SafariX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-5
 Architecture: iphoneos-arm64
@@ -5096,6 +5114,25 @@ Size: 7911508
 MD5sum: 3bc9fd2666604536da2d31fe3e35f8c1
 SHA1: 321d57dd1a9cb96a2e186bd494a00fc53c2c76b6
 SHA256: f20b246fdf2f0e6bbdbae0a061192e384278527cf2de58a02e825faf9d2fb779
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 17.3.1
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 21464
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_17.3.1_iphoneos-arm64.deb
+Size: 8029148
+MD5sum: e2f4347bed6ef3813d4f801d7b08dc87
+SHA1: 6ea1f78c42f3e3e8c385597f389a3d1d1c997fd3
+SHA256: 28135d71d5cdccafffc78f732b30b40d4ec99e5829fa87000a310eabec1ff83c
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
