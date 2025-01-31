@@ -1128,6 +1128,25 @@ Name: CozyBadges彩色通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.dismissalert
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.dismissalert_1.0.0_iphoneos-arm64.deb
+Size: 108264
+MD5sum: 68f58e4c307abf2a5a3cfdc079609ee1
+SHA1: bddb3ecdd52beed5d59364fd0da06c3de7dd1dc8
+SHA256: 21261acb1e48aefd0b51f15f793d0388e6fc84cda03192c66997436e933f3a4d
+Section: 系统增强
+Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗等等。
+Author: Axs
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/dismissalert.png
+Name: DismissAlert屏蔽弹窗
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dismissalert/js.json
+
 Package: com.Axs.eneko
 Version: 1.4.2
 Architecture: iphoneos-arm64
