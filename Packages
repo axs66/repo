@@ -5179,13 +5179,13 @@ Package: xc.lzsxcl.o2pro
 Version: 17.3.3
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
-Installed-Size: 21624
+Installed-Size: 21316
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/xc.lzsxcl.o2pro_17.3.3_iphoneos-arm64.deb
-Size: 8078012
-MD5sum: e546da17e2f81a339afc76aecb68eda9
-SHA1: f3ad7bd716854dedde90f888ae09b68d9e5103bb
-SHA256: d2354e110725a21f63123e406b8e2c76164461d9f68ee0d93e20198bcd561b4e
+Size: 7872768
+MD5sum: 88d1dc81eecf91876570a5636fbc3378
+SHA1: 82f98abad4544cf4ae32f0c497cef26982ff5a37
+SHA256: 814cb4c6464779efc57755802e0522537e2b1f4c69c1c94a92687bd36a1822e3
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
