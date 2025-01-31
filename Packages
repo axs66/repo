@@ -911,6 +911,23 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: AwemeDownloadMedia
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.badge
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.badge_0.0.1_iphoneos-arm64.deb
+Size: 4308
+MD5sum: 192d037398922f4d703428029b4348c9
+SHA1: adb9482135c6ea4b52884e060358f9a54a3a44bf
+SHA256: dc526632d7645c3113914eb9f6b1aec0133f4153d94900a103734e1566afbfbf
+Section: 系统增强
+Description: 让你的APP角标变的灵动起来，就是会动，非常不错的小插件，无设置项，注销即可生效！喜欢的小伙伴们可以入手了。
+Author: Phuc Do <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/badge.png
+Name: Badge灵动角标
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.bettercc
 Version: 0.0.55
 Architecture: iphoneos-arm64
@@ -2107,6 +2124,23 @@ Author: Axs
 Icon: https://axs66.github.io/repo/icon/swipeextender.png
 Name: SwipeExtenderX汉化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwipeExtenderX/js.json
+
+Package: com.Axs.tapticboard
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: ./debs/com.Axs.tapticboard_1.2_iphoneos-arm64.deb
+Size: 23552
+MD5sum: 73440f5cf8752d2d3a9455c54e43466d
+SHA1: 28517cbffb232fb2004b187cdd88f90ae418c2c9
+SHA256: 91665b31ff588e403dc869c2eb68001c89aeb0cc0336dea18eec153ae4c51ad0
+Section: 系统增强
+Description: Taptic keyboard without any lag!原生键盘添加震动反馈。
+Author: P2KDev <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/tapticboard.png
+Name: TapticBoard键盘震动
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.themepro
 Version: 3.3.5
