@@ -119,7 +119,7 @@
             "views": [   
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 17.3.3\n1.紧急修复分屏白屏 bug。\n2.解决了提出问题的人。",
+                    "markdown": "### 17.3.3\n1.紧急修复分屏白屏 bug。\n2.修复安全模式及添加新用户。",
                 },
                 {
                     "class": "DepictionSeparatorView"
