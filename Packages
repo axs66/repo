@@ -1154,11 +1154,11 @@ Maintainer: Axs <qiaozhani000@163.com>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.eneko
 Filename: ./debs/com.Axs.eneko_1.4.2_iphoneos-arm64.deb
-Size: 28772
-MD5sum: aa6ecb2378b32f66d9f5df7142e3504d
-SHA1: 4ce27202635c3a9824543efa7c870a0f2cc21fa8
-SHA256: e9463da95f5629e573ed9982ad2a5048e9f081796111177daab2364c4cd49388
-Section: B-系统增强
+Size: 28740
+MD5sum: d0140bc3f019988f2f5359d0e7cf75e6
+SHA1: c5a8443797a740a2976c0a2a3529221ee02d9e90
+SHA256: b539f42d6e0c147425092f37c3963361216615e96cf918ea2c3d303a6d04ad4b
+Section: 系统增强
 Description: 壁纸插件，将你喜欢的视频设置成桌面或者锁屏壁纸
 Author: Traurige <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/eneko.png
