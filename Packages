@@ -3775,15 +3775,15 @@ Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.netskao.wcnewminiappfloatingwindow_1.1-1_iphoneos-arm64.deb
 Size: 2308
-MD5sum: 58b650e4eb625aef5916197b8d63ed1b
-SHA1: 2847c936e2453e288966d6bc12dc4cb8d72d6790
-SHA256: d1c2e134158fb44771651e763eb46eff187775f10ef673a7ab39f7533ed20916
+MD5sum: 3beb27ebda374097b5755a70bce963c0
+SHA1: eada95575bc8fefe99b7aa3a4853aca0ad5bea6a
+SHA256: 76e7063bbdadaf0f66cdf31ccf41b6b40d9d54b8dfc0ab4dbf64a66755b3c319
 Section: 微信插件
-Description: WeChat Enables AB Tested miniApp Floating Window Feature, Only 8.0.54+
+Description: 微信启用AB测试的Miniapp浮动窗口功能，仅8.0.54+
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WeChat通行证密钥
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcnewminiappfloatingwindow/js.json
+Name: WCNewMiniAppFloatingWindow浮动窗口
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.netskao.wcsvgcolorhookexamples
 Version: 1.1-1
