@@ -4165,19 +4165,20 @@ Name: Tinge
 Package: com.p2kdev.tinge
 Version: 1.2.2
 Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>
+Maintainer: P2KDev
 Installed-Size: 436
 Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
 Filename: ./debs/com.p2kdev.tinge_1.2.2_iphoneos-arm64.deb
-Size: 40846
-MD5sum: c108ee549bd33f9d6748d27c9685791c
-SHA1: 4fcb3d48c478bba22facee4fd12bbeb66d6a8377
-SHA256: 18394231564e3cc263f66418538204120fa956e221ea3c66c3f2e4cde804ad0b
-Section: Tweaks
+Size: 41012
+MD5sum: 554bcfd2afd40b63dc31f973f356e21d
+SHA1: 6abde450f90d1b8ed5850ce9be4d5919f22892b0
+SHA256: 12fe87ab5152d37225d9e1eb13ec0a7356580f8a90ab089da1870c3eae4ac756
+Section: 系统增强
 Description: Color your badges with Perfection!
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
-Name: Tinge
+Author: P2KDev
+Icon: https://axs66.github.io/repo/icon/tinge.png
+Name: Tinge角标自适应
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/tinge/js.json
 
 Package: com.pingfan.wechat
 Version: 2.2-1
