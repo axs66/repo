@@ -874,6 +874,44 @@ Icon: https://axs66.github.io/repo/icon/actionbar.png
 Name: ActionBar Reborn
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.aimpro
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/com.Axs.aimpro_1.1.1_iphoneos-arm64.deb
+Size: 2321244
+MD5sum: 16915db22a9fac73f1a15b70dee97fcb
+SHA1: 9cdcf3a83da58ca4b9486abbce64afec0ea8306e
+SHA256: ddc03512b0a32452b000d378cbbace3367dc4df7f8a618ad8e625f5c0af5146f
+Section: 系统增强
+Description: iOS 16样式的时间和日期锁屏。
+Author: alimaulana
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/aimpro.png
+Name: AIM Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.analytics
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.Axs.analytics_0.0.4_iphoneos-arm64.deb
+Size: 3144
+MD5sum: 5b9bbf19e4eb2f425e3ed6c4ed9e1250
+SHA1: 2ec19afaabb6d4087a511acbed43274980453b08
+SHA256: 49c0b968e82d28b3ec1286bfc7d2af940a3300caaa211268ab2e3dc5a576707e
+Section: 系统增强
+Description: Enables various enhancements within stock iOS crashlogs，在库存iOS CrashLogs中启用各种增强功能。
+Author: daniel & PoomSmart
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/analytics.png
+Name: OSAnalytics
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -967,6 +1005,24 @@ Author: Axs
 Name: BigShot长截图
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/bigshot/js.json
 Sponsor: Axs
+
+Package: com.Axs.blurrybadges
+Version: 1.5.3
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.blurrybadges, com.spicat.blurrybadges
+Filename: ./debs/com.Axs.blurrybadges_1.5.3_iphoneos-arm64.deb
+Size: 42396
+MD5sum: feac2e826ee04069e531412a4719b90d
+SHA1: f102fb3b1584add627819096552069543e3d9b68
+SHA256: 6d874296df36cc4c3d02a6bcc473416212db9c701cc9e54e425237b1d6dbd754
+Section: 系统增强
+Description: 角标颜色自适应，APP是什么颜色，通知角标就是什么颜色！
+Author: PoomSmart <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/blurrybadges.png
+Name: BlurryBadges角标颜色自适应
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.bzhelper
 Version: 1.6.5
@@ -1755,6 +1811,24 @@ Icon: https://axs66.github.io/repo/icon/camera.png
 Name: RecordPause录像暂停
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.recordpause
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: mobilesubstrate, firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/com.Axs.recordpause_2.0.5_iphoneos-arm64.deb
+Size: 10256
+MD5sum: 83fef691909e0376e5ee8b6f102a147d
+SHA1: ff0268ba5b14fdeac02e45f510097eb4cf73d1ee
+SHA256: 32e6f121f2b22311705ff0b44927966e5e9549567f956940633b57a11a8c879a
+Section: 系统增强
+Description: Pause/resume video recording.模仿iOS18功能，在开启相机录视频的时候左下角增加一个暂停键，非常的好用，从此以后录视频也可以暂停啦。
+Author: PoomSmart <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/camera.png
+Name: RecordPause录像暂停
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.satella
 Version: 1.9.0
 Architecture: iphoneos-arm64
@@ -2196,6 +2270,25 @@ Author: Lessica
 Icon: https://axs66.github.io/repo/icon/TVZ.png
 Name: Touch-Viz触摸轨迹
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/touchvis/js.json
+
+Package: com.Axs.trollleds
+Version: 1.8.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 224
+Depends: firmware (>= 11.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), gsc.camera-flash
+Filename: ./debs/com.Axs.trollleds_1.8.1_iphoneos-arm64.deb
+Size: 68124
+MD5sum: 69dd17658bc1ef1cb1459d8254e2bcde
+SHA1: 4230eecc94f1d12c2416624633d5992cb6ff7e85
+SHA256: 2174003d8f7a41a0a2cd567c3c97523eef13222bcd36eb424a5b3942bf76ee8e
+Section: 系统增强
+Description: Control flashlight LEDs with eases.
+Author: PoomSmart
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/trollleds.png
+Name: TrollLEDs手电筒
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.uncar
 Version: 0.0.1-9
