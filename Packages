@@ -2924,15 +2924,16 @@ Maintainer: tangerine
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/com.edge.siri_3.1.1-9_iphoneos-arm64.deb
-Size: 15260
-MD5sum: 79ae19ca78ccb04074b9990e00af3d42
-SHA1: c10561144beab4c63e024970c188af7ace3dde8b
-SHA256: db13b2d0dd0aa91d75c01abd823ec3c9051264a5037f98f058aae41b502186db
-Section: Axs-Tweaks
+Size: 15272
+MD5sum: bda30a776ca599c94f21594eb84561ea
+SHA1: 41227a17ab158dd45e8e7cde648df3e0e4036597
+SHA256: c61ac671e299ff3e5f6eab425328bea8cd4ecf5e26608092e2754e6d5e1cd1b1
+Section: 系统增强
 Description: 模仿iOS18唤醒Siri边框效果，无设置项。安装即生效-----EdgeSiri是一款为 iOS设计的越狱插件，它能够在 Siri 激活时在屏幕周围显示彩色边框。这个边框不仅增加了视觉吸引力，还能在 Siri 被使用时提供更加直观的反馈。
 Author: tangerine
+Icon: https://axs66.github.io/repo/icon/siri.png
 Name: EdgeSiri
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/edgesiri/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/edgesiri/js.json
 
 Package: com.eevee.spotify
 Version: 5.8.4
@@ -4736,14 +4737,14 @@ Installed-Size: 1744
 Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.uckermark.siriplus_1.3_iphoneos-arm64.deb
 Size: 272160
-MD5sum: 37e95c091921bcb8bd38f2b71f2c7256
-SHA1: 4c8c80f8597c3c7e94a0dd5ed600624cebb0f1ae
-SHA256: 92b058be0648bb28602f37673e4241d7838f486d049c00c5349a32cf16df3725
-Section: Axs-Tweaks
+MD5sum: 4f79d547dc3e6ad71a6c1763bf6f5891
+SHA1: 7bcabae6c076c22ad42abd4ac9cad14a6ce9286a
+SHA256: 4fba874128fedc217d40f3267e183708f5b87e9d6f2476368fd11cdbbbb3b720
+Section: 系统增强
 Author: uckermark
-Icon: Sileodepiction: https://axs6.github.io/repo/sileodepiction/siriplus/js.json
+Icon: https://axs66.github.io/repo/icon/siri.png
 Name: SiriPlus
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/siriplus/js.json
 
 Package: com.udevs.dockx
 Version: 2.6.0
