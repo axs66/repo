@@ -1364,6 +1364,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 快斗
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.laetus
+Version: 3.5.1
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 1828
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
+Filename: ./debs/com.Axs.laetus_3.5.1_iphoneos-arm64.deb
+Size: 835256
+MD5sum: b7db7fbf365733e3501234e58569024d
+SHA1: 0675f75e99e54f1ad57cbe7643dfee87c4025959
+SHA256: 64d97933907d9d25d9d198e2453a114c1b8ee870d845e7961e7daefca166860c
+Section: 系统增强
+Description: Unparalleled Keyboard Customisation.无与伦比的键盘自定义。
+Author: Spark
+Icon: https://axs66.github.io/repo/icon/laetus.png
+Name: Laetus键盘自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/laetus/js.json
+
 Package: com.Axs.lyric
 Version: 3.0
 Architecture: iphoneos-arm64
