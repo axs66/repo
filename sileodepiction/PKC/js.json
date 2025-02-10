@@ -86,7 +86,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.6.3",
+                    "text": "0.6.8",
                     "title": "插件版本"
                 },
                 {
@@ -105,6 +105,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.6.8\n1.优化功能，兼容新版V、新增词云分析、红包金额统计、未发言统计等指令。\n2.新增重置数据按钮。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.6.3\n1.修复琅琅音色转换成功，发送失败问题。\n2.背景音开启没设置背景音发送失败问题。",
