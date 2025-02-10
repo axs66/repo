@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 1 月 8 日",
+                    "text": "2025 年 2 月 6 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,13 +88,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "1.1.0-1",
+                    "title": "1.1.6-1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.修复灵动岛设备导航栏问题，修复109版本聊天页面昵称显示问题。\n2.我的主题增加删除功能（长按对应主题），注意，删除后主题将永久删除！直到你再次兑换。\n3.增加重新下载功能，如果你不小心改了配置文件可以重新下载回来。",
+                    "markdown": "1.修复114/115版本无法更新主题问题。\n2.修复部分用户闪退问题优化背景加载的代码。",
                     "useRawFormat": true
                 },
                 {
