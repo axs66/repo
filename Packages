@@ -1382,6 +1382,23 @@ Icon: https://axs66.github.io/repo/icon/laetus.png
 Name: Laetus键盘自定义
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/laetus/js.json
 
+Package: com.Axs.limneoscrack-rootless
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.Axs.limneoscrack-rootless_1.1-3_iphoneos-arm64.deb
+Size: 10540
+MD5sum: 0387e5bfb3945f1ece689be2d89fa935
+SHA1: cfa1f7e56c25fe71d97c3f263651a6685391d7ff
+SHA256: bcc43418236771e57beef25c6f2699e8241a529cc411d966b40524a5f21ddc37
+Section: 插件依赖
+Description: 解锁Limneos所有插件全功能通话录音破解、NFC破解等等，可以下载官方插件，再安装本插件进行破解！
+Author: Netskao
+Name: Limneos 插件破解-Rootless
+Sponsor: Axs
+
 Package: com.Axs.lyric
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -5098,25 +5115,6 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: xc.lzsxcl.o2
 Version: 7.2
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 26932
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2_7.2_iphoneos-arm.deb
-Size: 16911508
-MD5sum: 55fe23c396b9cf0cdcdbd24f8dd83405
-SHA1: 1dfc14239a423fca440ce9330b6948d2a9d1fc22
-SHA256: e0e58295effbe05e89908d01e7a59ed13197d04f497d0086eb5c3edaca114cd7
-Section: 分屏插件
-Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2 Pro 有根
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2/js.json
-
-Package: xc.lzsxcl.o2
-Version: 7.2
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
 Installed-Size: 26948
@@ -5132,6 +5130,25 @@ Author: lzsxcl
 Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/o2pro.png
 Name: o2 Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2/js.json
+
+Package: xc.lzsxcl.o2
+Version: 7.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 26932
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2_7.2_iphoneos-arm.deb
+Size: 16911508
+MD5sum: 55fe23c396b9cf0cdcdbd24f8dd83405
+SHA1: 1dfc14239a423fca440ce9330b6948d2a9d1fc22
+SHA256: e0e58295effbe05e89908d01e7a59ed13197d04f497d0086eb5c3edaca114cd7
+Section: 分屏插件
+Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
+Author: lzsxcl
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2 Pro 有根
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2/js.json
 
 Package: xc.lzsxcl.o2pro
