@@ -5133,25 +5133,6 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: xc.lzsxcl.o2
 Version: 7.2
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 26932
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2_7.2_iphoneos-arm.deb
-Size: 16911508
-MD5sum: 55fe23c396b9cf0cdcdbd24f8dd83405
-SHA1: 1dfc14239a423fca440ce9330b6948d2a9d1fc22
-SHA256: e0e58295effbe05e89908d01e7a59ed13197d04f497d0086eb5c3edaca114cd7
-Section: 分屏插件
-Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2 Pro 有根
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2/js.json
-
-Package: xc.lzsxcl.o2
-Version: 7.2
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
 Installed-Size: 26948
@@ -5167,6 +5148,25 @@ Author: lzsxcl
 Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/o2pro.png
 Name: o2 Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2/js.json
+
+Package: xc.lzsxcl.o2
+Version: 7.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 26932
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2_7.2_iphoneos-arm.deb
+Size: 16911508
+MD5sum: 55fe23c396b9cf0cdcdbd24f8dd83405
+SHA1: 1dfc14239a423fca440ce9330b6948d2a9d1fc22
+SHA256: e0e58295effbe05e89908d01e7a59ed13197d04f497d0086eb5c3edaca114cd7
+Section: 分屏插件
+Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
+Author: lzsxcl
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2 Pro 有根
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2/js.json
 
 Package: xc.lzsxcl.o2pro
