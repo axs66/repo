@@ -5095,6 +5095,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信净化END
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcpureextension/js.json
 
+Package: org.mr.voicechangerx-rootless
+Version: 2.4-136
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: com.Axs.limneoscrack-rootless, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/org.mr.voicechangerx-rootless_2.4-136_iphoneos-arm64.deb
+Size: 231812
+MD5sum: a029c09f99eaa30aac2263c47f12be4d
+SHA1: 280561679d70db7e85a5e5d70b8bf19f3009de27
+SHA256: 0bba9deea6460d1ac0b4a4cdce4428fa8545e1c36a5a2f8c2f668c3f0d01063f
+Section: 系统增强
+Description: 一款非常好玩的变声器插件，只能用于系统电话。
+Author: limneos <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/voicechanger.png
+Name: VoiceChanger XS通话变声器
+
 Package: wiki.qaq.colorfulwallpaperx
 Version: 4.6
 Architecture: iphoneos-arm64
