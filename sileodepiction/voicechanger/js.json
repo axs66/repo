@@ -21,7 +21,7 @@
                     "class":"DepictionButtonView"
                 },
                 {
-                    "markdown": 一款非常好玩的变声器插件.",
+                    "markdown": "一款非常好玩的变声器插件.",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
