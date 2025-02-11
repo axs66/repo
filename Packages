@@ -5102,10 +5102,10 @@ Maintainer: Axs <qiaozhani000@163.com>
 Depends: com.axs.limneoscrack-rootless, preferenceloader
 Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: ./debs/org.mr.voicechangerx-rootless_2.4-136_iphoneos-arm64.deb
-Size: 232356
-MD5sum: 7f2af99cc09dbc3344e0d960a1b6df41
-SHA1: 57649903f23715483e898633f7b5c8d075f8420e
-SHA256: 6c81f473fc41df13f7a2245a4db60e49ef45436d993b9f47656c21547eaac4d3
+Size: 232360
+MD5sum: 3e07acfc3aab97488ada75305282e3c1
+SHA1: 1856a740f4bd3d2ace168666d03396c8d3b0fc1e
+SHA256: 2f217354f8b504369011b421a578baed8af00f13b27df1386df0523f1d158f8a
 Section: 系统增强
 Description: 一款非常好玩的变声器插件，只能用于系统电话。
 Author: limneos <qiaozhani000@163.com>
