@@ -3157,6 +3157,29 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCEnableCleanOrigMsg
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.iface360.pandabeautyloader
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 48820
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.iface360.pandabeautyloader_1.2.0_iphoneos-arm64.deb
+Size: 20660328
+MD5sum: c759deb25d3f8fbc786a06038bbefed0
+SHA1: e118efd08d47317d5e2e3c1b983cc38baa2cc380
+SHA256: 626b37074d2a96ffb1fdcaaf3e90dd23d0b60232e894cdb9fa7f4a02eb386a7a
+Section: 系统增强
+Homepage: Axs
+Description: 将视频美容效果添加到应用程序中！
+Tag: purpose::extension
+Author: FinalStreamer
+Depiction: Axs
+Dev: finalstreamer
+Icon: https://axs66.github.io/repo/icon/pandabeautyloader.png
+Name: Panda Beauty Assistant(熊猫美颜助手)
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/pandabeautyloader/js.json
+Sponsor: thebigboss.org
+
 Package: com.iosrxwy.heiheipay
 Version: 0.1-1
 Architecture: iphoneos-arm64
