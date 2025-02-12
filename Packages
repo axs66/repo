@@ -1399,6 +1399,24 @@ Author: Netskao
 Name: Limneos 插件破解-Rootless
 Sponsor: Axs
 
+Package: com.Axs.lockscreen
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.lockscreen_1.1_iphoneos-arm64.deb
+Size: 3464
+MD5sum: b448dae279b656b6d467407362be19c1
+SHA1: ef79eb94ab5d03a4ce6e357771527fb854c15596
+SHA256: d6ad0771a3094725d52b2d6a1bbcefff5397223405b419700f28a71d2fb38edc
+Section: 系统增强
+Description: 省电模式电池颜色保持原生、锁屏来电拒接按钮、去锁屏音乐控件、屏蔽屏幕截图/录屏检测、隐藏锁屏底部文字提示、禁止锁屏充电亮屏
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/lockscreen.png
+Name: 锁屏优化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockscreen/js.json
+
 Package: com.Axs.lyric
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -1415,6 +1433,24 @@ Author: Mika <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/lyric.png
 Name: 桌面歌词
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.minilsp
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang
+Depends: mobilesubstrate
+Conflicts: com.skypain.minilsp
+Filename: ./debs/com.Axs.minilsp_1.1.2_iphoneos-arm64.deb
+Size: 5620
+MD5sum: a1321bc64187e2cfdaacc1b2bd8b360a
+SHA1: 2c48f7b42f553a7591bf079cc3c68938768b228e
+SHA256: 8bf890c5a547042484fca2d34f3a9210efa41226fb6e90a1423786ab7cf2cbb1
+Section: 系统增强
+Description: 锁屏时候，音乐播放器缩小，很美观。无设置。
+Author: Mr.Zhang
+Icon: https://axs66.github.io/repo/icon/qqyy.png
+Name: MiniLsp锁屏迷你播放器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/minilsp/js.json
 
 Package: com.Axs.misaka
 Version: 0.1-1+debug
