@@ -2935,24 +2935,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: PKC_无根
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/PKC/js.json
 
-Package: com.den.locktouchx
-Version: 1.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: MrDeNsor
-Installed-Size: 176
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.den.locktouchx_1.0-1+debug_iphoneos-arm64.deb
-Size: 11188
-MD5sum: 49d02a7caa31c6d8843c17876f1a0b49
-SHA1: 993ebeb311e9dc80bdfe28cbd28faaf1a7d05bb7
-SHA256: 7124a5c82619d46038fe4ddefc22ddda22d6a8686c1c09c018476101b4636079
-Section: 系统增强
-Description: 就像iOS18中的安全功能一样，将触摸ID身份验证添加到应用程序中。
-Author: MrDeNsor
-Icon: https://axs66.github.io/repo/icon/locktouchx.png
-Name: LockTouchX 仿ios18触摸ID验证
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/locktouchx/js.json
-
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.1
 Architecture: iphoneos-arm64
