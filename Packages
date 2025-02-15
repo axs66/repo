@@ -4913,6 +4913,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 主题盒子
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
 
+Package: com.tencent.themebox
+Version: 1.1.8-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6800
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_1.1.8-1_iphoneos-arm64.deb
+Size: 3026180
+MD5sum: 81147f8e8b4b3e92d4fd9cd7449a3a33
+SHA1: e62d65506e4ad385c87ef45af2f6ee7a0de93671
+SHA256: fd29da7e018210c1ee9e6eb941f9f82ab7ea04d19413de6c989062a8d680178d
+Section: 微信插件
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
+
 Package: com.tigisoftware.filza64bit
 Version: 4.0.1-4
 Architecture: iphoneos-arm64
