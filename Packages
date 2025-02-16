@@ -1312,6 +1312,24 @@ Icon: https://axs66.github.io/repo/icon/h5gg.png
 Name: H5GG跨进程悬浮版
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/h5gg/js.json
 
+Package: com.Axs.hooktc
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: nwzj
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.hooktc_0.2_iphoneos-arm64.deb
+Size: 163560
+MD5sum: 9f69a75363f864dbb0018e1b19da620c
+SHA1: c85bd814c52d5808abfa561b5672014ad9130afb
+SHA256: 6a894acd89e560293ceb84dde3bcccb55808bb8a09014c09aa55efec91cc342c
+Section: Tweaks
+Description: Remove the layer time limit.删除图层时间限制。
+Author: nwzj
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 1aa2🔓时间限制
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.kbapp
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -2451,6 +2469,24 @@ Tag: role::hacker
 Author: Elias Limneos
 Icon: https://axs66.github.io/repo/icon/TweakIcon.png
 Name: uncar
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.wcaddborders
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.Axs.wcaddborders_1.2_iphoneos-arm64.deb
+Size: 8816
+MD5sum: cf085ff90c8248cf3b5103fef26cc871
+SHA1: ff3a3ad6320798c1e0ccdc55dce8a6b75d23ae8b
+SHA256: 7b577ecc0979d56e15cc040b4c1d3349ff219bacd5e2941dd5535aef17ea3945
+Section: 微信插件
+Description: 为微信长按菜单和输入框添加边框, 自定义边框色值需要在weui_color_new.xml中按对应格式添加MenuBorderColor和InputBorderColor
+Author: TiaoTiao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCAddBorders
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.wcplugins.rootless
