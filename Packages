@@ -912,6 +912,25 @@ Icon: https://axs66.github.io/repo/icon/aimpro.png
 Name: AIM Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.aimpro
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debs/com.Axs.aimpro_1.1.2_iphoneos-arm64.deb
+Size: 2324316
+MD5sum: 89c3d17ceef79fa6746cfb0f1de4a0a1
+SHA1: 366cde7d1e6f3b381da6cbea1ba8c6d90c125883
+SHA256: 63d812cf56bf8a6ae557cf294dedb4746d650928092a21f81d900722bf529377
+Section: 系统增强
+Description: iOS 16 Style Time & Date Lockscreen。iOS16样式的时间和日期锁屏。
+Author: alimaulana
+Depiction: https://pan.ios999.vip/
+Icon: https://axs66.github.io/repo/icon/aimpro.png
+Name: AIM Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.analytics
 Version: 0.0.4
 Architecture: iphoneos-arm64
