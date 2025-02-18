@@ -1349,6 +1349,24 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 1aa2🔓时间限制
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.hooktcs
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: 逆无止境
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.hooktcs_0.3_iphoneos-arm64.deb
+Size: 95276
+MD5sum: 703ad8515412d577e8f97e5cd74cef54
+SHA1: b3c9230d860c43d50514a9b363c8a9fca82dcb34
+SHA256: 0610e349fffc81a3e06aaeca0f1234ac48f629c44204aef6337423945afd9954
+Section: Tweaks
+Description: 删除图层时间限制，屏蔽服务器闪退。去你妈的图层时间限制。人妖嘉嘉去死！可提供抖音图 层，小红书图层、快手图层等插件正常使用。
+Author: 逆无止境
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 逆无止境图层 1aaa3
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.kbapp
 Version: 1.5
 Architecture: iphoneos-arm64
