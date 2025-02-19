@@ -3538,6 +3538,24 @@ Depiction: https://repo.lenglengyu.top/packageInfo/shortvideodl.html
 Name: 短视频助手-Rootless
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/shortvideodlsileo
 
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 5072
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lenglengyu.shortvideodl-rootlesss_1.8.2_iphoneos-arm64.deb
+Size: 1137264
+MD5sum: 4f61532bc2f26899c45af58711d5b266
+SHA1: 17955b22f582995365b3857ff2b71cc2c75b568c
+SHA256: 021fdf349cddf877a6e0404105e4b99f30927ccfc268d7ccd4ad7d8dad0b633e
+Section: Axs-Tweaks
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://axs66.github.io/repo/icon/shortvideodl.png
+Name: 短视频助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
+
 Package: com.mikifp.griddy
 Version: 1.0
 Architecture: iphoneos-arm64
