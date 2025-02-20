@@ -3554,25 +3554,6 @@ Author: SquidForce
 Name: Plugins For Snapper3
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/Piiico/js.json
 
-Package: com.lenglengyu.shortvideodl-rootless
-Version: 1.8.0
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 4848
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.yourepo.lly.awe, com.lenglengyu.dyhsb, com.lenglengyu.ksjsb, com.lenglengyu.qmxsp, com.lenglengyu.wsqsy, com.lenglengyu.wxgzh, com.lenglengyu.miaopai, com.lenglengyu.ppdgx, com.lenglengyu.qutoutiao, com.lenglengyu.pddsavevideo
-Filename: ./debs/com.lenglengyu.shortvideodl-rootless_1.8.0_iphoneos-arm64.deb
-Size: 1334276
-MD5sum: e7fb8fef983f48149a55ca32f74cbe11
-SHA1: 485ea9f1b2543ece62ab0bb89be0d51381d7f861
-SHA256: 958cb2882df0f511aeb2ebea780c2cbe93696f658a0440a2f4556328ba3aa52e
-Section: Tweaks
-Description: 支持抖音、快手、微视等无水印下载。支持微信公众号、视频号视频下载。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/shortvideodl.html
-Name: 短视频助手-Rootless
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/shortvideodlsileo
-
 Package: com.lenglengyu.shortvideodl-rootlesss
 Version: 1.8.2
 Architecture: iphoneos-arm64
