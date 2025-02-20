@@ -3267,45 +3267,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信小底栏
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.hitori.misaki
-Version: 2.1.9
-Architecture: iphoneos-arm64
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1064
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.hitori.misaki_2.1.9_iphoneos-arm64.deb
-Size: 306412
-MD5sum: c1c8efe01268e18f368bfd9f2d1d017b
-SHA1: 1899e476426310e33a02f9db067f650ee6430885
-SHA256: 09f924aa9dea4e219935001d4dc8a97e43e536a0d81aefa051dc9c7014d53850
-Section: 系统增强
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: Hitori <mikasa-san@outlook.jp>
-Depiction: https://chariz.com/buy/misaki
-Icon: https://axs66.github.io/repo/icon/misaki.png
-Name: Misaki
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/misaki/js.json
-
-Package: com.hitori.misaki
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1049
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.hitori.misaki_2.2_iphoneos-arm64.deb
-Size: 306010
-MD5sum: ef1edc9b18fbb51d4dfbc975e83e91c1
-SHA1: 519184fb27896871592eb37379b5548cc1db059e
-SHA256: faa4720fe55c2367a130b3cc6325f1e79ab84a71d0f285be244a3d7689727a60
-Section: Tweaks
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: Hitori <mikasa-san@outlook.jp>
-Depiction: https://chariz.com/buy/misaki
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Name: Misaki
-
 Package: com.hk.rootless.cc
 Version: 2.0.5.5
 Architecture: iphoneos-arm64
@@ -3659,40 +3620,6 @@ Section: Tweaks
 Description: The Apple Watch homescreen experience brought to iOS
 Author: MTAC • ETHN
 Name: Bridge
-
-Package: com.mtac.lynxtwo
-Version: 2.5.2
-Architecture: iphoneos-arm64
-Maintainer: MTAC
-Installed-Size: 2744
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: ./debs/com.mtac.lynxtwo_2.5.2_iphoneos-arm64.deb
-Size: 640176
-MD5sum: 6f1095d0ea06ade100d0866993e84851
-SHA1: 4ce906bbc153407eed01d4e7f46101959c39e438
-SHA256: 0015fbe4918cd127efdd0c74ecae5ddf99d84711709b6db3935eeb76dc5d1c3a
-Section: Tweaks
-Description: Ultimate iDevice Customization for iOS 14, 15 & 16
-Author: MTAC
-Name: Lynx 2
-
-Package: com.mtac.lynxtwo
-Version: 2.5.3
-Architecture: iphoneos-arm64
-Maintainer: MTAC
-Installed-Size: 2848
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: ./debs/com.mtac.lynxtwo_2.5.3_iphoneos-arm64.deb
-Size: 655304
-MD5sum: 1e5cec5951c5f021e77cf61a30c6571e
-SHA1: d4510342ddc6b2d3e2f02c69b14206f093a0656e
-SHA256: 022f19608feea2ef7aaaae36745774399216d12a2483b5edca2fa9a937bc865a
-Section: Tweaks
-Description: Ultimate iDevice Customization for iOS 14, 15 & 16
-Author: MTAC
-Icon: https://axs66.github.io/repo/icon/lynx2.png
-Name: Lynx 2
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.nahtedetihw.airpodscompanion
 Version: 1.4
