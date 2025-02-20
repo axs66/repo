@@ -1579,25 +1579,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 去除misaka匿名艾特次数限制
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.Axs.misaki
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 1049
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.Axs.misaki_2.2_iphoneos-arm64.deb
-Size: 306344
-MD5sum: 2ea6898ca228722d6a45f75a9ab9e599
-SHA1: bc9430b6bec4f885ce5dc1aba43ae4def55f848d
-SHA256: 6bca912023eff5b4e97c14224b66ed431124e9b0d80b69cc64e4446833474e03
-Section: 系统增强
-Description: 自定义您的iOS 15和16 Misaki的经验。自定义选项使您的iPhone真正您的iPhone。
-Author: Hitori
-Depiction: https://pan.ios999.vip/
-Icon: https://axs66.github.io/repo/icon/misaki.png
-Name: Misaki
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/misaki/js.json
-
 Package: com.Axs.movenotification16
 Version: 1.0
 Architecture: iphoneos-arm64
