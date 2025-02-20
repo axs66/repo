@@ -1367,6 +1367,23 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 逆无止境图层 1aaa3
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.hooktcs
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 1aaa3
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.hooktcs_1.0_iphoneos-arm64.deb
+Size: 91392
+MD5sum: 9aa8819bedd9cf7508766fac33aa83f9
+SHA1: 80063933c07a9efccee04cef73dc3009c8493546
+SHA256: c35067892cc0e7617c7181354de33f5bcf0bfac344f45926bf6e01a05afd6efa
+Section: Axs-Tweaks
+Description: 删除图层时间限制，屏蔽服务器闪退。去你妈的图层时间限制。人妖嘉嘉去死！可提供抖音图层，小红书图层、快手图层等插件正常使用。
+Author: 1aaa3
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 图层破解插件1aaa3
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.kbapp
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -2670,6 +2687,24 @@ Author: Lessica
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 语音转文字免跳转
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.wxhook
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 798
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.wxhook_1.0_iphoneos-arm64.deb
+Size: 10900
+MD5sum: bcdfe78211d4b3a115678a1c3e7bcaf3
+SHA1: 616e7f1e40795b1b72ad146df3dafee9d59a6eb3
+SHA256: eaa22ff67aaa769e9624a7e85c5009f1ea5fae52d3d58ea0a955e59c99e36510
+Section: 微信插件
+Description: 解决微信无后台通知，不显示详情的问题。注入即生效。
+Author: QW
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信通知详情
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wxhook/js.json
 
 Package: com.Axs.wxurlexpand
 Version: 0.2-0
