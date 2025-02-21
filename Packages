@@ -3335,6 +3335,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCEnableCleanOrigMsg
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_1.0-1_iphoneos-arm64.deb
+Size: 5884
+MD5sum: 02a5e73304893ea089326f4d852769a4
+SHA1: 0c664c0c62e65a9e9ab8db4bba6dd03901ce69bb
+SHA256: 745237e20236d94c59098a67ea09923d5c325e878b16fc2114fb63c5ba590df1
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCNicknameAvatarStyle
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.iface360.pandabeautyloader
 Version: 1.2.0
 Architecture: iphoneos-arm64
