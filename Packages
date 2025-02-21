@@ -3501,14 +3501,14 @@ Package: com.lenglengyu.shortvideodl-rootless
 Version: 1.8.3
 Architecture: iphoneos-arm64
 Maintainer: lenglengyu
-Installed-Size: 5076
+Installed-Size: 5044
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.yourepo.lly.awe, com.lenglengyu.dyhsb, com.lenglengyu.ksjsb, com.lenglengyu.qmxsp, com.lenglengyu.wsqsy, com.lenglengyu.wxgzh, com.lenglengyu.miaopai, com.lenglengyu.ppdgx, com.lenglengyu.qutoutiao, com.lenglengyu.pddsavevideo
 Filename: ./debs/com.lenglengyu.shortvideodl-rootless_1.8.3_iphoneos-arm64.deb
-Size: 1137852
-MD5sum: 997d94e9d01950b566d37f1e97201d73
-SHA1: 54439006deb6372c416c7524ee811a29041cfe1f
-SHA256: 5113d008bd3be420802feeb13c97038f3e26d978d9e7996488d7a011124a68b8
+Size: 1136872
+MD5sum: b50b56ebcdc1544e1045cb9151daddd1
+SHA1: 1927e2be817713983de2287ee84af104639e071d
+SHA256: 882cef246ef34d5a89c67cdaa1ce1150846ed6ebc3bdecd53d8d63d22e51d6dd
 Section: Axs-Tweaks
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
