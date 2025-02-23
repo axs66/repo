@@ -893,6 +893,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemePro-3.5.7-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.WCEhance
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCEhance_1.0-2_iphoneos-arm64.deb
+Size: 42460
+MD5sum: 1830ce83a2e1cffadfe367cad309d693
+SHA1: 687ba7a0ab1097a6e26649a15667c3f5d9991eab
+SHA256: e6413a2593a39ee33b7f6fb9d3ed8d37df4e227ae24754637e885352bb586bfe
+Section: 微信插件
+Priority: optional
+Description: WeChat enhancement, used to optimize some anti human designs and enhance functionality
+Author: huami&Lxcloud
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCEhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
+
 Package: com.Axs.actionbar
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -3400,6 +3418,24 @@ Size: 31156
 MD5sum: a4fb25c2cdf79c90276f9ba8363c7c7a
 SHA1: 84de4b4ddaec96ec236ea12ced5a16547b533967
 SHA256: a22bd4f5db69c4bca690ca4eed03cf24c81a7fe923bbfe408b4bf886b74b7e06
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCNicknameAvatarStyle
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcnicknameavatarstyle/js.json
+
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_1.0-5_iphoneos-arm64.deb
+Size: 36464
+MD5sum: 67cde5dfe115763a76d18b0076170656
+SHA1: c7edd85379ffd76818b6f96d5af87ac38fe80003
+SHA256: 1c246cfc5c9972f4f1ec13ec9d555457221ee04ba508aa2aa4915ff15273a6d3
 Section: 微信插件
 Description: 为微信聊天界面标题添加头像
 Author: huami
