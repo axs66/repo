@@ -1159,6 +1159,24 @@ Icon: https://axs66.github.io/repo/icon/bzhelper.png
 Name: bzhelper
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/bzhelper/js.json
 
+Package: com.Axs.carbridgecarplay
+Version: 2.0.15
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.Axs.carbridgecarplay_2.0.15_iphoneos-arm64.deb
+Size: 434212
+MD5sum: 6eed4046d20254dbde47c3ce5b82b2c8
+SHA1: 758825b4e2ab91a23fb7bbff0a1576126f3d8c3c
+SHA256: 3d1e0d69f07adfbfbe53046417fccac64a840fce20e7616906eccf331dbf0996
+Section: Axs-Tweaks
+Description: Open any app in CarPlay!让不支持互联的软件显示在车机上！
+Author: leftyfl1p <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/CarBridge.png
+Name: CarBridge汽车互联
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/CarBridge/js.json
+
 Package: com.Axs.ccbadgeclear
 Version: 1.2-6
 Architecture: iphoneos-arm64
