@@ -815,17 +815,17 @@ Conflicts: MikotoHelper
 Replaces: MikotoHelper
 Provides: MikotoHelper
 Filename: ./debs/com.Axs.MikotoHelper_1.3.6_iphoneos-arm64.deb
-Size: 20894052
-MD5sum: f1ea36b1a88f0653b6ee7337bd9b71fc
-SHA1: 0c1f83434787e892b2e538d1e93c450aa37bd771
-SHA256: 187cf728cc4bd07eb2d018595701aba1f640c507a236bd016ce7494696047c55
+Size: 20604048
+MD5sum: b45b502fac2f2b1735168fd42cdc1511
+SHA1: a852261927746e44058102b3caebe907e00cbd87
+SHA256: 7d7d6a68caaea184b23725053128705efd2636599169fbd5b2e2798c75040573
 Section: 微信插件
 Priority: optional
-Description: 多功能微信插件，好友分组，群分组，自动抢红包，自动接收转账，图片套壳，等。为Mikoto的免费无需授权的为爱发电版本。功能拓展：转发朋友圈，自动跟圈，布局修改，美化功能，视频套壳，等。
+Description: 多功能微信插件，好友分组，群分组，自动抢红包，自动接收转账，图片套壳等。为Mikoto的免费无需授权的为爱发电版本。功能拓展：转发朋友圈，自动跟圈，布局修改，美化功能，视频套壳等。
 Author: Mikoto
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: MikotoHelper
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/MikotoHelper/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/Misaka/js.json
 
 Package: com.Axs.ThemePro
 Version: 3.1.1
