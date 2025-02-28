@@ -3522,6 +3522,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCNicknameAvatarStyle
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcnicknameavatarstyle/js.json
 
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_1.0-6_iphoneos-arm64.deb
+Size: 38448
+MD5sum: 94c3aadea3e6bd9b69a9442676a4313c
+SHA1: 4ce7bf87c30c2fb6d60494991e22be3082f73ca2
+SHA256: c89d84d14867f17fe2b0f8ac6b237584f87a1ffc24fdb923c7f1a76532d68ee8
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 顶栏元素
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcnicknameavatarstyle/js.json
+
 Package: com.iface360.pandabeautyloader
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -4587,6 +4605,24 @@ Author: 平凡
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 虚拟视频
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/pingfan/js.json
+
+Package: com.pxx917144686.surge
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 620
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/com.pxx917144686.surge_0.6_iphoneos-arm64.deb
+Size: 143984
+MD5sum: e8c36a89a9e170319d4b5c3005bc1e24
+SHA1: 2327795810198752a7f93c7bfceab021acd3612b
+SHA256: a7193939fbfd63a0b2d8ab64d2ba0d0b8c0b1f1de65e4abf688a60e92af416e6
+Section: Axs-Tweaks
+Description: 修复 “已知问题”
+Author: pxx917144686
+Icon: https://axs66.github.io/repo/icon/surge.png
+Name: Surge++
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/surge/js.json
 
 Package: com.ryannair05.cask3
 Version: 1.0.2
