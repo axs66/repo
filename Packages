@@ -2127,6 +2127,24 @@ Author: Axs
 Name: QQ新版防撤回
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.reachplayer
+Version: 3.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 716
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.reachplayer_3.1_iphoneos-arm64.deb
+Size: 183312
+MD5sum: efd6169ba4587ed2410aef98fb1fa909
+SHA1: ca0532f6dcc862b9a95142141643caf62345ae33
+SHA256: 59d6b75d0ac1e11af144f4b43c24bfd7af8c4ce72c6855752dd5c84dda955db0
+Section: Axs-Tweaks
+Description: ReachPlayer便捷访问音乐专辑,仅自用
+Author: A
+Icon: https://axs66.github.io/repo/icon/reachplayer.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
+
 Package: com.Axs.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
