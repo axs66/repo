@@ -1593,6 +1593,22 @@ Icon: https://axs66.github.io/repo/icon/laetus.png
 Name: Laetus键盘自定义
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/laetus/js.json
 
+Package: com.Axs.lddxz
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Filename: ./debs/com.Axs.lddxz_1.3.7_iphoneos-arm64.deb
+Size: 95936
+MD5sum: 84b28f3869a08bb7ddfe48391fd36a04
+SHA1: a54c4cd473176aac23193dc8cab0edd9e585a8df
+SHA256: 67a56b1f8416386cf48d51594a612339a8d5c48b58cdfeee3c86cef1da37cd0e
+Section: 系统增强
+Description: 一键安装挂载音乐岛录屏岛，需配合真皮多巴胺。</br>⚠️仅限懒人挂载使用，挂载大牛勿下，会替换你原有的挂载目录！</br>一键挂载音乐岛录屏岛，需配合真皮多巴胺（仅限无根真皮2.2及以上版本，其他自行挪到对应路径）。
+Author: lddxz
+Icon: https://axs66.github.io/repo/icon/lddxz.png
+Name: 灵动岛旋转
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lddxz/js.json
+
 Package: com.Axs.limneoscrack-rootless
 Version: 1.1-3
 Architecture: iphoneos-arm64
