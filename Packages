@@ -1736,6 +1736,24 @@ Name: 消息屏蔽助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/msgfilt/js.json
 Sponsor: admin@25mao.com
 
+Package: com.Axs.musicrotation
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.musicrotation_0.0.3_iphoneos-arm64.deb
+Size: 8036
+MD5sum: 38fc8df15d62eeb21146d8c75825d394
+SHA1: 49a70c02b102e141f39dcbe64ed2866d22f024bc
+SHA256: 1c9783b6b8fec5547366f8635c99cb48ddc3c7ff27cbb8c407687b2a334440c5
+Section: 控制中心
+Description: 控制中心音乐专辑旋转。
+Author: zqbb
+Icon: https://axs66.github.io/repo/icon/musicrotation.png
+Name: 音乐旋转
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/musicrotation/js.json
+
 Package: com.Axs.muteplay
 Version: 1.0
 Architecture: iphoneos-arm64
