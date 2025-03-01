@@ -977,6 +977,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCEhance微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
 
+Package: com.Axs.WCEhance
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCEhance_1.0-3_iphoneos-arm64.deb
+Size: 47196
+MD5sum: c0cdbfcc1f19ff162868d14ea6c06fb7
+SHA1: b0cc445cd261650cbe5b2c260f7fc9aa432eb5ea
+SHA256: b7d41e31719cd0beea1240784988458cec7db6d90441a9e4409eabe6501c6934
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化某些反人类设计并增强功能。
+Author: huami&Lxcloud
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
+
 Package: com.Axs.actionbar
 Version: 1.1-2
 Architecture: iphoneos-arm64
