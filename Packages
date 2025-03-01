@@ -1681,23 +1681,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 去除misaka匿名艾特次数限制
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.Axs.mk2
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: A
-Depends: mobilesubstrate
-Filename: ./debs/com.Axs.mk2_0.0.1_iphoneos-arm64.deb
-Size: 21468
-MD5sum: b8cfa70be603afeaa392da0167a79eb2
-SHA1: 4ae6a5eb2669212dd3eed2b8b28196c97371d1ab
-SHA256: d4b9e53042d262771421dfa08c7c3f82acdd6f5cd192b85dd1f1f83edbe24f83
-Section: 微信插件
-Description: 搭配源里面的Mikoto_1.3.6使用，公众号无需关注也可用。
-Author: A
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: Mk-2逆无止境-Rootless
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/mk2/js.json
-
 Package: com.Axs.movenotification16
 Version: 1.0
 Architecture: iphoneos-arm64
