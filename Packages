@@ -1487,6 +1487,25 @@ Icon: https://axs66.github.io/repo/icon/h5gg.png
 Name: H5GG跨进程悬浮版
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/h5gg/js.json
 
+Package: com.Axs.hidekbsettings
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 404
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.hidekbsettings_1.0.7_iphoneos-arm64.deb
+Size: 24640
+MD5sum: 5b1c046c75c2279e4f386c974530953b
+SHA1: b17b106394332005d0d154d07402fc93ecf825e0
+SHA256: f1503623277ba417be1076b7e680e83aa835ab726a9619b76437b4b8aba35c41
+Section: 系统增强
+Description: 隐藏键盘切换中的"键盘设置"选项
+Author: A
+Icon: https://axs66.github.io/repo/icon/HideKBSettings.png
+Name: HideKBSettings
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/HideKBSettings/js.json
+
 Package: com.Axs.hooktcs
 Version: 0.3
 Architecture: iphoneos-arm64
@@ -1521,6 +1540,24 @@ Author: 1aaa3
 Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 图层破解插件1aaa3
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.jptext
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Filename: ./debs/com.Axs.jptext_1.0_iphoneos-arm64.deb
+Size: 15444
+MD5sum: f403780a025efdb7bf574c5143f0c948
+SHA1: c1e63cffd036e39cb3478e1df5cfdf057c98654f
+SHA256: cdf6f0922e7249a8ff0974dd5a8fe7769246f9dd8f11de39f7cdad5cf039bd9a
+Section: 系统增强
+Description: 更改键盘文字。
+  * 键盘字路径：/System/Library/TextInput/TextInput_zh.bundle
+  * 注意：先挂载路径再下载此插件，Dopamine里重启Springboard，再重启用户空间即可。
+Author: A
+Icon: https://axs66.github.io/repo/icon/jptext.png
+Name: 修改原生键盘上文字
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/jptext/js.json
 
 Package: com.Axs.kbapp
 Version: 1.5
@@ -2057,6 +2094,23 @@ Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/picturemodel.png
 Name: PictureModule控制中心视频
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.plampycc
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.Axs.plampycc_1.0.2_iphoneos-arm64.deb
+Size: 1577820
+MD5sum: b17ed4580508b322170d10d81d45ec9a
+SHA1: 0fef348f4c51bfb5a3a351148c0994f2c1b97c23
+SHA256: 632bf9f382c051c5ebff203f2f6b2cc14599a65603e9e46e78d8e19d62cc9e28
+Section: 系统增强
+Description: 控制中心UI美化，自定义背景图
+Author: A
+Icon: https://axs66.github.io/repo/icon/plampycc.png
+Name: PlampyCC
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/plampycc/js.json
 
 Package: com.Axs.plamyuipro
 Version: 1.0
