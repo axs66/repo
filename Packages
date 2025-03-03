@@ -607,6 +607,24 @@ Icon: https://axs66.github.io/repo/icon/safari.png
 Name: SafariX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
 
+Package: com.0xkuj.safarix
+Version: 1.9.8
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 892
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.8_iphoneos-arm64.deb
+Size: 302908
+MD5sum: a58a183923acbdc31abe9d825d948c9b
+SHA1: 1be4dd600df0e41f0fe00bc28e656a8ca7791819
+SHA256: 764cf1e97a1fa584dd221ae08c00ed936842d5e4c20eb2c3b11e8a024f968e65
+Section: 系统增强
+Description: 此插件为iPhone自带浏览器增强插件，功能非常的多，强烈建议用safari的用户下载！
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/safari.png
+Name: SafariX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-5
 Architecture: iphoneos-arm64
