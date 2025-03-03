@@ -614,12 +614,12 @@ Maintainer: 0xkuj
 Installed-Size: 892
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debs/com.0xkuj.safarix_1.9.8_iphoneos-arm64.deb
-Size: 302908
-MD5sum: a58a183923acbdc31abe9d825d948c9b
-SHA1: 1be4dd600df0e41f0fe00bc28e656a8ca7791819
-SHA256: 764cf1e97a1fa584dd221ae08c00ed936842d5e4c20eb2c3b11e8a024f968e65
+Size: 311640
+MD5sum: bd5dc175c3c71a79f28d948f8c7d2c4f
+SHA1: 79dc39ef3f3d122424b0a808abf40dfec3a8430a
+SHA256: 3fee282fd21c88932ca01229e6047e620b41f88c4362eac642ba59617dd5c511
 Section: 系统增强
-Description: 此插件为iPhone自带浏览器增强插件，功能非常的多，强烈建议用safari的用户下载！
+Description: Safari Essential Features
 Author: 0xkuj
 Icon: https://axs66.github.io/repo/icon/safari.png
 Name: SafariX
