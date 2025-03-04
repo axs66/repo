@@ -3545,6 +3545,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信小底栏
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.hitori.misaki
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Installed-Size: 1049
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.2_iphoneos-arm64.deb
+Size: 306100
+MD5sum: 13414dc2db7d7c054b139a52f12b8137
+SHA1: 928deac7e7b6b76230266c41d5e0d7c2ce2035a7
+SHA256: fff89f39b0fcb718f2448ec91fd549c01a081b196be1172446392fe4206a1ce5
+Section: 系统增强
+Description: 自定义您的iOS 15和16 Misaki的经验。自定义选项使您的iPhone真正您的iPhone。
+Author: Hitori
+Icon: https://axs66.github.io/repo/icon/misaki.png
+Name: Misaki
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/misaki/js.json
+
 Package: com.hk.rootless.cc
 Version: 2.0.5.5
 Architecture: iphoneos-arm64
