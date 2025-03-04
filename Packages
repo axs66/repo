@@ -2019,6 +2019,26 @@ Icon: https://axs66.github.io/repo/icon/ocd.png
 Name: OCD5
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5/js.json
 
+Package: com.Axs.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.creaturecoding.shuffle
+Replaces: com.twickd.nightwind.onesettings
+Filename: ./debs/com.Axs.onesettings_2.2_iphoneos-arm64.deb
+Size: 207892
+MD5sum: a38f7968ea5ea980788aa03da3373b12
+SHA1: aa4eaf04baa4ed9c8942cd6d94c47fc2c6ce7a28
+SHA256: 502803f0dee211c6bb9a6437d9c7ef33023a694ae7b7ce89a8da6989e188b2b8
+Section: 越狱插件收纳
+Description: A great enhancement to your Settings App!
+Author: Nightwind
+Icon: https://axs66.github.io/repo/icon/onesettings.png
+Name: OneSettings
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/onesettings/js.json
+
 Package: com.Axs.pancake
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -4539,27 +4559,6 @@ Icon: https://axs66.github.io/repo/icon/jade.png
 Name: Jade
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Nightwind
-
-Package: com.nightwind.onesettings
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Nightwind <nightwinddev@gmail.com>
-Installed-Size: 1084
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Conflicts: com.creaturecoding.shuffle
-Replaces: com.twickd.nightwind.onesettings
-Filename: ./debs/com.nightwind.onesettings_2.2_iphoneos-arm64.deb
-Size: 207694
-MD5sum: 4e30de6cc32cfbaa0e092fdd130e8823
-SHA1: fcc317a2cac200ddfcae39e70dda8727b1c21261
-SHA256: eba29a038f0c11f464f468bcb985441040ac79e8b98e6e11fc978c9d7bfad14f
-Section: Tweaks
-Description: A great enhancement to your Settings App!
-Tag: cydia::commercial, compatible_min::ios14.0
-Author: Nightwind <nightwinddev@gmail.com>
-Depiction: https://chariz.com/buy/onesettings
-Icon: https://img.chariz.cloud/icon/onesettings/icon@3x.png
-Name: OneSettings
 
 Package: com.nx.appcardlite
 Version: 1.0.0
