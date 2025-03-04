@@ -2019,27 +2019,6 @@ Icon: https://axs66.github.io/repo/icon/ocd.png
 Name: OCD5
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5/js.json
 
-Package: com.Axs.onesettings
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Nightwind <nightwinddev@gmail.com>
-Installed-Size: 1084
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Conflicts: com.creaturecoding.shuffle
-Replaces: com.twickd.nightwind.onesettings
-Filename: ./debs/com.Axs.onesettings_2.2_iphoneos-arm64.deb
-Size: 206996
-MD5sum: 04f0e9d4e003361f296d59c30d2b291f
-SHA1: b3a8e8b6f8338007e6901bf959fbf5d156f23bdd
-SHA256: 92a7dbc9572b5c674e69f0a8cdcb2b6fb1d2061f61f0ae7d58431fbfdeaeede8
-Section: 越狱插件收纳
-Description: A great enhancement to your Settings App!
-Tag: cydia::commercial, compatible_min::ios14.0
-Author: Nightwind <nightwinddev@gmail.com>
-Icon: https://axs66.github.io/repo/icon/onesettings.png
-Name: OneSettings
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/onesettings/js.json
-
 Package: com.Axs.pancake
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -4560,6 +4539,28 @@ Icon: https://axs66.github.io/repo/icon/jade.png
 Name: Jade
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Nightwind
+
+Package: com.nightwind.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.creaturecoding.shuffle
+Replaces: com.twickd.nightwind.onesettings
+Filename: ./debs/com.nightwind.onesettings_2.2_iphoneos-arm64.deb
+Size: 207604
+MD5sum: be542906fd59f6a5e5cd1672e125c754
+SHA1: 07b59e458bba41ec9e69d03ffaeca873b1933285
+SHA256: 4e32dfe6a8e9b35cde93336761f5e1b35014f2efbf833dd9d8101d8f3bbe7390
+Section: 越狱插件收纳
+Description: A great enhancement to your Settings App!
+Tag: cydia::commercial, compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Depiction: https://chariz.com/buy/onesettings
+Icon: https://axs66.github.io/repo/icon/onesettings.png
+Name: OneSettings
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/onesettings/js.json
 
 Package: com.nx.appcardlite
 Version: 1.0.0
