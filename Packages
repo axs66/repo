@@ -4540,28 +4540,6 @@ Name: Jade
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Nightwind
 
-Package: com.nightwind.onesettings
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Nightwind <nightwinddev@gmail.com>
-Installed-Size: 1084
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Conflicts: com.creaturecoding.shuffle
-Replaces: com.twickd.nightwind.onesettings
-Filename: ./debs/com.nightwind.onesettings_2.2_iphoneos-arm64.deb
-Size: 207604
-MD5sum: be542906fd59f6a5e5cd1672e125c754
-SHA1: 07b59e458bba41ec9e69d03ffaeca873b1933285
-SHA256: 4e32dfe6a8e9b35cde93336761f5e1b35014f2efbf833dd9d8101d8f3bbe7390
-Section: 越狱插件收纳
-Description: A great enhancement to your Settings App!
-Tag: cydia::commercial, compatible_min::ios14.0
-Author: Nightwind <nightwinddev@gmail.com>
-Depiction: https://chariz.com/buy/onesettings
-Icon: https://axs66.github.io/repo/icon/onesettings.png
-Name: OneSettings
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/onesettings/js.json
-
 Package: com.nx.appcardlite
 Version: 1.0.0
 Architecture: iphoneos-arm64
