@@ -2986,6 +2986,24 @@ Name: 微信URL扩展-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.zaire
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.zaire_0.9.0_iphoneos-arm64.deb
+Size: 5368
+MD5sum: a41138bf6543a41295bf1f36b8218199
+SHA1: c7da52c887d5b7efe33673d939a9e1f9c746249d
+SHA256: d7794072c8e486288025af5bec3cfbd76049dcb39687dd1e0a804db3ffe9e7c4
+Section: 系统增强
+Description: 在存储页面中显示已安装应用的数量
+Author: Luki
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/zaire.png
+Name: Zaire
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/zaire/js.json
+
 Package: com.Axs.zxbsp
 Version: 0.0.3
 Architecture: iphoneos-arm64
