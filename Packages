@@ -1414,6 +1414,24 @@ Name: CozyBadges彩色通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.designer
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.designer_1.5.1_iphoneos-arm64.deb
+Size: 11830876
+MD5sum: 1099f3dd8fa89047592cb64283745835
+SHA1: 71fa950237ff418e0e6661d51272e1213bb2f705
+SHA256: e0789b63bab7a65c0af12787ea34ae5239327cb03ec64ade3a787c7c448d6b6a
+Section: 系统增强
+Description: Design layouts for lockscreen and homescreen。
+Author: JunesiPhone
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/designer.png
+Name: Designer锁屏布局
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/designer/js.json
+
 Package: com.Axs.dismissalert
 Version: 1.0.0
 Architecture: iphoneos-arm64
