@@ -28,11 +28,15 @@
                {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
-                    "itemSize": "{80, 176.4533333333333}",
+                    "itemSize": "{150, 345}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://axs66.github.io/repo/images/cjms.png"
+                            "url": "https://axs66.github.io/repo/sileodepiction/dyhook/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/repo/sileodepiction/dyhook/Screenshot_02.png"
                         }
                     ]
                 },
