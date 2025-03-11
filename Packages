@@ -4030,18 +4030,36 @@ Icon: https://axs66.github.io/repo/icon/shortvideodl.png
 Name: 短视频助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
 
-Package: com.lenglengyu.shortvideodl-rootlesss
-Version: 1.8.9
+Package: com.lenglengyu.shortvideodl-rootless
+Version: 1.9.0
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3332
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lenglengyu.shortvideodl-rootless_1.9.0_iphoneos-arm64.deb
+Size: 903744
+MD5sum: 2577e6072e8af9281d984ecddda0c4c0
+SHA1: 71ab1e9f4e68c35a17e6cde69ccdd8552ebd7894
+SHA256: 48137391378db3055bfa6b8187b4727850a980c83c1f384d50e81782e02f7b7c
+Section: Axs-Tweaks
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Depiction: https://pan.ios999.vip/
+Icon: https://axs66.github.io/repo/icon/shortvideodl.png
+Name: 短视频助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.lenglengyu.shortvideodl-rootless
+Version: 1.9.2
 Architecture: iphoneos-arm64
 Maintainer: lenglengyu
 Installed-Size: 5048
 Depends: mobilesubstrate, preferenceloader
-Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
-Filename: ./debs/com.lenglengyu.shortvideodl-rootlesss_1.8.9_iphoneos-arm64.deb
-Size: 1130128
-MD5sum: 5e502f7a920dc7955d5a2679563b6410
-SHA1: 2e12323f8d0e6432471afe40be6e20055f81c4ce
-SHA256: 1a514d779b5c83799634aad9a2d83de69809ac5b8825778385d61b4afa637156
+Filename: ./debs/com.lenglengyu.shortvideodl-rootless_1.9.2_iphoneos-arm64.deb
+Size: 916396
+MD5sum: 1e297598301ee2ab04fc3f91fc15d0e2
+SHA1: fae289f9215a9a59ac19d76d43ef4c3ea3950357
+SHA256: d64640d99c0b99de23abed55823defd060814d304d5a64682e029a0f825853ed
 Section: Axs-Tweaks
 Description: 支持抖音、快手、微视等无水印下载
 Author: lenglengyu
