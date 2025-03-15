@@ -286,6 +286,24 @@ Icon: https://axs66.github.io/repo/icon/kayoko.png
 Name: Kayoko
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: codes.aurora.kayoko
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_2.8_iphoneos-arm64.deb
+Size: 126948
+MD5sum: 4876a44cdb0ce4e7599000e7250425ef
+SHA1: 2566878c558f0404effe7a563cfbdc09c7c95b95
+SHA256: b855b6f6a79656643c6f1ff97e8af666c7b4d9aa727eef9596a35bcc3eab9b0a
+Section: 系统增强
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Icon: https://axs66.github.io/repo/icon/kayoko.png
+Name: Kayoko剪贴板
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.0xkuj.bubbleapps
 Version: 3.0.0
 Architecture: iphoneos-arm64
@@ -1524,6 +1542,24 @@ Icon: https://axs66.github.io/repo/icon/FLEXList.png
 Name: FLEXList
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.freepip
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.freepip_0.0.5_iphoneos-arm64.deb
+Size: 5024
+MD5sum: 298a171de337f9519511dcd15fef4f64
+SHA1: b986c99cb1b5a86e6a22ba836fb7ca0477563609
+SHA256: 883682579a05e61a08968fe24bfb91c81213ae926e2f27ea712cb2b7ec7c9eb2
+Section: 系统增强
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式！
+Author: Soh Satoh & SINI
+Icon: https://axs66.github.io/repo/icon/freepip.png
+Name: FreePIP窗口模式
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/freepip/js.json
+
 Package: com.Axs.h5gg
 Version: 7.9.1
 Architecture: iphoneos-arm64
@@ -2270,6 +2306,24 @@ Icon: https://axs66.github.io/repo/icon/reachplayer.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
 
+Package: com.Axs.reachplayer
+Version: 3.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 984
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.reachplayer_3.5_iphoneos-arm64.deb
+Size: 417740
+MD5sum: 27c6ea8bd5ec4114a1e07e704111b11b
+SHA1: 495c83b5b43921f876eddca2f136bbe559b7c066
+SHA256: a47ee934ab76f160af69ca052672d314e7f760c8d1171b0e31302c6aeef1c407
+Section: 系统增强
+Description: ReachPlayer便捷访问音乐专辑
+Author: A
+Icon: https://axs66.github.io/repo/icon/reachplayer.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
+
 Package: com.Axs.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -2748,6 +2802,23 @@ Author: P2KDev <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/tapticboard.png
 Name: TapticBoard键盘震动
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.telegram
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: IP Man
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.telegram_1.1-5_iphoneos-arm64.deb
+Size: 118800
+MD5sum: 1b2e5b0c73a62452c89515cf986ff8c0
+SHA1: 70b0b55ab9dbecd22111f100ace2c28ef19aa4ee
+SHA256: dce61ac5b3934e3cb9e9dde8710d591380c97e924426a8c83398b552fb9337c6
+Section: Axs-Tweaks
+Description: Telegram 增强，回车键发送消息，禁止右滑出现 My Story，单聊对话框显示对方 User ID
+Author: IP Man
+Icon: https://axs66.github.io/repo/icon/Telegram.png
+Name: Telegram 增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/telegram/js.json
 
 Package: com.Axs.themepro
 Version: 3.3.5
