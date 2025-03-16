@@ -2930,6 +2930,24 @@ Name: 微信插件管理Plus-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: admin@25mao.com
 
+Package: com.Axs.wctextcolor
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.wctextcolor_1.5_iphoneos-arm64.deb
+Size: 21964
+MD5sum: 447e5007c366fbd5306454c74672bec0
+SHA1: 974bd732fbb9a0ab008aaf0dde2edb2191f17ea0
+SHA256: 883a5707182c570e1eeff34e53fb7842410819c40f5fe2380ea0d46207636412
+Section: 微信插件
+Description: 微信输入框圆角，预选字改色。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCTextColor
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wctextcolor/js.json
+
 Package: com.Axs.wechat
 Version: 1.1.5
 Architecture: iphoneos-arm64
