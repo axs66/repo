@@ -1469,6 +1469,23 @@ Icon: https://axs66.github.io/repo/icon/dismissalert.png
 Name: DismissAlert屏蔽弹窗
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dismissalert/js.json
 
+Package: com.Axs.dodo
+Version: 4.2.2
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore, com.ginsu.gsweather
+Filename: ./debs/com.Axs.dodo_4.2.2_iphoneos-arm64.deb
+Size: 954416
+MD5sum: 4286eb1773476e8fb64e8e19928edd0d
+SHA1: d4e7f320836f79f7ec3788e54b2fd128aa4bd02a
+SHA256: f8e66f740148c84390833a1edbd1e3b89840ba1af41c92facc10512cb1e5e370
+Section: 系统增强
+Description: The perfect Lock Screen redesign.锁屏美化，效果看截图！
+Author: Ginsu <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/dodo.png
+Name: Dodo锁屏美化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dodo/js.json
+
 Package: com.Axs.eneko
 Version: 1.4.2
 Architecture: iphoneos-arm64
