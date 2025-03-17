@@ -1505,6 +1505,24 @@ Name: Ersatz替换文字
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.events
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1828
+Filename: ./debs/com.Axs.events_1.0_iphoneos-arm64.deb
+Size: 77400
+MD5sum: 77c4a55262e76614edfac86d10e798de
+SHA1: bec05f9252b2f15220ec1a795292a7bffc6a531e
+SHA256: e178e61d56d848552f29c3d97fc807e03aa88b6f3364548d60701d743d3fd620
+Section: 系统增强
+Description: 在锁屏界面上，显示将来几天的节日，效果看截图！
+Author: SGWC
+Icon: https://axs66.github.io/repo/icon/events.png
+Name: Events锁屏日历
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/events/js.json
+Sponsor: Axs
+
 Package: com.Axs.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm64
