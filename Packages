@@ -1922,11 +1922,11 @@ Maintainer: zqbb
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.musicrotation_0.0.3_iphoneos-arm64.deb
-Size: 8036
-MD5sum: 38fc8df15d62eeb21146d8c75825d394
-SHA1: 49a70c02b102e141f39dcbe64ed2866d22f024bc
-SHA256: 1c9783b6b8fec5547366f8635c99cb48ddc3c7ff27cbb8c407687b2a334440c5
-Section: 控制中心
+Size: 8016
+MD5sum: 244d043e1174c121ac340fd4621e197f
+SHA1: 60d7a71822be76f6c594a06a2a5c97ff8d29ab9f
+SHA256: d61b53de8d0bc314b187ca897c7c265fbc118e278b7dc24c2c843f716a6dadcf
+Section: Axs-Tweaks
 Description: 控制中心音乐专辑旋转。
 Author: zqbb
 Icon: https://axs66.github.io/repo/icon/musicrotation.png
@@ -2312,11 +2312,11 @@ Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Depends: firmware (>=13.0), mobilesubstrate
 Filename: ./debs/com.Axs.reachplayer_2.6_iphoneos-arm64.deb
-Size: 117184
-MD5sum: ae7cf98c7f2e9e8052fb85512299be47
-SHA1: 3e9bf315c9e5efb6d32c1a551e5510ac23684edc
-SHA256: a475a62edd3b0a91f52ee887ac99dc27fd41be2e489ec1c0e3ec0e7a47f071f7
-Section: D-媒体类插件
+Size: 117272
+MD5sum: dbf7ab8f4c189c71418eeb6be61d2f6e
+SHA1: 4d01504ae2e2cd87b671eb46f09858fb28c0daec
+SHA256: dd0b8e49e738117dbe1038af1a7e6efba13164103cb6a69eac0343de9903f120
+Section: Axs-Tweaks
 Description: Now Playing info in Reachability Window!一个好看的音乐窗口，可能有偶尔失效的bug！
 Author: ETHN <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/reachplayer.png
@@ -4163,11 +4163,11 @@ Installed-Size: 3456
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
 Filename: ./debs/com.lenglengyu.shortvideodl-rootless_1.9.4_iphoneos-arm64.deb
-Size: 961508
-MD5sum: 58729ea09f7e623d57537cfe6dec249f
-SHA1: f10110849cd40baa66d6e99aece05b0ff9b47817
-SHA256: 13b5aad620cc453cd4e627a9e7911b16cf33d19a4c6ec3721e7797a069b55cad
-Section: Axs-tweaks
+Size: 961400
+MD5sum: a7e2020a27378ff860aeaf4b05e0175b
+SHA1: 0386e1dbfe8b7fe640e584ebff1de86123eb25d7
+SHA256: 9acfb5951b5b64907d8d479a41ef6e22d614433809caec2fa380f4e78590b4af
+Section: Axs-Tweaks
 Description: 支持抖音、快手、微视等无水印下载
 Author: lenglengyu
 Icon: https://axs66.github.io/repo/icon/shortvideodl.png
