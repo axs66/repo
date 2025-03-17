@@ -2307,37 +2307,18 @@ Name: QQ新版防撤回
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.reachplayer
-Version: 3.1
+Version: 2.6
 Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 716
-Depends: mobilesubstrate
-Filename: ./debs/com.Axs.reachplayer_3.1_iphoneos-arm64.deb
-Size: 183312
-MD5sum: efd6169ba4587ed2410aef98fb1fa909
-SHA1: ca0532f6dcc862b9a95142141643caf62345ae33
-SHA256: 59d6b75d0ac1e11af144f4b43c24bfd7af8c4ce72c6855752dd5c84dda955db0
-Section: Axs-Tweaks
-Description: ReachPlayer便捷访问音乐专辑,仅自用
-Author: A
-Icon: https://axs66.github.io/repo/icon/reachplayer.png
-Name: ReachPlayer音乐专辑
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
-
-Package: com.Axs.reachplayer
-Version: 3.5
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 984
-Depends: mobilesubstrate
-Filename: ./debs/com.Axs.reachplayer_3.5_iphoneos-arm64.deb
-Size: 417740
-MD5sum: 27c6ea8bd5ec4114a1e07e704111b11b
-SHA1: 495c83b5b43921f876eddca2f136bbe559b7c066
-SHA256: a47ee934ab76f160af69ca052672d314e7f760c8d1171b0e31302c6aeef1c407
-Section: 系统增强
-Description: ReachPlayer便捷访问音乐专辑
-Author: A
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.Axs.reachplayer_2.6_iphoneos-arm64.deb
+Size: 117184
+MD5sum: ae7cf98c7f2e9e8052fb85512299be47
+SHA1: 3e9bf315c9e5efb6d32c1a551e5510ac23684edc
+SHA256: a475a62edd3b0a91f52ee887ac99dc27fd41be2e489ec1c0e3ec0e7a47f071f7
+Section: D-媒体类插件
+Description: Now Playing info in Reachability Window!一个好看的音乐窗口，可能有偶尔失效的bug！
+Author: ETHN <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/reachplayer.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
