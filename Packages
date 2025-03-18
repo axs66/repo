@@ -3580,10 +3580,10 @@ Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.curtin.pkc.rootless_0.7-0_iphoneos-arm64.deb
-Size: 816084
-MD5sum: 5e517c793723f9b3dc1031729fbb8907
-SHA1: a905119c428f267e08d8cb7f462c45eb129a1d73
-SHA256: 87b884a6c2fe88076f55e8bfedead4f2f13d7eb5de0380e56635a4db619c3919
+Size: 816324
+MD5sum: 4943315d363493379d73992bbbd79bc0
+SHA1: d9f1f6126cbfe301a8d6c51aa82e30cfa60a6d5c
+SHA256: b94f1a45bb481edddacbd2c3e7508d9f558b286aafa0c241836efec42c4fc663
 Section: 微信插件
 Priority: optional
 Homepage: https://axs66.github.io/repo
