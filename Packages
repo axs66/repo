@@ -1469,6 +1469,25 @@ Icon: https://axs66.github.io/repo/icon/dismissalert.png
 Name: DismissAlert屏蔽弹窗
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dismissalert/js.json
 
+Package: com.Axs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.Axs.dockx_2.6.2_iphoneos-arm64.deb
+Size: 421312
+MD5sum: d55c5d3fc00a2f23cee693f46804d63e
+SHA1: 939a51270e7cf66d83a2cb2bb2f6715a7f6fdbd9
+SHA256: 517fb11ebca7a1dbbe6a56cdb88c3dc6f5f345ed63a4e27af784efa734805dcd
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://axs66.github.io/repo/icon/dockx.png
+Name: DockX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dockx/js.json
+
 Package: com.Axs.eneko
 Version: 1.4.2
 Architecture: iphoneos-arm64
@@ -5697,63 +5716,6 @@ Author: uckermark
 Icon: https://axs66.github.io/repo/icon/siri.png
 Name: SiriPlus
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/siriplus/js.json
-
-Package: com.udevs.dockx
-Version: 2.6.0
-Architecture: iphoneos-arm64
-Maintainer: udevs
-Installed-Size: 1648
-Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
-Conflicts: com.restiveconch.actionbar
-Filename: ./debs/com.udevs.dockx_2.6.0_iphoneos-arm64.deb
-Size: 306520
-MD5sum: 67065436522ada0af35bda9cf517473c
-SHA1: adbc9cf78bd36a2055b03ddcae0f322db4011601
-SHA256: b6cdb79568eaa24d75dc99ed5b126909bde0745c7745af7cb6876255a2701edf
-Section: Tweaks
-Description: Pasteboard shortcuts on your keyboard dock!
-Author: udevs
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
-Name: DockX
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
-
-Package: com.udevs.dockx
-Version: 2.6.1
-Architecture: iphoneos-arm64
-Maintainer: udevs
-Installed-Size: 2036
-Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
-Conflicts: com.restiveconch.actionbar
-Filename: ./debs/com.udevs.dockx_2.6.1_iphoneos-arm64.deb
-Size: 420890
-MD5sum: 0f51c21b07b078d17a16d28a5562994c
-SHA1: bc87a9ef8278f2a7c43c60fabde35a1c98ec37df
-SHA256: 2c0e17bf81bb7c95240045d6d5fb6bcfd67db6ed46ebb0cbee8892dc09206aaf
-Section: Tweaks
-Description: Pasteboard shortcuts on your keyboard dock!
-Author: udevs
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
-Name: DockX
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
-
-Package: com.udevs.dockx
-Version: 2.6.2
-Architecture: iphoneos-arm64
-Maintainer: udevs
-Installed-Size: 2068
-Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
-Conflicts: com.restiveconch.actionbar
-Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm64.deb
-Size: 421416
-MD5sum: 88b2d38f678bb6aebb5455d164763205
-SHA1: 5f7780b39bd1694d569ccbfc2f360cdece1e3259
-SHA256: fa24e04a44ec6a87cac2df9a67d6659521a06622f77981b8a18dcc375aab4338
-Section: Axs-Tweaks
-Description: Pasteboard shortcuts on your keyboard dock!
-Author: udevs
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
-Name: DockX
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/dockx/js.json
 
 Package: com.wechat.ColorfulCube
 Version: 1.0-1
