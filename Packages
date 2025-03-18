@@ -1254,6 +1254,23 @@ Icon: https://axs66.github.io/repo/icon/blurrybadges.png
 Name: BlurryBadges角标颜色自适应
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.bounceit
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.bounceit_1.0.4_iphoneos-arm64.deb
+Size: 5544
+MD5sum: 97eb72141e67229d322213587e7927b4
+SHA1: c6308cd5acff2b2c90ce64a8fa569ff1700a9c05
+SHA256: 2f7b4c861c611c4131908f142dadc17ab67884097811fe32c149ca395e72b2c1
+Section: Axs-Tweaks
+Description: 添加弹跳效果动画
+Author: Jake James
+Icon: https://axs66.github.io/repo/icon/bounceit.png
+Name: Bounce It
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/bounceit/js.json
+
 Package: com.Axs.bzhelper
 Version: 1.6.5
 Architecture: iphoneos-arm64
