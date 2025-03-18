@@ -3574,6 +3574,25 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: PKC_无根
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootless
+Version: 0.7-0
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootless_0.7-0_iphoneos-arm64.deb
+Size: 816084
+MD5sum: 5e517c793723f9b3dc1031729fbb8907
+SHA1: a905119c428f267e08d8cb7f462c45eb129a1d73
+SHA256: 87b884a6c2fe88076f55e8bfedead4f2f13d7eb5de0380e56635a4db619c3919
+Section: 微信插件
+Priority: optional
+Homepage: https://axs66.github.io/repo
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: PKC_无根
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/PKC/js.json
+
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.1
 Architecture: iphoneos-arm64
