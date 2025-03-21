@@ -1896,26 +1896,6 @@ Icon: https://axs66.github.io/repo/icon/lyric.png
 Name: 桌面歌词
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.Axs.mikotohelper
-Version: 1.3.6-V1
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: Mikoto
-Depends: mobilesubstrate
-Conflicts: mikotohelper
-Filename: ./debs/com.Axs.mikotohelper_1.3.6-V1_iphoneos-arm64.deb
-Size: 20761832
-MD5sum: 9c20d574506c2a5bd5c4208abf63a5e1
-SHA1: b7a10fe4d718ea262d3cfc3563bd5ec6c424d7ff
-SHA256: bf133448cf52beb86e6b7320a9fac867ed4151ef69f7b366260305ff5533cde9
-Section: 微信插件
-Priority: optional
-Description: 多功能微信插件，好友分组，群分组，自动抢红包，自动接收转账，图片套壳等。为Mikoto的免费无需授权的为爱发电版本。功能拓展：转发朋友圈，自动跟圈，布局修改，美化功能，视频套壳等。
-Author: Mikoto
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: Mikoto 助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/mikotohelper/js.json
-
 Package: com.Axs.minilsp
 Version: 1.1.2
 Architecture: iphoneos-arm64
