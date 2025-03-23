@@ -3777,6 +3777,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 锤子助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dumpapp/js.json
 
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: DumpApp
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.dumpapp.wechat-rootless_2.0.6_iphoneos-arm64.deb
+Size: 10519892
+MD5sum: 7f659a5b7ac23dfbf80daab0f412c1cc
+SHA1: ee55d40d1c4df73c9270edf1d35b1bcd0b533348
+SHA256: d1daab2e0f137e476e8a169dc7784873447cea928f5f210380a6d00dffdc71f2
+Section: 微信插件
+Description: 1:1 复刻“微信净化”插件，保留红包功能。注意：不可与“微信净化”共存。
+Author: DumpApp
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 锤子助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dumpapp/js.json
+
 Package: com.edge.siri
 Version: 3.1.1-9
 Architecture: iphoneos-arm64
@@ -4336,6 +4353,25 @@ Size: 929800
 MD5sum: eb068edde9a55d138a22f85c1d912cea
 SHA1: 6edf91386e34ac5ae9b9c08c0eb13fbfa7dd2966
 SHA256: 280ffa0acc1bfb50bfc77de9d6ece583b0613fa91706223e6dc06e55e1b3b7ce
+Section: Tweaks
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://axs66.github.io/repo/icon/shortvideodl.png
+Name: 短视频助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.lenglengyu.shortvideodl-rootless
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3548
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/com.lenglengyu.shortvideodl-rootless_2.0.2_iphoneos-arm64.deb
+Size: 972856
+MD5sum: 1d11c4dbd34e872cd7ddc582d67da93e
+SHA1: 4e2f869be01d3c06f04e5b17ffbcfbec51b3c808
+SHA256: 095677000b965777b3fd57aebc45431d5c6e60529ca83f411a41555b2dde2afb
 Section: Tweaks
 Description: 支持抖音、快手、微视等无水印下载
 Author: lenglengyu
@@ -5900,6 +5936,24 @@ Author: 愫 茶
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WeChatEnhance微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.wechat.enhance
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: Developer
+Installed-Size: 1224
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.wechat.enhance_1.1.5_iphoneos-arm64.deb
+Size: 212080
+MD5sum: eab602b820465e035a5560ecbd9fcd25
+SHA1: e0ccddec4c36b919a7cb203ff8f3e9305691bab1
+SHA256: f0572ac0430b4abfe252d4ef3655a93e9a9e93518257e1840fa3ae6ec8aaecc3
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能。
+Author: Developer
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WeChatEnhance/js.json
 
 Package: com.yourepo.trollstore.telegramreturnenterkeyreturnkeychangedtosendfunct
 Version: 1.0
