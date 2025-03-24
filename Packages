@@ -5919,6 +5919,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 灵动方盒-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.wechat.ColorfulCube
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: Seasons && huami
+Depends: mobilesubstrate
+Filename: ./debs/com.wechat.ColorfulCube_1.0-5_iphoneos-arm64.deb
+Size: 2012360
+MD5sum: 3ae1dbee1effb6c35a70994b85b1f09d
+SHA1: 0bcaa8201f27d6ecab26456a10c114dac6cd8576
+SHA256: 504f56d63c0468b3990b291afa8e793ff3f5568c85a092baca2be2a6ba9a567f
+Section: 微信插件
+Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
+Author: Seasons && huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 灵动方盒
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ColorfulCube/js.json
+
 Package: com.wechat.enhance
 Version: 1.1.2
 Architecture: iphoneos-arm64
