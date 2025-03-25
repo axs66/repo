@@ -1198,6 +1198,24 @@ Icon: https://axs66.github.io/repo/icon/analytics.png
 Name: OSAnalytics
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.appstoretroller
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.appstoretroller_0.0.1_iphoneos-arm64.deb
+Size: 7608
+MD5sum: 0557c94bd2552df7009664c90a8c6aa2
+SHA1: 51f7f589488a17bafc7ed44c712ffd6fbe2af07c
+SHA256: cd66fa1778fbe8d5c1ecec5c092d5d6aa97618091b03e4db5420231c67fb382f
+Section: Tweaks
+Description: 非常简单的调整，让您为您的 Apple ID 购买一个应用程序，该应用程序需要比您在设备上运行的 iOS 版本更新的 iOS 版本。之后，您可以将最后一个兼容版本安装到您的设备上（如果存在）!
+Author: A
+Icon: https://axs66.github.io/repo/icon/appstore.png
+Name: appstoretroller
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/appstore/js.json
+
 Package: com.Axs.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -6001,6 +6019,24 @@ Size: 228728
 MD5sum: 3aabb9df9d03fc96081aacc042251ee4
 SHA1: 989227abb9e5e5e744d7864c4284b008f4e1129e
 SHA256: 73db1d158bc36b9c522abf8801b70786937eb52755452e09e746005f656119cc
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能。
+Author: 愫 茶
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+
+Package: com.wechat.enhance
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 1124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.1.7_iphoneos-arm64.deb
+Size: 231932
+MD5sum: 6d299cb839f217d5f3fcc4d9b9bddd90
+SHA1: a959be0be338c166c2b4cbddd276ed2c56245a95
+SHA256: 1a593eab4873d4a0a51d0eb19b39292c4f6c21d5a1971055ddad41c576f49c95
 Section: 微信插件
 Description: 微信增强插件，支持聊天按钮布局自定义等功能。
 Author: 愫 茶
