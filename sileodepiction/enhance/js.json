@@ -45,15 +45,11 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{150, 345}",
+                    "itemSize": "{300, 345}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://axs66.github.io/repo/sileodepiction/PKC/Screenshot_01.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://axs66.github.io/repo/sileodepiction/PKC/Screenshot_02.png"
+                            "url": "https://axs66.github.io/repo/sileodepiction/enhance/Screenshot_01.png"
                         }
                     ]
                 },
