@@ -3510,6 +3510,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: wechatsong
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatsong/js.json
 
+Package: com.axs.wechatsong
+Version: 1.0.1+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.wechatsong_1.0.1+debug_iphoneos-arm64.deb
+Size: 27326
+MD5sum: d87eef01f170a751fb111042ab874d31
+SHA1: ec7b736d99a5d0b02d58819d6b0e04e6139715a5
+SHA256: ab09e9ad3bdabf54e33c073eff6332cf4018be2bab06b14c7cee42df34c746c2
+Section: 微信插件
+Description: 微信点歌封面自定义
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: wechatsong
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatsong/js.json
+
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
