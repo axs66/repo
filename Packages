@@ -3492,6 +3492,24 @@ Icon: https://axs66.github.io/repo/icon/MilkyWay.png
 Name: MilkyWay4-iOS16Fix
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.axs.wechatsong
+Version: 0.0.1+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.wechatsong_0.0.1+debug_iphoneos-arm64.deb
+Size: 26938
+MD5sum: d6b9adea3fbe7024b4d17fd0b159c1e8
+SHA1: 1dd4fdb9d467b0777b46f1f3a83d991d8f0b15cc
+SHA256: 7f934dac7ec612ce882121faa4dc6c2eb8f3e0f23069935d16ad390010a3d705
+Section: 微信插件
+Description: 微信点歌封面自定义
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: wechatsong
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatsong/js.json
+
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
