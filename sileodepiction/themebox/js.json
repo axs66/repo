@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 2 月 6 日",
+                    "text": "2025 年 3 月 20 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,27 +86,12 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
-               {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.1.6-1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.修复114/115版本无法更新主题问题。\n2.修复部分用户闪退问题优化背景加载的代码。",
-                    "useRawFormat": true
+                    "markdown": "### 2.0.0-1\n1.修复一些小问题。",
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.0.1-1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "微信美化主题。",
-                    "useRawFormat": true
+                    "class": "DepictionSeparatorView"
                 }
             ]
         }
