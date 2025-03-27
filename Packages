@@ -6116,6 +6116,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WeChatEnhance微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
 
+Package: com.wechat.enhance
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.2.0_iphoneos-arm64.deb
+Size: 233308
+MD5sum: 633e013ae16f4ab042d54bdfdcec43fa
+SHA1: 8d93bb34fe6a6680770546a94c2dc09b2f5eb2fe
+SHA256: 68ff05822fd22fe17ce21e89b37b28f87ea350d3ce7aeecbc48998d0a8d3a5be
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+
 Package: com.yourepo.trollstore.telegramreturnenterkeyreturnkeychangedtosendfunct
 Version: 1.0
 Architecture: iphoneos-arm64
