@@ -2259,6 +2259,25 @@ Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake
 Name: PanCake
 Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
 
+Package: com.Axs.pancake
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/com.Axs.pancake_2.3_iphoneos-arm64.deb
+Size: 111664
+MD5sum: e7830805f1a3d09ebf8485eda68299ca
+SHA1: 81ccd404596ee494a7e161d7042e56727e47ab38
+SHA256: c07d20ab77cfe7a61860cc245ee1b04e2223714075a4831ca009dd6314339d2c
+Section: 系统增强
+Homepage: https://axs66.github.io/repo
+Description: 所有应用程序在屏幕中间往左或者往右滑，可以返回上一步操作。
+Author: AnthoPak
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/pancake.png
+Name: PanCake
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/pancake/js.json
+
 Package: com.Axs.passby
 Version: 1.9.1
 Architecture: iphoneos-arm64
