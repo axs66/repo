@@ -1216,6 +1216,24 @@ Icon: https://axs66.github.io/repo/icon/appstore.png
 Name: appstoretroller
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/appstore/js.json
 
+Package: com.Axs.appstoretroller
+Version: 0.0.7
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 576
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.appstoretroller_0.0.7_iphoneos-arm64.deb
+Size: 66100
+MD5sum: 41234f6ec0fd900df8291716845d369f
+SHA1: 2e96fadd6e818d3f008b6e83d1d97fd0641d83ff
+SHA256: a8354d953b9393d9e9c334126c72d74197cbcfcdaa56f6faf81ab980a8fa117e
+Section: 系统增强
+Description: 非常简单的调整，让您为您的 Apple ID 购买一个应用程序，该应用程序需要比您在设备上运行的 iOS 版本更新的 iOS 版本。之后，您可以将最后一个兼容版本安装到您的设备上（如果存在）!
+Author: Mineek
+Icon: https://axs66.github.io/repo/icon/appstore.png
+Name: AppStoreTroller
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/appstoretroller/js.json
+
 Package: com.Axs.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64
