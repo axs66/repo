@@ -13,7 +13,7 @@
                     "action":"https://t.me/wxfx8",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
-                }, 
+                },
                {
                     "text":"✈交流群组",
                     "action":"https://t.me/oncar2",
@@ -86,7 +86,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.6.8",
+                    "text": "0.7.1",
                     "title": "插件版本"
                 },
                 {
@@ -94,9 +94,9 @@
                     "text": "iOS 15 - iOS 16.5",
                     "title": "支持系统"
                 },
-                                {
+                {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 3 月 21 日",
+                    "text": "2025 年 3 月 31 日",
                     "title": "最后更新"
                 }
             ]
