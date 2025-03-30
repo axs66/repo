@@ -1541,6 +1541,23 @@ Name: CozyBadges彩色通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.denyphotoalbums
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/com.Axs.denyphotoalbums_1.2.1_iphoneos-arm64.deb
+Size: 72816
+MD5sum: 0fcffb1deab6358e90e6eb2e84eb12a4
+SHA1: 72f2882a210e91a4ce7ae217e46f416d374be93d
+SHA256: 82bf246bb12f35be2fea2f63cc80d07df5e0a798792ddb2bda016feaae880756
+Section: 系统增强
+Description: 系统照片增强，隐藏多个自定义选项
+Author: CydiaGeek <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/denyphotoalbums.png
+Name: DenyPhotoAlbums相册增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/denyphotoalbums/js.json
+
 Package: com.Axs.designer
 Version: 1.4.7
 Architecture: iphoneos-arm64
