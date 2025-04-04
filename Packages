@@ -373,6 +373,23 @@ Icon: https://axs66.github.io/repo/icon/filza.png
 Name: FilzaDirProbe
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.0xkuj.filzadirprobe
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/com.0xkuj.filzadirprobe_1.6.2_iphoneos-arm64.deb
+Size: 56656
+MD5sum: 1dfd1ea3096142b9e2138264eb94f925
+SHA1: 9ba73c49771ed9dd3dbd5d3b6a6c6a1b916237ce
+SHA256: e2f4facfd4562af8e27ecc50722ad6a4613f3ae9042813d4cfc2f8b2949d1168
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/filza.png
+Name: FilzaDirProbe
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/filzadirprobe/js.json
+
 Package: com.0xkuj.notificationsgroupcount
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -1234,6 +1251,24 @@ Icon: https://axs66.github.io/repo/icon/appstore.png
 Name: AppStoreTroller
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/appstoretroller/js.json
 
+Package: com.Axs.appstoretroller
+Version: 0.0.9
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretroller
+Filename: ./debs/com.Axs.appstoretroller_0.0.9_iphoneos-arm64.deb
+Size: 32404
+MD5sum: 684653667c185a61e006c31e762525f9
+SHA1: 0f0d78cb0a609b53befa6715934866b3aac67ee2
+SHA256: 73952ca27a98b7d15b1818abf12281360d92473b1c89e7c12589ea42a7b3485d
+Section: 系统增强
+Description: 将iOS版本伪装成合理的版本，并获取需求高iOS版本的应用。
+Author: Mineek
+Icon: https://axs66.github.io/repo/icon/appstore.png
+Name: AppStoreTroller
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/appstoretroller/js.json
+
 Package: com.Axs.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -1252,6 +1287,25 @@ Author: pxcex
 Icon: https://axs66.github.io/repo/icon/contributorl.png
 Name: AutoScroll 自动滑动
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.autoscroll
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.autoscroll_1.0.5_iphoneos-arm64.deb
+Size: 9816
+MD5sum: 6a320262bb7734964ea2185018e0e234
+SHA1: 110f72c3945798fe31d6e405a00717429558eb08
+SHA256: 3bed1859d8e9086d649415e149b637557a294e1d4e33ee7edbab487c9868c2c9
+Section: 系统增强
+Description: 功能：页面自动滑动，全局生效，APP内双指长按出现设置菜单，然后自行设置功能即可，不要屏蔽插件注入应用，不然不会出现此插件！本插件能够跟随你的手指滑动幅度，页面始终自动滑动，直到你触摸屏幕才停止！一款小插件！还不错！
+Author: iamdega&daodao
+Icon: https://axs66.github.io/repo/icon/contributor.png
+Name: AutoScroll页面自动滑动
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/autoscroll/js.json
+Sponsor: Axs
 
 Package: com.Axs.awemedownloadmedia
 Version: 1.1-5
@@ -1813,6 +1867,24 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 图层破解插件1aaa3
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.jade
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Nightwind & thetimeloop
+Installed-Size: 1502
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.Axs.jade_1.0.5_iphoneos-arm64.deb
+Size: 307832
+MD5sum: 11a7bae3dc6b1b2bbe33ebdc1f980e02
+SHA1: 364f65631a02879bad9b1032bc9ed9f79f9fdb64
+SHA256: 741e9a6098e6ed8d07822eb4e54fb758cb9ff92bc9cabbd57c8491f6143b5371
+Section: 系统增强
+Description: 控制中心插件。
+Author: Nightwind & thetimeloop
+Icon: https://axs66.github.io/repo/icon/jade.png
+Name: Jade
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/jade/js.json
+
 Package: com.Axs.jptext
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1919,6 +1991,24 @@ Author: Spark
 Icon: https://axs66.github.io/repo/icon/laetus.png
 Name: Laetus键盘自定义
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/laetus/js.json
+
+Package: com.Axs.latchkey
+Version: 2.3.3
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.Axs.latchkey_2.3.3_iphoneos-arm64.deb
+Size: 423028
+MD5sum: eca5056c1310d0b83a4e63c18b8b3f34
+SHA1: faea074f02f0ac7b4059bf4af5eb6e33b09aca04
+SHA256: a662f3cc1bf200774e531e08892d64deda8147d6369bd3ebff7a1f30604fd35f
+Section: 系统增强
+Description: 自定义锁头最终版本，去掉无用选项
+Author: Maxwell Dausch
+Icon: https://axs66.github.io/repo/icon/latchkey.png
+Name: Latchkey
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/latchkey/js.json
 
 Package: com.Axs.lddxz
 Version: 1.3.7
@@ -2419,6 +2509,24 @@ Icon: https://axs66.github.io/repo/icon/plamyuipro.png
 Name: PlampyUIPro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/plamyuipro/js.json
 
+Package: com.Axs.pogr
+Version: 0.4.3
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.pogr_0.4.3_iphoneos-arm64.deb
+Size: 70312
+MD5sum: 328e08294b37fe1fa5d084ad5b62ac08
+SHA1: aae420a4a86f85d23fd3ebcb29083b637eccab2e
+SHA256: 38a12c317546e1f5e600f9b40acff3f8141fd7aeabcbc5db8b7608f6136479e3
+Section: Tweaks
+Description: Treat AirPods Pro 2 correctly
+Author: Ruphane
+Icon: https://axs66.github.io/repo/icon/pogr.png
+Name: PodsGrant耳机弹窗
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/pogr/js.json
+
 Package: com.Axs.primalfolder2
 Version: 0.1.2
 Architecture: iphoneos-arm64
@@ -2787,6 +2895,26 @@ Icon: https://axs66.github.io/repo/icon/SmallBoard.png
 Name: SmallBoard 键盘下沉
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/SmallBoard/js.json
 
+Package: com.Axs.smartnetwork
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1272
+Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common
+Conflicts: com.eliassfeir.smartnetwork
+Filename: ./debs/com.Axs.smartnetwork_1.1_iphoneos-arm64.deb
+Size: 286380
+MD5sum: f7e0f21c4812572187d345db6ffa9caf
+SHA1: 0e1abbda646ae1f0767a4a657289435cc9610aee
+SHA256: fd40d6f8733ee0c5f66b66bc8531c137df8c26419d7fd74eb1dab7e6c505c792
+Section: 系统增强
+Description: 可以信任当前Wi-Fi/蓝牙等，直接解锁手机，其他的功能自己研究。
+Author: elias
+Icon: https://axs66.github.io/repo/icon/smartnetwork.png
+Name: SmartNetwork
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/smartnetwork/js.json
+Sponsor: Axs
+
 Package: com.Axs.snapper3.hh
 Version: 1.2.1
 Architecture: iphoneos-arm64
@@ -3042,6 +3170,25 @@ Author: MustangYM
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemePro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
+Package: com.Axs.thermalpatcher
+Version: 0.0.3-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.thermalpatcher_0.0.3-1_iphoneos-arm64.deb
+Size: 6324
+MD5sum: cdd49309e8b5d81d2d4ceeb7419980e6
+SHA1: 96902207d5bf5219a60528b78461f1f673837c4a
+SHA256: 185c4365146cbacbd5469f57d06494ee9ba4244ce5449f8833c613fd9b7f2782
+Section: 系统增强
+Description: 温控
+Author: A
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/thermalpatcher.png
+Name: ThermalPatcher温控
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/thermalpatcher/js.json
 
 Package: com.Axs.touchvis
 Version: 2.8-1
@@ -5198,25 +5345,6 @@ Author: Netskao
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WeChatUISwitchLoader
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.nightwind.jade
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: Nightwind
-Installed-Size: 1509
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.nightwind.jade_1.0.3_iphoneos-arm64.deb
-Size: 308756
-MD5sum: bd9f8a571efdfb81abc4d3c08d3c6587
-SHA1: daf307c09cf374ad6a4f72244d8c07aeeed82b23
-SHA256: 8824104cc512498d0ea60eefb747ced94a9a0d6c8b7210df4539a8dd34f4731c
-Section: 系统增强
-Description: 重新定义控制中心，屏幕底部弹出
-Author: Nightwind and thetimeloop
-Icon: https://axs66.github.io/repo/icon/jade.png
-Name: Jade
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-Sponsor: Nightwind
 
 Package: com.nx.appcardlite
 Version: 1.0.0
