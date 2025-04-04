@@ -3085,14 +3085,14 @@ Architecture: iphoneos-arm64
 Maintainer: kok3shi
 Depends: firmware (>= 15.0), cy+cpu.arm64, libcurl4, libssl3, usbmuxd
 Filename: ./debs/com.Axs.turdusmerula_1.0.2_iphoneos-arm64.deb
-Size: 508560
-MD5sum: ffaa598c5763b75e5a8a5ad413c68ff3
-SHA1: 74624a0a0549bea1c5486d725135f22d621626f3
-SHA256: c3c139ad10327262e19747baa37a9cb59a8f3b7aa09cb01751b31a41ec30f18f
+Size: 508648
+MD5sum: 531373346c4de103933890ceef2d2ce6
+SHA1: 3ff67aad8946bcb4295d62ce5486df00cd51a849
+SHA256: 059bc95bc0682b3fe7a5d2f68905641523b9f722f7d6bc0fa01499ed18130cca
 Section: 应用程序
-Description: meow
+Description: turdus merula是一个利用bootrom漏洞和SEP漏洞的工具，允许A9(X)和A10(X)设备恢复到旧版本的iOS/iPadOS，包括那些与最新签名SEP固件不兼容的设备。
 Author: Clarity, kok3shidoll, Mineek
-Depiction: turdus merula是一个利用bootrom漏洞和SEP漏洞的工具，允许A9(X)和A10(X)设备恢复到旧版本的iOS/iPadOS，包括那些与最新签名SEP固件不兼容的设备。
+Depiction: https://sep.lol/
 Icon: https://axs66.github.io/repo/icon/turdusmerula.png
 Name: turdus merula
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/turdusmerula/js.json
