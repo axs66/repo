@@ -1215,6 +1215,25 @@ Icon: https://axs66.github.io/repo/icon/analytics.png
 Name: OSAnalytics
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.anitime
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1488
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: ./debs/com.Axs.anitime_1.0_iphoneos-arm64.deb
+Size: 392452
+MD5sum: 6b8265405870572cacc2837681229f23
+SHA1: 1d24a8ad93e8ab0d970015399957f1ef3a0dab91
+SHA256: f089caf1dd730697562da20b53dd9f327af94d5c67454ce3745b8407e7c46467
+Section: 系统增强
+Description: 控制中心时间采用动画形式显示
+Author: yan
+Icon: https://axs66.github.io/repo/icon/anitime.png
+Name: AniTime
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/anitime/js.json
+Sponsor: Axs
+
 Package: com.Axs.appstoretroller
 Version: 0.0.1
 Architecture: iphoneos-arm64
