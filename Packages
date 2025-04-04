@@ -1614,6 +1614,25 @@ Icon: https://axs66.github.io/repo/icon/dockx.png
 Name: DockX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dockx/js.json
 
+Package: com.Axs.douyinhelper
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 1176
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.douyinhelper_1.1-7_iphoneos-arm64.deb
+Size: 224520
+MD5sum: b4baa14675f226edf403f4f71014835d
+SHA1: 5472842bd7a6743c60f278d8117975dd06dee801
+SHA256: 0f0de3435d284af6abd97a99533552c64c0619d81ffa4187a86a710f742bfc67
+Section: Tweaks
+Priority: optional
+Description: 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 抖音助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
+
 Package: com.Axs.eneko
 Version: 1.4.2
 Architecture: iphoneos-arm64
@@ -3059,6 +3078,24 @@ Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/trollleds.png
 Name: TrollLEDs手电筒
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.turdusmerula
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: kok3shi
+Depends: firmware (>= 15.0), cy+cpu.arm64, libcurl4, libssl3, usbmuxd
+Filename: ./debs/com.Axs.turdusmerula_1.0.2_iphoneos-arm64.deb
+Size: 508560
+MD5sum: ffaa598c5763b75e5a8a5ad413c68ff3
+SHA1: 74624a0a0549bea1c5486d725135f22d621626f3
+SHA256: c3c139ad10327262e19747baa37a9cb59a8f3b7aa09cb01751b31a41ec30f18f
+Section: 应用程序
+Description: meow
+Author: Clarity, kok3shidoll, Mineek
+Depiction: turdus merula是一个利用bootrom漏洞和SEP漏洞的工具，允许A9(X)和A10(X)设备恢复到旧版本的iOS/iPadOS，包括那些与最新签名SEP固件不兼容的设备。
+Icon: https://axs66.github.io/repo/icon/turdusmerula.png
+Name: turdus merula
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/turdusmerula/js.json
 
 Package: com.Axs.uncar
 Version: 0.0.1-9
