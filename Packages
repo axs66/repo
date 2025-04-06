@@ -2616,6 +2616,24 @@ Author: Axs
 Name: QQ新版防撤回
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.qsyy
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.qsyy_1.0.2_iphoneos-arm64.deb
+Size: 12504
+MD5sum: 4ca4be18035cb49e5ac8cd789049d981
+SHA1: 30d86d37bd8a746ef47ea4c33bf4d668b0e02785
+SHA256: a0b77fd8d19e5b9d3f9df80c4575a30266ca2c351d0512ed71bac68d361c2beb
+Section: Tweaks
+Description: 秒过激励视频(请提取deb，使用TF注入方式生效。越狱安装无效)
+Author: A
+Icon: https://axs66.github.io/repo/icon/qsyy.png
+Name: 汽水音乐
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/qsyy/js.json
+
 Package: com.Axs.reachplayer
 Version: 2.6
 Architecture: iphoneos-arm64
