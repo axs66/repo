@@ -2062,6 +2062,24 @@ Author: Netskao
 Name: Limneos 插件破解-Rootless
 Sponsor: Axs
 
+Package: com.Axs.ljm
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.ljm_0.0.1_iphoneos-arm64.deb
+Size: 8716
+MD5sum: 0cfb902a68b0683640512bcd67cfe0bf
+SHA1: 17309946c8319fa3b5e77639bdbb23da05b01067
+SHA256: 0d6a90e0d4ba2bbdf80e2c6e47a5b65dcb4b084bc5474f437f87a2e31be68c79
+Section: Axs-Tweaks
+Description: 解锁拦截猫会员
+Author: A
+Icon: https://axs66.github.io/repo/icon/ljm.png
+Name: 拦截猫vip
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ljm/js.json
+
 Package: com.Axs.lockscreen
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -6441,6 +6459,24 @@ SHA256: 68ff05822fd22fe17ce21e89b37b28f87ea350d3ce7aeecbc48998d0a8d3a5be
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+
+Package: com.wechat.enhance
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 1712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.2.3_iphoneos-arm64.deb
+Size: 363168
+MD5sum: b314c558f5f2569cb62d6131251abb5b
+SHA1: 85892b60d7e6988215c7408de6220e5747da749c
+SHA256: 24452ccbbc9c44b30ff9ef7181619d4637f29d2e2d710bdb250f5e554b1bf889
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WeChatEnhance微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
