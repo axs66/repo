@@ -96,7 +96,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 3 月 31 日",
+                    "text": "2025 年 4 月 6 日",
                     "title": "最后更新"
                 }
             ]
@@ -105,6 +105,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.7.2\n1.`群管标识`字体颜色自定义区分深色背景和浅色背景。\n2.`标签Pro`修复错误显示问题。\n3.修复艾特所有人员浮窗提示不生效问题。\n4.修复壁纸等bug。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.7.0\n1.1.`抖音解析`新增功能，支持视频解析、自动回复。\n2.`引用Pro`新增功能。\n3.`自定义文视图Api`优化功能，增加抹除按钮、页面优化、动态参数识别优化兼容存在“空格”的参数。\n4.`PKC指令`部分回复文本录入框，支持快速引用PKC指令，更便捷地配置规则。\n5.`群管理Pro`群黑名单检测时间优化，改为秒踢黑名单。\n6.`关键词回复`增加自动撤回。\n7.`设置入口`修复最新官方版本在设置页面没入口问题。",
