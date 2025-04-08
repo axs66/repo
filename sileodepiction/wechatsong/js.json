@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.1",
+                    "text": "2.0.1",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 3 月 26 日",
+                    "text": "2025 年 4 月 2 日",
                     "title": "最后更新"
                 }
             ]
@@ -101,6 +101,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.1\n1.增加5个备选项。\n2.接入懒猫的插件管理。\n3.微信助手工具栏可以添加快捷方式。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0.1\n1.将mikoto和黄白点歌的全部接口写入了插件。",
