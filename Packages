@@ -1196,6 +1196,23 @@ Icon: https://axs66.github.io/repo/icon/aimpro.png
 Name: AIM Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.airaw
+Version: 1.6.7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
+Filename: ./debs/com.Axs.airaw_1.6.7_iphoneos-arm64.deb
+Size: 5898304
+MD5sum: 086baa39de8bf0a0817e122fe63cb59b
+SHA1: e42278b9e0e91d88f4bb12640b9ca172c8cd2dfc
+SHA256: 025d60bccfb3451bba5b53dd398b44a54273ae07e43d7b16ed6c99fbe67cee38
+Section: Tweaks
+Description: Carplay拓展插件，可以改壁纸，让不是全屏显示的软件变成全屏，配合carbrige插件使用，改图标个数比例。
+Author: Dcsyhi
+Icon: https://axs66.github.io/repo/icon/airaw.png
+Name: Airaw
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/airaw/js.json
+
 Package: com.Axs.analytics
 Version: 0.0.4
 Architecture: iphoneos-arm64
