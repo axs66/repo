@@ -3280,6 +3280,23 @@ Icon: https://axs66.github.io/repo/icon/thermalpatcher.png
 Name: ThermalPatcher温控
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/thermalpatcher/js.json
 
+Package: com.Axs.time
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.time_2.0_iphoneos-arm64.deb
+Size: 39336
+MD5sum: 10416fc2b810addbb5e34b43eafee740
+SHA1: e380b3e260099234e0e60aa4bea54474d800a74f
+SHA256: ea3c2815f9f5cec05f15d2735ca9bfebe617b0ddbabadb142ddd16b0a95f0348
+Description: QQ净化复活设置。微信净化，抖音净化解除时间限制。仅限越狱使用！
+Author: gblw
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 净化复活（微Q音）
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/time/js.json
+
 Package: com.Axs.touchvis
 Version: 2.8-1
 Architecture: iphoneos-arm64
