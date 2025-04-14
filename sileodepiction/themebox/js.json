@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "微信美化插件.",                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能",
+                    "markdown": "主题盒子-微信美化插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能",
                     "useRawFormat": true,
                 },      
                {
@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 3 月 20 日",
+                    "text": "2025 年 4 月 8 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,14 +86,18 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 2.0.0-1\n1.修复一些小问题。",
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.2-1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
                 },
                 {
-                    "class": "DepictionSeparatorView"
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.修复一些小问题。",
+                    "useRawFormat": true
                 }
             ]
         }
-    ],
+    ]
 }
