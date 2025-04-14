@@ -6757,22 +6757,22 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Package: netskao.wcpureextension
 Version: 4.2-6
 Architecture: iphoneos-arm64
-Maintainer: Netskao
+Maintainer: Nets
 Installed-Size: 19660
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.wechatpurification-rootless
+Replaces: netskao.wechatpurification-rootless
+Provides: netskao.wechatpurification-rootless
 Filename: ./debs/netskao.wcpureextension_4.2-6_iphoneos-arm64.deb
-Size: 7089140
-MD5sum: dc84a0ae5f1230bbea2da1d3d75e31a8
-SHA1: ab0399b5eaa52850da58ffe2bc9f6bbfade75eb7
-SHA256: ff1941936c8a0e7c10595f54283f3263488794d5389ba4c8af51450414e17e68
+Size: 7087552
+MD5sum: 8092890f3fbfa209b87f8b50d6ff3f1b
+SHA1: 7a3ae4678d7c93ad6ab227fdd04bb0d2fc0f10ec
+SHA256: b7c0e1c71a5d05cf4b479d91a116728a4b7e2f91578bab9393e7f79131bbb0c6
 Section: 微信插件
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信净化
+Name: 微信净化-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcpureextension/js.json
 
 Package: netskao.wechatpurification
