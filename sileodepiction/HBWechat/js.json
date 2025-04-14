@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 2 月 21 日",
+                    "text": "2025 年 4 月 9 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -82,6 +82,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.8.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.修复部分可能导致异常的功能。\n2.修复合成背景音乐时闪退的问题。\n3.优化友圈小尾巴，减少繁琐的代码。\n4.移除应用自带的“反人类”礼物位置等功能。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "1.8.0",
