@@ -3287,10 +3287,11 @@ Maintainer: Axs
 Installed-Size: 123
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.time_2.0_iphoneos-arm64.deb
-Size: 39336
-MD5sum: 10416fc2b810addbb5e34b43eafee740
-SHA1: e380b3e260099234e0e60aa4bea54474d800a74f
-SHA256: ea3c2815f9f5cec05f15d2735ca9bfebe617b0ddbabadb142ddd16b0a95f0348
+Size: 39388
+MD5sum: 21109ecb8004303ff61928ee1ff18511
+SHA1: 190cb346e25e5c3e9f14ece6028cb479ac2750af
+SHA256: 7b85cc37b98220f2cd1f5d1727d1af79c9b6a6ced606e491cbcf1c166148b509
+Section: 微信插件
 Description: QQ净化复活设置。微信净化，抖音净化解除时间限制。仅限越狱使用！
 Author: gblw
 Icon: https://axs66.github.io/repo/icon/wechat.png
