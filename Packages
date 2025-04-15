@@ -2796,6 +2796,23 @@ Icon: https://paisseon.github.io/icons/Satella.png
 Name: Satella
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.sentinel
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
+Filename: ./debs/com.Axs.sentinel_1.3.2_iphoneos-arm64.deb
+Size: 77844
+MD5sum: eb8cf41b9cf2a39d10818a4454c3f019
+SHA1: ffca005093a4334c25ce18d99680a84fd763df0d
+SHA256: 067d5398070a13da16a95cda8bb1dbf799badbf86d34c573687db888dbfee103
+Section: 系统增强
+Description: Stop losing your jailbreak when your battery dies!当关机重启后，不再失去越狱环境，大家自行测试，无效就卸载！
+Author: MegaDev
+Icon: https://axs66.github.io/repo/icon/sentinel.png
+Name: Sentinel越狱守护
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/sentinel/js.json
+
 Package: com.Axs.settingsrevamp
 Version: 2.1.1
 Architecture: iphoneos-arm64
@@ -3387,6 +3404,24 @@ Author: Elias Limneos
 Icon: https://axs66.github.io/repo/icon/TweakIcon.png
 Name: uncar
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.volume-manager
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1104
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.Axs.volume-manager_1.0.3_iphoneos-arm64.deb
+Size: 140136
+MD5sum: 46685ecd60a59768a4aaec28c6852609
+SHA1: 284f6162fbf1394c815b17c3815e2a2442545fc1
+SHA256: 497465c315757047cc07ea6940352e3edd46b602b5dc54378ca9a81ac30aa8f9
+Section: 系统增强
+Description: 音量管理，就是这么简单。包含功能：混响、多元化音量。
+Author: A
+Icon: https://axs66.github.io/repo/icon/volume-manager.png
+Name: 音量管理器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/volume-manager/js.json
 
 Package: com.Axs.wcaddborders
 Version: 1.2
@@ -4614,6 +4649,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信顶栏元素
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcnicknameavatarstyle/js.json
 
+Package: com.huami.wcnicknameavatarstyle
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcavatarbutton
+Filename: ./debs/com.huami.wcnicknameavatarstyle_2.1_iphoneos-arm64.deb
+Size: 47816
+MD5sum: da2d09cef70875a7c446fde31780e7ee
+SHA1: b6ca881d9dd4e864364420be8313a8da7ea01cf7
+SHA256: 024bd90fce635e55168a40009032dc55494ca5da36e90a3773fee24772b2a66e
+Section: 微信插件
+Description: 微信顶栏元素是微信聊天界面昵称添加好友头像，依赖老猫的「插件收纳」，看不见设置项就sileo搜微信插件管理，安装即可！可设置为左、中、右位置， 圆角 0.5 为圆形，修改圆角闪退请安装「黄白助手」！
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信顶栏元素
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcnicknameavatarstyle/js.json
+
 Package: com.iface360.pandabeautyloader
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -4920,6 +4973,24 @@ SHA1: 4e2f869be01d3c06f04e5b17ffbcfbec51b3c808
 SHA256: 095677000b965777b3fd57aebc45431d5c6e60529ca83f411a41555b2dde2afb
 Section: Tweaks
 Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://axs66.github.io/repo/icon/shortvideodl.png
+Name: 短视频助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.lenglengyu.shortvideodl-rootless
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 4020
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lenglengyu.shortvideodl-rootless_2.1.2_iphoneos-arm64.deb
+Size: 1054696
+MD5sum: f3c445ee0fb3a5b2ceeed015d867482b
+SHA1: 0838e078b5932c8960a28c0cdf46ae51bb685b02
+SHA256: 50dfd0152f31179bdf6d96d7c9fb16b09aad23926d476b09b2f47b3af73e0202
+Section: tweaks
+Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
 Icon: https://axs66.github.io/repo/icon/shortvideodl.png
 Name: 短视频助手
