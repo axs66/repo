@@ -1436,6 +1436,24 @@ Name: BigShot长截图
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/bigshot/js.json
 Sponsor: Axs
 
+Package: com.Axs.blacklist
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.blacklist_0.0.5_iphoneos-arm64.deb
+Size: 39460
+MD5sum: bbdec286406199d0c7ff0bd32c523082
+SHA1: 2d1d827180451b859a895a12aadb1a85d6ff29ee
+SHA256: 20ae55ffc0eb565720232695d058449bff53bc525e754f4f247e8687fff4482a
+Section: 系统增强
+Description: 将应用进程注入黑名单以屏蔽越狱检测，配合Choicy禁止注入。并不是所有应用都可以使用，需要自行测试！
+Author: A
+Icon: https://axs66.github.io/repo/icon/blacklist.png
+Name: 注入黑名单 (injectBlackList)
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/blacklist/js.json
+
 Package: com.Axs.blurrybadges
 Version: 1.5.3
 Architecture: iphoneos-arm64
