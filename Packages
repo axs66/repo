@@ -6679,6 +6679,24 @@ Name: WeChatEnhance微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
 
 Package: com.wechat.enhance
+Version: 1.2-9
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 1992
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.2-9_iphoneos-arm64.deb
+Size: 436968
+MD5sum: 711473127907e4f65247521e4af4dd0b
+SHA1: ab343bd130d1a7099d3905d6e3d9ef59e1c377a3
+SHA256: eab883cd0266a29419b1d84ee5a5ce96a6c9e075da22d3d957e7d5d5e58c848b
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance：js.json
+
+Package: com.wechat.enhance
 Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: Axs
