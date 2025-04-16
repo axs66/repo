@@ -21,7 +21,7 @@
                     "class":"DepictionButtonView"
                 },
                 {
-                    "markdown": "微信插件，弥补点击微信通知无法跳转到聊天界面。（已测试只有一个bug就是无后台第一次收到消息会进入其他页面，不会直达，后续有后台测试完全没有问题。）",
+                    "markdown": "微信插件，弥补点击微信通知无法跳转到聊天界面。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
