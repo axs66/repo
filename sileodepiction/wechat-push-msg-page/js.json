@@ -21,7 +21,7 @@
                     "class":"DepictionButtonView"
                 },
                 {
-                    "markdown": "微信插件，弥补点击微信通知无法跳转到聊天界面。",
+                    "markdown": "弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
