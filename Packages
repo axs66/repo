@@ -4324,6 +4324,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: PKC_无根
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/PKC/js.json
 
+Package: com.developlab.clickvibration
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: developlab
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.developlab.clickvibration_1.0_iphoneos-arm64.deb
+Size: 8200
+MD5sum: a272039dfea5e335d8063be634ff790e
+SHA1: aca76866e389915e24fe5fff0ce567b8baaf289f
+SHA256: bafed1ea075dd844cdc0bab1d30e13f73898e82b8e89567d11b2119023b9b8cd
+Section: Axs-Tweaks
+Description: 点击或者滑动震动效果，以及声音效果
+Author: developlab
+Icon: https://axs66.github.io/repo/icon/clickvibration.png
+Name: 触摸震动音效
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/clickvibration/js.json
+
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.1
 Architecture: iphoneos-arm64
