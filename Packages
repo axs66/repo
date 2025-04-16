@@ -5021,11 +5021,11 @@ Maintainer: lenglengyu
 Installed-Size: 4020
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.lenglengyu.shortvideodl-rootless_2.1.2_iphoneos-arm64.deb
-Size: 1054696
-MD5sum: f3c445ee0fb3a5b2ceeed015d867482b
-SHA1: 0838e078b5932c8960a28c0cdf46ae51bb685b02
-SHA256: 50dfd0152f31179bdf6d96d7c9fb16b09aad23926d476b09b2f47b3af73e0202
-Section: tweaks
+Size: 1054888
+MD5sum: 235fe2da20e6683912079a79b7215d24
+SHA1: f9d58524420492ea61c9f7bdd4429871c2f0a538
+SHA256: 7e38fc247bc8731291013ce9a6c19db1be032d69804ab690e43662db731a84cd
+Section: Tweaks
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
 Icon: https://axs66.github.io/repo/icon/shortvideodl.png
@@ -6703,16 +6703,16 @@ Maintainer: 愫 茶
 Installed-Size: 1992
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wechat.enhance_1.2-9_iphoneos-arm64.deb
-Size: 436968
-MD5sum: 711473127907e4f65247521e4af4dd0b
-SHA1: ab343bd130d1a7099d3905d6e3d9ef59e1c377a3
-SHA256: eab883cd0266a29419b1d84ee5a5ce96a6c9e075da22d3d957e7d5d5e58c848b
+Size: 436496
+MD5sum: 303dc7459718be4c9f2dafce963946f8
+SHA1: 300f22222d86549d0c496a41294829050adfc503
+SHA256: 9572aed334b0a4698eed8ed466778d98c2e8f889f6c47d19a3cfae026ea1fcc6
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WeChatEnhance微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance：js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
 
 Package: com.wechat.enhance
 Version: 1.2.0
