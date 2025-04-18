@@ -3255,6 +3255,25 @@ Icon: https://axs66.github.io/repo/icon/Telegram.png
 Name: Telegram 增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/telegram/js.json
 
+Package: com.Axs.textyle3
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 588
+Depends: mobilesubstrate, firmware (>=15.0), com.opa334.altlist
+Filename: ./debs/com.Axs.textyle3_1.0.1_iphoneos-arm64.deb
+Size: 90260
+MD5sum: ad008ba3c190c27eaf32284e6a10a1e8
+SHA1: d17ad796729199b77a5be28150b7bc4489cf64b7
+SHA256: 21568e64b903ec049f2defa243f93b590b661c812bf2c017385077e1b2baf38b
+Section: Tweaks
+Description: 快速设计任何文本
+Author: Ryan Nair
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/textyle3.png
+Name: Textyle 3
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/textyle3/js.json
+
 Package: com.Axs.themepro
 Version: 3.3.5
 Architecture: iphoneos-arm64
