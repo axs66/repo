@@ -6934,6 +6934,24 @@ Icon: https://axs66.github.io/repo/icon/vnodebypass.png
 Name: vnodebypass
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: love.litten.rose
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Litten
+Installed-Size: 2832
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/love.litten.rose_1.1.0_iphoneos-arm64.deb
+Size: 428616
+MD5sum: 5b584764802f1b661f40c8d24c718646
+SHA1: 328cd4a7cb419a5891fd48225854911da7f10f5a
+SHA256: 826c3ea20add36bd0cfc145fdbb6430dfd84d74015b55014d7c148cbef918a99
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Icon: https://axs66.github.io/repo/icon/rose.png
+Name: Rose 🌹
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/rose/js.json
+
 Package: me.nebula.ding
 Version: 1.1.0
 Architecture: iphoneos-arm64
