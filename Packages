@@ -6977,24 +6977,6 @@ Icon: https://axs66.github.io/repo/icon/MilkyWay.png
 Name: MilkyWay4-rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: jp.dcsyhi.airaw
-Version: 1.6.5
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common
-Filename: ./debs/jp.dcsyhi.airaw_1.6.5_iphoneos-arm64.deb
-Size: 10262424
-MD5sum: e72aa5cd82d45ec5bac83c8b22b4845f
-SHA1: 6d8e013f3aa446a4fbb1f9d04fda124b26c6dbd2
-SHA256: c8a5b4ebce34c3c37be91d3a17865accbeb140a02dd9f46317403f4b13fd9712
-Section: 系统增强
-Description: An awesome CarPlay tweak.
-Author: Dcsyhi
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/airaw.png
-Name: Airaw
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/airaw/js.json
-
 Package: jp.dcsyhi.zetsu
 Version: 1.6.1
 Architecture: iphoneos-arm64
