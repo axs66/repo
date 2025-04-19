@@ -6078,10 +6078,10 @@ Maintainer: Axs
 Installed-Size: 2161
 Depends: dev.theos.orion14, firmware (>= 14.0)
 Filename: ./debs/com.pkgfiles.harlemshakereborn_1.0_iphoneos-arm64.deb
-Size: 2328116
-MD5sum: 2a82651bf7980f0ede60f40bdc0ab381
-SHA1: a9182499c5c9f9c605cf4f3036c0121ef3ab93ab
-SHA256: f2d74367427f3e8eeaeb39de9afc6e626487e1b60c033ecdf47921c384396947
+Size: 1880556
+MD5sum: 30eb09f870934949d1534d3832fc29a4
+SHA1: ded85facb73db7e9412c93c6179cae98a7d1ac46
+SHA256: 03e60fa1772ff2154304f274c3fc8b8fa3796e98157620667619051475cf0cb5
 Section: 系统增强
 Description: 老插件重生版，完全免费，摇晃手机，播放音乐，图标跟随舞动，为 iPhone 带来新鲜活泼的活力。
 Author: pkgFiles
