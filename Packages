@@ -6071,6 +6071,25 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 虚拟视频
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/pingfan/js.json
 
+Package: com.pkgfiles.harlemshakereborn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2161
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debs/com.pkgfiles.harlemshakereborn_1.0_iphoneos-arm64.deb
+Size: 1410808
+MD5sum: 5408450ac1e1a13faa042f95fb29c9f5
+SHA1: 7ebbe68dd130eacc7647e881c9bb3d4b8a312b79
+SHA256: 28d292f121186b951634596cdf1e7c71161a3c7aa683c05ab42583d095d93ca0
+Section: 系统增强
+Description: 老插件重生版，完全免费，摇晃手机，播放音乐，图标跟随舞动，为 iPhone 带来新鲜活泼的活力。
+Author: pkgFiles
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/harlemshakereborn.png
+Name: HarlemShake桌面图标舞动
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/harlemshakereborn/js.json
+
 Package: com.pxx917144686.surge
 Version: 0.6
 Architecture: iphoneos-arm64
