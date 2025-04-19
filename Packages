@@ -3653,24 +3653,6 @@ Name: WeChatPopVC返回手势
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechat-pop-vc/js.json
 
 Package: com.Axs.wechat-push-msg-page
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 232
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/微信消息直达_0.0.1_无根.deb
-Size: 23220
-MD5sum: 6fbc048da9d04182d6914e062a3d6c47
-SHA1: 71cb2c398c6bab8073d8ec0e115b4d2e21f6011a
-SHA256: e0b66e36612a78504b801024a4c4bf8a9ee8e672b58bbafd6556041008a2675e
-Section: 微信插件
-Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。（已测试只有一个bug就是无后台第一次收到消息会进入其他页面，不会直达，后续有后台测试完全没有问题。）
-Author: be-huge
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信消息直达
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
-
-Package: com.Axs.wechat-push-msg-page
 Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -7657,16 +7639,16 @@ Name: o2Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
-Version: 17.9
+Version: 17.9.1
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
-Installed-Size: 30748
+Installed-Size: 30668
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.9_iphoneos-arm64.deb
-Size: 12477332
-MD5sum: 3d823e8a446e342635e83ef2c9d79917
-SHA1: c652e87620f5945f47d1d31a18ff153eeedd6ea0
-SHA256: 53960038fddcc3d29ba52a29efdbb4e28a16d7bd730bc89e4515fd72e00da64a
+Filename: ./debs/xc.lzsxcl.o2pro_17.9.1_iphoneos-arm64.deb
+Size: 12453772
+MD5sum: 9c9d1d1d63a8bad23d262d5ef3ab579b
+SHA1: 1c81bd3e7f1879b7ddc37b5f1593ba6f460c3e11
+SHA256: 9757ed153961904bb133557339360c396a7200fb0ab9e4322fc2b72d69f4b252
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
