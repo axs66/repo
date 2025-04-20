@@ -3396,6 +3396,28 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemePro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
+Package: com.Axs.themepro
+Version: 3.8.3
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/com.Axs.themepro_3.8.3_iphoneos-arm64.deb
+Size: 5760564
+MD5sum: 81d4e613f5d833bfd3b5bb643025b066
+SHA1: 1df3bd212f9944d32167c9464ee598f7031127c8
+SHA256: 59d42e11444c7be63668cf042137789c08b6e2ba463e1fefc0a979c4df1e3f0e
+Section: 微信插件
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemePro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
 Package: com.Axs.thermalpatcher
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
@@ -3504,6 +3526,23 @@ Author: Elias Limneos
 Icon: https://axs66.github.io/repo/icon/TweakIcon.png
 Name: uncar
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.virtualmemory
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>> 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.virtualmemory_2.0_iphoneos-arm64.deb
+Size: 1956
+MD5sum: 9308fd6c1285972bd9897b568d48d1d7
+SHA1: dbceed6cad9f04e5c43e6b82b4968101604e8fee
+SHA256: c2d601bb479d83f163bfbea3a4906c0c88b31634a8af78282e40f11010f95a00
+Section: Tweaks
+Description: 自动启用虚拟内存，有效解决杀后台！
+Author: A
+Icon: https://axs66.github.io/repo/icon/virtualmemory.png
+Name: 虚拟内存
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/virtualmemory/js.json
 
 Package: com.Axs.volume-manager
 Version: 1.0.3
@@ -6917,6 +6956,24 @@ Size: 436856
 MD5sum: d74eabb981d5085bd4b88fcb29362ad9
 SHA1: b2f8d5beffc9138110a2715b77b56089d650acd8
 SHA256: e48207b7a326ccfbacca1df023d44970a6a9b8d89d39e64328e35aa9f3ad6416
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+
+Package: com.wechat.enhance
+Version: 1.3-1
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.3-1_iphoneos-arm64.deb
+Size: 448248
+MD5sum: 39b5133e312320cf4e893340ac470d62
+SHA1: 379e0c422ea699e35b82d31fdf039ed72907bc87
+SHA256: 1865c52b759dd5f549ec3b47cb71cbbc13584b2b11b1a03bae221a0dc19d8748
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
