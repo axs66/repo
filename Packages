@@ -1140,6 +1140,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
 
+Package: com.Axs.a-font
+Version: 1.10.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2476
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.a-font_1.10.2_iphoneos-arm64.deb
+Size: 493456
+MD5sum: e13be757136574a0bdf7490c04f71138
+SHA1: 3a101515d34c05c4148a32106c4c94849558cc94
+SHA256: 54edc2cb783286fd4c5c08c00f731f88c8b5f46d6f6188f075748a24d40abda4
+Section: 系统增强
+Description: 更改您的字体！只需使用A-Font更改设备上的字体即可。a-font会自动从/库/a-font/加载字体。您也可以使用配置文件加载字体。这种调整包含naver的纳米正方形圆形字体。
+Author: Baw Appie
+Icon: https://axs66.github.io/repo/icon/a-font.png
+Name: A-Font
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/a-font/js.json
+
 Package: com.Axs.actionbar
 Version: 1.1-2
 Architecture: iphoneos-arm64
