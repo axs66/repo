@@ -786,6 +786,24 @@ Description: 查淘宝优惠券，查商品历史价
 Author: Mao
 Name: 淘宝优惠券
 
+Package: com.82flex.artworkspinner
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.artworkspinner_1.1_iphoneos-arm64.deb
+Size: 27828
+MD5sum: 2d73042501c19c01a728ebc69b201d0b
+SHA1: e9fced43e1398e0be2af3d67b6f5f6a68668e437
+SHA256: 6d4d4a93ef69a2c1c7a1b395995cab4d3792c7d69b578b569eb91a44f80fe787
+Section: Tweaks
+Description: 旋转专辑插图！配合源里面N95使用。
+Author: Lessica
+Icon: https://axs66.github.io/repo/icon/artworkspinner.png
+Name: 旋转专辑插图
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/artworkspinner/js.json
+
 Package: com.82flex.iconrestore
 Version: 1.7
 Architecture: iphoneos-arm64
@@ -2350,6 +2368,24 @@ Description: Mute notifications while playing music。播放音乐的时候，�
 Author: uz.ra
 Icon: https://uz-ra.github.io/icons/MutePlay.png
 Name: MutePlay
+
+Package: com.Axs.n95
+Version: 4.4
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 15096
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.n95_4.4_iphoneos-arm64.deb
+Size: 5729908
+MD5sum: e03acd33c422f6732468f250edebf382
+SHA1: a61b8354b79a0e9b2c1d4933cb9a70d62a2c360b
+SHA256: 8f872ed1d5e273e43e0eeb99fd08d7eb1cc3f51c09cd8e2db1ffa7c48447f5a0
+Section: Tweaks
+Description: Mask album artwork images in Apple Music!
+Author: Ethan Whited
+Icon: https://axs66.github.io/repo/icon/n95.png
+Name: N95
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/n95/js.json
 
 Package: com.Axs.net.Axon
 Version: 2.1.3
