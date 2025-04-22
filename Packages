@@ -804,6 +804,24 @@ Icon: https://axs66.github.io/repo/icon/artworkspinner.png
 Name: 旋转专辑插图
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/artworkspinner/js.json
 
+Package: com.82flex.artworkspinner
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.artworkspinner_1.2_iphoneos-arm64.deb
+Size: 28092
+MD5sum: d2f033ad82706bd9fbee9bcddf49a302
+SHA1: 5d83e2dcf3725ba1e61ba2667ff88cedc702258a
+SHA256: ab8a07f6ef844e831f11d0337aae13d313d53c154a17c765c0e50cd4f7c85cbb
+Section: Tweaks
+Description: 旋转专辑插图，支持控制中心，锁屏界面播放。配合源里面N95使用。
+Author: Lessica
+Icon: https://axs66.github.io/repo/icon/artworkspinner.png
+Name: 旋转专辑插图
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/artworkspinner/js.json
+
 Package: com.82flex.iconrestore
 Version: 1.7
 Architecture: iphoneos-arm64
