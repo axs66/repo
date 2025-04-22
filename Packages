@@ -822,6 +822,25 @@ Icon: https://axs66.github.io/repo/icon/noredirect.png
 Name: No Redirect
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.82flex.ohmyinsetss
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 236
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.ohmyinsetss_1.2_iphoneos-arm64.deb
+Size: 209788
+MD5sum: 7befc05c90e5234d2bda8c43351c707c
+SHA1: a834a3293bcd465e5680f7c8ad04aab0d49156ca
+SHA256: 425efba52c58ad4083f454c24ad3adc197bbd92d020a1df7a2ed8da54da7b5a3
+Section: 系统增强
+Description: 控制中心模块五列显示
+ * Control Center module five-column layout
+Author: Lessica
+Icon: https://axs66.github.io/repo/icon/ohmyinsets.png
+Name: Oh My Insets 控制中心五列
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json/js.json
+
 Package: com.82flex.removewidgetbg
 Version: 1.7
 Architecture: iphoneos-arm64
@@ -6818,6 +6837,24 @@ Size: 3766188
 MD5sum: c7787bc6c07c78c7c237aed0b3b3a1e4
 SHA1: 709dac539837564469393f07c7dc4723db57be5b
 SHA256: dc70b991fcd643a8cf641e68705a4abdd4ec85f7f8ec915cd23d4e08f54065bf
+Section: 微信插件
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 2.0.4-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 8652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.0.4-1_iphoneos-arm64.deb
+Size: 3809716
+MD5sum: d7dafe2f2b1fe5287ff879ed60f8f17c
+SHA1: 511466feeb371a7dfbb9bdc821c78913dbf06f5b
+SHA256: 689c027e1b9b9e3e4799847de0c50992d6b989ecabdb7af0683c653d3c051e68
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
