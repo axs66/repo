@@ -829,12 +829,12 @@ Maintainer: Lessica
 Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.82flex.artworkspinner_1.3_iphoneos-arm64.deb
-Size: 29068
-MD5sum: 64282269689c4407211787848b8af436
-SHA1: 2dba3a3b9c7fbfef41bd1a3a55843f8011d7ee9f
-SHA256: 0ce4e5613a8825b6e00d6cfa3a137a209c0973e8266b007d4b44368c3f19f6be
+Size: 29064
+MD5sum: 11c09c1f19fe046af5f854864920201f
+SHA1: dceb9e307ff7179398a48c21ed96454f15d2a41e
+SHA256: 9ca974df2b91b6197b118d0be7af159f6df4552f6cdbc8cf2badaff3b1fe285f
 Section: Tweaks
-Description: 旋转专辑插图，支持控制中心，锁屏界面播放。配合源里面N95使用。
+Description: 旋转专辑插图，支持灵动岛，控制中心，锁屏界面播放。配合源里面N95使用。
 Author: Lessica
 Icon: https://axs66.github.io/repo/icon/artworkspinner.png
 Name: 旋转专辑插图
