@@ -679,6 +679,26 @@ Name: 斗图助手-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/doutu/js.json
 Sponsor: admin@25mao.com
 
+Package: com.25mao.doutu.rootless
+Version: 3.1-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.doutu.rootless_3.1-6_iphoneos-arm64.deb
+Size: 1052640
+MD5sum: a41f3457fb9a7d958357a4145f9b1d30
+SHA1: 5908648861bca1b81901ba4808c3d4600bc0de71
+SHA256: 441fdc517b8d31732d671572c68e0b00d9bcbdac2bc147c43225de5e314a81dc
+Section: 微信插件
+Priority: optional
+Homepage: https://axs66.github.io/repo
+Description: 斗图助手
+Author: Mao
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 斗图助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/doutu/js.json
+
 Package: com.25mao.leftpan.rootless
 Version: 1.0-6
 Architecture: iphoneos-arm64
@@ -766,6 +786,26 @@ Section: 微信插件
 Priority: optional
 Description: 微信多功能插件
 Author: Mao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-4
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-4_iphoneos-arm64.deb
+Size: 9297012
+MD5sum: 03d41c7e693b27614e2442cc844a21da
+SHA1: 331fb127de424a07fbf9fe951087fe4275f20441
+SHA256: a8cd9cbed2ddd562cdb688df6b9e6ce553007482763259d02af72576741da874
+Section: 微信插件
+Priority: optional
+Homepage: https://axs66.github.io/repo
+Description: 微信助手
+Author: Mao
+Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
