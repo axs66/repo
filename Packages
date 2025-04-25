@@ -1528,24 +1528,6 @@ Name: AutoScroll页面自动滑动
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/autoscroll/js.json
 Sponsor: Axs
 
-Package: com.Axs.autovpn
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 860
-Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
-Filename: ./debs/com.Axs.autovpn_1.0.0_iphoneos-arm64.deb
-Size: 215300
-MD5sum: 6ecb7b5b5545b990d2a2eeb060eee1ef
-SHA1: dc8c20ca21c2cae92fe6ff42ded891d3df3118fe
-SHA256: 994bb8fc8cb0b83e101b9515591a182ed548be9bf09c12b5aed46ca5caaa702b
-Section: 系统增强
-Description: 根据特定场景自动开启/关闭代理连接。
-Author: Snail
-Icon: https://axs66.github.io/repo/icon/autovpn.png
-Name: AutoVPN
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/autovpn/js.json
-
 Package: com.Axs.awemedownloadmedia
 Version: 1.1-5
 Architecture: iphoneos-arm64
