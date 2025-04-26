@@ -2000,6 +2000,26 @@ Name: Events锁屏日历
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/events/js.json
 Sponsor: Axs
 
+Package: com.Axs.faka
+Version: 1.0-8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.faka_1.0-8_iphoneos-arm64.deb
+Size: 4015408
+MD5sum: ba971df278a4cb2071f88a36f04c5d03
+SHA1: 8293c6c969eb44213094950dbc64e04b7f9e2b48
+SHA256: 41b2bb8ed2d72a66dfba08080c1a1d3ba2288a1566dbbb77c035305e6154de10
+Section: 微信插件
+Priority: optional
+Homepage: https://axs66.github.io/repo
+Description: 自动发卡1.0.8
+Author: xuegao
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: faka
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/faka/js.json
+
 Package: com.Axs.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm64
@@ -4922,6 +4942,24 @@ Icon: https://axs66.github.io/repo/icon/iCleanerPro.png
 Name: iCleaner Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/icleanerpro/js.json
 
+Package: com.foxfort.translomatic
+Version: 2.18.31
+Architecture: iphoneos-arm64
+Maintainer: FoxfortMobile
+Installed-Size: 5080
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.15), com.opa334.altlist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic, ru.rj.translomatichack, com.hk.translomatic.cn.rl, roothide
+Filename: ./debs/com.foxfort.translomatic_2.18.31_iphoneos-arm64.deb
+Size: 2286961
+MD5sum: 73641f8f27fe7499fc36f531ab15e213
+SHA1: b6960ad1170cd8d004859ce3713a6a9cabd8f0dd
+SHA256: 4869bad51c0d2ebefa3faf6cd49b915b34af32ee4e7ed478b282eea4b62a4cdd
+Section: Tweaks
+Description: Quickly translate any text
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Name: Translomatic
+
 Package: com.github.wxsmalltabs
 Version: 0.0.1-5
 Architecture: iphoneos-arm64
@@ -5131,6 +5169,24 @@ SHA1: b6ca881d9dd4e864364420be8313a8da7ea01cf7
 SHA256: 024bd90fce635e55168a40009032dc55494ca5da36e90a3773fee24772b2a66e
 Section: 微信插件
 Description: 微信顶栏元素是微信聊天界面昵称添加好友头像，依赖老猫的「插件收纳」，看不见设置项就sileo搜微信插件管理，安装即可！可设置为左、中、右位置， 圆角 0.5 为圆形，修改圆角闪退请安装「黄白助手」！
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信顶栏元素
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcnicknameavatarstyle/js.json
+
+Package: com.huami.wcnicknameavatarstyle
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 524
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.wcnicknameavatarstyle_2.2_iphoneos-arm64.deb
+Size: 71376
+MD5sum: 55b06e1411417b5de13289bb68c63be3
+SHA1: 2fd038d753e90c17f833dba0aea6ef71187879ae
+SHA256: a422b17f73c2e0abc2c365ae661dc9309d520052346626b261b2c62ec03895e2
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
 Author: huami
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信顶栏元素
@@ -5484,6 +5540,24 @@ Icon: https://axs66.github.io/repo/icon/shortvideodl.png
 Name: 短视频助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
 Sponsor: Axs
+
+Package: com.lxcloud.WCEhance
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.lxcloud.WCEhance_1.1-4_iphoneos-arm64.deb
+Size: 64516
+MD5sum: 2eb70a42bc3ca8d9435ce17fa800ea94
+SHA1: cc05b59d45c764d4071ad0358b889599c96912cd
+SHA256: 02d94bcc15a8f72827d438a1bc6af7ba1ae172117b2f80e428cb9173baa2dada
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.mikifp.griddy
 Version: 1.0
@@ -6426,6 +6500,24 @@ Depiction: axs
 Icon: https://axs66.github.io/repo/icon/replyactions.png
 Name: ReplyActions
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.snail.autovpn.global
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 860
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debs/com.snail.autovpn.global_1.0.0_iphoneos-arm64.deb
+Size: 215560
+MD5sum: 4e69091463e92a4c8f516b9626c9b971
+SHA1: 7c3d5815d337095ce4947431f4bbabb595aa047f
+SHA256: cf5f4da8db545b8fa9c497f7e70c7a924606d584ca2729b06029bcca69483d5a
+Section: 系统增强
+Description: 根据特定场景自动开启/关闭代理连接。
+Author: Snail
+Icon: https://axs66.github.io/repo/icon/autovpn.png
+Name: AutoVPN
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/autovpn/js.json
 
 Package: com.spark.libsparkcolourpicker
 Version: 1.0.2
