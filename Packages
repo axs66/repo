@@ -3919,6 +3919,24 @@ Name: WeChatPopVC返回手势
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechat-pop-vc/js.json
 
 Package: com.Axs.wechat-push-msg-page
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.Axs.wechat-push-msg-page_0.0.1_iphoneos-arm64.deb
+Size: 23260
+MD5sum: d168023e028e495988e86a1147a4e3ea
+SHA1: dc40808d433b1f5e2ee615e4ed2fcf24f33a3117
+SHA256: 03eba6afecf814ea62b823dab3236173e7d2e3000c9d9ef8f1d7cdb1facf26aa
+Section: 微信插件
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。（已测试只有一个bug就是无后台第一次收到消息会进入其他页面，不会直达，后续有后台测试完全没有问题。）
+Author: be-huge
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信消息直达
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
+
+Package: com.Axs.wechat-push-msg-page
 Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: Axs
