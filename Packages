@@ -2362,6 +2362,25 @@ Author: Netskao
 Name: Limneos 插件破解-Rootless
 Sponsor: Axs
 
+Package: com.Axs.lingdongdao
+Version: 1.0.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2144
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.lingdongdao_1.0.0.0-1_iphoneos-arm64.deb
+Size: 463680
+MD5sum: 8a9ae6bd6f3add0f512d465ffe40a569
+SHA1: 15b8fa23d96139ece57dd115a5cf1f21ed9e3a3c
+SHA256: b98f901d4e56dfaa9bf9936492ab853dc594275aa88125c23b4b8f61ae250089
+Section: 系统增强
+Description: 给灵动岛的外框内框添加自定义颜色，通知背景颜色等
+Author: MoreColor
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/lingdongdao.png
+Name: 灵动岛自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lingdongdao/js.json
+
 Package: com.Axs.ljm
 Version: 0.0.1
 Architecture: iphoneos-arm64
