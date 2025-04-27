@@ -1329,6 +1329,26 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信优化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
 
+Package: com.Axs.WCElite
+Version: 1.2-6b6
+Architecture: iphoneos-arm64
+Maintainer: 热心网友＆xuegao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCElite_1.2-6b6_iphoneos-arm64.deb
+Size: 368952
+MD5sum: a8f9a7a93c6c029cc346ef633af1143f
+SHA1: 0a7ab46e06110e70abf1cbe0b2539caec4f47f99
+SHA256: 79cc29e3241872d88bb91a8356d1b54dc708190a7c40ab7d549996e643e9ac0b
+Section: 微信插件
+Priority: optional
+Homepage: https://axs66.github.io/repo
+Description: 微信优化，基于WechatEnhance开源版优化。
+Author: 愫 茶
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信优化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
+
 Package: com.Axs.a-font
 Version: 1.10.2
 Architecture: iphoneos-arm64
@@ -5124,6 +5144,24 @@ Author: huami
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCEnableCleanOrigMsg
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.huami.WCPluginsOrder
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPluginsOrder_1.0-2_iphoneos-arm64.deb
+Size: 15196
+MD5sum: f70be08cd07edd820dcc8743a7484092
+SHA1: 535f80814e95044cf04bdda70a178761191be9a7
+SHA256: 8c51da179210850ff5c4eec6571c34cf38767166e0f2079038e009145ad96215
+Section: 微信插件
+Description: An awesome MobileSubstrate tweak!
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCPluginsOrder微信插件排序
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPluginsOrder/js.json
 
 Package: com.huami.WCPluginsOrder
 Version: 1.0.1
