@@ -1456,12 +1456,12 @@ Package: com.Axs.appaze3
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.Axs.anthocrack2
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.axs.anthocrack2
 Filename: ./debs/com.Axs.appaze3_1.0.1_iphoneos-arm64.deb
-Size: 867536
-MD5sum: 53d633a9eafbadd883666c71625e5782
-SHA1: 896ee3b5984a97dc14581aa9442640691547e6a8
-SHA256: a7a0ba921997d424e9c3647028da4ea17be77dfa1a5a77d5e2305fe6f17ceb82
+Size: 867508
+MD5sum: 62962405ed2f9dfe09857c55b74462a5
+SHA1: b089b73b716f47d981ee5320f8f9118ba3a1682c
+SHA256: 88831ec44d56a08f43487cce63dd01b2bca6fedf4fda5921a52d5586baf40777
 Section: 系统增强
 Description: 用干净友好的UI自定义每个应用程序最多30个设置，易于访问！
 Author: AnthoPak
