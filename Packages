@@ -1290,6 +1290,23 @@ Name: 微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.Axs.WCElite
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCElite_1.2-6_iphoneos-arm64.deb
+Size: 371460
+MD5sum: 913ea6e9389171d76c4ab67da45627db
+SHA1: c5ebb43b5724a65339eb27098375487b2b18422e
+SHA256: 616d6779b886555be34395db899c11fd3c7d7a05251afc4f9fbcf779c643b99d
+Section: 微信插件
+Priority: optional
+Description: 微信优化，基于WechatEnhance开源版优化。
+Author: 热心网友＆雪糕
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信优化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
+
+Package: com.Axs.WCElite
 Version: 1.2-6b4
 Architecture: iphoneos-arm64
 Maintainer: 热心网友＆xuegao
@@ -2078,6 +2095,26 @@ Author: xuegao
 Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: faka
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/faka/js.json
+
+Package: com.Axs.faka
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: xuegao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.faka_1.0.9_iphoneos-arm64.deb
+Size: 4203996
+MD5sum: 8351de754ead8da00be0b11ae1449df3
+SHA1: 524fefdfb533f943bd8216ea8a2ce57fa61ffd8c
+SHA256: f5dc5a71d7474c234a7844c5288ecdf4e82911fd2378ddc049bb7e7ef5533b0f
+Section: 微信插件
+Priority: optional
+Homepage: https://axs66.github.io/repo
+Description: 微信自动发卡，本地发卡，api发卡
+Author: xuegao
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 自动发卡
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/faka/js.json
 
 Package: com.Axs.filzacrack
