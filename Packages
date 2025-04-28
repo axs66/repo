@@ -1306,66 +1306,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信优化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
 
-Package: com.Axs.WCElite
-Version: 1.2-6b4
-Architecture: iphoneos-arm64
-Maintainer: 热心网友＆xuegao
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.Axs.WCElite_1.2-6b4_iphoneos-arm64.deb
-Size: 369352
-MD5sum: bebda165d6f9183b0a407919f31fbb7c
-SHA1: 3c2bfb51b785c079a7a3372cb6d223e842217f76
-SHA256: 2d42890e47f61ecc3042c3a819bb9ea76e9366817933216353596948cbc05eff
-Section: 微信插件
-Priority: optional
-Homepage: https://axs66.github.io/repo
-Description: 微信优化，基于茶愫1.1-9开源版优化，此版本由热心网友与Xuegao维护。
-Author: 愫
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信优化
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
-
-Package: com.Axs.WCElite
-Version: 1.2-6b5
-Architecture: iphoneos-arm64
-Maintainer: 热心网友＆xuegao
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.Axs.WCElite_1.2-6b5_iphoneos-arm64.deb
-Size: 373476
-MD5sum: a058e271c37eb3e0829e9fffb6a0593e
-SHA1: 5df18200806ce1e80b57d4586566472ffdcdda81
-SHA256: c24a240638a66c30ef3cff5c1293815316e49e5c2db9d45bdc7b7e55591409a9
-Section: 微信插件
-Priority: optional
-Homepage: https://axs66.github.io/repo
-Description: 微信优化，基于WechatEnhance开源版优化，由热心网友与Xuegao维护。
-Author: 愫 茶
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信优化
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
-
-Package: com.Axs.WCElite
-Version: 1.2-6b6
-Architecture: iphoneos-arm64
-Maintainer: 热心网友＆xuegao
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.Axs.WCElite_1.2-6b6_iphoneos-arm64.deb
-Size: 368952
-MD5sum: a8f9a7a93c6c029cc346ef633af1143f
-SHA1: 0a7ab46e06110e70abf1cbe0b2539caec4f47f99
-SHA256: 79cc29e3241872d88bb91a8356d1b54dc708190a7c40ab7d549996e643e9ac0b
-Section: 微信插件
-Priority: optional
-Homepage: https://axs66.github.io/repo
-Description: 微信优化，基于WechatEnhance开源版优化。
-Author: 愫 茶
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信优化
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
-
 Package: com.Axs.a-font
 Version: 1.10.2
 Architecture: iphoneos-arm64
