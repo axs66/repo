@@ -1435,6 +1435,41 @@ Name: AniTime
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/anitime/js.json
 Sponsor: Axs
 
+Package: com.Axs.anthocrack2
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.anthocrack2_1.0.0_iphoneos-arm64.deb
+Size: 2940
+MD5sum: 5f45d7f5cf40fb44665a3d04ca2e9ae9
+SHA1: 049d5f8ac88cb36eb8180abe62a90207050e63e6
+SHA256: fc18c152a1c1de427ea15a7949391f27ec0fc4f88427b58a7d1002ed8fb49378
+Section: 插件依赖
+Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!
+Author: A <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/tweaks.png
+Name: AnthoCrack2
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.appaze3
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.Axs.anthocrack2
+Filename: ./debs/com.Axs.appaze3_1.0.1_iphoneos-arm64.deb
+Size: 867536
+MD5sum: 53d633a9eafbadd883666c71625e5782
+SHA1: 896ee3b5984a97dc14581aa9442640691547e6a8
+SHA256: a7a0ba921997d424e9c3647028da4ea17be77dfa1a5a77d5e2305fe6f17ceb82
+Section: 系统增强
+Description: 用干净友好的UI自定义每个应用程序最多30个设置，易于访问！
+Author: AnthoPak
+Depiction: https://axs66.github.io/repo
+Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
+Name: Appaze 3
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/appaze3/js.json
+
 Package: com.Axs.appstoretroller
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -4377,45 +4412,6 @@ Author: HuangBai
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.anthopak.appaze3
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: AnthoPak
-Installed-Size: 1802
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
-Conflicts: com.anthopak.appaze, com.anthopak.appaze2
-Filename: ./debs/com.anthopak.appaze3_1.0_iphoneos-arm64.deb
-Size: 864400
-MD5sum: 194e1111ed4d37990a5f034a628c0f8d
-SHA1: af8247a3a4f733531ddf1509861591cb1858d1de
-SHA256: 94b0402a1caa5ec160fbffeb0b88e7933a76f9e7516b6d46a461e7593c056663
-Section: 系统增强
-Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: AnthoPak
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/anthopak.png
-Name: Appaze 3
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.anthopak.appaze3
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, xyz.cypwn.anthocrack2
-Filename: ./debs/com.anthopak.appaze3_1.0.1_iphoneos-arm64.deb
-Size: 867516
-MD5sum: e03c48cb04a0fd1f0f06e3750e159fa2
-SHA1: f2a4b73eb46178a4bad75fca715c7abd182b3fc9
-SHA256: 9b7ffa921da6542fef9364610d29dd49b27cf40cf2bd873910646fa555f15ac8
-Section: 系统增强
-Description: 用干净友好的UI自定义每个应用程序最多30个设置，易于访问！
-Author: AnthoPak
-Depiction: https://axs66.github.io/repo
-Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
-Name: Appaze 3
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.anthopak.quickprefs-rootless
 Version: 1.3.3
