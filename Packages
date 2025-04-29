@@ -1978,6 +1978,24 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 抖音助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
+Package: com.Axs.dynamicpeninsula
+Version: 0.6-80
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.Axs.limneoscrack-rootless, com.axs.xinamine (>= 0.0.5)
+Filename: ./debs/com.Axs.dynamicpeninsula_0.6-80_iphoneos-arm64.deb
+Size: 323484
+MD5sum: 45de709fc6630af42529857fb3e1157c
+SHA1: 2b44943a70b5288c48a19051b6116c2a150730ef
+SHA256: a63ea7765784fce2e0dceaf4449b30867a9c1d64f2f4498efcca165ea1eb05f7
+Section: Tweaks
+Description: 为 iPhone X、XS、XR、11、12 以及 13 系列机型带来 iPhone 14 Pro 的灵动岛 (Dynamic Island) 动画体验。灵动半岛插件现已推出支持 Fugu15 Max 设备的版本。
+Author: Elias Limneos
+Icon: https://axs66.github.io/repo/icon/dynamicpeninsula.png
+Name: DynamicPeninsula灵动半岛
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dynamicpeninsula/js.json
+Sponsor: Axs
+
 Package: com.Axs.dytweak
 Version: 3.0.3
 Architecture: iphoneos-arm64
@@ -4205,6 +4223,21 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信URL扩展-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
+
+Package: com.Axs.xinamine
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 14.0)
+Filename: ./debs/com.Axs.xinamine_0.0.5_iphoneos-arm64.deb
+Size: 70108
+MD5sum: 65d5c36f98eef11fc4b6d4589d48a114
+SHA1: 288294fa1ecf2c1b143c6bff849db7d03ea842f8
+SHA256: f61cc8be52b49cf7e3f62087a71ad9ba964ad748b87a0d47d951f6342b4b9420
+Section: 插件依赖
+Description: Add Xina tweak compatibility to Dopamine没什么用的插件依赖，可能有人会用到，上传源里备份一下！
+Author: Sudo + Paisseon <qiaozhani000@163.com>
+Name: Xinamine
 
 Package: com.Axs.zaire
 Version: 0.9.0
