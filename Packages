@@ -1435,6 +1435,23 @@ Name: AniTime
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/anitime/js.json
 Sponsor: Axs
 
+Package: com.Axs.anthocrack2
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.anthocrack2_1.0.0_iphoneos-arm64.deb
+Size: 2940
+MD5sum: 7a07dd2ec3754dfce4fa45d59e9974d4
+SHA1: f56c79257019b40c36f0a9766dc3860735e9c66f
+SHA256: 26529872bd1be3aa5bc23f9b47dc744bbc7ef129e884f7ab5b0393282129c28f
+Section: 插件依赖
+Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!
+Author: A <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/tweaks.png
+Name: AnthoCrack2
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.appaze3
 Version: 1.0.1
 Architecture: iphoneos-arm64
