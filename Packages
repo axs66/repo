@@ -1979,6 +1979,26 @@ Name: 抖音助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
 Package: com.Axs.dynamicpeninsula
+Version: 0.6-25
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1684
+Depends: mobilesubstrate, com.axs.limneoscrack-rootless, firmware(>=12.0)
+Conflicts: com.hk.dynamicpeninsula.cn.rl
+Filename: ./debs/com.Axs.dynamicpeninsula_0.6-25_iphoneos-arm64.deb
+Size: 281552
+MD5sum: 849989b8dc5f7afba19a5f0fe3ae23d3
+SHA1: 967329d8b9a4cd27882cebe0316d7ac8ea4a1da8
+SHA256: cf451f80a55af01588c5a7346252a74ce69b8b76746709688f8e58f9e94c12f2
+Section: 系统增强
+Description: 为 iPhone X、XS、XR、11、12 以及 13 系列机型带来 iPhone 14 Pro 的灵动岛 (Dynamic Island) 动画体验。灵动半岛插件现已推出支持 Fugu15 Max 设备的版本。
+Author: MainRepo
+Icon: https://axs66.github.io/repo/icon/dynamicpeninsula.png
+Name: DynamicPeninsula灵动半岛
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dynamicpeninsula/js.json
+Sponsor: Axs
+
+Package: com.Axs.dynamicpeninsula
 Version: 0.6-80
 Architecture: iphoneos-arm64
 Maintainer: Axs
