@@ -1982,12 +1982,12 @@ Package: com.Axs.dynamicpeninsula
 Version: 0.6-80
 Architecture: iphoneos-arm64
 Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.Axs.limneoscrack-rootless, com.axs.xinamine (>= 0.0.5)
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.axs.limneoscrack-rootless, com.axs.xinamine (>= 0.0.5)
 Filename: ./debs/com.Axs.dynamicpeninsula_0.6-80_iphoneos-arm64.deb
-Size: 323484
-MD5sum: 45de709fc6630af42529857fb3e1157c
-SHA1: 2b44943a70b5288c48a19051b6116c2a150730ef
-SHA256: a63ea7765784fce2e0dceaf4449b30867a9c1d64f2f4498efcca165ea1eb05f7
+Size: 323732
+MD5sum: 0c9daa755fd808a8270f3e9bbac3f60c
+SHA1: 93937e205bb123d6605372003c809f8f74dae279
+SHA256: 02c28856a45beffaa118237e60fda69a69f454e075cdbd1886051ae9e3c14d13
 Section: Tweaks
 Description: 为 iPhone X、XS、XR、11、12 以及 13 系列机型带来 iPhone 14 Pro 的灵动岛 (Dynamic Island) 动画体验。灵动半岛插件现已推出支持 Fugu15 Max 设备的版本。
 Author: Elias Limneos
