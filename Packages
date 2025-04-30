@@ -3847,6 +3847,25 @@ Icon: https://axs66.github.io/repo/icon/turdusmerula.png
 Name: turdus merula
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/turdusmerula/js.json
 
+Package: com.Axs.twistnturn
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1016
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debs/com.Axs.twistnturn_1.3_iphoneos-arm64.deb
+Size: 513448
+MD5sum: 12a268fb3fb4bbe56360ee80304a3d87
+SHA1: 07cdf050a26d2c8eb8223205b033b7a8d8e07a22
+SHA256: 8b79e74f324ae1f67cf453055c65e4c8be92aa802f7e093dec53eb62a35286da
+Section: 系统增强
+Description: 智能屏幕旋转建议！支持从iOS 12到iOS 16.x的所有越狱设备。这个智能调整将计算许多不同的参数，以确定何时显示浮动按钮来解锁旋转锁定。无论你的旋转锁是锁定还是解锁，智能旋转建议都会出现，一旦它会重新确定你将设备倾斜了某个角度，并建议你解锁或锁定定向锁！这对于那些希望对设备的方向有更多控制并防止设备意外旋转的用户来说很有帮助，同时也可以节省大量时间在短时间内禁用旋转锁定。在您使用此调整禁用旋转锁定后，当您的设备将返回到人像模式时，调整将恢复您的旋转锁定以前的状态-如果它被禁用或启用，它将保持这种状态！要配置的选项：自定义位置：这是一个可拖动的按钮，您拖动浮动按钮到的最后一个位置将被保存可自定义的浮动按钮：控制浮动按钮的颜色、大小和反馈消失间隔：决定建议在屏幕上出现多长时间后才会消失动画：选择是否要在浮动按钮上显示可爱的动画黑名单应用程序：选择哪些应用程序中不会出现这些建议。
+Author: Maxim Shnirman
+Icon: https://axs66.github.io/repo/icon/twistnturn.png
+Name: TwistNTurn智能旋转
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/twistnturn/js.json
+Sponsor: Axs
+
 Package: com.Axs.uncar
 Version: 0.0.1-9
 Architecture: iphoneos-arm64
