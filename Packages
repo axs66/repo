@@ -3596,6 +3596,25 @@ Icon: https://axs66.github.io/repo/icon/appstore.png
 Name: StoreSwitcher 2 (rootless)
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.strongerfi12
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.axs.xinamine
+Conflicts: net.tateu.strongerfi
+Filename: ./debs/com.Axs.strongerfi12_1.0.1_iphoneos-arm64.deb
+Size: 54536
+MD5sum: c1cffcfd163af0b7332c39f5b3a1fead
+SHA1: 0573ecf6bff0a020a82b2e2f6bb6d196cc49d066
+SHA256: 2e8cad23271624508edf1adf2d866ec0a99df1a8a8b79eb3377fd5bacaf868d3
+Section: 系统增强
+Description: 自动切换到最强的WiFi网络.
+Author: tateu
+Depiction: https://alist.138686.xyz
+Icon: https://axs66.github.io/repo/icon/strongerfi12.png
+Name: StrongerFi12自动切换WiFi
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/strongerfi12/js.json
+
 Package: com.Axs.swipeextender
 Version: 1.6.1~2
 Architecture: iphoneos-arm64
