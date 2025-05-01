@@ -1978,6 +1978,24 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 抖音助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
+Package: com.Axs.dynamicnotland
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.dynamicnotland_1.2.4_iphoneos-arm64.deb
+Size: 12192
+MD5sum: 4d8de85ab95475c1b819ded81a952567
+SHA1: 8959dadc117e4cbae4b264d6d95937f448024fd7
+SHA256: 3e76be3b9f0a8b24f04193170204b44aca991bb7a8ff6fe0607ba13ce39f7f51
+Section: 系统增强
+Description: 在14Pro系列上，隐藏未使用时的灵动岛
+Author: Nathan
+Icon: https://axs66.github.io/repo/icon/dynamicnotland.png
+Name: DynamicNotLand隐藏灵动岛
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dynamicnotland/js.json
+
 Package: com.Axs.dynamicpeninsula
 Version: 0.6-25
 Architecture: iphoneos-arm64
@@ -2540,6 +2558,23 @@ Author: Mika <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/lyric.png
 Name: 桌面歌词
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.mineland
+Version: 2.0-6+debug
+Architecture: iphoneos-arm64
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/com.Axs.mineland_2.0-6+debug_iphoneos-arm64.deb
+Size: 99196
+MD5sum: 4739beebab717399c451bf1cd8100fa1
+SHA1: 7bf80a668df789c3e247654f3c7ce647373e005c
+SHA256: 4ab18adb8b50acbf894106fb64b40936df6d571ddddcc37db9a10505979c1fd2
+Section: 系统增强
+Description: 药丸爆改感叹号。仅支持16系统，对灵动岛进行调整，如透明度位置或比例，非灵动岛机型可强开灵动岛。Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran.
+Author: A
+Icon: https://axs66.github.io/repo/icon/mineland.png
+Name: Mineland灵动岛调整
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/mineland/js.json
 
 Package: com.Axs.minilsp
 Version: 1.1.2
