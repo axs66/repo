@@ -2036,6 +2036,24 @@ Icon: https://axs66.github.io/repo/icon/eneko.png
 Name: Eneko动态视频壁纸
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/eneko/js.json
 
+Package: com.Axs.eqe
+Version: 2.2.24
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, coreutils
+Filename: ./debs/com.Axs.eqe_2.2.24_iphoneos-arm64.deb
+Size: 7943196
+MD5sum: 6f34c56f1e5169916d2a6b11874060cc
+SHA1: af8d0666da0405a7c91230be15b4a522628760f0
+SHA256: 706abde503e6cf9037067cb2e8e715600b2c51f8b22b9f80f3b7bdea69ba9e91
+Section: Tweaks
+Description: 系统范围的参数均衡器
+Author: Reed Weichler
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/eqe.png
+Name: EQE均衡器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/eqe/js.json
+
 Package: com.Axs.ersatz
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -2070,6 +2088,25 @@ Author: SGWC
 Icon: https://axs66.github.io/repo/icon/events.png
 Name: Events锁屏日历
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/events/js.json
+Sponsor: Axs
+
+Package: com.Axs.ezswipe
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.ezswipe_1.1.1_iphoneos-arm64.deb
+Size: 23832
+MD5sum: 6d4b3b42fc7597623f4f48e818a213a4
+SHA1: ad6a43488df80ee2c1d2c0a1c695e396933e927f
+SHA256: e51d0f0a817eb1c1a37cd3359732cb56a39dfd99a30bf177670c34d62431f092
+Section: 系统增强
+Description: EZSwipe是一款主屏幕向下滑动手势插件，可以自定义下滑的动作。
+Author: P2KDev
+Icon: https://axs66.github.io/repo/icon/ezswipe.png
+Name: EZSwipe手势
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ezswipe/js.json
 Sponsor: Axs
 
 Package: com.Axs.faka
