@@ -1289,6 +1289,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
 
+Package: com.Axs.WCEhance
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCEhance_1.1-5_iphoneos-arm64.deb
+Size: 996280
+MD5sum: e65b637cb54b825480cd66678b6b0594
+SHA1: a63eaccc384b615ec110bc071b8c9f1141b82d28
+SHA256: e9f048cb26642464db58aa769205bf586ce89c33aa47111aa538f88f439e916a
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
+
 Package: com.Axs.WCElite
 Version: 1.2-6
 Architecture: iphoneos-arm64
@@ -5810,24 +5828,6 @@ Icon: https://axs66.github.io/repo/icon/shortvideodl.png
 Name: 短视频助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
 Sponsor: Axs
-
-Package: com.lxcloud.WCEhance
-Version: 1.1-4
-Architecture: iphoneos-arm64
-Maintainer: Lxcloud
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.lxcloud.WCEhance_1.1-4_iphoneos-arm64.deb
-Size: 64516
-MD5sum: 2eb70a42bc3ca8d9435ce17fa800ea94
-SHA1: cc05b59d45c764d4071ad0358b889599c96912cd
-SHA256: 02d94bcc15a8f72827d438a1bc6af7ba1ae172117b2f80e428cb9173baa2dada
-Section: 微信插件
-Priority: optional
-Description: 微信增强,用于优化一些反人类设计和增强功能。
-Author: huami&Lxcloud
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.mikifp.griddy
 Version: 1.0
