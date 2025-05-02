@@ -1,5 +1,3 @@
-目前generate_packages.sh代码是：
-
 #!/bin/bash
 
 # Exit immediately if a command exits with a non-zero status.
