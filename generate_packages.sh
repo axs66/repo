@@ -1,11 +1,10 @@
 #!/bin/bash
 
-# Exit immediately if a command exits with a non-zero status.
 set -e
-set -x  # Enable debug mode
+set -x
 
-# Define the directory containing .deb files
 DEB_DIR="./debs"
+OUT_DIR="./public"
 
 # Ensure the debs directory exists
 if [ ! -d "$DEB_DIR" ]; then
@@ -13,18 +12,22 @@ if [ ! -d "$DEB_DIR" ]; then
   exit 1
 fi
 
-# List contents of DEB_DIR for debugging
-ls -l "$DEB_DIR"
+# Create output directory structure
+rm -rf "$OUT_DIR"
+mkdir -p "$OUT_DIR/debs"
+
+# Copy .deb files (only newer ones)
+cp -u "$DEB_DIR"/*.deb "$OUT_DIR/debs/" || true
 
 # Generate the Packages file
-dpkg-scanpackages -m "$DEB_DIR" > Packages
+dpkg-scanpackages -m "$OUT_DIR/debs" > "$OUT_DIR/Packages"
 
-# Compress the Packages file
-bzip2 -fks Packages
-gzip -fk Packages
+# Compress Packages file
+bzip2 -fks "$OUT_DIR/Packages"
+gzip -fk "$OUT_DIR/Packages"
 
 # Create the Release file
-cat <<EOF > Release
+cat <<EOF > "$OUT_DIR/Release"
 Origin: Axs Repo
 Label: Axs Repo
 Suite: stable
