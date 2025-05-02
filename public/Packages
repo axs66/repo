@@ -2744,6 +2744,25 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 680
 Depends: mobilesubstrate, preferenceloader
+Filename: ./public/debs/com.Axs.net.aria_0.9.8.1_iphoneos-arm64.deb
+Size: 93476
+MD5sum: dbba980f7742153e4f1b4ddba3023a70
+SHA1: 05a19dfd527030b29039916a2b19d8914318c903
+SHA256: 363ace5d9a28b257d68c4806196136bc817074a95de9c2968e946b3039dce49f
+Section: 系统增强
+Description: 修改控制中心背景图，用第二个Stock就行了
+Author: Luki
+Icon: https://axs66.github.io/repo/icon/Aria.png
+Name: Aria控制中心背景图
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/aria/js.json
+Sponsor: Axs
+
+Package: com.Axs.net.aria
+Version: 0.9.8.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 680
+Depends: mobilesubstrate, preferenceloader
 Filename: ./public/debs/com.Axs.aria_0.9.8.1_iphoneos-arm64.deb
 Size: 93604
 MD5sum: 154a01c3d7e88fbacd25c1a73a7f535b
