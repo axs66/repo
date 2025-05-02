@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # 修改为写权限
   pages: write
   id-token: write
 
@@ -20,7 +20,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4.1.4
@@ -38,29 +37,23 @@ jobs:
           PERSONAL_TOKEN: ${{ secrets.PAT }}
 
       - name: Output Packages files
-        run: ls -l Packages*
+        run: ls -l Packages*  # 列出所有相关文件以进行调试
 
       - name: Commit updated Packages
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
-          git add Packages Packages.bz2 Packages.gz
+          git add Packages Packages.bz2 Packages.gz  # 添加所有相关文件
           git commit -m "Update Packages" || echo "No changes to commit"
           git push https://${{ secrets.PAT }}@github.com/axs66/repo.git HEAD:main
 
       - name: Setup Pages
         uses: actions/configure-pages@v5.0.0
 
-      - name: Prepare deploy directory (exclude debs/)
-        run: |
-          mkdir deploy
-          rsync -av --exclude='debs' ./ ./deploy
-          touch deploy/.nojekyll  # 防止 GitHub Pages 忽略某些文件夹
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
         with:
-          path: 'deploy'
+          path: '.'
 
       - name: Deploy to GitHub Pages
         id: deployment
