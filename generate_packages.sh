@@ -1,10 +1,13 @@
+目前generate_packages.sh代码是：
+
 #!/bin/bash
 
+# Exit immediately if a command exits with a non-zero status.
 set -e
-set -x
+set -x  # Enable debug mode
 
+# Define the directory containing .deb files
 DEB_DIR="./debs"
-OUT_DIR="./public"
 
 # Ensure the debs directory exists
 if [ ! -d "$DEB_DIR" ]; then
@@ -12,22 +15,18 @@ if [ ! -d "$DEB_DIR" ]; then
   exit 1
 fi
 
-# Create output directory structure
-rm -rf "$OUT_DIR"
-mkdir -p "$OUT_DIR/debs"
-
-# Copy .deb files (only newer ones)
-cp -u "$DEB_DIR"/*.deb "$OUT_DIR/debs/" || true
+# List contents of DEB_DIR for debugging
+ls -l "$DEB_DIR"
 
 # Generate the Packages file
-dpkg-scanpackages -m "$OUT_DIR/debs" > "$OUT_DIR/Packages"
+dpkg-scanpackages -m "$DEB_DIR" > Packages
 
-# Compress Packages file
-bzip2 -fks "$OUT_DIR/Packages"
-gzip -fk "$OUT_DIR/Packages"
+# Compress the Packages file
+bzip2 -fks Packages
+gzip -fk Packages
 
 # Create the Release file
-cat <<EOF > "$OUT_DIR/Release"
+cat <<EOF > Release
 Origin: Axs Repo
 Label: Axs Repo
 Suite: stable
