@@ -20,6 +20,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4.1.4
@@ -51,6 +52,7 @@ jobs:
             echo "no_changes=true" >> $GITHUB_OUTPUT
           else
             echo "no_changes=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v5.0.0
