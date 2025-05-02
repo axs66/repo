@@ -5863,6 +5863,24 @@ Name: 短视频助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
 Sponsor: Axs
 
+Package: com.lenglengyu.shortvideodl-rootless
+Version: 2.1.5K
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3752
+Depends: mobilesubstrate, preferenceloader
+Filename: ./public/debs/com.lenglengyu.shortvideodl-rootless_2.1.5K_iphoneos-arm64.deb
+Size: 991156
+MD5sum: efe99b4fd544004137c46ed26adfb347
+SHA1: b277b4992f54d1125ac89ee54188116cf876adbe
+SHA256: 6968de7f2a9797560860c4be710b135f917a294c5fded772fede887f341bbd72
+Section: Tweaks
+Description: 支持抖音、快手、微信、小红书等无水印下载。支持微信公众号、视频号视频下载。很简单方便。插件设置在系统设置开启！另外抖音可以单指双击视频然后点其他功能那个进入设置，非常的强大！小红书打开设置的方式为长按视频打开！支持小红书去广告！
+Author: lenglengyu
+Icon: https://axs66.github.io/repo/icon/shortvideodl.png
+Name: 短视频助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
+
 Package: com.mikifp.griddy
 Version: 1.0
 Architecture: iphoneos-arm64
