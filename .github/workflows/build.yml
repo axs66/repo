@@ -50,7 +50,11 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
         with:
-          path: './public'
+          path: '.'  # 部署整个仓库
+          exclude: |  # 排除不需要的文件
+            debs/*
+            .git/*
+            .github/*
 
       - name: Deploy to GitHub Pages
         id: deployment
