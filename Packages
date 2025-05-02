@@ -3620,14 +3620,14 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Filename: ./debs/com.Axs.springanimations_1.1.1_iphoneos-arm64.deb
-Size: 57172
-MD5sum: 3758c99682407e777e88fabc930c1e02
-SHA1: ca3c7767d2d638d3e21951bfb6aaceb71e767b9a
-SHA256: dcdff5a80ab6e0f30694c487c3d91b995fa06edd3a857a65dfb44ca0e1463357
+Size: 57108
+MD5sum: aa322b34f6398ab34715f9c1c8008f9d
+SHA1: 166a87a78aa47ea1307424576807ab7ee72d0fb2
+SHA256: 1eeb6a1b148c6c49ab71345d544f58652f97d03726aaf962503cd85b71ab277a
 Section: 系统增强
 Description: 桌面动画，原图标太丑，换了个图标以及汉化
 Author: CydiaGeek
-Icon: https://axs66.github.io/repo/icon/wechat.png
+Icon: https://axs66.github.io/repo/icon/springanimations.png
 Name: SpringAnimations桌面动画
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/springanimations/js.json
 
