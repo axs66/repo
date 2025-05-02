@@ -3614,6 +3614,23 @@ Name: Svp分屏独立版 依赖
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Ts: sp-sss
 
+Package: com.Axs.springanimations
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/com.Axs.springanimations_1.1.1_iphoneos-arm64.deb
+Size: 57172
+MD5sum: 3758c99682407e777e88fabc930c1e02
+SHA1: ca3c7767d2d638d3e21951bfb6aaceb71e767b9a
+SHA256: dcdff5a80ab6e0f30694c487c3d91b995fa06edd3a857a65dfb44ca0e1463357
+Section: 系统增强
+Description: 桌面动画，原图标太丑，换了个图标以及汉化
+Author: CydiaGeek
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: SpringAnimations桌面动画
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/springanimations/js.json
+
 Package: com.Axs.staypro
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -7649,6 +7666,24 @@ Size: 447968
 MD5sum: 258a8c41c8c7d1556e77431b624c88e3
 SHA1: b17c0a5850a563af4b6c62e49e2607e3f9ca4eda
 SHA256: 3d90e02e9d72a949bfc2a3a90ea34e599b7e0ea7a6e4a1aa85b33037dc8c5c84
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+
+Package: com.wechat.enhance
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2024
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.3.5_iphoneos-arm64.deb
+Size: 444976
+MD5sum: fc4481b590bd7c5c06f94ce32294cebc
+SHA1: 6b59f49aec45dd047cbe4615065037b2746a4b30
+SHA256: 007adb2d76b7942b0e6048fd374d8213aeabd67c2501764a6d0d7f96e0375f9d
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
