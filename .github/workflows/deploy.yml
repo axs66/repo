@@ -20,6 +20,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4.1.4
@@ -50,15 +51,16 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5.0.0
 
-      - name: Prepare deploy folder
-  run: |
-    mkdir deploy
-    rsync -av --exclude='debs' ./ ./deploy
+      - name: Prepare deploy directory (exclude debs/)
+        run: |
+          mkdir deploy
+          rsync -av --exclude='debs' ./ ./deploy
+          touch deploy/.nojekyll  # 防止 GitHub Pages 忽略某些文件夹
 
-- name: Upload artifact
-  uses: actions/upload-pages-artifact@v3.0.1
-  with:
-    path: 'deploy'
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3.0.1
+        with:
+          path: 'deploy'
 
       - name: Deploy to GitHub Pages
         id: deployment
