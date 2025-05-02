@@ -36,11 +36,24 @@ jobs:
       - name: Prepare Pages Artifact
         run: |
           mkdir -p pages-deploy
+          # 复制网页必要文件
           cp index.html pages-deploy/
           cp -r js/ pages-deploy/
+          
+          # 复制Sileo需要的资源目录（根据实际需要调整）
+          cp -r icon/ pages-deploy/ 2>/dev/null || true
+          cp -r images/ pages-deploy/ 2>/dev/null || true
+          cp -r sileodepiction/ pages-deploy/ 2>/dev/null || true
+          
+          # 复制元数据文件
           cp Packages* pages-deploy/
           cp Release pages-deploy/
+          
+          # 调试输出
+          echo "最终部署结构："
           ls -la pages-deploy/
+          echo "资源目录检查："
+          ls -la pages-deploy/icon/ pages-deploy/images/ pages-deploy/sileodepiction/ || true
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
