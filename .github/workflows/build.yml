@@ -1,4 +1,4 @@
-name: Deploy Repo with Metadata
+name: Deploy Repo with Sileo Support
 
 on:
   push:
@@ -19,50 +19,28 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # 确保获取完整提交历史
 
       - name: Generate metadata
         run: |
-          # 执行元数据生成脚本
           chmod +x ./generate_packages.sh
           ./generate_packages.sh
-          
-          # 验证元数据文件存在
-          if [ ! -f Packages ] || [ ! -f Release ]; then
-            echo "::error::关键元数据文件未生成！"
-            exit 1
-          fi
+          [ -f Packages ] || { echo "::error::Packages 生成失败"; exit 1; }
 
-      - name: Prepare deployment artifact
+      - name: Prepare artifact
         run: |
-          # 创建干净的部署目录
           mkdir -p gh-pages
-          
-          # 复制网页核心文件
-          cp index.html gh-pages/
-          
-          # 复制静态资源（强制校验存在性）
-          for dir in js icon images sileodepiction; do
-            if [ -d "$dir" ]; then
-              cp -r "$dir" gh-pages/
-            else
-              echo "::warning::目录 '$dir' 不存在，跳过复制"
-            fi
-          done
-          
-          # 复制元数据文件
-          cp Packages* Release gh-pages/
-          
-          # 验证部署包结构
-          echo "最终部署结构："
-          ls -lR gh-pages/
+          # 复制核心文件
+          cp {index.html,Release,CydiaIcon.png,sileo-featured.json} gh-pages/ 2>/dev/null || true
+          cp Packages* gh-pages/
+          # 复制资源目录
+          cp -r {js,icon,images,sileodepiction} gh-pages/ 2>/dev/null || true
+          # 验证图标存在
+          [ -f gh-pages/CydiaIcon.png ] || echo "::error::必须提供 CydiaIcon.png"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'gh-pages'
 
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - name: Deploy
         uses: actions/deploy-pages@v4
