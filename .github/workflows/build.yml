@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # 修改为写权限
   pages: write
   id-token: write
 
@@ -20,9 +20,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4.1.4
 
       - name: Set up Python (if needed)
@@ -37,33 +36,25 @@ jobs:
         env:
           PERSONAL_TOKEN: ${{ secrets.PAT }}
 
-      - name: Commit updated metadata (if any)
+      - name: Output Packages files
+        run: ls -l Packages*  # 列出所有相关文件以进行调试
+
+      - name: Commit updated Packages
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
-          git add public/Packages* public/Release || echo "Nothing to add"
-          git commit -m "Update Packages metadata" || echo "No changes to commit"
+          git add Packages Packages.bz2 Packages.gz  # 添加所有相关文件
+          git commit -m "Update Packages" || echo "No changes to commit"
           git push https://${{ secrets.PAT }}@github.com/axs66/repo.git HEAD:main
-
-      - name: Check for metadata changes
-        id: check_changes
-        run: |
-          if git diff --quiet HEAD; then
-            echo "no_changes=true" >> $GITHUB_OUTPUT
-          else
-            echo "no_changes=false" >> $GITHUB_OUTPUT
-          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v5.0.0
 
       - name: Upload artifact
-        if: steps.check_changes.outputs.no_changes == 'false'
         uses: actions/upload-pages-artifact@v3.0.1
         with:
-          path: './public'
+          path: '.'
 
       - name: Deploy to GitHub Pages
-        if: steps.check_changes.outputs.no_changes == 'false'
         id: deployment
         uses: actions/deploy-pages@v4.0.5
