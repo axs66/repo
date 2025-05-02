@@ -1,4 +1,4 @@
-name: Deploy static content to Pages
+name: Deploy Static Content
 
 on:
   push:
@@ -10,10 +10,6 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 jobs:
   deploy:
     environment:
@@ -22,40 +18,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4.1.4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+        uses: actions/checkout@v4
 
       - name: Generate Packages
         run: |
           chmod +x ./generate_packages.sh
           ./generate_packages.sh
-        env:
-          PERSONAL_TOKEN: ${{ secrets.PAT }}
 
-      - name: Commit all changes
+      - name: Commit Changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
           git add .
-          git commit -m "Update repo contents" || echo "No changes to commit"
-          git push https://${{ secrets.PAT }}@github.com/axs66/repo.git HEAD:main
+          git commit -m "Update repo" || echo "No changes"
+          git push
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5.0.0
+      - name: Prepare Pages Artifact
+        run: |
+          mkdir -p gh-pages-content
+          cp index.html gh-pages-content/
+          cp -r js gh-pages-content/
+          cp favicon.ico gh-pages-content/
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3.0.1
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'  # 部署整个仓库
-          exclude: |  # 排除不需要的文件
-            debs/*
-            .git/*
-            .github/*
+          path: 'gh-pages-content'
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4.0.5
+        uses: actions/deploy-pages@v4
