@@ -5352,24 +5352,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCPluginsOrder插件排序
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPluginsOrder/js.json
 
-Package: com.huami.dyyy
-Version: 2.2-5
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2012
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.huami.dyyy_2.2-5_iphoneos-arm64.deb
-Size: 387092
-MD5sum: c5c271cc57d8fafaf1fc6025c388acda
-SHA1: 393a84d233e65f521e78917b95a66aad2dfbb6b5
-SHA256: 6238840cd9b769ce1961e9fe90e08a17d0e65d092971fb85d69b954b4223678a
-Section: Tweaks
-Description: 基于DYYY定制，双入口：首页双指长按为魔术师UI；设置入口为Vita's DYYY！仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://axs66.github.io/repo/icon/dy.png
-Name: 抖音魔术师
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
-
 Package: com.huami.wcnicknameavatarstyle
 Version: 1.0-1
 Architecture: iphoneos-arm64
