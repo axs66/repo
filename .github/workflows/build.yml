@@ -50,12 +50,15 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5.0.0
 
-      - name: Upload artifact (exclude debs)
-        uses: actions/upload-pages-artifact@v3.0.1
-        with:
-          path: '.'
-          exclude: |
-            debs/**
+      - name: Prepare deploy folder
+  run: |
+    mkdir deploy
+    rsync -av --exclude='debs' ./ ./deploy
+
+- name: Upload artifact
+  uses: actions/upload-pages-artifact@v3.0.1
+  with:
+    path: 'deploy'
 
       - name: Deploy to GitHub Pages
         id: deployment
