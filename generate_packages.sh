@@ -4,35 +4,35 @@ set -e
 set -x
 
 DEB_DIR="./debs"
-OUT_DIR="./public"
 
-# Ensure the debs directory exists
+# 确保 debs 目录存在
 if [ ! -d "$DEB_DIR" ]; then
   echo "Directory $DEB_DIR does not exist."
   exit 1
 fi
 
-# Create output directory for debs only
-mkdir -p "$OUT_DIR/debs"
+# 调试：列出 debs 目录内容
+ls -l "$DEB_DIR"
 
-# Copy .deb files (only newer ones)
-cp -u "$DEB_DIR"/*.deb "$OUT_DIR/debs/" || true
+# 在根目录生成 Packages 文件
+dpkg-scanpackages -m "$DEB_DIR" > Packages
 
-# Generate the Packages file in root directory
-dpkg-scanpackages -m "$OUT_DIR/debs" > Packages
-
-# Compress Packages file in root directory
+# 在根目录压缩 Packages 文件
 bzip2 -fks Packages
 gzip -fk Packages
 
-# Create the Release file in root directory
+# 在根目录创建 Release 文件
 cat <<EOF > Release
 Origin: Axs Repo
 Label: Axs Repo
 Suite: stable
 Version: 1.0
 Codename: Axs Repo
-Architectures: iphoneos-arm64 iphoneos-arm64e  iphoneos-arm
+Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: 自用插件分享，有问题请卸载！！！
 EOF
+
+# 同时为 GitHub Pages 准备 public 目录（仅包含必要文件）
+mkdir -p public
+cp -r Packages* Release public/ 2>/dev/null || true
