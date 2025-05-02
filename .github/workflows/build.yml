@@ -1,4 +1,4 @@
-name: Deploy Repo with Sileo Support
+name: Deploy static content to Pages
 
 on:
   push:
@@ -10,6 +10,10 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   deploy:
     environment:
@@ -17,30 +21,42 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4.1.4
 
-      - name: Generate metadata
+      - name: Set up Python (if needed)
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run generate_packages.sh
         run: |
           chmod +x ./generate_packages.sh
           ./generate_packages.sh
-          [ -f Packages ] || { echo "::error::Packages 生成失败"; exit 1; }
+        env:
+          PERSONAL_TOKEN: ${{ secrets.PAT }}
 
-      - name: Prepare artifact
+      - name: Output Packages files
+        run: ls -l Packages*
+
+      - name: Commit updated Packages
         run: |
-          mkdir -p gh-pages
-          # 复制核心文件
-          cp {index.html,Release,CydiaIcon.png,sileo-featured.json} gh-pages/ 2>/dev/null || true
-          cp Packages* gh-pages/
-          # 复制资源目录
-          cp -r {js,icon,images,sileodepiction} gh-pages/ 2>/dev/null || true
-          # 验证图标存在
-          [ -f gh-pages/CydiaIcon.png ] || echo "::error::必须提供 CydiaIcon.png"
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add Packages Packages.bz2 Packages.gz
+          git commit -m "Update Packages" || echo "No changes to commit"
+          git push https://${{ secrets.PAT }}@github.com/axs66/repo.git HEAD:main
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v5.0.0
+
+      - name: Upload artifact (exclude debs)
+        uses: actions/upload-pages-artifact@v3.0.1
         with:
-          path: 'gh-pages'
+          path: '.'
+          exclude: |
+            debs/**
 
-      - name: Deploy
-        uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4.0.5
