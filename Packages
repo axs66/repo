@@ -4665,6 +4665,26 @@ Icon: https://axs66.github.io/repo/icon/MilkyWay.png
 Name: MilkyWay4-iOS16Fix
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.axs.dytweak
+Version: 3.0.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2060
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.axs.dytweak_3.0.5_iphoneos-arm64.deb
+Size: 388412
+MD5sum: ee9f1bb1a3470e0a5e1663672892aadc
+SHA1: b11590509bc73604e6a715c6d9e8f21160d9268c
+SHA256: 1e6442cafcde0334def545529aecf1320291cebcdb0edd50baab53e4c227d9fa
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/axs66
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 抖音净化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
+
 Package: com.axs.wechatsong
 Version: 0.0.1+debug
 Architecture: iphoneos-arm64
