@@ -1,4 +1,4 @@
-name: Deploy Static Content to Pages
+name: Deploy Repo with Metadata
 
 on:
   push:
@@ -10,10 +10,6 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 jobs:
   deploy:
     environment:
@@ -21,15 +17,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Generate Packages and metadata
+      - name: Generate Packages
         run: |
           chmod +x ./generate_packages.sh
           ./generate_packages.sh
@@ -39,21 +30,22 @@ jobs:
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
           git add .
-          git commit -m "Update repository contents" || echo "No changes to commit"
+          git commit -m "Update repo" || echo "No changes"
           git push
 
-      - name: Prepare Pages content
+      - name: Prepare Pages Artifact
         run: |
-          mkdir -p pages-artifact
-          cp index.html pages-artifact/
-          cp -r js pages-artifact/
-          echo "Generated Pages artifact contents:"
-          ls -la pages-artifact/
+          mkdir -p pages-deploy
+          cp index.html pages-deploy/
+          cp -r js/ pages-deploy/
+          cp Packages* pages-deploy/
+          cp Release pages-deploy/
+          ls -la pages-deploy/
 
-      - name: Upload Pages artifact
+      - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'pages-artifact'
+          path: 'pages-deploy'
 
       - name: Deploy to GitHub Pages
         id: deployment
