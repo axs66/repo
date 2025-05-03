@@ -2015,6 +2015,25 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 抖音助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
+Package: com.Axs.douyinhelper
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 1192
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.douyinhelper_1.2-1_iphoneos-arm64.deb
+Size: 236580
+MD5sum: ab9e0cdfafaa841ad3b7148cd438f7b2
+SHA1: f79764b16e0a7b9406911fcbcbf71c5d3c4e2faf
+SHA256: dacc2392cb6f7fa216d5799e00913433ba4fe4497d72ea5b880d4f1c60e0073a
+Section: Tweaks
+Priority: optional
+Description: 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 抖音助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak.json
+
 Package: com.Axs.dynamicnotland
 Version: 1.2.4
 Architecture: iphoneos-arm64
@@ -2275,6 +2294,24 @@ Author: tuancc
 Icon: https://axs66.github.io/repo/icon/h5gg.png
 Name: H5GG跨进程悬浮版
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/h5gg/js.json
+
+Package: com.Axs.hapticalert
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Axd
+Depends: mobilesubstrate, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/com.Axs.hapticalert_0.0.2_iphoneos-arm64.deb
+Size: 3272
+MD5sum: 88c8053e0b3add4aeb0879d67180d701
+SHA1: 74ecc472b31af9a5412388ba8a362aec1a2268a6
+SHA256: 44a239a2cbd72ecbe7ff086ef105dbd0c08281d4f586d32484a4e71a7ac25842
+Section: Tweaks
+Description: 触觉反馈。
+Author: pxcex
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/hapticalert.png
+Name: Haptic Alert触感
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/hapticalert/js.json
 
 Package: com.Axs.hidekbsettings
 Version: 1.0.7
