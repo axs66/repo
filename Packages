@@ -4422,23 +4422,23 @@ Description: Add Xina tweak compatibility to Dopamine没什么用的插件依赖
 Author: Sudo + Paisseon <qiaozhani000@163.com>
 Name: Xinamine
 
-Package: com.Axs.xlmy
+Package: com.Axs.xmly
 Version: 0.0.1-1
 Architecture: iphoneos-arm64
-Maintainer: xlmy
+Maintainer: xmly
 Installed-Size: 1156
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.xlmy_0.0.1-1_iphoneos-arm64.deb
-Size: 719476
-MD5sum: fc47a40425e80b8120d535efe56d1fe9
-SHA1: 2c24f750e3f73f919fa837350cf81caa7f500c08
-SHA256: 20e27533dd31766a86693566d79b89701854590537be531fb5a176e25f6da7a5
+Filename: ./debs/com.Axs.xmly_0.0.1-1_iphoneos-arm64.deb
+Size: 719528
+MD5sum: efe1bd048a82214904873ec9dedc013a
+SHA1: 3aeb1653f9b05a535d0725a2e59d56c3dac03e25
+SHA256: 448bb36a3a1545b2d38006908e3b6b431f486217451159129399cd8e374889e6
 Section: Tweaks
 Description: 解锁Vip，共享会员数据来自网络，去除部分广告，仅适配3.0.34版本，里面的Bundle文件要放到根目录，而且必须注入。Frameworks路径
-Author: xlmy
-Icon: https://axs66.github.io/repo/icon/xlmy.png
+Author: xmly
+Icon: https://axs66.github.io/repo/icon/xmly.png
 Name: 喜马拉雅极速版vip
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/xlmy/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/xmly/js.json
 
 Package: com.Axs.zaire
 Version: 0.9.0
