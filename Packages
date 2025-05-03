@@ -1560,6 +1560,25 @@ Icon: https://axs66.github.io/repo/icon/appstore.png
  Sileodepiction: https://axs66.github.io/repo/sileodepiction/appstore/js.json
 Name: appstoretroller
 
+Package: com.Axs.aria
+Version: 0.9.8~RC
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 680
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.aria_0.9.8~RC_iphoneos-arm64.deb
+Size: 93280
+MD5sum: 817f97da12eb152ff2901fcbdbe4daa4
+SHA1: 689d9583f9973072cce90ac51668206a9c91b91c
+SHA256: 7f0b9d0212eca8919bd1c23fd9968face8a1d26d0b3f1c0720309310f406d6db
+Section: 系统增强
+Description: 修改控制中心背景图，用第二个Stock就行了
+Author: Luki
+Icon: https://axs66.github.io/repo/icon/Aria.png
+Name: Aria控制中心背景图
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/aria/js.json
+Sponsor: Axs
+
 Package: com.Axs.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -2736,25 +2755,6 @@ Description: 本插件非常的好用！推荐！
 Author: Axs
 Name: Axon美化通知
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/axon/js.json
-Sponsor: Axs
-
-Package: com.Axs.net.aria
-Version: 0.9.8.1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 680
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.Axs.net.aria_0.9.8.1_iphoneos-arm64.deb
-Size: 93476
-MD5sum: dbba980f7742153e4f1b4ddba3023a70
-SHA1: 05a19dfd527030b29039916a2b19d8914318c903
-SHA256: 363ace5d9a28b257d68c4806196136bc817074a95de9c2968e946b3039dce49f
-Section: 系统增强
-Description: 修改控制中心背景图，用第二个Stock就行了
-Author: Luki
-Icon: https://axs66.github.io/repo/icon/Aria.png
-Name: Aria控制中心背景图
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/aria/js.json
 Sponsor: Axs
 
 Package: com.Axs.net.aria
@@ -4421,6 +4421,24 @@ Section: 插件依赖
 Description: Add Xina tweak compatibility to Dopamine没什么用的插件依赖，可能有人会用到，上传源里备份一下！
 Author: Sudo + Paisseon <qiaozhani000@163.com>
 Name: Xinamine
+
+Package: com.Axs.xlmy
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: xlmy
+Installed-Size: 1156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.xlmy_0.0.1-1_iphoneos-arm64.deb
+Size: 719476
+MD5sum: fc47a40425e80b8120d535efe56d1fe9
+SHA1: 2c24f750e3f73f919fa837350cf81caa7f500c08
+SHA256: 20e27533dd31766a86693566d79b89701854590537be531fb5a176e25f6da7a5
+Section: Tweaks
+Description: 解锁Vip，共享会员数据来自网络，去除部分广告，仅适配3.0.34版本，里面的Bundle文件要放到根目录，而且必须注入。Frameworks路径
+Author: xlmy
+Icon: https://axs66.github.io/repo/icon/xlmy.png
+Name: 喜马拉雅极速版vip
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/xlmy/js.json
 
 Package: com.Axs.zaire
 Version: 0.9.0
