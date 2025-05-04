@@ -1652,6 +1652,23 @@ Icon: https://axs66.github.io/repo/icon/badge.png
 Name: Badge灵动角标
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.betterbili
+Version: 2.3.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.betterbili_2.3.3_iphoneos-arm64.deb
+Size: 6808212
+MD5sum: 37acf3b1744c85e0027d235af6e9555a
+SHA1: 419c21e73be6cae773bb0a34626ca196de517a99
+SHA256: a2d2e5b70e7edd5222468e77499ed69e84c9e744c452d85e38528f1155485fd5
+Section: Tweaks
+Description: 更好的哔哩哔哩，支持港澳特别版与原版，功能如下：解锁付费画质，付费缓存，去除广告，精简功能，下载缓存到本地... 包括多款插件注入：哔哩哔哩净化与精简（原版）
+Author: A
+Icon: https://axs66.github.io/repo/icon/betterbili.png
+Name: 哔哩哔哩增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/betterbili/js.json
+
 Package: com.Axs.bettercc
 Version: 0.0.55
 Architecture: iphoneos-arm64
