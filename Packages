@@ -4799,6 +4799,24 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.rma_1.0_iphoneos-arm64.deb
+Size: 25192
+MD5sum: ae2c5a050b15268de493545bba3e44cd
+SHA1: f578a9f24f68bec4c12d47e758f22c08af593569
+SHA256: ae0906942faec3a660a807fcb9e931fe20c0544b5d78011ac05a451f5cba504e
+Section: Tweaks
+Description: A Lightweight Reachability Manager
+Author: A
+Icon: https://raw.githubusercontent.com/axs66/ReachMyAbility/refs/heads/main/Resources/icon.png
+Name: ReachMyAbility
+Sileodepiction: https://raw.githubusercontent.com/axs66/ReachMyAbility/main/Resources/depiction.json
+
+Package: com.axs.rma
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 404
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.rma_1.0_iphoneos-arm64.deb
 Size: 25116
 MD5sum: 1e3d63c75838a47a668c35fef4b3a1a8
