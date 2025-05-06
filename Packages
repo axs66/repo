@@ -1307,6 +1307,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
 
+Package: com.Axs.WCEhance
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCEhance_1.1-6_iphoneos-arm64.deb
+Size: 1117112
+MD5sum: 947ec0cb30474f1e44cac23a94c11ca1
+SHA1: 8d1f6bfdfe9083e9606dd51d9fbeff5e26fc4320
+SHA256: 78c885367286901baafe8e0d837630cb195ff27a9cadb05a595cd94178617d4c
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
+
 Package: com.Axs.WCElite
 Version: 1.2-6
 Architecture: iphoneos-arm64
@@ -1634,6 +1652,26 @@ Author: Netskao
 Icon: https://axs66.github.io/repo/icon/dy.png
 Name: AwemeDownloadMedia
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.backgroundretainer
+Version: 0.0.1-7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.dopamine.swapforcer
+Filename: ./debs/com.Axs.backgroundretainer_0.0.1-7_iphoneos-arm64.deb
+Size: 78612
+MD5sum: c45b954efd17eb3f32f5ae7467c41e80
+SHA1: 9448941fab344861aa07dabe8926bfb5beabcfe9
+SHA256: 5c3c334f231974679dd1a231488fd38db226c2132c270efb9d8fe4969a08fe8a
+Section: 系统增强
+Description: 本插件的作用是基于iOS墓碑机制的后台应用留存增强插件,可以添加应用应用id 到白名单，冻结应用，防止被杀后台，如果感觉无效就卸载！例如微信是com.tencent.xin【应用id获取可以使用Appdata插件获取】
+Author: A
+Icon: https://axs66.github.io/repo/icon/backgroundretainer.png
+Name: Background后台留存
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/backgroundretainer/js.json
+Sponsor: Axs
 
 Package: com.Axs.badge
 Version: 0.0.1
@@ -2050,6 +2088,25 @@ Author: XUUᶻ
 Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 抖音助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak.json
+
+Package: com.Axs.douyinhelper
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 1192
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.douyinhelper_1.2-2_iphoneos-arm64.deb
+Size: 238032
+MD5sum: e947864f15b3c81bf6b408ecc2ba8169
+SHA1: 0ccd0adf81f90343aae7e5d91eee38650efa7752
+SHA256: e429f7263a13acaf22fd0fabc2debe58d8ee2c4ecb39c02073165370f9f263bb
+Section: Tweaks
+Priority: optional
+Description: 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 抖音助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
 Package: com.Axs.dynamicnotland
 Version: 1.2.4
@@ -3774,6 +3831,25 @@ Depiction: https://alist.138686.xyz
 Icon: https://axs66.github.io/repo/icon/strongerfi12.png
 Name: StrongerFi12自动切换WiFi
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/strongerfi12/js.json
+
+Package: com.Axs.swapforcer
+Version: 0.0.2-7+debug
+Architecture: iphoneos-arm64
+Maintainer: Dopamine User
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.swapforcer_0.0.2-7+debug_iphoneos-arm64.deb
+Size: 5964
+MD5sum: 5ab6fda7a8b051d9e2cf29708c7f1a85
+SHA1: aa24fac180d6218a204ebe21f8c00f208efe1bfa
+SHA256: fbe666b6520f07652f49ac7de6910ba7124a5fd2ed4840612a4325aa3fbcb762
+Section: 系统增强
+Description: 强制启用并稳定运行iOS 16的Swap机制,提高应用留存率。
+Author: colorBlack
+Icon: https://axs66.github.io/repo/icon/swapforcer.png
+Name: SwapForcer后台留存
+Prefix: /var/jb
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/swapforcer/js.json
 
 Package: com.Axs.swipeextender
 Version: 1.6.1~2
