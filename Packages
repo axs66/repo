@@ -1747,6 +1747,24 @@ Icon: https://axs66.github.io/repo/icon/blacklist.png
 Name: 注入黑名单 (injectBlackList)
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/blacklist/js.json
 
+Package: com.Axs.blur
+Version: 1.0-8
+Architecture: iphoneos-arm64
+Maintainer: MrDeNsor
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.blur_1.0-8_iphoneos-arm64.deb
+Size: 10456
+MD5sum: 138aebcaf2e7e37fb80144b61b6ba6a5
+SHA1: b3c7eddffe3fdef7d5e3a09b870023a169a9f1e1
+SHA256: 5bda016fde70301ae0ebe45fe8065bb2a32dd56282d209d5e2bd31be811bf8c7
+Section: Tweaks
+Description: 将私人照片隐藏在您的库中。用面部ID，触摸ID或密码解锁。
+Author: MrDeNsor
+Icon: https://axs66.github.io/repo/icon/blur.png
+Name: 照片隐藏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/blur/js.json
+
 Package: com.Axs.blurrybadges
 Version: 1.5.3
 Architecture: iphoneos-arm64
@@ -7887,6 +7905,24 @@ Size: 436856
 MD5sum: d74eabb981d5085bd4b88fcb29362ad9
 SHA1: b2f8d5beffc9138110a2715b77b56089d650acd8
 SHA256: e48207b7a326ccfbacca1df023d44970a6a9b8d89d39e64328e35aa9f3ad6416
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+
+Package: com.wechat.enhance
+Version: 1.3-8
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.3-8_iphoneos-arm64.deb
+Size: 448048
+MD5sum: 355cf065cbac555bfd820cd50e60c370
+SHA1: 0f22818a9b3f083f746d884af716448ef70b897c
+SHA256: ea18af50e4de51a6d8493b231b8e108ebad07730bcf380566fb0f9101e6e1c9f
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
