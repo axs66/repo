@@ -74,7 +74,7 @@ jobs:
 
             const runsToDelete = runs.data.workflow_runs
               .filter(run => run.id !== context.runId && run.status === 'completed')
-              .slice(0, 100); // 可根据需要更改保留数量
+              .slice(0, 1); // 可根据需要更改保留数量
 
             for (const run of runsToDelete) {
               await github.rest.actions.deleteWorkflowRun({
