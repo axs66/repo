@@ -92,5 +92,5 @@ jobs:
       - name: Display Repository Size
         run: |
           echo "Checking repository size..."
-          REPO_SIZE=$(git rev-list --objects --all | awk '{s+=$1} END {print s}' | numfmt --to=iec)
+          REPO_SIZE=$(du -sh . | awk '{print $1}')
           echo "Repository size: $REPO_SIZE"
