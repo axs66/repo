@@ -4643,6 +4643,23 @@ Icon: https://axs66.github.io/repo/icon/xxtouch.png
 Name: XXTouch Elite
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxtouch/js.json
 
+Package: com.Axs.yuanjiao
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.yuanjiao_1.0_iphoneos-arm64.deb
+Size: 102972
+MD5sum: 950bae3038821256e5d50fd96493c308
+SHA1: 17a706427e502f6ada162433c5a1123217eba458
+SHA256: 11cc9050efd3bef41dafee2b090bba692712cd98acaba53a5097e2fe52af26c8
+Section: 微信插件
+Description: 微信视图圆角控制，可以试玩2小时，9.9付费插件，添加微信VCR66T授权
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCYuanJiao全局圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+
 Package: com.Axs.zaire
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -5576,23 +5593,6 @@ Author: 妖刀
 Icon: https://axs66.github.io/repo/icon/CCSettings.png
 Name: CCLess++(rootless)
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/CCLess/js.json
-
-Package: com.hl.yuanjiao
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 微信圆角
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hl.yuanjiao_1.0_iphoneos-arm64.deb
-Size: 102796
-MD5sum: 4550d54c7f1c2e0db853016369d7b2f3
-SHA1: 04d01852329bbfd8d6aef1891d616274df2c3d7e
-SHA256: 01ffe95909af766e1d519e4011c5a26df41abe8d0913b3c2d013a33a7bd56cbf
-Section: A
-Description: 微信视图圆角控制，可以试玩2小时，9.9付费插件，添加微信VCR66T授权
-Author: 微信圆角
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WCYuanJiao
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
 Package: com.hoangdus.speedster
 Version: 2.1.1
