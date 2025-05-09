@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://axs66.github.io/repo/images/Axslogo.png",
-    "tintColor": "00BFFF",
+    "tintColor": "#00BFFF",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "微信视图圆角控制，可以试玩2小时，9.9付费插件，添加微信VCR66T授权件.",                                                                                                                                                            一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能",
+                    "markdown": "微信视图圆角控制,可以试玩2小时,9.9付费插件,添加微信VCR66T授权件.",
                     "useRawFormat": true,
                 },      
                {
