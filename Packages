@@ -1978,6 +1978,25 @@ Name: CozyBadges彩色通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.daynightswitch
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.Axs.daynightswitch_1.1_iphoneos-arm64.deb
+Size: 68448
+MD5sum: 0b3955c265b797461f7196832ba2a7db
+SHA1: b0e553ef21cbf0f8c01b9fbed120059d4a060427
+SHA256: c84dd946561cd66c8eaaaafa8c6355fc3a7cdf4b594840128a0fa38480ef4062
+Section: Tweaks
+Description: Add some style to your switches
+Author: Finn Gaida
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/daynightswitch.png
+Name: DayNightSwitch日月开关
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/daynightswitch/js.json
+
 Package: com.Axs.denyphotoalbums
 Version: 1.2.1
 Architecture: iphoneos-arm64
@@ -5557,6 +5576,23 @@ Author: 妖刀
 Icon: https://axs66.github.io/repo/icon/CCSettings.png
 Name: CCLess++(rootless)
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/CCLess/js.json
+
+Package: com.hl.yuanjiao
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 微信圆角
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hl.yuanjiao_1.0_iphoneos-arm64.deb
+Size: 102796
+MD5sum: 4550d54c7f1c2e0db853016369d7b2f3
+SHA1: 04d01852329bbfd8d6aef1891d616274df2c3d7e
+SHA256: 01ffe95909af766e1d519e4011c5a26df41abe8d0913b3c2d013a33a7bd56cbf
+Section: A
+Description: 微信视图圆角控制，可以试玩2小时，9.9付费插件，添加微信VCR66T授权
+Author: 微信圆角
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCYuanJiao
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
 Package: com.hoangdus.speedster
 Version: 2.1.1
