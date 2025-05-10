@@ -2378,11 +2378,11 @@ Maintainer: Axs
 Installed-Size: 9264
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.Axs.flex_1.0-3+debug_iphoneos-arm64.deb
-Size: 1708512
-MD5sum: 3acead0726149a4177bdff0e8ad40882
-SHA1: 80d417da62729e4730a7b13875d893b67b659f64
-SHA256: 746ef204affddd2b9e58489be9f293a776622c7e043aa00345c7b5b53ec19a28
-Section: Development
+Size: 1717824
+MD5sum: 19370e177686ed0707f1ce6f8cc040d6
+SHA1: 263a9245da09ab44c4b796c33f0354cf88e83396
+SHA256: 940a59ae9d2c6fd4597020798901a3f7da4c89d7eb143b18d6e51167463ba0ba
+Section: 系统增强
 Description: FLEX 调试工具 - 支持iOS 9.0及以上设备
 Author: FLEX
 Icon: https://axs66.github.io/repo/icon/flex.png
