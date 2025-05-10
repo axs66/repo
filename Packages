@@ -304,6 +304,24 @@ Icon: https://axs66.github.io/repo/icon/kayoko.png
 Name: Kayoko剪贴板
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: codes.aurora.kayoko
+Version: 2.9
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_2.9_iphoneos-arm64.deb
+Size: 128608
+MD5sum: a0c0c282c20831647433b859dbf6fa12
+SHA1: abd25f7cdd82b11a0cf75ea5cbe3cde1921a6931
+SHA256: c59d1aaba4daff99b254e29dfb44bd45610cc897302fd20c19faf8f9312872af
+Section: 系统增强
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Icon: https://axs66.github.io/repo/icon/kayoko.png
+Name: Kayoko剪贴板
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/kayoko/js.json
+
 Package: com.0xkuj.bubbleapps
 Version: 3.0.0
 Architecture: iphoneos-arm64
@@ -1341,6 +1359,24 @@ Author: 热心网友＆雪糕
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信优化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
+
+Package: com.Axs.WCToolGesture
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.WCToolGesture_1.0_iphoneos-arm64.deb
+Size: 8316
+MD5sum: 9ff756855bcde888dd64ee36f8a85cc0
+SHA1: d5c87bd8342b3294fc9da74f2133b9422013d930
+SHA256: 89e6445b85f1df31d4fb9297d1f6e017ef99041f27f5b14fe8714a2ce0ad58ad
+Section: 微信插件
+Description: 微信输入框内嵌按键，右边朋友圈命名: clock_regular，左边视频通话命名: icons_filled_large_image
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCToolGesture输入框内嵌
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCToolGesture/js.json
 
 Package: com.Axs.a-font
 Version: 1.10.2
@@ -8085,6 +8121,24 @@ Size: 448112
 MD5sum: 526f702819379932b8b405b5f57c61b8
 SHA1: 6ebf74259196013db422c29291591b8b88a7791b
 SHA256: 49c03d27d676259f04781e6f4a11057bd76d4b1b639a33ce33b729442859cbd4
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+
+Package: com.wechat.enhance
+Version: 1.3.9
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.3.9_iphoneos-arm64.deb
+Size: 450616
+MD5sum: 2b399615e8f58c608cb1766480ea0ab5
+SHA1: d9ccaf30e00005201ad630a45d1e23e45802ae19
+SHA256: 3de8dda3f4c5667e4dc16d1b2dfe505340b76af08c2b3141d43efe45ac4c668c
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
