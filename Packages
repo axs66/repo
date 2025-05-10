@@ -3352,6 +3352,24 @@ Icon: https://axs66.github.io/repo/icon/qsyy.png
 Name: 汽水音乐
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/qsyy/js.json
 
+Package: com.Axs.raisesparks
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 988
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.raisesparks_1.0.2_iphoneos-arm64.deb
+Size: 197548
+MD5sum: 314eba6c805a28d51936c39af62c4e80
+SHA1: 6041f2f1f61529c00155b0bc67e8bec21181c196
+SHA256: d47fad45683b9973933317c944a6bfaa975e2104ecd1365d26bd5582b141cd60
+Section: 微信插件
+Description: 为微信添加小火花功能，快拉上好友一起续火花吧！
+Author: SHTM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: RaiseSparks微信小火花
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/raisesparks/js.json
+
 Package: com.Axs.reachplayer
 Version: 2.21-3
 Architecture: iphoneos-arm64
