@@ -2335,6 +2335,24 @@ Icon: https://axs66.github.io/repo/icon/filza.png
 Name: Filza Crack
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.flex
+Version: 1.0-3+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 9264
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.Axs.flex_1.0-3+debug_iphoneos-arm64.deb
+Size: 1708512
+MD5sum: 3acead0726149a4177bdff0e8ad40882
+SHA1: 80d417da62729e4730a7b13875d893b67b659f64
+SHA256: 746ef204affddd2b9e58489be9f293a776622c7e043aa00345c7b5b53ec19a28
+Section: Development
+Description: FLEX 调试工具 - 支持iOS 9.0及以上设备
+Author: FLEX
+Icon: https://axs66.github.io/repo/icon/flex.png
+Name: FLEX 调试工具
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/flex/js.json
+
 Package: com.Axs.flexlist
 Version: 1.4-2
 Architecture: iphoneos-arm64
@@ -3297,6 +3315,24 @@ Author: A
 Icon: https://axs66.github.io/repo/icon/qsyy.png
 Name: 汽水音乐
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/qsyy/js.json
+
+Package: com.Axs.reachplayer
+Version: 2.21-3
+Architecture: iphoneos-arm64
+Maintainer: ETHN
+Installed-Size: 4304
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.Axs.reachplayer_2.21-3_iphoneos-arm64.deb
+Size: 3537644
+MD5sum: 9a0eb9d950b89e8e9c7e1f843cc073de
+SHA1: 6027093d36a88bb35e634e5753cf916a6b388760
+SHA256: 1ea17975671d2f4d68b712522d0d400912b937904d47eca6102f203783d06f9c
+Section: 系统增强
+Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。这个版本是付费版本，免费的长按获取安装2.6版本！
+Author: ETHN
+Icon: https://axs66.github.io/repo/icon/reachplayer.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
 
 Package: com.Axs.reachplayer
 Version: 2.6
@@ -7959,6 +7995,24 @@ Size: 436856
 MD5sum: d74eabb981d5085bd4b88fcb29362ad9
 SHA1: b2f8d5beffc9138110a2715b77b56089d650acd8
 SHA256: e48207b7a326ccfbacca1df023d44970a6a9b8d89d39e64328e35aa9f3ad6416
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+
+Package: com.wechat.enhance
+Version: 1.3-9
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.3-9_iphoneos-arm64.deb
+Size: 450100
+MD5sum: 4204e60fab5513a6385e7c97ab8c15c2
+SHA1: 6a1ce402c5f9ced88f0ef78fe04640af9a4de012
+SHA256: 37d2fae82d55f5ab00d8201326c84f6307c7959c99bd5ab815e4792c6d5e833f
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
