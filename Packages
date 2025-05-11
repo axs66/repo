@@ -1342,6 +1342,25 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: AwemeDownloadMedia
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.backgrounderaction15
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 340
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.Axs.backgrounderaction15_0.1.0_iphoneos-arm64.deb
+Size: 10012
+MD5sum: 78946d4a34eb7682a88b7660bb7ced99
+SHA1: d3215df6b624b609514d2157603514f95d6900f4
+SHA256: f18f3af563c16b3532e582badb15a2b42092268d4d6d846dcfcf4fc8e326eb73
+Section: 系统增强
+Description: 一款真后台插件，先去系统设置控制中心里添加这个模块，方框形状的，然后进入你想要的APP，下滑控制中心点击真后台按钮即可！！
+Author: akusio_RR
+Icon: https://axs66.github.io/repo/icon/backgrounderaction15.png
+Name: CCSupport真后台独立开关
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/backgrounderaction15/js.json
+Sponsor: Axs
+
 Package: com.Axs.backgroundretainer
 Version: 0.0.1-7
 Architecture: iphoneos-arm64
@@ -2664,25 +2683,6 @@ Description: Enhance the stock CC or Prysm on the fly(修改控制中心背景�
 Author: Luki
 Name: Aria控制中心背景图
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/aria/js.json
-Sponsor: Axs
-
-Package: com.Axs.net.backgrounderaction15
-Version: 0.1.0
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 340
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.Axs.net.backgrounderaction15_0.1.0_iphoneos-arm64.deb
-Size: 10000
-MD5sum: 77dc69db5915d2b79a16551fbcc2a3c8
-SHA1: 768d496907ad527102c528101b2469c849da3a37
-SHA256: 0e1238b49d7f51caee83a00d814d939a1d689b7e45cc589cf5dde6f840c22570
-Section: 系统增强
-Description: 一款真后台插件，先去系统设置控制中心里添加这个模块，方框形状的，然后进入你想要的APP，下滑控制中心点击真后台按钮即可！！
-Author: akusio_RR
-Icon: https://axs66.github.io/repo/icon/backgrounderaction15.png
-Name: CCSupport真后台独立开关
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/backgrounderaction15/js.json
 Sponsor: Axs
 
 Package: com.Axs.net.backgrounderaction15
