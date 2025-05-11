@@ -1596,6 +1596,24 @@ Icon: https://axs66.github.io/repo/icon/centra.png
 Name: Centra
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.chromahomebarx
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: Afnan Ahmad & SINI
+Installed-Size: 480
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/com.Axs.chromahomebarx_1.0-2_iphoneos-arm64.deb
+Size: 42160
+MD5sum: 672331187ae0c39604b14ad87c9dca91
+SHA1: 8ac2239b9b1e2da68581b6ed4d3c9ac7905b9684
+SHA256: 8b353cb7e84b64cc60ab46cfda86f96a2082ca7794e6277460f6347083cc5f02
+Section: 系统增强
+Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根越狱
+Author: Afnan Ahmad & SINI
+Icon: https://axs66.github.io/repo/icon/chromahomebarx.png
+Name: ChromaHomeBarX底部横条动态颜色
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/chromahomebarx/js.json
+
 Package: com.Axs.classicfolders
 Version: 3.0.5
 Architecture: iphoneos-arm64
@@ -1757,6 +1775,24 @@ Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/dismissalert.png
 Name: DismissAlert屏蔽弹窗
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dismissalert/js.json
+
+Package: com.Axs.dleasy
+Version: 2.14.8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.dleasy_2.14.8_iphoneos-arm64.deb
+Size: 5554008
+MD5sum: 541a932773513ff72569bdd87e7e1ac8
+SHA1: 5e9f063658ed28b380cda9606658cc3111200ded
+SHA256: 796c3c46d81f18fe7944c230ff776aa6ba1e6f248f3958c1dc10d790ffd50e62
+Section: Tweaks
+Description: Download/Share images & videos from social apps easily!
+Author: AhmedBafkir
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/dleasy.png
+Name: DLEasy
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dleasy/js.json
 
 Package: com.Axs.dockx
 Version: 2.6.2
@@ -2700,24 +2736,6 @@ Author: AhmedBafkir
 Name: DLEasy
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/dleasy/js.json
 Sponsor: Axs
-
-Package: com.Axs.net.dleasy
-Version: 2.14.6
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.Axs.net.dleasy_2.14.6_iphoneos-arm64.deb
-Size: 5537000
-MD5sum: 6f2e5d1030b03bd30014ccf1d6884459
-SHA1: f1d0370437101a1f9263ee5fb036740505e283ef
-SHA256: 7a6cdba62fb5cf2c287c05bb90cdbb75e58b50af27db8b1b2c3d19d8b7eb6d80
-Section: Tweaks
-Description: Download/Share images & videos from social apps easily!
-Author: AhmedBafkir
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/dleasy.png
-Name: DLEasy
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dleasy/js.json
 
 Package: com.Axs.net.hideserialnumber
 Version: 0.0.4
