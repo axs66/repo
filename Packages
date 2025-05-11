@@ -179,96 +179,6 @@ Name: 微信小布丁
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wxxbd/js.json
 
 Package: codes.aurora.kayoko
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Lessica
-Installed-Size: 1076
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/codes.aurora.kayoko_2.2_iphoneos-arm64.deb
-Size: 118320
-MD5sum: 51c9f052f33b51445b41d0bfca99ac5f
-SHA1: 8824273277c336cbb6f9b784cb5b34e24b705846
-SHA256: 173bc4159aaa1627208094fc119402374f7ffcc09419a97341fa78044cf03516
-Section: 系统增强
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Icon: https://axs66.github.io/repo/icon/kayoko.png
-Name: Kayoko
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: codes.aurora.kayoko
-Version: 2.3
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 1076
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/codes.aurora.kayoko_2.3_iphoneos-arm64.deb
-Size: 119016
-MD5sum: fc0c1ffa79bcd09874cc90c854565fca
-SHA1: 0bdd5717733d706eb601d9b924fe8c04cc6686d9
-SHA256: 66b506a97852e023a692dbebfb47034fae818ab5006db38efd0cbd8f801da63b
-Section: 系统增强
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Icon: https://axs66.github.io/repo/icon/kayoko.png
-Name: Kayoko
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: codes.aurora.kayoko
-Version: 2.4
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 1084
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/codes.aurora.kayoko_2.4_iphoneos-arm64.deb
-Size: 125672
-MD5sum: d2f342f9c89db21ca478fe1b9116813f
-SHA1: 68b465bfddbd5d95c7a4864c74379b85175a6490
-SHA256: d13bc9095e7681824a953265a44d588199f006b395fd35af302d2c89f644a99e
-Section: 系统增强
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Icon: https://axs66.github.io/repo/icon/kayoko.png
-Name: Kayoko
-Sileodepiction: https://axs66.github.io/repo/
-
-Package: codes.aurora.kayoko
-Version: 2.5
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 1084
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/codes.aurora.kayoko_2.5_iphoneos-arm64.deb
-Size: 125936
-MD5sum: e9bd1beccac7ea4c2cdafb8897311892
-SHA1: 1903f4eb81e1a248f9c09177e687e9438d4ca2bd
-SHA256: 252b43b42478b221ee9c1107488c97f7c29d565e8775f9f6bbdccc16e3c36d56
-Section: 系统增强
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Icon: https://axs66.github.io/repo/icon/kayoko.png
-Name: Kayoko剪贴板
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: codes.aurora.kayoko
-Version: 2.6
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 1104
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/codes.aurora.kayoko_2.6_iphoneos-arm64.deb
-Size: 126276
-MD5sum: 65b5b8cbcc005fe84127efd8f3620309
-SHA1: 1f6c6a13989cc5c0e3bc5dfe2e99c64123d25e47
-SHA256: 4cfc602e18dbab691296e85a65a7f8a47762d4641fc5c6056ee0084142ea3005
-Section: 系统增强
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Icon: https://axs66.github.io/repo/icon/kayoko.png
-Name: Kayoko
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: codes.aurora.kayoko
 Version: 2.7
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
@@ -338,23 +248,6 @@ Description: Floating app buttons anywhere you want
 Author: 0xkuj
 Icon: https://axs66.github.io/repo/icon/bubbleapps.png
 Name: Bubble Apps
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.0xkuj.filzadirprobe
-Version: 1.3.1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 240
-Filename: ./debs/com.0xkuj.filzadirprobe_1.3.1_iphoneos-arm64.deb
-Size: 33088
-MD5sum: d223b5026ee2c45a0670f0bc436a87b1
-SHA1: 6c23c9249e41b92b1dd064e94e9590533bb9d820
-SHA256: 3ebbd739971960241f1477103732d69a1cfd1cff1ca1c92b6f7f8decd8a7a624
-Section: Tweaks
-Description: Filza Extension To Calculate Folders Inside Your Filesystem
-Author: 0xkuj
-Icon: https://axs66.github.io/repo/icon/filza.png
-Name: FilzaDirProbe
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.0xkuj.filzadirprobe
@@ -481,148 +374,6 @@ Author: 0xkuj
 Icon: https://axs66.github.io/repo/icon/notificationsgroupcounts.png
 Name: 仿ios18通知分组计数
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.0xkuj.safarix
-Version: 1.3.0
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 744
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.0xkuj.safarix_1.3.0_iphoneos-arm64.deb
-Size: 272292
-MD5sum: 9d00ee9122678180283a6efa366d09ac
-SHA1: 96aaf65681c95bea447b9298eabb5344f9e9cdcc
-SHA256: 5b5d58c5a119908151bba1f30652e3a0f10aa64ab827ec7acd062a29abd191f6
-Section: Tweaks
-Description: Safari Essential Features
-Author: 0xkuj
-Name: SafariX
-
-Package: com.0xkuj.safarix
-Version: 1.5.3
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 744
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.0xkuj.safarix_1.5.3_iphoneos-arm64.deb
-Size: 272848
-MD5sum: a9aa249a82c8b7ef6da988c3be515ed6
-SHA1: 578004eff9b3a4f05528b30e8419d3e8a190271f
-SHA256: 786e766320eb8884a64dc6a8ebda476719c34c694d9e29efe6bcbe18c8cb5a7c
-Section: 系统增强
-Description: Safari Essential Features
-Author: 0xkuj
-Icon: https://axs66.github.io/repo/icon/safari.png
-Name: SafariX
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
-
-Package: com.0xkuj.safarix
-Version: 1.6.1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 748
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.0xkuj.safarix_1.6.1_iphoneos-arm64.deb
-Size: 274088
-MD5sum: f7827dfcd447a11eceeaa61d539000a8
-SHA1: adfeb8bfbc1627aa3e3f57ca321a273e72a08fa8
-SHA256: 9119d264109d1df1bc05de19b1094f6e2c69043f52c1425fdc16ba62e2738cca
-Section: 系统增强
-Description: Safari Essential Features
-Author: 0xkuj
-Icon: https://axs66.github.io/repo/icon/safari.png
-Name: SafariX
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.0xkuj.safarix
-Version: 1.7.1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 748
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.0xkuj.safarix_1.7.1_iphoneos-arm64.deb
-Size: 275212
-MD5sum: 843bf98b6c7c78e957743676d05ec053
-SHA1: fa891ba4cff85c5bac4189c1b7c17b805be52412
-SHA256: 8909d9d932981fe76ead9b4dbe7c52fcdfea3e2d94ec298e10f7989414a9d58d
-Section: 系统增强
-Description: Safari Essential Features
-Author: 0xkuj
-Icon: https://axs66.github.io/repo/icon/safari.png
-Name: SafariX
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
-
-Package: com.0xkuj.safarix
-Version: 1.8.1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 748
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.0xkuj.safarix_1.8.1_iphoneos-arm64.deb
-Size: 283776
-MD5sum: 04466a7c0145070510e9c8ef05d45231
-SHA1: 9f9cb19468f40d24a54795ad624b6fa2960d9d88
-SHA256: d1be484eff42c5b3acaaf5d1cce1faee533022ee1ed788d317814b2dcc2caa6a
-Section: 系统增强
-Description: Safari Essential Features
-Author: 0xkuj
-Icon: https://axs66.github.io/repo/icon/safari.png
-Name: SafariX
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.0xkuj.safarix
-Version: 1.9.0
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 792
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.0xkuj.safarix_1.9.0_iphoneos-arm64.deb
-Size: 287160
-MD5sum: e312a462a8f6681b6cbca5b74011702e
-SHA1: cf41077a2014534a6a693543ba72785f43964034
-SHA256: cc9ed7b0bc600abfd6966addd04527a824c4d17be3514e2c69b1176dfad59144
-Section: 系统增强
-Description: Safari Essential Features
-Author: 0xkuj
-Icon: https://axs66.github.io/repo/icon/safari.png
-Name: SafariX
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
-
-Package: com.0xkuj.safarix
-Version: 1.9.2
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 792
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.0xkuj.safarix_1.9.2_iphoneos-arm64.deb
-Size: 287132
-MD5sum: f9d0550b8bfbf2c315188a05237c3a9d
-SHA1: 44d766e1f88159274c81da011b2d267703a7a800
-SHA256: 73f1c779a074cc0d5a379adcb4cb2fb7273a9dce393854796683d3ff4e3b471a
-Section: 系统增强
-Description: Safari Essential Features
-Author: 0xkuj
-Icon: https://axs66.github.io/repo/icon/safari.png
-Name: SafariX
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
-
-Package: com.0xkuj.safarix
-Version: 1.9.3
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 824
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.0xkuj.safarix_1.9.3_iphoneos-arm64.deb
-Size: 297688
-MD5sum: 75b88206017e185f50bc063ccfa2d851
-SHA1: b210118012ad0386b939e05f61f51e53b24aff51
-SHA256: 03811b68dcfff52ceac8ed9217cfc28f27cc606856cfe81de39a03b16b515f75
-Section: 系统增强
-Description: Safari Essential Features
-Author: 0xkuj
-Icon: https://axs66.github.io/repo/icon/safari.png
-Name: SafariX
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
 
 Package: com.0xkuj.safarix
 Version: 1.9.5
@@ -843,42 +594,6 @@ Priority: optional
 Description: 查淘宝优惠券，查商品历史价
 Author: Mao
 Name: 淘宝优惠券
-
-Package: com.82flex.artworkspinner
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: Lessica
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.82flex.artworkspinner_1.1_iphoneos-arm64.deb
-Size: 27828
-MD5sum: 2d73042501c19c01a728ebc69b201d0b
-SHA1: e9fced43e1398e0be2af3d67b6f5f6a68668e437
-SHA256: 6d4d4a93ef69a2c1c7a1b395995cab4d3792c7d69b578b569eb91a44f80fe787
-Section: Tweaks
-Description: 旋转专辑插图！配合源里面N95使用。
-Author: Lessica
-Icon: https://axs66.github.io/repo/icon/artworkspinner.png
-Name: 旋转专辑插图
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/artworkspinner/js.json
-
-Package: com.82flex.artworkspinner
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: Lessica
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.82flex.artworkspinner_1.2_iphoneos-arm64.deb
-Size: 28092
-MD5sum: d2f033ad82706bd9fbee9bcddf49a302
-SHA1: 5d83e2dcf3725ba1e61ba2667ff88cedc702258a
-SHA256: ab8a07f6ef844e831f11d0337aae13d313d53c154a17c765c0e50cd4f7c85cbb
-Section: Tweaks
-Description: 旋转专辑插图，支持控制中心，锁屏界面播放。配合源里面N95使用。
-Author: Lessica
-Icon: https://axs66.github.io/repo/icon/artworkspinner.png
-Name: 旋转专辑插图
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/artworkspinner/js.json
 
 Package: com.82flex.artworkspinner
 Version: 1.3
@@ -1124,50 +839,6 @@ Author: Mikoto
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: Mikoto 助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/MikotoHelper/js.json
-
-Package: com.Axs.ThemePro
-Version: 3.1.1
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: MustangYM <MustangYM@yeah.net>
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Provides: ThemePro
-Filename: ./debs/com.Axs.ThemePro_3.1.1_iphoneos-arm64.deb
-Size: 6312600
-MD5sum: 7f7ac520a7f7f55226340ecf109153ef
-SHA1: 722e6c1b41759c6f54d1163438aabd3f48af1697
-SHA256: 4e4c8abb2e4f98e5e59e89f3b598c3d6a41b4b32e63b1b0abac861b5a31f72ec
-Section: 微信插件
-Priority: optional
-Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
-Author: MustangYM
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: ThemePro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/ThemePro/js.json
-
-Package: com.Axs.ThemePro
-Version: 3.1.4
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: MustangYM
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Provides: ThemePro
-Filename: ./debs/com.Axs.ThemePro_3.1.4_iphoneos-arm64.deb
-Size: 6287292
-MD5sum: d62a4f53b5de1b4cb1d853a83422e70f
-SHA1: d079145ddd1117ba3d8695fea608625b46918dd2
-SHA256: 44754e7ec37513723c149af5a5d264a7eb18e40f97da0e3125fbb1a11c048403
-Section: 微信插件
-Priority: optional
-Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
-Author: MustangYM
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: ThemePro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
 Package: com.Axs.ThemePro
 Version: 3.1.6
@@ -4856,74 +4527,6 @@ Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
 
 Package: com.HBWechatHelper.ailun
-Version: 1.7.8
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.7.8_iphoneos-arm64.deb
-Size: 11252008
-MD5sum: c3c1f498714ee88319f7bc246aaeaaab
-SHA1: 4d11fabe9fa6063536a2f4d1b5bd19a26974ef8f
-SHA256: 06c9f113ffbd5b358a622c0414ac8b552f52d218e7cb51d70bb8041ba51f3e8a
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
-Version: 1.8.0
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.8.0_iphoneos-arm64.deb
-Size: 11226168
-MD5sum: 0b5c62760efbd06298461a076a7d71ff
-SHA1: e6fa5b46c26f58a6118883e900f51643d4e4429b
-SHA256: 781adb02d73a310737931a951f0ed01d95ce927e110c8812bc32a6d8b857ccbc
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手(微信插件)-Rootless
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
-Version: 1.8.1
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.8.1_iphoneos-arm64.deb
-Size: 11191548
-MD5sum: c24654fc0919b6c4b2ab59209f29c45f
-SHA1: cbbfd2595de1d495db5c08f6c01b13df701f3864
-SHA256: 7f8edbd34b1ae0cd6659aa69194acba5839911cd005fde1d73deb8fea5892ef8
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
-Version: 1.8.2
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.8.2_iphoneos-arm64.deb
-Size: 11111168
-MD5sum: 5a912a950971bc1fb4f8c9235998e568
-SHA1: 79ebc92c74a48feb71496ab4cbeaac2d6adf2c51
-SHA256: 0711ea1bbbfea5d207e85b563d407786e7e6f6f11d51dc3571c39a3169248401
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
 Version: 1.8.3
 Architecture: iphoneos-arm64
 Maintainer: HuangBai
@@ -5463,41 +5066,6 @@ Author: developlab
 Icon: https://axs66.github.io/repo/icon/clickvibration.png
 Name: 触摸震动音效
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/clickvibration/js.json
-
-Package: com.dumpapp.wechat-rootless
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 24000
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/com.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
-Size: 9337092
-MD5sum: fae07bc3e8b57b2888afbfcf8f6c9f2d
-SHA1: 1201d22b6cd5d5ff00b9c218fb7d2d6b725e0eb8
-SHA256: 115be288a44d0a325d8c705f062df00f9719e7c2045f5e29b6ac84d0aeb8ed10
-Section: 微信插件
-Description: 锤子助手插件
-Author: DumpApp
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 锤子助手-Rootless
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dumpapp/js.json
-
-Package: com.dumpapp.wechat-rootless
-Version: 2.0.3
-Architecture: iphoneos-arm64
-Maintainer: DumpApp
-Installed-Size: 23984
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/com.dumpapp.wechat-rootless_2.0.3_iphoneos-arm64.deb
-Size: 9330284
-MD5sum: f85614a969874a73156acd5fb3eddfd5
-SHA1: 4623fef9be6124955b214f7eb51af472c46a7bb2
-SHA256: 58056b0e6c2728d5b6a6ef6faf8e30fbccd13d90252457210122b5321c42cdee
-Section: 微信插件
-Author: DumpApp
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 锤子助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dumpapp/js.json
 
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.4
@@ -6095,100 +5663,6 @@ Name: Plugins For Snapper3
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/Piiico/js.json
 
 Package: com.lenglengyu.shortvideodl-rootless
-Version: 1.8.3
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu
-Installed-Size: 5044
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.yourepo.lly.awe, com.lenglengyu.dyhsb, com.lenglengyu.ksjsb, com.lenglengyu.qmxsp, com.lenglengyu.wsqsy, com.lenglengyu.wxgzh, com.lenglengyu.miaopai, com.lenglengyu.ppdgx, com.lenglengyu.qutoutiao, com.lenglengyu.pddsavevideo
-Filename: ./debs/com.lenglengyu.shortvideodl-rootless_1.8.3_iphoneos-arm64.deb
-Size: 1136872
-MD5sum: b50b56ebcdc1544e1045cb9151daddd1
-SHA1: 1927e2be817713983de2287ee84af104639e071d
-SHA256: 882cef246ef34d5a89c67cdaa1ce1150846ed6ebc3bdecd53d8d63d22e51d6dd
-Section: Axs-Tweaks
-Description: 支持抖音、快手、微视等无水印下载。
-Author: lenglengyu
-Depiction: https://pan.ios999.vip/
-Icon: https://axs66.github.io/repo/icon/shortvideodl.png
-Name: 短视频助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
-
-Package: com.lenglengyu.shortvideodl-rootless
-Version: 1.8.8
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 5080
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.lenglengyu.shortvideodl-rootless_1.8.8_iphoneos-arm64.deb
-Size: 1134044
-MD5sum: 4cc66be1dc941e19644df6d92e8ab3bb
-SHA1: 59b0c47536f7b28f4b42d5416fc971d0fd19f166
-SHA256: acc4fad3769f6a3a64c992290d0df49b25f8b1a5b8d49e937e4e82f8e645d199
-Section: Axs-Tweaks
-Description: 支持抖音、快手、微视等无水印下载。
-Author: lenglengyu
-Icon: https://axs66.github.io/repo/icon/shortvideodl.png
-Name: 短视频助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
-
-Package: com.lenglengyu.shortvideodl-rootless
-Version: 1.9.0
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu
-Installed-Size: 3332
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.lenglengyu.shortvideodl-rootless_1.9.0_iphoneos-arm64.deb
-Size: 903744
-MD5sum: 2577e6072e8af9281d984ecddda0c4c0
-SHA1: 71ab1e9f4e68c35a17e6cde69ccdd8552ebd7894
-SHA256: 48137391378db3055bfa6b8187b4727850a980c83c1f384d50e81782e02f7b7c
-Section: Axs-Tweaks
-Description: 支持抖音、快手、微视等无水印下载。
-Author: lenglengyu
-Depiction: https://pan.ios999.vip/
-Icon: https://axs66.github.io/repo/icon/shortvideodl.png
-Name: 短视频助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
-
-Package: com.lenglengyu.shortvideodl-rootless
-Version: 1.9.2
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu
-Installed-Size: 5048
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.lenglengyu.shortvideodl-rootless_1.9.2_iphoneos-arm64.deb
-Size: 916396
-MD5sum: 1e297598301ee2ab04fc3f91fc15d0e2
-SHA1: fae289f9215a9a59ac19d76d43ef4c3ea3950357
-SHA256: d64640d99c0b99de23abed55823defd060814d304d5a64682e029a0f825853ed
-Section: Axs-Tweaks
-Description: 支持抖音、快手、微视等无水印下载
-Author: lenglengyu
-Icon: https://axs66.github.io/repo/icon/shortvideodl.png
-Name: 短视频助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
-
-Package: com.lenglengyu.shortvideodl-rootless
-Version: 1.9.4
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu
-Installed-Size: 3456
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
-Filename: ./debs/com.lenglengyu.shortvideodl-rootless_1.9.4_iphoneos-arm64.deb
-Size: 961400
-MD5sum: a7e2020a27378ff860aeaf4b05e0175b
-SHA1: 0386e1dbfe8b7fe640e584ebff1de86123eb25d7
-SHA256: 9acfb5951b5b64907d8d479a41ef6e22d614433809caec2fa380f4e78590b4af
-Section: Axs-Tweaks
-Description: 支持抖音、快手、微视等无水印下载
-Author: lenglengyu
-Icon: https://axs66.github.io/repo/icon/shortvideodl.png
-Name: 短视频助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
-
-Package: com.lenglengyu.shortvideodl-rootless
 Version: 1.9.9K
 Architecture: iphoneos-arm64
 Maintainer: lenglengyu
@@ -6281,24 +5755,6 @@ Author: lenglengyu
 Icon: https://axs66.github.io/repo/icon/shortvideodl.png
 Name: 短视频助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
-
-Package: com.mikifp.griddy
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: mikifp
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: ./debs/com.mikifp.griddy_1.0_iphoneos-arm64.deb
-Size: 16368
-MD5sum: b3fbe3f00fd6dfeed192b75ffdc91afa
-SHA1: ab87d564048163c835f9a8abe72c9391aafff476
-SHA256: 1cd4517a08dfdee0ab6dadcd368b25113da7fd5c5cb94e9f1b2c33f2dabe3499
-Section: 系统增强
-Description: Make your icons hit the griddy
-Author: mikifp
-Icon: https://axs66.github.io/repo/icon/griddy.png
-Name: Griddy
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.mikifp.griddy
 Version: 1.0.3
@@ -6885,78 +6341,6 @@ Name: WeChatUISwitchLoader
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.nx.appcardlite
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 5084
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debs/com.nx.appcardlite_1.0.0_iphoneos-arm64.deb
-Size: 1016780
-MD5sum: 296320fba7887f65084278f935b9a14f
-SHA1: 80ca290e0891569e0fa208008d54f515fce64492
-SHA256: 1664e4d190265772edcc5622bd0a5b0cfb538a6d77abf0c358acdd6ab7eea19d
-Section: 分屏插件
-Description: A !
-Author: Crassna
-Icon: https://axs66.github.io/repo/icon/applecard.png
-Name: App Lecard分屏插件
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
-
-Package: com.nx.appcardlite
-Version: 2.2.8
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 940
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.nx.appcardlite_2.2.8_iphoneos-arm64.deb
-Size: 185884
-MD5sum: 3ecb794f8d7db8d22a830c9d93bbbecb
-SHA1: 1c0cb62b9385aa0729aaa26846da14cea37fdfd3
-SHA256: 236c39d6a3cce2ec26f2b692bc847f52b3cc521fb8a120f7bad606355c7a55c4
-Section: 分屏插件
-Description: 免费的分屏插件！吊打o2，无设置项！
-Author: Crassna
-Icon: https://axs66.github.io/repo/icon/applecard.png
-Name: App Lecard
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
-
-Package: com.nx.appcardlite
-Version: 2.3
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 972
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debs/com.nx.appcardlite_2.3_iphoneos-arm64.deb
-Size: 194000
-MD5sum: 81296e2a8ebbb241444879d1b47b44c1
-SHA1: 2b99e93810b0890e101d8272c8507a3bbb96e0ac
-SHA256: 85d869e38cd16b6422ebcd2c208027ba5a6abf7872112dfc157e065cc943ce5d
-Section: 分屏插件
-Description: 免费的分屏插件。
-Author: Crassna
-Icon: https://axs66.github.io/repo/icon/applecard.png
-Name: App Lecard 分屏插件
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
-
-Package: com.nx.appcardlite
-Version: 3.1.0
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 1076
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debs/com.nx.appcardlite_3.1.0_iphoneos-arm64.deb
-Size: 231468
-MD5sum: 95b391f4a9ef4e5eef29aa82ec75cfcb
-SHA1: b6120fba5f455540ee3a992bd2970a604c6f3fca
-SHA256: 64b80f1339f33c4596a7a8f88beafd23149ef7f2fef94213f183e658afaac7df
-Section: 分屏插件
-Description: 一个不一样的分屏插件。
-Author: Crassna
-Icon: https://axs66.github.io/repo/icon/applecard.png
-Name: App Lecard 分屏插件
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
-
-Package: com.nx.appcardlite
 Version: 3.3.3-END
 Architecture: iphoneos-arm64
 Maintainer: Crassna
@@ -7043,23 +6427,6 @@ Section: Applications
 Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
-
-Package: com.p2kdev.tinge
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 432
-Depends: firmware (>= 15.0),mobilesubstrate
-Filename: ./debs/com.p2kdev.tinge_1.1_iphoneos-arm64.deb
-Size: 39996
-MD5sum: 8ca10f003a47deb1f6e337745b814907
-SHA1: 5a627b065a36bc0f908894f481bf7aeaaa5518e8
-SHA256: 9d8a218d53c9c2b87a4217ca1075009884ad3a10f2f630062d7633106d4e0206
-Section: Tweaks
-Description: Color your badges with Perfection!
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
-Name: Tinge
 
 Package: com.p2kdev.tinge
 Version: 1.2
@@ -7948,78 +7315,6 @@ Name: 灵动方盒
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ColorfulCube/js.json
 
 Package: com.wechat.enhance
-Version: 1.1.2
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 992
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wechat.enhance_1.1.2_iphoneos-arm64.deb
-Size: 193492
-MD5sum: 75de95d6315a499494156a7c7ab3da38
-SHA1: 03c8340918649bea3fd26073507afa072a7d7133
-SHA256: 99ec9aa37c025c6ee1a9837b4228b7fd10b5cfd5c5d522541bb3e373d49bd8aa
-Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。
-Author: 愫 茶
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WeChatEnhance微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.wechat.enhance
-Version: 1.1.5
-Architecture: iphoneos-arm64
-Maintainer: Developer
-Installed-Size: 1224
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.wechat.enhance_1.1.5_iphoneos-arm64.deb
-Size: 212080
-MD5sum: eab602b820465e035a5560ecbd9fcd25
-SHA1: e0ccddec4c36b919a7cb203ff8f3e9305691bab1
-SHA256: f0572ac0430b4abfe252d4ef3655a93e9a9e93518257e1840fa3ae6ec8aaecc3
-Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。
-Author: Developer
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WeChatEnhance微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/WeChatEnhance/js.json
-
-Package: com.wechat.enhance
-Version: 1.1.6
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 1124
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wechat.enhance_1.1.6_iphoneos-arm64.deb
-Size: 228728
-MD5sum: 3aabb9df9d03fc96081aacc042251ee4
-SHA1: 989227abb9e5e5e744d7864c4284b008f4e1129e
-SHA256: 73db1d158bc36b9c522abf8801b70786937eb52755452e09e746005f656119cc
-Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。
-Author: 愫 茶
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WeChatEnhance微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.wechat.enhance
-Version: 1.1.7
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 1124
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wechat.enhance_1.1.7_iphoneos-arm64.deb
-Size: 231932
-MD5sum: 6d299cb839f217d5f3fcc4d9b9bddd90
-SHA1: a959be0be338c166c2b4cbddd276ed2c56245a95
-SHA256: 1a593eab4873d4a0a51d0eb19b39292c4f6c21d5a1971055ddad41c576f49c95
-Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。
-Author: 愫 茶
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WeChatEnhance微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.wechat.enhance
 Version: 1.1.9
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -8051,78 +7346,6 @@ SHA256: 68ff05822fd22fe17ce21e89b37b28f87ea350d3ce7aeecbc48998d0a8d3a5be
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: A
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WeChatEnhance微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.wechat.enhance
-Version: 1.2.9
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 1992
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wechat.enhance_1.2.9_iphoneos-arm64.deb
-Size: 436856
-MD5sum: d74eabb981d5085bd4b88fcb29362ad9
-SHA1: b2f8d5beffc9138110a2715b77b56089d650acd8
-SHA256: e48207b7a326ccfbacca1df023d44970a6a9b8d89d39e64328e35aa9f3ad6416
-Section: 微信插件
-Description: 微信插件，支持聊天按钮布局自定义等。
-Author: 愫 茶
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WeChatEnhance微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.wechat.enhance
-Version: 1.3.0
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 1976
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wechat.enhance_1.3.0_iphoneos-arm64.deb
-Size: 431116
-MD5sum: 2fc6c5c47178bd9733e6d102ec7cedd4
-SHA1: 713ec274ad5e274c606750cef2a39b58b2bb4b16
-SHA256: a8b04b6e5e254238f214bbfc0adfaa38a6474b629b1f906fd7b0a6c34eb92635
-Section: 微信插件
-Description: 微信插件，支持聊天按钮布局自定义等。
-Author: 愫 茶
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WeChatEnhance微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.wechat.enhance
-Version: 1.3.1
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 2056
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wechat.enhance_1.3.1_iphoneos-arm64.deb
-Size: 447968
-MD5sum: 258a8c41c8c7d1556e77431b624c88e3
-SHA1: b17c0a5850a563af4b6c62e49e2607e3f9ca4eda
-SHA256: 3d90e02e9d72a949bfc2a3a90ea34e599b7e0ea7a6e4a1aa85b33037dc8c5c84
-Section: 微信插件
-Description: 微信插件，支持聊天按钮布局自定义等。
-Author: 愫 茶
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WeChatEnhance微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.wechat.enhance
-Version: 1.3.5
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 2024
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wechat.enhance_1.3.5_iphoneos-arm64.deb
-Size: 444976
-MD5sum: fc4481b590bd7c5c06f94ce32294cebc
-SHA1: 6b59f49aec45dd047cbe4615065037b2746a4b30
-SHA256: 007adb2d76b7942b0e6048fd374d8213aeabd67c2501764a6d0d7f96e0375f9d
-Section: 微信插件
-Description: 微信插件，支持聊天按钮布局自定义等。
-Author: 愫 茶
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WeChatEnhance微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
@@ -8460,63 +7683,6 @@ Name: o2 Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2/js.json
 
 Package: xc.lzsxcl.o2pro
-Version: 13.0
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 18848
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_13.0_iphoneos-arm64.deb
-Size: 6130220
-MD5sum: 063b17b85f3be9a4514890d8b463ecf8
-SHA1: 7ae624157ef8cb55854cd74b3caa07b4826c1628
-SHA256: 8e99791711aa4d8ff7845d42e4c19e3634819c855a3ab12ade13818b28df3b22
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: lzsxcl
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro-rootless
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 13.2
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 19300
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_13.2_iphoneos-arm64.deb
-Size: 6496712
-MD5sum: 28ae70a9a4059c78a8b5995b3d94ccb6
-SHA1: 68100df4ee3a3c45e81d65407598bc7574dce19a
-SHA256: 214314542e7ed52c515c9faccfd07ae5ad0d605fa4395cc536648e2cfb367c02
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 13.3
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 19364
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_13.3_iphoneos-arm64.deb
-Size: 6511576
-MD5sum: ceebf64c37c87f89e89bf49ef24099e5
-SHA1: 4a142711b8cd65a09d6cf12fa9fc11876a7a46a8
-SHA256: 5cfc97e74ec45ee0b4fe38097ed2314a31428a7b0cdfcfe8ac2e8f506ad854ff
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
 Version: 13.5-35
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
@@ -8533,44 +7699,6 @@ Author: lzsxcl
 Depiction: https://axs66.github.io/repo
 Icon: https://axs66.github.io/repo/icon/o2pro.png
 Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 15.0
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21400
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_15.0_iphoneos-arm64.deb
-Size: 8024552
-MD5sum: 17dda921e12d1913dab17eadd144e003
-SHA1: e88c933949167e86010b6a9678b2c53b684b755a
-SHA256: 9989a24f07d52f4004cceba545c11d53dae1f16bc3c8056cf47b0af96016adfc
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 15.0
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 21368
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_15.0_iphoneos-arm.deb
-Size: 7973868
-MD5sum: 680a11bf5a0691110aca8ff0060d4704
-SHA1: bbfadbf23544f4907dc9265a68ab22a5d1948f4d
-SHA256: 6cfdbd5013d6583a9e78709bedbad4eda350e184ef1c68947a7df1b63261521e
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro 有根
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
@@ -8607,44 +7735,6 @@ Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
 Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 16.5
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21196
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_16.5_iphoneos-arm64.deb
-Size: 7828548
-MD5sum: bae9b3be2c2fa67b0b210f4f3ec9c8e5
-SHA1: a8b40fa2c4cce61238e07ddbef791c672d4fbf18
-SHA256: 9fc104f8a181d42600a81891d0065c8339ee47ac678fd63afe02e3fe0a2266b0
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 16.6
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21292
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_16.6_iphoneos-arm64.deb
-Size: 7890140
-MD5sum: 83e19ea9ee72f2f824c0bc50d5c8abd9
-SHA1: 0d702e93288ea9dc66da002528fd27a238dc2174
-SHA256: 8f74159ed7c02812edf088572937263ac0545441cdf857efe8584a18fddddfcc
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/o2pro.png
 Name: o2Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
@@ -8707,139 +7797,6 @@ Name: o2Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
-Version: 17.0
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21356
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.0_iphoneos-arm64.deb
-Size: 7907692
-MD5sum: d9d2e69d2722eeae4352aacfa4f516bc
-SHA1: 65c07f33bdc93366669b028c93773895af4e6a41
-SHA256: 89a893c87cb3dc1fd8a49ae7d4ec4eb00830e278cc3b43ad8f33a3f83b97b8af
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.0.1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21536
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.0.1_iphoneos-arm64.deb
-Size: 8056264
-MD5sum: 3680926a3bf8a2c1c399a4290bf21ed3
-SHA1: 01471bc3ff242c205615065c06be31bd927885ae
-SHA256: db0ea10086e9c890da0fc3c670babd2ef84d1c78143b3f2059e2600ccbcbaef4
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.2
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21380
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.2_iphoneos-arm64.deb
-Size: 7911508
-MD5sum: 3bc9fd2666604536da2d31fe3e35f8c1
-SHA1: 321d57dd1a9cb96a2e186bd494a00fc53c2c76b6
-SHA256: f20b246fdf2f0e6bbdbae0a061192e384278527cf2de58a02e825faf9d2fb779
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.3.1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21464
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.3.1_iphoneos-arm64.deb
-Size: 8029148
-MD5sum: e2f4347bed6ef3813d4f801d7b08dc87
-SHA1: 6ea1f78c42f3e3e8c385597f389a3d1d1c997fd3
-SHA256: 28135d71d5cdccafffc78f732b30b40d4ec99e5829fa87000a310eabec1ff83c
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.3.3
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21316
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.3.3_iphoneos-arm64.deb
-Size: 7872768
-MD5sum: 88d1dc81eecf91876570a5636fbc3378
-SHA1: 82f98abad4544cf4ae32f0c497cef26982ff5a37
-SHA256: 814cb4c6464779efc57755802e0522537e2b1f4c69c1c94a92687bd36a1822e3
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.4
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21428
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.4_iphoneos-arm64.deb
-Size: 7928404
-MD5sum: 1cadc46a4cc813c9ccd3e1c3deb8477c
-SHA1: 13eba6068a06369bba50ecc00b2c44295a942e80
-SHA256: e6dbf6f7ce845c957cfff62fb299e0002cb3ee937ab98c89c4c0107a62ce442d
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.4
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 21316
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.4_iphoneos-arm.deb
-Size: 7895204
-MD5sum: 8662b59025f7e9370bdd484abb50881b
-SHA1: 034e290ee3e15dafe9d1c343fd8a12a26e62a60f
-SHA256: 7025abe29a7726a49618c8314d8d84a25194f6f5bd90c62d929905949376e6b5
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
 Version: 17.4-141
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
@@ -8859,102 +7816,6 @@ Name: o2Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
-Version: 17.6
-Architecture: iphoneos-arm64e
-Maintainer: lzsxcl
-Installed-Size: 21528
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.6_iphoneos-arm64e.deb
-Size: 16135112
-MD5sum: 58b931af1b82c47e147244a2d9c950c7
-SHA1: 37a4508631a6c6eae90223d4c464a4e92b2f0bfb
-SHA256: 7999c08a1fb18f9dc328173c3f1c26aea58379631d442c1dabe2ef3d91c1fdda
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://pan.ios999.vip/
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.6
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21528
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.6_iphoneos-arm64.deb
-Size: 8055740
-MD5sum: 2c930f4df62c3d7db1684ee28588abbd
-SHA1: 805b23d59d6001ce5c3d8c4a4bb0f046fa55c517
-SHA256: 1de9be147274b78a0e3a9e17921e2354c734f663942614cae5e886e544e4b24f
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.8
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21956
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.8_iphoneos-arm64.deb
-Size: 8209024
-MD5sum: 77044c494a5ecb13ac1eac399d8a1355
-SHA1: 2418a02b722570bb08f2a69346c53250b662b39f
-SHA256: db1190e88a7379e4771d3e9cedf70bae3497a949fd990dffca09743e9afbd152
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://pan.ios999.vip/
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.8
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 21920
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.8_iphoneos-arm.deb
-Size: 8211132
-MD5sum: 8114e183cd8c58f15f798fee1d1a4b40
-SHA1: f322feb96aebb4d4d546428223c8c96af15f4c4a
-SHA256: 186d5ac80df138addbedf7008f45c058010e93a8b0c60537db42c904068abd74
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://pan.ios999.vip/
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.8.7
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 21924
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.8.7_iphoneos-arm64.deb
-Size: 8213304
-MD5sum: 71eae0fe19d7b310c1df73ff94071510
-SHA1: f72415bc9f4774596dabb7a93a86afe1cf0e9a44
-SHA256: cf5fe1a6c8425d18f936d389c31e2f7616938da0dea9a7db170f38b07f203e57
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://pan.ios999.vip/
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
 Version: 17.8.8
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
@@ -8969,25 +7830,6 @@ Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
 Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.8.8
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 21760
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.8.8_iphoneos-arm.deb
-Size: 8206160
-MD5sum: 8c88932e087eada45bead764d4205734
-SHA1: b908eebc23295fcdebd119456873d31b0bb6611e
-SHA256: 24b099feb5262ab5c482b7aedfb1d010076f76f24b7518637fcab0c716063dc7
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://www.axs66.xyz
 Icon: https://axs66.github.io/repo/icon/o2pro.png
 Name: o2Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
