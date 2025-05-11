@@ -1,0 +1,58 @@
+name: Cleanup old .deb versions
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clean-debs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Clean old .deb versions (keep 3 latest per package)
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+          const path = require('path');
+
+          const debDir = path.join(__dirname, 'debs');
+          const keepCount = 3;
+          const files = fs.readdirSync(debDir).filter(f => f.endsWith('.deb'));
+
+          const pkgMap = {};
+          for (const file of files) {
+            const match = file.match(/^(.+?)_(\d+\.\d+(?:\.\d+)?)(?:_[^_]+)?\.deb$/);
+            if (!match) continue;
+            const [_, pkgName, version] = match;
+            if (!pkgMap[pkgName]) pkgMap[pkgName] = [];
+            pkgMap[pkgName].push({ version, file });
+          }
+
+          for (const pkg in pkgMap) {
+            const versions = pkgMap[pkg];
+            versions.sort((a, b) =>
+              a.version.localeCompare(b.version, undefined, { numeric: true })
+            );
+            const toDelete = versions.slice(0, -keepCount);
+            for (const v of toDelete) {
+              const filepath = path.join(debDir, v.file);
+              fs.unlinkSync(filepath);
+              console.log(`Deleted old version: ${v.file}`);
+            }
+          }
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add debs/
+          git commit -m "Cleanup old .deb versions" || echo "No changes to commit"
+          git push https://${{ secrets.PAT }}@github.com/axs66/repo.git HEAD:main
