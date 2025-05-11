@@ -1,1 +1,96 @@
+name: Deploy static content to Pages
 
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  actions: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python (if needed)
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run generate_packages.sh
+        run: |
+          chmod +x ./generate_packages.sh
+          ./generate_packages.sh
+        env:
+          PERSONAL_TOKEN: ${{ secrets.PAT }}
+
+      - name: Output Packages files
+        run: ls -l Packages*
+
+      - name: Commit updated Packages
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add Packages Packages.bz2 Packages.gz
+          git commit -m "Update Packages" || echo "No changes to commit"
+          git push https://${{ secrets.PAT }}@github.com/axs66/repo.git HEAD:main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Cleanup old workflow runs
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const runs = await github.rest.actions.listWorkflowRunsForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: context.workflow,
+              per_page: 100,
+            });
+
+            const runsToDelete = runs.data.workflow_runs
+              .filter(run => run.id !== context.runId && run.status === 'completed')
+              .slice(3,4);
+
+            if (runsToDelete.length === 0) {
+              console.log("No old workflow runs to delete.");
+            }
+
+            for (const run of runsToDelete) {
+              await github.rest.actions.deleteWorkflowRun({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                run_id: run.id,
+              });
+              console.log(`Deleted old workflow run ${run.id}`);
+            }
+
+      - name: Display Repository Size
+        run: |
+          echo "Checking repository size..."
+          REPO_SIZE=$(du -sh . | awk '{print $1}')
+          echo "Repository size: $REPO_SIZE"
