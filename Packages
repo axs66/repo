@@ -4265,6 +4265,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信点歌自定义封面
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatsong/js.json
 
+Package: com.Axs.wechatsong
+Version: 2.3+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 424
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.wechatsong_2.3+debug_iphoneos-arm64.deb
+Size: 52612
+MD5sum: 32b94ef14b7e707948be7f4c6a694527
+SHA1: eae63f66d3942cf319824c0ad7817dfb513053f8
+SHA256: 805f7286d06bc9b6e47d556893f38da8ef91c1b8c1b07e00f5f5c0b608a89383
+Section: 微信插件
+Description: 用于mikoto和黄白点歌的衍生，DIY歌曲封面信息，支持添加微信助手工具栏
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信点歌封面自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatsong/js.json
+
 Package: com.Axs.wechatversion33
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -7274,6 +7292,24 @@ Size: 3864412
 MD5sum: 5678e7ef4176d89416e7a8658d67004c
 SHA1: e634aacd44732327170a3526391c9fae739e9e9d
 SHA256: c715eacf1220132c67a5a8b8db12c4fca96f29b1c37e68f9d5fbb02f04083c6d
+Section: 微信插件
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 2.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 9108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.0.6-1_iphoneos-arm64.deb
+Size: 3979568
+MD5sum: c40aedd4c3c28160855c02fcd9c20964
+SHA1: c4b3bffb24c498daa0eba71a9c43752e4fa49bc0
+SHA256: d44771b24e61250348324e588f904954170ef5d85b9adad6443c5be1e2142edc
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
