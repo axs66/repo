@@ -4465,13 +4465,13 @@ Architecture: iphoneos-arm64
 Maintainer: WCYuanJiao
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Filename: ./debs/com.Axs.yuanjiao_1.2_iphoneos-arm64.deb
-Size: 141028
-MD5sum: 50f1f64498b787b88c23d8c66b15a4e8
-SHA1: a543794723ef6506bb627278f30c085a3cb286e5
-SHA256: a7a741dc98a934632ba1340a70fe1b4ad676b220bc3edb6c298db96783f9c97c
+Size: 128452
+MD5sum: ff36eb4049ee912fabaf4bc5bf189dfc
+SHA1: aa040daf896c9290816a87a953cfb4d81c62b67b
+SHA256: 7fa35f7976812e459d3f413bc8b2f2a6acfb9e53ad9ec0af8f90c274d4d7ee6f
 Section: 微信插件
 Description: 微信视图圆角控制，可以试玩2小时，9.9付费插件，添加微信VCR66T授权
-Author: WCYuanJiao
+Author: A
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 全局圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
