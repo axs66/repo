@@ -3025,6 +3025,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: RaiseSparks微信小火花
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/raisesparks/js.json
 
+Package: com.Axs.raisesparks
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 1348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.raisesparks_1.0.5_iphoneos-arm64.deb
+Size: 284564
+MD5sum: 6ee45627dc06bd01f74f52cf0c9ad9a7
+SHA1: b2fd7200c774eacbb9b4d9ec10d8735197cf0737
+SHA256: f1925ea4d28641754ebb3e8c93e1e03c6caed6cc49178cbd01f98e703166674e
+Section: 微信插件
+Description: 为微信添加小火花功能，快拉上好友一起续火花吧！
+Author: SHTM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: RaiseSparks微信小火花
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/raisesparks/js.json
+
 Package: com.Axs.reachplayer
 Version: 2.21-3
 Architecture: iphoneos-arm64
@@ -4429,10 +4447,10 @@ Architecture: iphoneos-arm64
 Maintainer: WCYuanJiao
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Filename: ./debs/com.Axs.yuanjiao_1.2_iphoneos-arm64.deb
-Size: 135880
-MD5sum: d8228ad0b015426cf8f943fcd2b880d1
-SHA1: 17200f5f12c00abaa297073a15ccd6162428b7e3
-SHA256: dad9827ce136da83613fe48e9d2432d91c047334198b5246d4147821d6b4b348
+Size: 141028
+MD5sum: 50f1f64498b787b88c23d8c66b15a4e8
+SHA1: a543794723ef6506bb627278f30c085a3cb286e5
+SHA256: a7a741dc98a934632ba1340a70fe1b4ad676b220bc3edb6c298db96783f9c97c
 Section: 微信插件
 Description: 微信视图圆角控制，可以试玩2小时，9.9付费插件，添加微信VCR66T授权
 Author: WCYuanJiao
