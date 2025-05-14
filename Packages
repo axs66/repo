@@ -4476,6 +4476,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 全局圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
+Package: com.Axs.yuanjiao
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.3_iphoneos-arm64.deb
+Size: 138944
+MD5sum: 97222dcc3c6173f98e388bbba4c41724
+SHA1: 7c5d846f4ad5479c6b142d58fb62b9419b73de65
+SHA256: 0518ed34c48da34df213ffe886c7abe9de0fcbb130727f41f362f36d7a9cb582
+Section: 微信插件
+Description: 微信视图圆角控制，可以试玩2小时，9.9付费插件，添加微信VCR66T授权
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+
 Package: com.Axs.zaire
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -4712,11 +4729,11 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.rma_1.0_iphoneos-arm64.deb
-Size: 25116
-MD5sum: 1e3d63c75838a47a668c35fef4b3a1a8
-SHA1: a81355eb2732d1f890ac67909a3fafe8ced4fb4c
-SHA256: 2570317ffc5df9631640444095f2a7662335c80063bf3444d969864513636b2d
+Filename: ./debs/com.axs.rma_1.0_iphoneos-arm64.deb
+Size: 25184
+MD5sum: 3320cfa3d087f03237c46dbd1449b478
+SHA1: cb81206fa056f463b879a13c1d4540de927334e5
+SHA256: 70b586918c362bd6be032a66f8e1c7c867a5138dbf1b52785fbf9eb101b464a6
 Section: Tweaks
 Description: A Lightweight Reachability Manager
 Author: A
@@ -4730,11 +4747,11 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.axs.rma_1.0_iphoneos-arm64.deb
-Size: 25184
-MD5sum: 3320cfa3d087f03237c46dbd1449b478
-SHA1: cb81206fa056f463b879a13c1d4540de927334e5
-SHA256: 70b586918c362bd6be032a66f8e1c7c867a5138dbf1b52785fbf9eb101b464a6
+Filename: ./debs/com.Axs.rma_1.0_iphoneos-arm64.deb
+Size: 25116
+MD5sum: 1e3d63c75838a47a668c35fef4b3a1a8
+SHA1: a81355eb2732d1f890ac67909a3fafe8ced4fb4c
+SHA256: 2570317ffc5df9631640444095f2a7662335c80063bf3444d969864513636b2d
 Section: Tweaks
 Description: A Lightweight Reachability Manager
 Author: A
