@@ -92,7 +92,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 4 月 15 日",
+                    "text": "2025 年 5 月 15 日",
                     "title": "最后更新"
                 }
             ]
@@ -103,7 +103,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.2.9\n1.修复一些小问题。",
+                    "markdown": "### 1.4.0\n1.优化防撤回，可自定义内容等。\n2.优化头像隐藏逻辑：仅在启用至少一个选项时执行相关逻辑。\n3.扩展功能添加绕过登录限制,默认开启。\n4.绕过登录限制默认开启。",
                 },
                 {
                     "class": "DepictionSeparatorView"
