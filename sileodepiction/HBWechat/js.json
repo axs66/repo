@@ -84,6 +84,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "1.8.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增消息小尾巴功能-【消息类功能-第二个启用消息小尾巴】，如果开启了部分主题气泡，可能无法正常显示。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "1.8.1",
                     "useBoldText": true,
                     "useBottomMargin": false
