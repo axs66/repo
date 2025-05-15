@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 5 月 14 日",
+                    "text": "2025 年 5 月 15 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,13 +88,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.3",
+                    "title": "1.4",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "初始发布",
+                    "markdown": "\n1.优化卡顿.\n2.修复朋友圈自己头像调整不生效！",
                     "useRawFormat": true
                 }
             ]
