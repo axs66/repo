@@ -1014,6 +1014,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
 
+Package: com.Axs.WCEhance
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCEhance_1.1-7_iphoneos-arm64.deb
+Size: 1217876
+MD5sum: ae04977241efa520e01c1ff0b33aeed6
+SHA1: 582db2dfd6e7aad832a20cec8bf425dd1c8494d8
+SHA256: be497d1a978ad22b3dc48c905302e4c4d88b9c352c6a09c90901609e6424346c
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
+
 Package: com.Axs.WCElite
 Version: 1.2-6
 Architecture: iphoneos-arm64
@@ -5446,6 +5464,24 @@ Author: huami
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCPluginsOrder插件排序
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPluginsOrder/js.json
+
+Package: com.huami.WCPulse
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.0-5_iphoneos-arm64.deb
+Size: 51056
+MD5sum: d03ed86330cb584a593419cf749b0ab5
+SHA1: 78d930c90bd89dca0e8b4cab1e5fd851597de55a
+SHA256: 6a3b1b421683f9d6be071718ccc8671367828a9fbdc6b1d63a7b9318e05bf8f6
+Section: 微信插件
+Description: 目前的功能包含：视频倍速手势、悬浮提示、头像时间自定义、隐藏系统时间、消息防撤回自定义、语言转发等.
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCPulse
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
 
 Package: com.huami.wcnicknameavatarstyle
 Version: 1.0-1
