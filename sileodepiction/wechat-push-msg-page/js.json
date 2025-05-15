@@ -92,7 +92,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 4 月 16 日",
+                    "text": "2025 年 5 月 12 日",
                     "title": "最后更新"
                 }
             ]
@@ -103,7 +103,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 0.0.3\n修复一些已知问题。",
+                    "markdown": "### 0.0.4\n修复一些已知问题。",
                 },
                 {
                     "class": "DepictionSeparatorView"
