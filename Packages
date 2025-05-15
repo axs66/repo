@@ -3902,6 +3902,24 @@ Icon: https://axs66.github.io/repo/icon/TVZ.png
 Name: Touch-Viz触摸轨迹
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/touchvis/js.json
 
+Package: com.Axs.touxiang
+Version: 1.0+debug
+Architecture: iphoneos-arm64
+Maintainer: touxiang
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.touxiang_1.0+debug_iphoneos-arm64.deb
+Size: 42864
+MD5sum: 75051ecac425f839508afa339ac579b3
+SHA1: 5941cd93694da7d5abbacde4674aeb3accb22afb
+SHA256: 299c99f73103e131ec1c711e4da20b9d0daf2b6e8bac812b95731e3b0c2b65dd
+Section: 微信插件
+Description: 微信头像自定义调整，圆角，边框及颜色等
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信头像圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/touxiang/js.json
+
 Package: com.Axs.trollleds
 Version: 1.8.1
 Architecture: iphoneos-arm64
@@ -4524,6 +4542,23 @@ SHA256: 9ee82d0d6c56bb363673a684724bc82fe4567f3cb98208ec79858f2fa7790d7d
 Section: 微信插件
 Description: 微信视图圆角控制，可以试玩2小时，9.9付费插件，添加微信CIA239授权
 Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+
+Package: com.Axs.yuanjiao
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: WCYuanJiao
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.6_iphoneos-arm64.deb
+Size: 173232
+MD5sum: 56676f926d043f83f52cbe66f9b646b5
+SHA1: a86286e9f4d44f866c512e7476d0c267b629320b
+SHA256: 6d9644d426b4c64a068ebab7def16a7d5db295007d956494ec451fcf4b946d52
+Section: 微信插件
+Description: 微信全局圆角，9.9元付费插件，添加微信CIA239授权
+Author: WCYuanJiao
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 全局圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
