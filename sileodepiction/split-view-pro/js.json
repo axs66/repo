@@ -88,6 +88,28 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "1.4.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复一些安全问题。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "去除联网验证，移除了安装详情中脏话及相关代码，\n已解决安全模式问题，\n直接安装即可使用。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "1.1.6",
                     "useBoldText": true,
                     "useBottomMargin": false
