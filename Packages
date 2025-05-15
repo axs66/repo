@@ -4493,6 +4493,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 全局圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
+Package: com.Axs.yuanjiao
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: WCYuanJiao
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.4_iphoneos-arm64.deb
+Size: 188292
+MD5sum: 369dce355a9d5a8b471cd4db0718d21b
+SHA1: 75809494f89b41d9e8ea0c9c2cf3709e0d984564
+SHA256: 9ee82d0d6c56bb363673a684724bc82fe4567f3cb98208ec79858f2fa7790d7d
+Section: 微信插件
+Description: 微信视图圆角控制，可以试玩2小时，9.9付费插件，添加微信CIA239授权
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+
 Package: com.Axs.zaire
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -7487,6 +7504,24 @@ Size: 450616
 MD5sum: 2b399615e8f58c608cb1766480ea0ab5
 SHA1: d9ccaf30e00005201ad630a45d1e23e45802ae19
 SHA256: 3de8dda3f4c5667e4dc16d1b2dfe505340b76af08c2b3141d43efe45ac4c668c
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+
+Package: com.wechat.enhance
+Version: 1.4-0
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2092
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.4-0_iphoneos-arm64.deb
+Size: 454436
+MD5sum: c02289a633673e98c997e163501ec600
+SHA1: 64b0b59c796391f06a6335e8eb816becfcd3c482
+SHA256: 6a8a2c8e692198ae2cd64085717f9adabf59f4410b2bda120b3cf1761bd6794a
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
