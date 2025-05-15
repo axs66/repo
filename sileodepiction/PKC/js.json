@@ -96,7 +96,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 4 月 6 日",
+                    "text": "2025 年 5 月 11 日",
                     "title": "最后更新"
                 }
             ]
@@ -105,6 +105,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.7.4\n1.新增`我邀请入群的群员`功能。\n2.增加`自动下载图、视频`功能。\n3.修复群设置页面查看`群近期操作`点击消息后，无法跳转定位问题。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 0.7.2\n1.`群管标识`字体颜色自定义区分深色背景和浅色背景。\n2.`标签Pro`修复错误显示问题。\n3.修复艾特所有人员浮窗提示不生效问题。\n4.修复壁纸等bug。",
