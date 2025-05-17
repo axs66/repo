@@ -1615,6 +1615,24 @@ Icon: https://axs66.github.io/repo/icon/CCLiftToWake.png
 Name: CCLiftToWake
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.ccmusic
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 428
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.Axs.ccmusic_1.0.5_iphoneos-arm64.deb
+Size: 28776
+MD5sum: 9e2058df35ad22881fb4853838c7a9d5
+SHA1: 20757dfc5be31fbabaadc026db3c2120a666ef1f
+SHA256: e6b1c379964a3dda247cebe6196416a0f0db1d5ae23b529d2c7d9f4e006155ab
+Section: 系统增强
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Icon: https://axs66.github.io/repo/icon/ccmusic.png
+Name: 控制中心音乐模块动画
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ccmusic/js.json
+
 Package: com.Axs.centra
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1906,6 +1924,24 @@ Author: XUUᶻ
 Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 抖音助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
+
+Package: com.Axs.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 432
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.dynamicislandanimation_1.1.8_iphoneos-arm64.deb
+Size: 29132
+MD5sum: 0e94c5415bcb95b355a2449ad33ab2da
+SHA1: 46cd8769eb72c619cc1421cc7ad7035f8e6bd673
+SHA256: b4d96ec5889a1272d30d45fa007b3a334a489f9dfbe9cf1e968ed2a876aaf8df
+Section: 系统增强
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Icon: https://axs66.github.io/repo/icon/dynamicislandanimation.png
+Name: 灵动岛跳舞动画
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dynamicislandanimation/js.json
 
 Package: com.Axs.dynamicnotland
 Version: 1.2.4
@@ -2448,6 +2484,25 @@ SHA256: b98f901d4e56dfaa9bf9936492ab853dc594275aa88125c23b4b8f61ae250089
 Section: 系统增强
 Description: 给灵动岛的外框内框添加自定义颜色，通知背景颜色等
 Author: MoreColor
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/lingdongdao.png
+Name: 灵动岛自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lingdongdao/js.json
+
+Package: com.Axs.lingdongdao
+Version: 1.0.0.2-235
+Architecture: iphoneos-arm64
+Maintainer: MrShi
+Installed-Size: 2352
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.lingdongdao_1.0.0.2-235_iphoneos-arm64.deb
+Size: 545888
+MD5sum: 4bc75d955e304a3ad6d288a7a863e625
+SHA1: eb9a1d24ba4421ddc56fecc4748d515818c5ed31
+SHA256: 2fb057511fd7a331c6e24f570f5959b5582cbfdbb86620bebf7be5e426064329
+Section: 系统增强
+Description: 给灵动岛的外框内框添加自定义颜色，通知背景颜色等
+Author: MrShi
 Depiction: https://axs66.github.io/repo
 Icon: https://axs66.github.io/repo/icon/lingdongdao.png
 Name: 灵动岛自定义
