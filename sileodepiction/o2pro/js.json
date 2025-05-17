@@ -10,13 +10,13 @@
             "views": [
                 {
                     "text":"✈分享频道",
-                    "action":"https://t.me/i66611",
+                    "action":"https://t.me/wxfx8",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
                 },
                {
-                    "text":"✈抖音展示",
-                    "action":"https://v.douyin.com/iAUvCPC9/",
+                    "text":"✈交流群组",
+                    "action":"https://t.me/oncar2",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
                 },
