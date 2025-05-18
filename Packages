@@ -5595,6 +5595,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCPulse
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
 
+Package: com.huami.WCPulse
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.0-7_iphoneos-arm64.deb
+Size: 63532
+MD5sum: 6da1da9b81e0bf02485548d7b2b428d2
+SHA1: 32462f3225ae9e12dfb3bc9cfa82bbf59a71a949
+SHA256: e7068ee3817ff9dbb9d650360c04df5fbe8f63e400f1779f271bc77856eae4d3
+Section: 微信插件
+Description: 目前的功能包含：视频倍速手势、悬浮提示、头像时间自定义、隐藏系统时间、消息防撤回自定义、语言转发等.
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCPulse
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
+
 Package: com.huami.wcnicknameavatarstyle
 Version: 1.0-1
 Architecture: iphoneos-arm64
