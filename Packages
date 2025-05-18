@@ -3760,6 +3760,42 @@ Icon: https://axs66.github.io/repo/icon/swipeextender.png
 Name: SwipeExtenderX汉化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwipeExtenderX/js.json
 
+Package: com.Axs.switchtheme1
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.switchtheme1_1.0.0_iphoneos-arm64.deb
+Size: 43704
+MD5sum: 0018f9e5ab0baba98f73e6d7ab2ae5ff
+SHA1: 25443a2721cc879e04a030b0b8f9f26211286bc7
+SHA256: c7eee228f201a26906081b94e2a0eccd39b0c1d9c215dbefc80a6030e2a3a492
+Section: 系统增强
+Description: 这一款全新的开关主题，以半透的风格绘制的三勾玉写轮眼为核心设计，开启时勾玉缓缓旋转，带来极致是丝滑体验。
+Author: 白衣
+Icon: https://axs66.github.io/repo/icon/switchtheme1.png
+Name: 写轮眼开关(蓝）
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
+
+Package: com.Axs.switchtheme2
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.switchtheme2_1.0.0_iphoneos-arm64.deb
+Size: 43408
+MD5sum: 895b86701fe8dd963869fad22b0f40ea
+SHA1: d5e39823bee7b34d814b9eacd0c7ec5fd50d87f1
+SHA256: df001b72941a7a43158ebc64c3ee0ac9b1f622f33f6e496525f77efa0a7db1dc
+Section: 系统增强
+Description: 这一款全新的开关主题，以半透的风格绘制的三勾玉写轮眼为核心设计，开启时勾玉缓缓旋转，带来极致是丝滑体验。
+Author: 白衣
+Icon: https://axs66.github.io/repo/icon/switchtheme2.png
+Name: 写轮眼开关(红）
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
+
 Package: com.Axs.tapticboard
 Version: 1.2
 Architecture: iphoneos-arm64
