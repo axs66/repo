@@ -4924,6 +4924,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: wechatsong微信点歌封面自定义
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatsong/js.json
 
+Package: com.be-huge.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 672
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.tie-gesture_1.0.0_iphoneos-arm64.deb
+Size: 102100
+MD5sum: 9d67c6869db54178457c739850d2e9d7
+SHA1: a5252dc49c5ff44efb64bdb6c52621f9bbef1080
+SHA256: 958d93f0b4b820f42bc6e6df712b7a0a1917c0324b39753c1e6886c0a39021b8
+Section: 系统插件
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://axs66.github.io/repo/icon/tie-gesture.png
+Name: TieGesture手势插件
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/tie-gesture/js.json
+
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
@@ -7689,6 +7707,24 @@ Size: 450908
 MD5sum: 872f45dee4fafd218032655f1936a80d
 SHA1: a78556307b618ca0ad27211f17fef060ae48fa81
 SHA256: 0a3cbbec96edfb354471e3fa95c0009a7238668a748d407906742001bc06e22f
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+
+Package: com.wechat.enhance
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechat.enhance_1.4-2_iphoneos-arm64.deb
+Size: 451304
+MD5sum: eb0d08019e36fdd2a99352381b2d86cf
+SHA1: 209d558b663629219b195bf9cb508a5500f4fc40
+SHA256: cc85158f10a327ca450f624c0dd56a1d5039339ec47fb679b30c4712a87d1b37
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
