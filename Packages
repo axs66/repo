@@ -4554,16 +4554,16 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxtouch/js.json
 Package: com.Axs.yuanjiao
 Version: 1.6.1
 Architecture: iphoneos-arm64
-Maintainer: WCYuanJiao
+Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Filename: ./debs/com.Axs.yuanjiao_1.6.1_iphoneos-arm64.deb
-Size: 135068
-MD5sum: 3e7f9398f853709e5c361dcc7ff124e4
-SHA1: 4ec84d7d13a2cf7a231731ea41067c7d6ead0099
-SHA256: f9d85bdff649ca9b46a696ca107ed0002efc5d840c78071a42e8db7a4c4297b0
+Size: 135368
+MD5sum: 1a196dc65dd9568840c6be65466ed2ae
+SHA1: 1298c3b31fcc9d33b709f79df6523ece18c9cd5e
+SHA256: 0033209f1f1ec14e4b785c723abd854631d3f3938cd80e530ef05774a751950e
 Section: 微信插件
-Description: 微信全局圆角，9.9元付费插件，添加微信VCT66T授权
-Author: WCYuanJiao
+Description: 微信全局圆角，9.9元付费插件，添加微信VCR66T授权
+Author: A
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 全局圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
