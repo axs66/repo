@@ -1,1 +1,103 @@
-
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://axs66.github.io/repo/images/Axslogo.png",
+    "tintColor": "#00BFFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text":"✈分享频道",
+                    "action":"https://t.me/wxfx8",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                }, 
+               {
+                    "text":"✈交流群组",
+                    "action":"https://t.me/oncar2",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。",
+                    "useRawFormat": true,
+                },      
+               {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{150, 346}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/repo/sileodepiction/reachplayer/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/repo/sileodepiction/reachplayer/Screenshot_02.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "A先生",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "VCR66T",
+                    "title": "微信"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 5 月 15 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "\n1.修复一些已知bug",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ]
+}
