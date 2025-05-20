@@ -2140,14 +2140,14 @@ Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.fbo_0.0.1_iphoneos-arm64.deb
 Size: 3344
-MD5sum: bb0de145d197f15f3ff0dc0cb8778d66
-SHA1: 33bde4dcb0e28491fd9185c95109914add5fe2b9
-SHA256: 34a9ac81997c0b3013fb8f76d130dd890d674fcf779cfc2dcd4a510462ffd611
+MD5sum: 1b80849968b6a19aff3c6a5ab752afb4
+SHA1: 3cd812e9212f1f613d480d36c5b77f42c2b42b54
+SHA256: 52b9d2b099edf874b277f77bf8acc854a50c1a2ac8894315e9b27a3bfef315ec
 Section: 系统增强
 Description: 隐藏文件App底部功能选项卡
 Author: dvntm
 Icon: https://axs66.github.io/repo/icon/fbo.png
-Name: 隐藏文件App低栏
+Name: 隐藏文件App底栏
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/fbo/js.json
 
 Package: com.Axs.filzacrack
