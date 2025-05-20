@@ -2132,6 +2132,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 自动发卡
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/faka/js.json
 
+Package: com.Axs.fbo
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.fbo_0.0.1_iphoneos-arm64.deb
+Size: 3344
+MD5sum: bb0de145d197f15f3ff0dc0cb8778d66
+SHA1: 33bde4dcb0e28491fd9185c95109914add5fe2b9
+SHA256: 34a9ac81997c0b3013fb8f76d130dd890d674fcf779cfc2dcd4a510462ffd611
+Section: 系统增强
+Description: 隐藏文件App底部功能选项卡
+Author: dvntm
+Icon: https://axs66.github.io/repo/icon/fbo.png
+Name: 隐藏文件App低栏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/fbo/js.json
+
 Package: com.Axs.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm64
