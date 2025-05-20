@@ -4811,6 +4811,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
 
+Package: com.HBWechatHelper.ailun
+Version: 1.8.6
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.8.6_iphoneos-arm64.deb
+Size: 11764356
+MD5sum: 90583c3e1f538155c31d438a9708abe8
+SHA1: ca2cbd60e38eaf650d3f2354c234643b911366e6
+SHA256: c050cfca43c57b0e7b73669e2df0a7564140ca5bae1eda9b874cc5333b2f13dd
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
+
 Package: com.anthopak.quickprefs-rootless
 Version: 1.3.3
 Architecture: iphoneos-arm64
