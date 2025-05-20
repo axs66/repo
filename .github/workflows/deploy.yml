@@ -74,7 +74,7 @@ jobs:
 
             const runsToDelete = runs.data.workflow_runs
               .filter(run => run.id !== context.runId && run.status === 'completed')
-              .slice(3,4);
+              .slice(3,30);
 
             if (runsToDelete.length === 0) {
               console.log("No old workflow runs to delete.");
