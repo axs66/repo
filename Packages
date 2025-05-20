@@ -3135,24 +3135,6 @@ Name: RaiseSparks微信小火花
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/raisesparks/js.json
 
 Package: com.Axs.reachplayer
-Version: 2.21-3
-Architecture: iphoneos-arm64
-Maintainer: ETHN
-Installed-Size: 4304
-Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
-Filename: ./debs/com.Axs.reachplayer_2.21-3_iphoneos-arm64.deb
-Size: 3537644
-MD5sum: 9a0eb9d950b89e8e9c7e1f843cc073de
-SHA1: 6027093d36a88bb35e634e5753cf916a6b388760
-SHA256: 1ea17975671d2f4d68b712522d0d400912b937904d47eca6102f203783d06f9c
-Section: 系统增强
-Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。这个版本是付费版本，免费的长按获取安装2.6版本！
-Author: ETHN
-Icon: https://axs66.github.io/repo/icon/reachplayer.png
-Name: ReachPlayer音乐专辑
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
-
-Package: com.Axs.reachplayer
 Version: 2.6
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
