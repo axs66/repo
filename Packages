@@ -906,6 +906,28 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemePro-3.5.7-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.ThemePro
+Version: 3.8.7
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/com.Axs.ThemePro_3.8.7_iphoneos-arm64.deb
+Size: 5834468
+MD5sum: 47f755b58e608f19bee888b7dd1bc58f
+SHA1: 3c8aa4cecccff0b81bf98d79d6475bd98848d101
+SHA256: a21b8b1a5f077f8bac15ece0dcf3b449061fc52f202de56e4bb0473fc0a2b84a
+Section: 微信插件
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemePro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
 Package: com.Axs.WCEhance
 Version: 1.0-2
 Architecture: iphoneos-arm64
