@@ -4695,6 +4695,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 全局圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
+Package: com.Axs.yuanjiao
+Version: 1.6.5
+Architecture: iphoneos-arm64
+Maintainer: WCYuanJiao
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.6.5_iphoneos-arm64.deb
+Size: 201544
+MD5sum: 4563f7038fc82df3bc7d55600be15517
+SHA1: 7358240442d5c7b10dc6c654b40606ae986ee460
+SHA256: 620b65bf76dad1c5459db09f97c40a743c691a4e2a493428e68203e8f11724b7
+Section: 微信插件
+Description: 微信全局圆角，9.9元付费插件，添加微信VCR66T授权
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+
 Package: com.Axs.zaire
 Version: 0.9.0
 Architecture: iphoneos-arm64
