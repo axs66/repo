@@ -2926,6 +2926,24 @@ Icon: https://axs66.github.io/repo/icon/passby.png
 Name: Passby智能化面容
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.peektimeline
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: developlab
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.Axs.peektimeline_1.0_iphoneos-arm64.deb
+Size: 9632
+MD5sum: b65538dc42d915272a37fa115f524b17
+SHA1: 552986640815f6caa021b013a6ae6f578394a77c
+SHA256: 51e746a0926398ecc7e1d3993bb54cd094c02ae1b3306f5491f806e7a7ebfbab
+Section: 微信插件
+Description: 微信长按消息预览窗口
+Author: developlab
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: PeekTimeLine消息预览
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/peektimeline/js.json
+
 Package: com.Axs.picsewvip
 Version: 1.0.0
 Architecture: iphoneos-arm64
