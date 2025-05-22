@@ -2583,6 +2583,24 @@ Icon: https://axs66.github.io/repo/icon/ljm.png
 Name: 拦截猫vip
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ljm/js.json
 
+Package: com.Axs.lockmusic
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: ./debs/com.Axs.lockmusic_1.0_iphoneos-arm64.deb
+Size: 3152
+MD5sum: b0185c596d496750c94bbb9127b4ddc8
+SHA1: 40fe69124e91cfa57c689176452d731a8384232e
+SHA256: 4ccb370182f02e0081f92d95ed90de3fb3af4e108121b23d8c1e648591d736ca
+Section: Tweaks
+Description: 隐藏锁屏音乐控件，仅支持ios16，无设置项，安装生效。
+Author: wkk
+Icon: https://axs66.github.io/repo/icon/musicrotation.png
+Name: HideLockMusic隐藏锁屏音乐控件
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axs.lockscreen
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -6179,12 +6197,12 @@ Maintainer: lhh
 Installed-Size: 2748
 Depends: firmware (>= 15.0)
 Filename: ./debs/com.lhh.lockplayer_2.9_iphoneos-arm64.deb
-Size: 183080
-MD5sum: fb1af6a53414143f585916fe7f57400a
-SHA1: 5cb16416abcb441f91881421a5c46a44944debdb
-SHA256: ac0aa2cfb16b44bf8db13a477315174b973fec2a441caa098381ce6de1deb479
+Size: 182992
+MD5sum: 4e29264a4fb09307ebe1d8a285396068
+SHA1: 13c42c00044568e372d1c6c668288056dd3c3ff6
+SHA256: d08dc321718539c3d2a617288bce80d77c4a463189e5af9f970657ca1d07a8a6
 Section: Tweaks
-Description: 锁屏播放器
+Description: 锁屏播放器，想隐藏原生自带的播放器，可以在源里面的搜索：隐藏锁屏音乐控件
 Author: lhh
 Icon: https://axs66.github.io/repo/icon/lockplayer.png
 Name: LockPlayer锁屏播放器
