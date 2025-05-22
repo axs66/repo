@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 4 月 9 日",
+                    "text": "2025 年 5 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -82,6 +82,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.8.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.优化[消息类功能]-消息小尾巴.\n2.移除[自动化功能]-不稳定的功能.\n3.新增[禁用类功能]-禁用小尾巴显示。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "1.8.5",
@@ -135,39 +146,6 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "1.优化保存朋友圈实况。\n2.修复非实况版本保存图片闪退的问题。\n3.新增[特色类功能]-进入聊天界面自动呼出输入法。",
-                    "useRawFormat": true
-                },
-               {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.7.4",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "1.新增[默认功能]-强制开启多开人脸。\n2.新增[语音类功能]-新的第三方接口模型。\n3.新增[群聊类功能]-新进群自动置顶群聊。\n4.新增[朋友圈功能]-保存朋友圈实况图片到手机相册。",
-                    "useRawFormat": true
-                },
-               {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.7.3",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "1.修复文本转语音图标消失的问题。\n2.新增[快捷按钮]-禁用全局摄像头。\n3.新增[特色类功能]-自定义微信标题。\n4.新增[群聊类功能]-自动备注名本地进群时间。",
-                    "useRawFormat": true
-                },
-               {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.7.2",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "1.优化插件移除部分代码。\n2.修复文本转语音图标消失的问题。\n3.新增[特色类功能]-自定义微信标题。\n4.设置首页的文本，除了好看没实际作用待新增。",
                     "useRawFormat": true
                 }
             ]
