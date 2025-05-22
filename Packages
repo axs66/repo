@@ -160,6 +160,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemeManager-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
+Package: cax.zhumi.thememanager.rootless
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/cax.zhumi.thememanager.rootless_1.6.9_iphoneos-arm64.deb
+Size: 1830984
+MD5sum: e546353afec8f2da9c6d29459d620e6d
+SHA1: 81bd651f65486f38832581b6667298fbb3951f07
+SHA256: 60a2e8551d52478129518acfd7f5afe5ef71269f60e809402817d6d1c02b74a8
+Section: 微信插件
+Priority: optional
+Description: https://axs66.github.io/repo
+Author: zhumi
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 猪咪主题ThemeManager
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
 Package: cn.llld.wxx
 Version: 1.0.6
 Architecture: iphoneos-arm64
