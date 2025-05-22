@@ -6172,6 +6172,24 @@ Icon: https://axs66.github.io/repo/icon/shortvideodl.png
 Name: 短视频助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
 
+Package: com.lhh.lockplayer
+Version: 2.9
+Architecture: iphoneos-arm64
+Maintainer: lhh
+Installed-Size: 2748
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.lhh.lockplayer_2.9_iphoneos-arm64.deb
+Size: 183080
+MD5sum: fb1af6a53414143f585916fe7f57400a
+SHA1: 5cb16416abcb441f91881421a5c46a44944debdb
+SHA256: ac0aa2cfb16b44bf8db13a477315174b973fec2a441caa098381ce6de1deb479
+Section: Tweaks
+Description: 锁屏播放器
+Author: lhh
+Icon: https://axs66.github.io/repo/icon/lockplayer.png
+Name: LockPlayer锁屏播放器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
+
 Package: com.mikifp.griddy
 Version: 1.0.3
 Architecture: iphoneos-arm64
