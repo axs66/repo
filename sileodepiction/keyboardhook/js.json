@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "这个插件是关于系统输入法和微信输入法的一些自定义，包括：键盘背景自定义、预选词语自定义；价值168元，且行且珍惜，不要边骂，别人可以关闭服务器，那插件就又失效。",
+                    "markdown": "关于系统输入法和微信输入法的一些自定义，包括：键盘背景自定义、预选词语自定义；付费插件，仅做个人备份。",
                     "useRawFormat": true,
                 },      
                {
@@ -63,12 +63,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "A先生",
+                    "text": "莫名其妙",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "VCR66T",
+                    "text": "ios-TrollStore",
                     "title": "微信"
                 },
                 {
