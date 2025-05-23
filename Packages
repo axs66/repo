@@ -2421,6 +2421,24 @@ Author: Axs
 Name: 键盘高度、地球及语音融入键盘
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/jp/js.json
 
+Package: com.Axs.keyboardhook
+Version: 2.0-6+debug
+Architecture: iphoneos-arm64
+Maintainer: baiy
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.Axs.keyboardhook_2.0-6+debug_iphoneos-arm64.deb
+Size: 52556
+MD5sum: fbd9182a7c7b7204c5b9709cff2665ff
+SHA1: e2736f12878ff6ee2344b4fe24d61ea5f653189d
+SHA256: b8f4fff98fe6fdf83995f2949fd027b3fd4d45df46b1c68c81506c04d93cf78a
+Section: 系统增强
+Description: 关于系统输入法和微信输入法的一些自定义，让键盘更个性化！
+Author: baiy
+Icon: https://axs66.github.io/repo/icon/keyboardhook.png
+Name: KeyboardHook原生输入法自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/keyboardhook/js.json
+
 Package: com.Axs.keyboards
 Version: 3.0
 Architecture: iphoneos-arm64
