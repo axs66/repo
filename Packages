@@ -2244,6 +2244,28 @@ Icon: https://axs66.github.io/repo/icon/flexibleexpression.png
 Name: FlexibleExpression灵动岛粒子动画
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/flexibleexpression/js.json
 
+Package: com.Axs.flexibleexpression
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 952
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.flexibleexpression_1.0.0_iphoneos-arm64.deb
+Size: 355872
+MD5sum: aa3d630304f6b7e16603e62acbedf166
+SHA1: 6007f16b4238bf85b2dfca55997c695b560d876a
+SHA256: ad329a933771b718a3b2f15c1ef9535af7f06994cd8500ebcf706ce824843674
+Section: Tweaks
+Description: 灵动空间，灵动岛不再枯燥！
+ v1.0.0 更新内容：
+ • 支持实时设置更新，无需注销
+ • 优化动画性能和视觉效果
+Author: SHTM
+Depiction: https://alist.138686.xyz
+Icon: https://axs66.github.io/repo/icon/flexibleexpression.png
+Name: FlexibleExpression灵动空间
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/flexibleexpression/js.json
+
 Package: com.Axs.flexlist
 Version: 1.4-2
 Architecture: iphoneos-arm64
