@@ -1964,6 +1964,25 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 抖音助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
+Package: com.Axs.douyinhelper
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 1240
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.douyinhelper_1.2-5_iphoneos-arm64.deb
+Size: 247520
+MD5sum: 57c485f22b4979b7cfa582aa5f6e2f53
+SHA1: a97c156f460cecb1e5becbb87365a4a610438c7d
+SHA256: a141490e0dd7e7ba57b07272f95dac419caa8139e60240f7d9e2dfee38042adf
+Section: Tweaks
+Priority: optional
+Description: 三指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 抖音助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/douyinhelper/js.json
+
 Package: com.Axs.dynamicislandanimation
 Version: 1.1.8
 Architecture: iphoneos-arm64
