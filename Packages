@@ -5037,16 +5037,16 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
 Package: com.HBWechatHelper.ailun
 Version: 1.8.7
 Architecture: iphoneos-arm64
-Maintainer: HuangBai
+Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.HBWechatHelper.ailun_1.8.7_iphoneos-arm64.deb
-Size: 11362580
-MD5sum: 8b167bdfb79cf5c04f656c4385cbb1f1
-SHA1: 7ae871909a49bd19443c947db1354046bc8cec9f
-SHA256: 41f0b60ab5ce5ba4c7f75248930e439dbd85f03efa9a9ea25adafa2a9c7bc344
+Size: 11438132
+MD5sum: b8e6f30d75d17f18b0cc0c2dddf0b58f
+SHA1: 8888e47cf7bdd242c1581d3bf1005c02d664e4dd
+SHA256: 6559476dc51970b10b8d304c811836f1a34d5abb8e39891738527ca66f48cb39
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
+Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
