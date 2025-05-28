@@ -21,7 +21,7 @@
                     "class":"DepictionButtonView"
                 },
                 {
-                    "markdown": "微信增强，最好看的Ui设计",
+                    "markdown": "微信增强，最好看的Ui设计。注意：1.1.9才是原作者版本，后续的都是二改版本，据说存在格机代码",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
