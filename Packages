@@ -4507,6 +4507,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信消息直达
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
 
+Package: com.Axs.wechat-push-msg-page
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.Axs.wechat-push-msg-page_0.0.5_iphoneos-arm64.deb
+Size: 23356
+MD5sum: c673ed8582f84a6c529dff1c1afd8886
+SHA1: ef0095a465faed9cfe37f3e776a7220b61a5b50a
+SHA256: 952d41b81ee20785de378973b1e2bd706455d3329213618ec786a476686d3907
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信消息直达
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
+
 Package: com.Axs.wechathelper
 Version: 1.0-2
 Architecture: iphoneos-arm64
