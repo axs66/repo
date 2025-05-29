@@ -5158,6 +5158,26 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 抖音净化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
+Package: com.axs.dytweak
+Version: 3.0.6
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2060
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.axs.dytweak_3.0.6_iphoneos-arm64.deb
+Size: 388940
+MD5sum: 4e47f71cf63e55ec4b606b4f374a4f78
+SHA1: 62a6c0bb48592d60dabdda755c7d2caca09cfad4
+SHA256: 93c9e865f41c47df62f111544e2bb04b445c4ca62b05225c2294e7071bd629b2
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/axs66
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: 抖音净化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
+
 Package: com.axs.rma
 Version: 1.0
 Architecture: iphoneos-arm64
