@@ -83,7 +83,7 @@
             "views": [
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "无法查看此软件包的更新日志",
+                    "markdown": "#v3.06   \n添加了PXX分享的点赞、关注、粉丝等伪装数据功能",
                     "useRawFormat": true
                 }
             ]
