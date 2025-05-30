@@ -1343,6 +1343,24 @@ Name: Aria控制中心背景图
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/aria/js.json
 Sponsor: Axs
 
+Package: com.Axs.arise
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: EthanRDoesMC
+Installed-Size: 1492
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Filename: ./debs/com.Axs.arise_1.2.3_iphoneos-arm64.deb
+Size: 823612
+MD5sum: b497bd7313cb0f0510aeaf7868f4f0e1
+SHA1: 79f7f245389581adec7e8c893a00120c385c17df
+SHA256: a1051901c6464567c07af52bed088c3cae84c2cfd49b7ce26ca1df465f8e80b9
+Section: Tweaks系统增强
+Description: 自定义并自动化您的锁定屏幕。
+Author: EthanRDoesMC
+Icon: https://axs66.github.io/repo/icon/arise.png
+Name: Arise
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/arise/js.json
+
 Package: com.Axs.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -4612,6 +4630,23 @@ Description: 用于mikoto和黄白点歌的衍生，DIY歌曲封面信息，支�
 Author: A
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信点歌封面自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatsong/js.json
+
+Package: com.Axs.wechatsong
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.wechatsong_2.4_iphoneos-arm64.deb
+Size: 53976
+MD5sum: ebac219d9f0f9a0ae2bfa125feedfba0
+SHA1: d611535b46d6d4613cb7503cc9a524572164be8f
+SHA256: 8e828cca26c74005bca0c2be360b5f7fff4751f4a39a2474604fea5bf4189a59
+Section: 微信插件
+Description: 微信点歌封面自定义
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 点歌封面自定义
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatsong/js.json
 
 Package: com.Axs.wechatversion33
