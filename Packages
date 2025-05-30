@@ -1350,11 +1350,11 @@ Maintainer: EthanRDoesMC
 Installed-Size: 1492
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
 Filename: ./debs/com.Axs.arise_1.2.3_iphoneos-arm64.deb
-Size: 823612
-MD5sum: b497bd7313cb0f0510aeaf7868f4f0e1
-SHA1: 79f7f245389581adec7e8c893a00120c385c17df
-SHA256: a1051901c6464567c07af52bed088c3cae84c2cfd49b7ce26ca1df465f8e80b9
-Section: Tweaks系统增强
+Size: 823528
+MD5sum: 8e275cd002320d3e00d45c7759744685
+SHA1: b8f4f5f3661f8ee5d5464c0432b38871a6a746d4
+SHA256: 9c349f16fa7454e1857de13bf90f99b1317c271868412b7e568b60493e91980d
+Section: 系统增强
 Description: 自定义并自动化您的锁定屏幕。
 Author: EthanRDoesMC
 Icon: https://axs66.github.io/repo/icon/arise.png
@@ -5328,10 +5328,10 @@ Installed-Size: 672
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/com.be-huge.tie-gesture_1.0.0_iphoneos-arm64.deb
 Size: 102100
-MD5sum: 9d67c6869db54178457c739850d2e9d7
-SHA1: a5252dc49c5ff44efb64bdb6c52621f9bbef1080
-SHA256: 958d93f0b4b820f42bc6e6df712b7a0a1917c0324b39753c1e6886c0a39021b8
-Section: 系统插件
+MD5sum: 381991c39e8f0003e36109df520f17e9
+SHA1: 7dfd9873410736342f9bed824686734057c2fc94
+SHA256: 3a448c73c4246301bc65fbc363b315642599b95c6081880260f0c5d6f3af8e2f
+Section: 系统增强
 Description: 手势插件，一切从简即可。
 Author: be-huge
 Icon: https://axs66.github.io/repo/icon/tie-gesture.png
