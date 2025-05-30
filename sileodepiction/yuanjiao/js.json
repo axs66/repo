@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 5 月 26 日",
+                    "text": "2025 年 5 月 30 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,6 +86,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.6.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化引用和左滑，添加助手右滑，添加通讯录左滑，添加直播列表，添加群置顶，添加图片转发，添加盒子顶栏头像圆角支持(盒子选矩形)，(修复聊天界面边框滑块错乱，为了美观取消底栏圆角的边框).",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "1.6.7",
