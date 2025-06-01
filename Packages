@@ -8557,6 +8557,25 @@ Name: o2Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
+Version: 17.10
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 30328
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_17.10_iphoneos-arm64.deb
+Size: 12436392
+MD5sum: adc6b763eee030258ac20544f99f533d
+SHA1: 2135a545915a041f680573c7cd83cd6a8ef2bc41
+SHA256: 912ab53c188e3d1668f8246242bb240288df867f9358b7c3318962d0eb578a55
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
 Version: 17.4-141
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
