@@ -6106,12 +6106,12 @@ Maintainer: huami
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.huami.WCPulse_1.0-9_iphoneos-arm64.deb
-Size: 70876
-MD5sum: 619f9ebacdbc83afdab7927097012c48
-SHA1: e88cff97d21895dd01bbad7bae4c3330019ae412
-SHA256: 792410cd97e2e639f7f4fd8878f53062ed6fc35a5954d0f4f784fcce9e6271db
+Size: 70692
+MD5sum: dc48ba80dc820c954db489820335e435
+SHA1: e49c4d45e20faca29112e0c9a3a33c10f9d536b2
+SHA256: c21ecb373c478fa688bcd46661d85c518533cc0107e4b7d15897a0704282de62
 Section: 微信插件
-Description: 目前的功能包含：视频倍速手势、悬浮提示、头像时问自定义、隐藏 系统时间、消息防撤回自定义、语言转发、长按消息预览等.
+Description: 目前的功能包含：视频倍速手势、悬浮提示、头像时间自定义、隐藏系统时间、消息防撤回自定义、语音转发、长按消息预览等.
 Author: huami
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCPulse
