@@ -4164,6 +4164,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 净化复活（微Q音）
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/time/js.json
 
+Package: com.Axs.togglow
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker,oldabi
+Filename: ./debs/com.Axs.togglow_1.0.8_iphoneos-arm64.deb
+Size: 184888
+MD5sum: 9b66ba4be90cc11c8ef4241879ace1c8
+SHA1: 15240e3f08ed059014b39865ef51662fb5781009
+SHA256: 42b97f936d249ea68b408eaf3266f92368343b3ae384cd94b610f54267fad26b
+Section: 系统增强
+Description: Make the control center your own !控制中心美化，发光
+Author: smokin1337 <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/togglow.png
+Name: Togglow控制中心发光
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/togglow/js.json
+
 Package: com.Axs.touchvis
 Version: 2.8-1
 Architecture: iphoneos-arm64
