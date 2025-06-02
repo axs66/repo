@@ -775,6 +775,25 @@ Icon: https://axs66.github.io/repo/icon/3dappversionspoofer.png
 Name: 3DAppVersionSpoofer
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.Axon
+Version: 2.1.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.Axs.Axon_2.1.3_iphoneos-arm64.deb
+Size: 144280
+MD5sum: 108da90165f61e40c75ff5dcfda6c5aa
+SHA1: f7c685822dabcab0bdce434c65b3304b5339dcb2
+SHA256: 2f694d6fb5ed76784c10855a82b94e06d5d8302929c397a101fd505213060f69
+Section: Tweaks
+Description: 本插件非常的好用！推荐！
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/Axon.png
+Name: Axon美化通知
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/Axon/js.json
+Sponsor: Axs
+
 Package: com.Axs.BypassWechatMSG
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -2873,24 +2892,6 @@ Author: Ethan Whited
 Icon: https://axs66.github.io/repo/icon/n95.png
 Name: N95
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/n95/js.json
-
-Package: com.Axs.net.Axon
-Version: 2.1.3
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 712
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.Axs.Axon_2.1.3_iphoneos-arm64.deb
-Size: 144244
-MD5sum: 5a2bb6e236d115e19c64d909eec81ed0
-SHA1: bb122b22cfeb11362b7a52f4b3bdb166dcb85882
-SHA256: 10c5c024677912cfab46d92b188fe0de0097e15674db5e8c411cf897a046376e
-Section: Tweaks
-Description: 本插件非常的好用！推荐！
-Author: Axs
-Name: Axon美化通知
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/axon/js.json
-Sponsor: Axs
 
 Package: com.Axs.net.aria
 Version: 0.9.8.1
