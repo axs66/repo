@@ -3162,6 +3162,24 @@ Author: ichitaso
 Name: PrimalFolder2
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.prokeys
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis, firmware (>= 15.0)
+Filename: ./debs/com.Axs.prokeys_1.1.2_iphoneos-arm64.deb
+Size: 94244
+MD5sum: 271f1866fe2feb7301fdf77e0fe9c8cd
+SHA1: ed95a64520ee73e3517f8c2a8b9bcb80130df2d9
+SHA256: 8607e20e760782be4d4419176b4ba13ef73b8317aa8532b3161d4295e431601c
+Section: 系统增强
+Description: Prokeys是iPhone的触觉RGB键盘，Prokeys是iOS键盘的本应有的。您可以从字面上感觉到每一个击键，可以自定义键盘和键盘的外观，并且可以添加美丽的动画，以便您输入的每个字母都带有充满活力的颜色。为了使其变得更好，您可以对每个功能进行微调，以便您的键盘非常适合您！
+Author: Justin Proulx
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/prokeys.png
+Name: ProKeys键盘特效
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/prokeys/js.json
+
 Package: com.Axs.qqmusic
 Version: 1.0.3
 Architecture: iphoneos-arm64
