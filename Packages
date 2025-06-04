@@ -2076,26 +2076,6 @@ Name: DynamicPeninsula灵动半岛
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dynamicpeninsula/js.json
 Sponsor: Axs
 
-Package: com.Axs.dytweak
-Version: 3.0.3
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 2540
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.Axs.dytweak_3.0.3_iphoneos-arm64.deb
-Size: 404680
-MD5sum: d53a9a9fb7fcfa982955fd0c2ad88bdc
-SHA1: bf122bd4745b13d87baca4da1cbd1894e40665c1
-SHA256: 1f3cb90bb57fb52ecd21107e2bd9c40caded3152874db25cf04e80d75de3a8d4
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/axs66
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: Axs
-Icon: https://axs66.github.io/repo/icon/dy.png
-Name: 抖音净化
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
-
 Package: com.Axs.eneko
 Version: 1.4.2
 Architecture: iphoneos-arm64
@@ -5301,13 +5281,13 @@ Package: com.axs.dytweak
 Version: 3.0.6
 Architecture: iphoneos-arm64
 Maintainer: Axs
-Installed-Size: 2060
+Installed-Size: 2108
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.axs.dytweak_3.0.6_iphoneos-arm64.deb
-Size: 388940
-MD5sum: 4e47f71cf63e55ec4b606b4f374a4f78
-SHA1: 62a6c0bb48592d60dabdda755c7d2caca09cfad4
-SHA256: 93c9e865f41c47df62f111544e2bb04b445c4ca62b05225c2294e7071bd629b2
+Size: 392724
+MD5sum: 517078e6f9f317ef08c6c2d7a6c43f99
+SHA1: ae783a8058a75fe9f10c83dcdcb98984fb59b873
+SHA256: a3c0974e9dd37a09a93429e4149ea21d4626d3499782d04b5965b62021f0875e
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/axs66
@@ -8494,158 +8474,6 @@ Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/o2pro.png
 Name: o2 Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 13.5-35
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 11852
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_13.5-35_iphoneos-arm64.deb
-Size: 3706856
-MD5sum: 74974c1039848d42e51d2b2fa6ce5210
-SHA1: 5ab114b500c9b39c5a6e7017b11d7c130920fc79
-SHA256: b8a1eeed1bceceed962ae331660ba77e936e2ba3ab36f217e4032472f3a6c74d
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 15.0-3
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 13064
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_15.0-3_iphoneos-arm64.deb
-Size: 4772012
-MD5sum: 2d130094027ae41065dcc0750a7b924e
-SHA1: d8fa210443db39ed9f4e4ff104f5f283c03692e2
-SHA256: a1808bc0785784d07752867d46721c14053f62abdf5c2a29624c13642650ede4
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 16.0-1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 12964
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_16.0-1_iphoneos-arm64.deb
-Size: 4653140
-MD5sum: 2ca2eef7a498d03bbe128c75e02d8f59
-SHA1: 858c6f4a3b19be47271c7cfb14901a2af09530cd
-SHA256: 90747f87bbf8e360b5461ab9bcbe47f6a9313743f033ecbe73c989533f0f8744
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 16.6-1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 13292
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_16.6-1_iphoneos-arm64.deb
-Size: 4771724
-MD5sum: efbb219b36003b46d0382d62b036558e
-SHA1: 6a0e10854338c5a80b769a00821343281418077e
-SHA256: 2e957950c3ea19cd0e882fdb91da16696c085636f5f75598bb66fef7c588076a
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 16.6-51
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 13084
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_16.6-51_iphoneos-arm64.deb
-Size: 4686704
-MD5sum: 3f24d5a8dd542e3ee4df7e64610b26fc
-SHA1: 386dd1d476c4f50a6fdf9f0c86b92a7980488fbe
-SHA256: 7c086a55c8cf8f7634c511f8dd72fec676f2644325fa13be051f426cc4ed80b1
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 16.6-56
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 13052
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_16.6-56_iphoneos-arm64.deb
-Size: 4682820
-MD5sum: d52ed5f156615a40303a14798fa39c5e
-SHA1: 8f5392a6713c44b7df097958617b1d1df69690c2
-SHA256: 9440af574a3bfafa25fbabc3567dc48238117fa484c6931ec980a925e6684365
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.11
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 30312
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.11_iphoneos-arm64.deb
-Size: 12424972
-MD5sum: 9777747f86d6292002d60cf41834ed6a
-SHA1: 3e08c0133a3d92ce3529aa5382c9798e5b482616
-SHA256: dd2b2bb67a4df6d17157feb964392fcffbbcdb573150069287b65296b0589345
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.4-141
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 13208
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.4-141_iphoneos-arm64.deb
-Size: 4693220
-MD5sum: d6cf042c30f64b8dd1fe33b81bc4d9bb
-SHA1: 016e97add5d0c8cd38bfb6fa7472c75d0c473ce9
-SHA256: 74108b3bce64a3b23d562bbaa9692580ef24646c89078c647fc194d8f665fa84
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
 Version: 17.8.8
