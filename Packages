@@ -3947,6 +3947,24 @@ Icon: https://axs66.github.io/repo/icon/swipeextender.png
 Name: SwipeExtenderX汉化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwipeExtenderX/js.json
 
+Package: com.Axs.switchtheme
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: baiy（qq：961666883））
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.switchtheme_1.0.0_iphoneos-arm64.deb
+Size: 37452
+MD5sum: 467bad405937fb1f575605560584d4a2
+SHA1: 2a108059c72a50567cc8f9c5391a79443067e3c6
+SHA256: 9e07c05c342c72aef74685714bac6e83db60dd83aea7e74e152dd1ac8e1c7598
+Section: Tweaks
+Description: 这是一款款全新的开关主题，通过模拟太阳升起与落下的动画效果，带来极致流畅且视觉惊艳的替代体验。
+Author: 白衣
+Icon: https://axs66.github.io/repo/icon/switchtheme.png
+Name: 日月开关
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
+
 Package: com.Axs.switchtheme1
 Version: 1.0.0
 Architecture: iphoneos-arm64
