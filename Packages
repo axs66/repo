@@ -2027,11 +2027,11 @@ Maintainer: Simon
 Installed-Size: 432
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.dynamicislandanimation_1.1.8_iphoneos-arm64.deb
-Size: 29132
-MD5sum: 0e94c5415bcb95b355a2449ad33ab2da
-SHA1: 46cd8769eb72c619cc1421cc7ad7035f8e6bd673
-SHA256: b4d96ec5889a1272d30d45fa007b3a334a489f9dfbe9cf1e968ed2a876aaf8df
-Section: 系统增强
+Size: 29088
+MD5sum: 751966075732e9fa061647b9441e7cd6
+SHA1: 88b6ff570457738ca58c909d54e23fff481a0315
+SHA256: d190b423b9b331510a74ee3b43d6fb166160f0f346a6bb6e7d304ddd3ad68d57
+Section: 灵动岛
 Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
 Author: Simon
 Icon: https://axs66.github.io/repo/icon/dynamicislandanimation.png
@@ -2045,11 +2045,11 @@ Maintainer: Axs
 Installed-Size: 348
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.dynamicnotland_1.2.4_iphoneos-arm64.deb
-Size: 12192
-MD5sum: 4d8de85ab95475c1b819ded81a952567
-SHA1: 8959dadc117e4cbae4b264d6d95937f448024fd7
-SHA256: 3e76be3b9f0a8b24f04193170204b44aca991bb7a8ff6fe0607ba13ce39f7f51
-Section: 系统增强
+Size: 12180
+MD5sum: 16a64ec9786e7e9a3f8f5b184b64298a
+SHA1: 1d675a05a4b8daf825e075ef05f70e2802f7b104
+SHA256: 0088f1faf22a2626455229444d2482bad958ae3c98d5f0d81be499734fc572a1
+Section: 灵动岛
 Description: 在14Pro系列上，隐藏未使用时的灵动岛
 Author: Nathan
 Icon: https://axs66.github.io/repo/icon/dynamicnotland.png
@@ -2064,11 +2064,11 @@ Installed-Size: 1684
 Depends: mobilesubstrate, com.axs.limneoscrack-rootless, firmware(>=12.0)
 Conflicts: com.hk.dynamicpeninsula.cn.rl
 Filename: ./debs/com.Axs.dynamicpeninsula_0.6-25_iphoneos-arm64.deb
-Size: 281552
-MD5sum: 849989b8dc5f7afba19a5f0fe3ae23d3
-SHA1: 967329d8b9a4cd27882cebe0316d7ac8ea4a1da8
-SHA256: cf451f80a55af01588c5a7346252a74ce69b8b76746709688f8e58f9e94c12f2
-Section: 系统增强
+Size: 281504
+MD5sum: 84d2b3d81867479a53e47262e3e0b3aa
+SHA1: c202e46f057ab57d2cb392a82517595f5474ff95
+SHA256: cf80517072dc5718375ccdad96683432ab08b9e8734ba0cd2488effa12efc3e4
+Section: 灵动岛
 Description: 为 iPhone X、XS、XR、11、12 以及 13 系列机型带来 iPhone 14 Pro 的灵动岛 (Dynamic Island) 动画体验。灵动半岛插件现已推出支持 Fugu15 Max 设备的版本。
 Author: MainRepo
 Icon: https://axs66.github.io/repo/icon/dynamicpeninsula.png
@@ -2575,11 +2575,11 @@ Version: 1.3.7
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Filename: ./debs/com.Axs.lddxz_1.3.7_iphoneos-arm64.deb
-Size: 95936
-MD5sum: 84b28f3869a08bb7ddfe48391fd36a04
-SHA1: a54c4cd473176aac23193dc8cab0edd9e585a8df
-SHA256: 67a56b1f8416386cf48d51594a612339a8d5c48b58cdfeee3c86cef1da37cd0e
-Section: 系统增强
+Size: 95928
+MD5sum: 5ef3a3beba6fee7a856473348b135275
+SHA1: 834fdeaf8cf77fced72a4423bd3e1f1127062b37
+SHA256: aa11487d5dcd2357840b109b5d29979af3eb4c5d40881e5bdc45ce05b2b7d9d9
+Section: 灵动岛
 Description: 一键安装挂载音乐岛录屏岛，需配合真皮多巴胺。</br>⚠️仅限懒人挂载使用，挂载大牛勿下，会替换你原有的挂载目录！</br>一键挂载音乐岛录屏岛，需配合真皮多巴胺（仅限无根真皮2.2及以上版本，其他自行挪到对应路径）。
 Author: lddxz
 Icon: https://axs66.github.io/repo/icon/lddxz.png
@@ -2604,36 +2604,17 @@ Name: Limneos 插件破解-Rootless
 Sponsor: Axs
 
 Package: com.Axs.lingdongdao
-Version: 1.0.0.0-1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 2144
-Depends: mobilesubstrate
-Filename: ./debs/com.Axs.lingdongdao_1.0.0.0-1_iphoneos-arm64.deb
-Size: 463680
-MD5sum: 8a9ae6bd6f3add0f512d465ffe40a569
-SHA1: 15b8fa23d96139ece57dd115a5cf1f21ed9e3a3c
-SHA256: b98f901d4e56dfaa9bf9936492ab853dc594275aa88125c23b4b8f61ae250089
-Section: 系统增强
-Description: 给灵动岛的外框内框添加自定义颜色，通知背景颜色等
-Author: MoreColor
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/lingdongdao.png
-Name: 灵动岛自定义
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/lingdongdao/js.json
-
-Package: com.Axs.lingdongdao
 Version: 1.0.0.2-235
 Architecture: iphoneos-arm64
 Maintainer: MrShi
 Installed-Size: 2352
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.lingdongdao_1.0.0.2-235_iphoneos-arm64.deb
-Size: 545888
-MD5sum: 4bc75d955e304a3ad6d288a7a863e625
-SHA1: eb9a1d24ba4421ddc56fecc4748d515818c5ed31
-SHA256: 2fb057511fd7a331c6e24f570f5959b5582cbfdbb86620bebf7be5e426064329
-Section: 系统增强
+Size: 548168
+MD5sum: 95f58260d292dca25d76fc52700b2d11
+SHA1: 06b56f95775106c516b0fde5da5b2fb7a0f116ab
+SHA256: 81058030f36e5657ada7d252e8012de54728f979c2b156b6ae767f50d519a910
+Section: 灵动岛
 Description: 给灵动岛的外框内框添加自定义颜色，通知背景颜色等
 Author: MrShi
 Depiction: https://axs66.github.io/repo
@@ -2736,11 +2717,11 @@ Architecture: iphoneos-arm64
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Filename: ./debs/com.Axs.mineland_2.0-6+debug_iphoneos-arm64.deb
-Size: 99196
-MD5sum: 4739beebab717399c451bf1cd8100fa1
-SHA1: 7bf80a668df789c3e247654f3c7ce647373e005c
-SHA256: 4ab18adb8b50acbf894106fb64b40936df6d571ddddcc37db9a10505979c1fd2
-Section: 系统增强
+Size: 99232
+MD5sum: f4f987675cf56c175cab54d61eeedce0
+SHA1: a4d81a03afe5532aaf9d4303d3ed91cf3fd0dc32
+SHA256: 64769defd6b13d28f352e70f50ee07246fc227021640f7425c547c09229cc5bd
+Section: 灵动岛
 Description: 药丸爆改感叹号。仅支持16系统，对灵动岛进行调整，如透明度位置或比例，非灵动岛机型可强开灵动岛。Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran.
 Author: A
 Icon: https://axs66.github.io/repo/icon/mineland.png
@@ -5935,17 +5916,17 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Package: com.ethxnn88.visibleisland
 Version: 2.0
 Architecture: iphoneos-arm64
-Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Maintainer: ethxnn88
 Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
 Filename: ./debs/com.ethxnn88.visibleisland_2.0_iphoneos-arm64.deb
-Size: 43112
-MD5sum: 40136a71f47b99b520dc870c93391fff
-SHA1: d85804b27aff4481699dbffae54a9ef92e3b3869
-SHA256: aaf4bca339b1c3ad379ca371a1a4413c06c5fecef8cb471184863795864377c3
-Section: Tweaks
-Homepage: https://shuga.co/
-Description: Enable, fix, and customize the Dynamic Island on older devices.
-Author: ethxnn88 <ethxnn88@gmail.com>
+Size: 28508
+MD5sum: 83a2c28df0735dd1d9bc3f7b9a0132db
+SHA1: f44f1b6206f677ae7b0f1dc5d3ec206498be2b89
+SHA256: c86e49b988b9d916591b7ea260c4f0031e1e38faf10915caf01cb0dae4d96e22
+Section: 灵动岛
+Homepage: https://axs66.github.io/repo
+Description: Enable, fix, and customize the Dynamic Island on older devices.在旧设备上启用，修复和自定义动态岛。
+Author: ethxnn88
 Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
 Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
 Moderndepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
@@ -7595,14 +7576,16 @@ Maintainer: sunshinesong
 Installed-Size: 812
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/com.sunshinesong.dynamic-notifier_1.0.4_iphoneos-arm64.deb
-Size: 212754
-MD5sum: 45db94dc837cb87dda7f44dc0d87d833
-SHA1: c71a725e4ae55619af446c9e5959ea701f05ac8e
-SHA256: f7fd9a836eb9fd4f60278b8e6ef27312c0db17e0163ebec6c607c7f4e4380b1a
-Section: Tweaks
-Description: 灵动消息，就是这么简单。仅仅支持iOS16+ (14pro,14pro max)。only support above ios16.0(14pro and 14pro max)
+Size: 130324
+MD5sum: 82e3d110b2c22ac68b4142bd12710c14
+SHA1: f30f95592c439a67eff510d623e5b44558c585db
+SHA256: 8e967451e129b79d7187da1f4ec14aff10f6893c88f0a5e7e1eb4696f6a496b8
+Section: 灵动岛
+Description: 灵动消息，就是这么简单。仅仅支持iOS16+ (14pro,14pro max)。不支持伪装的灵动岛，源里面该作者另外一款支持伪装灵动岛。
 Author: sunshinesong
-Name: dynamic-notifier
+Icon: https://axs66.github.io/repo/icon/notifier.png
+Name: dynamic-notifier灵动岛
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dynamic-notifier/js.json
 
 Package: com.sunshinesong.native-island
 Version: 1.0.3
@@ -7611,14 +7594,16 @@ Maintainer: sunshinesong
 Installed-Size: 908
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
 Filename: ./debs/com.sunshinesong.native-island_1.0.3_iphoneos-arm64.deb
-Size: 251422
-MD5sum: 5ac4e7a5acb7eba1173b901ce55ca109
-SHA1: 5fb4558ea134b7e480f5c441d707ed6d09f6887b
-SHA256: 0bf525a0fca35ac14b6ad69f6dd7bd5d360faacd2165e33518fbb527cdc9a276
-Section: Tweaks
-Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
+Size: 151904
+MD5sum: 2f8f23ad444439383dbf71f2b9add458
+SHA1: 555b441f5832dd0032e37934840c17addd89b78c
+SHA256: f3bc716b9457166f45a4e6dc9bf32c5f0695b6219396dc0fbfc2bd96c10a10e3
+Section: 灵动岛
+Description: 原生岛通知，从简即可。仅仅支持iOS16.0+，支持伪装的灵动岛。
 Author: sunshinesong
-Name: native-island-notifier
+Icon: https://axs66.github.io/repo/icon/notifier.png
+Name: native-island-notifier灵动岛
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/native-island/js.json
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.1.6
