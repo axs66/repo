@@ -876,6 +876,28 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: Mikoto 助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/MikotoHelper/js.json
 
+Package: com.Axs.SwitchPro
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: juzi
+Depends: mobilesubstrate
+Conflicts: SwitchPro
+Replaces: SwitchPro
+Provides: SwitchPro
+Filename: ./debs/com.Axs.SwitchPro_1.0.1_iphoneos-arm64.deb
+Size: 859984
+MD5sum: 1e32bdb3e0b5d1da430c68f4c2dc8306
+SHA1: d7300fd28cfd3496f90bd617310687df21757745
+SHA256: 0911ae2763113ea6cc9e5a8824ac2dcd914c21fa1eeaa069482f45d796a2a937
+Section: 微信插件
+Priority: optional
+Description: SwitchPro是一个微信插件，对功能开关进行美化的插件。安装插件需要导入文件才生效。目前提供了两款免费的，其余的找作者购买。
+Author: juzi
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: SwitchPro微信开关美化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwitchPro/js.json
+
 Package: com.Axs.ThemePro
 Version: 3.1.6
 Architecture: iphoneos-arm64
