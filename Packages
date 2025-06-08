@@ -2824,6 +2824,24 @@ Name: 消息屏蔽助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/msgfilt/js.json
 Sponsor: admin@25mao.com
 
+Package: com.Axs.musiclizi
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.musiclizi_1.1.8_iphoneos-arm64.deb
+Size: 23532
+MD5sum: e49f1451dd8f18711931666433dc4f0f
+SHA1: feed55c762c9df16370d6039c506af54423abe93
+SHA256: d2f6f52253b30ea9b13b1694877657369475f71854d249914d4d52550b8cab16
+Section: 灵动岛
+Description: 用于灵动岛粒子动画
+Author: A
+Icon: https://axs66.github.io/repo/icon/musiclizi.png
+Name: 粒子动画
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/musiclizi/js.json
+
 Package: com.Axs.musicrotation
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -4158,6 +4176,28 @@ Size: 5760564
 MD5sum: 81d4e613f5d833bfd3b5bb643025b066
 SHA1: 1df3bd212f9944d32167c9464ee598f7031127c8
 SHA256: 59d42e11444c7be63668cf042137789c08b6e2ba463e1fefc0a979c4df1e3f0e
+Section: 微信插件
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemePro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
+Package: com.Axs.themepro
+Version: 3.8.9
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/com.Axs.themepro_3.8.9_iphoneos-arm64.deb
+Size: 5791836
+MD5sum: 965c4c1313745a1b2a50974cf4adc0ea
+SHA1: 07934d4aad440065006cb06ec610821094976182
+SHA256: 26e0ac108c5f7ab587696bf0a306e19f3315470605d096dccfdc3a26a8f8e0ab
 Section: 微信插件
 Priority: optional
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
