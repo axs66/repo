@@ -3271,6 +3271,24 @@ Icon: https://axs66.github.io/repo/icon/qsyy.png
 Name: 汽水音乐
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/qsyy/js.json
 
+Package: com.Axs.qsyy
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: liwhs
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.qsyy_1.1_iphoneos-arm64.deb
+Size: 7608
+MD5sum: d12a5891d705345e376d30e29a273e37
+SHA1: 4705f580971d64740771d7e2a52444136236e962
+SHA256: ce4f5f06700f96c9f4bbd10de631e4466e578aa80368816c8a9cfdddb0742ee8
+Section: Tweaks
+Description: 禁止开屏广告、秒过激励式视频
+Author: Starry6
+Icon: https://axs66.github.io/repo/icon/qsyy.png
+Name: 汽水音乐
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/qsyy/js.json
+
 Package: com.Axs.raisesparks
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -4198,6 +4216,28 @@ Size: 5791836
 MD5sum: 965c4c1313745a1b2a50974cf4adc0ea
 SHA1: 07934d4aad440065006cb06ec610821094976182
 SHA256: 26e0ac108c5f7ab587696bf0a306e19f3315470605d096dccfdc3a26a8f8e0ab
+Section: 微信插件
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemePro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
+Package: com.Axs.themepro
+Version: 3.9.1
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/com.Axs.themepro_3.9.1_iphoneos-arm64.deb
+Size: 5765944
+MD5sum: 880e3e34db3a2f4c9c7bd63bd6e02117
+SHA1: 955d5277b3873564ebc712e0cc028b4d0554fdad
+SHA256: 1481dc8e61901f2fe9a2a93401aafe7e99bbe3139bcd488a11a8fff3f13e12fd
 Section: 微信插件
 Priority: optional
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
