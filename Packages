@@ -8599,6 +8599,25 @@ Name: ColorfulWallpaperX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: xc.lzsxcl.o2
+Version: 17.14
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 30296
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2_17.14_iphoneos-arm.deb
+Size: 12418792
+MD5sum: 2e4f0c75fef5c8efd557903e99f01918
+SHA1: aa6af3a9e721f9f72146cde5efc9a3af3174bc7b
+SHA256: 1329503c904ae942dc89726509ea07dcb71f24f896184c09df4257d79734040e
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2
 Version: 7.2
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
