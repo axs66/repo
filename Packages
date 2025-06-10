@@ -4463,6 +4463,24 @@ Icon: https://axs66.github.io/repo/icon/virtualmemory.png
 Name: 虚拟内存
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/virtualmemory/js.json
 
+Package: com.Axs.visionos
+Version: 3.5.1
+Architecture: iphoneos-arm64
+Maintainer: 百度主题源
+Depends: com.spark.snowboard.masks
+Filename: ./debs/com.Axs.visionos_3.5.1_iphoneos-arm64.deb
+Size: 9914528
+MD5sum: 493cc7bbbb6c968c5fa4b778abc52e50
+SHA1: 8301aee040821fbfab2c9038cd65b52cd83002e7
+SHA256: a7213a3332fb1ca821bc7d5a4c5dd85f69df90ff06f6d41592803f8798a59ec3
+Section: Tweaks
+Description: VisionOS一款模仿iOS26风格的主题！让你无需升级iOS26即可体验新系统的液态玻璃风格。
+Author: Billie
+Icon: https://axs66.github.io/repo/icon/visionos.png
+Name: Visionos 仿iOS26主题
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/visionos/js.json
+Sponsor: 百度主题源
+
 Package: com.Axs.volume-manager
 Version: 1.0.3
 Architecture: iphoneos-arm64
