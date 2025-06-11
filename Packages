@@ -5193,10 +5193,27 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Filename: ./debs/com.Axs.yuanjiao_1.8.0_iphoneos-arm64.deb
-Size: 264072
-MD5sum: a2af85d44078cc9150ef7519fe865229
-SHA1: 05fa8874ecca867316cd22abb71c708fd354ba27
-SHA256: 0a4124c550e10346a26fb0773ddf0151ffd2c3ee650c935fda4c41c912e7f1a3
+Size: 262872
+MD5sum: 2f7f9c5074140e249d050155e43437e8
+SHA1: 34633b91a504ab6cf089de235da94525ed34f4cd
+SHA256: 11dedf876488a5efb56769741cdea3e5393afbe60fff195623a4720a7f9fd475
+Section: 微信插件
+Description: 微信视图圆角控制,9.9付费插件,添加微信 VCR66T 授权.
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+
+Package: com.Axs.yuanjiao
+Version: 1.8.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.8.1_iphoneos-arm64.deb
+Size: 260984
+MD5sum: 1c86cb1a00752a354683db36b0e55d8d
+SHA1: a79c9efe1d899b4e492af571513e9b3d46118778
+SHA256: 04a09af85d47a2662de00134092c60cda5fd5da3f80b3097378d4a6a839fbebd
 Section: 微信插件
 Description: 微信视图圆角控制,9.9付费插件,添加微信 VCR66T 授权.
 Author: A
