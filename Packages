@@ -3830,16 +3830,16 @@ Maintainer: sunshinesong
 Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
 Filename: ./debs/com.Axs.split-view-pro_1.3.7_iphoneos-arm64.deb
-Size: 1538784
-MD5sum: aa3331016ec2efe213fe2eedb71dd058
-SHA1: 6f9be1c10ba707d7ba820c40fcadd329647a9b04
-SHA256: cf191ce1d6a7752941b0d1b1b3b75ea5e2d4e2dba22775e5c1adc47a4a80f206
-Section: 分屏插件
+Size: 1572536
+MD5sum: cedd67a7cd54bc895d0cbf289f9b693e
+SHA1: 7ce63a8b0b3b23331adaa502a06b167b5a5f2592
+SHA256: 5bc81385a8ca97ffa2cbd0d8889c8bde698735ffe87286aa92dbf1527b74bc2a
+Section: Axs
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Icon: https://axs66.github.io/repo/icon/svp.png
-Name: Svp分屏独立版(rootless)
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/svp/js.json
+Name: SVP分屏独立版
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/split-view-pro/js.json
 Ts: sp-sss
 
 Package: com.Axs.split-view-pro
@@ -4516,6 +4516,24 @@ Author: A
 Icon: https://axs66.github.io/repo/icon/volume-manager.png
 Name: 音量管理器
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/volume-manager/js.json
+
+Package: com.Axs.wcabtestvoicerecordview
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.Axs.wcabtestvoicerecordview_1.1-1_iphoneos-arm64.deb
+Size: 2304
+MD5sum: c4608566e6cb1e5a7ada18f318106218
+SHA1: b92b4251f202dc076e2a62b35b046dc89e8bc05e
+SHA256: 270eed47a4a62db742d71503e175738d734005f4a87cb6efb395ba60cebce848
+Section: 微信插件
+Description: 微信启用AB测试的VoiceRecordView新按钮，仅8.0.60+
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信语音弧形按钮
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcabtestvoicerecordview/js.json
 
 Package: com.Axs.wcaddborders
 Version: 1.2
