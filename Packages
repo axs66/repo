@@ -632,6 +632,24 @@ Description: 查淘宝优惠券，查商品历史价
 Author: Mao
 Name: 淘宝优惠券
 
+Package: com.82flex.amlyrics
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Rachel
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.amlyrics_0.0.1_iphoneos-arm64.deb
+Size: 12072
+MD5sum: 126a1274d7a8786633259b9f49a83e78
+SHA1: ad964e85d37164bd486b13a1b027dc331c025ed5
+SHA256: 0f9e1aaecea64f85d63f77483f33f0d99b8a52d0171092907405db9542556668
+Section: 系统增强
+Description: 该插件可以让系统自带的AppleMusic歌词进行优化，配合活字印刷术效果更棒。
+Author: Rachel
+Icon: https://axs66.github.io/repo/icon/amlyrics.png
+Name: AMLyrics苹果音乐歌词
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/amlyrics/js.json
+
 Package: com.82flex.artworkspinner
 Version: 1.3
 Architecture: iphoneos-arm64
