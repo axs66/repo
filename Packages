@@ -795,6 +795,24 @@ Icon: https://axs66.github.io/repo/icon/3dappversionspoofer.png
 Name: 3DAppVersionSpoofer
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.77Theme
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.77Theme_1.0.8_iphoneos-arm64.deb
+Size: 5102548
+MD5sum: e6e5722d834c78f72c0a6efbb41bbde5
+SHA1: 489c25c90f85df684d4bde2d0531ba517a904e89
+SHA256: 059cdb67ff10b7fc3d13031b84a3c53f652da5bc666d989c0e25ab8a2fc1a021
+Section: 微信插件
+Priority: optional
+Description: 微信主题美化
+Author: CC
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 77Theme主题
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/77Theme/js.json
+
 Package: com.Axs.Axon
 Version: 2.1.3
 Architecture: iphoneos-arm64
@@ -6051,6 +6069,25 @@ Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、�
 Author: Curtin
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: PKC_无根
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.7-7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootless_0.7-7_iphoneos-arm64.deb
+Size: 919576
+MD5sum: b374b2195087b0ad132afbdea5c260f4
+SHA1: 85721cb76269cdfcab71ecb19ce72b76358a1942
+SHA256: 7ea5a6956ce07f51f2bf3371e9b0eaaf25b222ae4bad05c5347c4c78c692445b
+Section: 微信插件
+Priority: optional
+Homepage: https://axs66.github.io/repo
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: PKC
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/PKC/js.json
 
 Package: com.developlab.clickvibration
