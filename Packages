@@ -5567,10 +5567,10 @@ Maintainer: Axs
 Installed-Size: 2324
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.axs.dytweak_3.0.7_iphoneos-arm64.deb
-Size: 447164
-MD5sum: bfe3b2a4c1e87aad890e1fc0a00f470f
-SHA1: 13f2bf64250171751a2897d9c0da9be8dd46c85e
-SHA256: 0662c020370a7d8d96c628b3e8a337b7fdecb8082b6b9a71b32601c884979512
+Size: 449420
+MD5sum: 9f818651f2761892c420e0262bea295d
+SHA1: 97b017922a5e48fba9c8c11f583a41f3f0949331
+SHA256: c15d18587589ccd9b2b4138a1569b1709c9b4897dfa9e5a106188d6bb27580ba
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/axs66
