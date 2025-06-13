@@ -1258,6 +1258,24 @@ Icon: https://axs66.github.io/repo/icon/airaw.png
 Name: Airaw
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/airaw/js.json
 
+Package: com.Axs.akara
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
+Filename: ./debs/com.Axs.akara_2.0.2_iphoneos-arm64.deb
+Size: 613864
+MD5sum: caa07210d7eec939ec166fff7c89a245
+SHA1: 76513a766fe9f6b5d84e271ac2010218fe9a62db
+SHA256: bb09f23c764f699f1eea911773d62b1b1cebbcb361aa7ffa4f3cc8f4b2f00fbd
+Section: 系统增强
+Description: Minimal design without compromise控制中心美化
+Author: Tr1Fecta & Kennyroo
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/akara.png
+Name: Akara控制中心
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/akara/js.json
+
 Package: com.Axs.analytics
 Version: 0.0.4
 Architecture: iphoneos-arm64
