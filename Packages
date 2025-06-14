@@ -1239,6 +1239,34 @@ Icon: https://axs66.github.io/repo/icon/actionbar.png
 Name: ActionBar Reborn
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.afhook
+Version: 3.5.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Installed-Size: 1024
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.Axs.afhook_3.5.0_iphoneos-arm64.deb
+Size: 158040
+MD5sum: 198c2f5861e61d1381aa5b1e35056465
+SHA1: b0bb98945a753b01411595a603dd46a08675e3bb
+SHA256: 8ad45829969d345294fe611cfaf3d3a6b4c9d08b2c67be4236c4437e03b509ee
+Section: Tweaks
+Homepage: https://axs66.github.io/repo
+Description: 快速更改应用的名字、图标、机型、角标、版本号等。
+  快速更改应用的名字、图标、机型、角标、版本号等。
+ -随心所欲地更改系统应用和三方应用的名字
+ -从系统相册任意选择图片剪切为应用的图标
+ -手动选择软件内置机型和自定义需要的机型
+ -只需要点击一次就永久生效的清空角标功能
+Tag: purpose::extension
+Author: 小哥哥
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
+Dev: zhulongfei28
+Icon: https://axs66.github.io/repo/icon/afhook.png
+Name: 改个应用
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/afhook/js.json
+Sponsor: thebigboss.org
+
 Package: com.Axs.aimpro
 Version: 1.1.1
 Architecture: iphoneos-arm64
