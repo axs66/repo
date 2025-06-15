@@ -1874,13 +1874,14 @@ Version: 0.1-1
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.Axs.cilizhai_0.1-1_iphoneos-arm64.deb
-Size: 177676
-MD5sum: a9cee2d1312a5311c781e2839d2dc029
-SHA1: 4e96c30e6706d18681bd98a22f02cea8cc0ed314
-SHA256: 8873f6c8ef7a8e253fc04b1002d1c2eb6524a95440745e6255272e7658db84e2
+Size: 177696
+MD5sum: 8c27f4423163ad04c6075812f8a9da1b
+SHA1: ebbd31c6a020997042ef1c4ec1a1180cfd25802f
+SHA256: 8d648267edff912bdc914fb28c148eebb93bf341479746cb376b38413d545307
 Section: Tweaks
 Priority: optional
 Homepage: https://axs66.github.io/repo
+Description: 适配24.09.20版本，其他自测，失效卸载
 Author: A
 Depiction: https://alist.138686.xyz
 Icon: https://axs66.github.io/repo/icon/cilizhai.png
