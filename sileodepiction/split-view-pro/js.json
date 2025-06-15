@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "免费的分屏插件，不必太复杂，一切从简即可。",
+                    "markdown": "分屏插件。⚠️安装方法：1.大部分人可以直接安装 1.4.1 版本即可。2.少部分人需要长按获取，选择1.3.7版本安装，安装后先不要注销，去filza找到/var/jb/Library/MobileSubstrate/DynamicLibraries/node.dylib并删除他，并用多巴胺注销。",
                     "useRawFormat": true,
                 },      
                {
@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 7 月 1 日",
+                    "text": "2024 年 9 月 1 日",
                     "title": "最后更新日期"
                 },
                 {
