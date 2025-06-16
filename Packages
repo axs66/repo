@@ -5723,14 +5723,14 @@ Maintainer: https://axs66.github.io/repo
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.axs.sileo_1.0_iphoneos-arm64.deb
 Size: 908
-MD5sum: 82493cf6683424e3a90d506b227bae95
-SHA1: acc87248fc88c3f3f7c54987e4281ad34e804ba7
-SHA256: 720162a571a8ab328f97960975fad678abd49417359fe8b3490de336b1a91a32
+MD5sum: 9845311858928f3e15acbb1b962aaf1a
+SHA1: fcc9d9446ae6c850b45934724b94ecb86fd9724c
+SHA256: 01a03a6acc90cc52f7f41da08c23864d4079dcbbadadc90e818bf65cdaf4114b
 Section: Axs-Tweaks
-Description: Sileo越狱源介绍
+Description: Axs
 Author: Axs
 Icon: https://axs66.github.io/repo/images/cjms.png
-Name: Axs
+Name: Sileo越狱源介绍
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/sileo/js.json
 
 Package: com.axs.wechatsong
