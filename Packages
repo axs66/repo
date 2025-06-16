@@ -5716,6 +5716,23 @@ Icon: https://raw.githubusercontent.com/axs66/ReachMyAbility/refs/heads/main/Res
 Name: ReachMyAbility
 Sileodepiction: https://raw.githubusercontent.com/axs66/ReachMyAbility/main/Resources/depiction.json
 
+Package: com.axs.sileo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: https://axs66.github.io/repo
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.axs.sileo_1.0_iphoneos-arm64.deb
+Size: 908
+MD5sum: 82493cf6683424e3a90d506b227bae95
+SHA1: acc87248fc88c3f3f7c54987e4281ad34e804ba7
+SHA256: 720162a571a8ab328f97960975fad678abd49417359fe8b3490de336b1a91a32
+Section: Axs-Tweaks
+Description: Sileo越狱源介绍
+Author: Axs
+Icon: https://axs66.github.io/repo/images/cjms.png
+Name: Axs
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/sileo/js.json
+
 Package: com.axs.wechatsong
 Version: 0.0.1+debug
 Architecture: iphoneos-arm64
