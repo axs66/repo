@@ -4,7 +4,7 @@
     "itemCornerRadius":20,
     "banners": [
         {
-            "url": "http://axs66.github.io/repo/images/logo.png",
+            "url": "http://axs66.github.io/repo/images/ewm.png",
             "title": "",
             "package":"AppData",
             "hideShadow": true
