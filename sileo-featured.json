@@ -9,6 +9,11 @@
 			"package": "com.axs.sileo"
 		},
 		{
+			"url": "http://axs66.github.io/repo/images/wechat.png",
+			"title": "全局圆角",
+			"package": "com.axs.yuanjiao"
+		},
+		{
 			"url": "http://axs66.github.io/repo/images/svp.png",
 			"title": "SVP分屏",
 			"package": "com.axs.split-view-pro"
@@ -17,11 +22,6 @@
 			"url": "http://axs66.github.io/repo/images/applecard.png",
 			"title": "App Lecard分屏",
 			"package": "com.nx.appcardlite"
-		},
-		{
-			"url": "http://axs66.github.io/repo/images/wechat.png",
-			"title": "全局圆角",
-			"package": "com.axs.yuanjiao"
 		},
 		{
 			"url": "http://axs66.github.io/repo/images/dy.png",
