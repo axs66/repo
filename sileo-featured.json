@@ -1,13 +1,43 @@
 {
-    "class": "FeaturedBannersView",
-    "itemSize": "{350, 180}",
-    "itemCornerRadius":20,
-    "banners": [
-        {
-            "url": "http://axs66.github.io/repo/images/ewm.png",
-            "title": "",
-            "package":"AppData",
-            "hideShadow": true
-        },
-    ]
+	"class": "FeaturedBannersView",
+	"itemSize": "{263, 148}",
+	"itemCornerRadius": 10,
+	"banners": [
+		{
+			"url": "http://axs66.github.io/repo/images/ewm.png",
+			"title": "绿泡泡：VCR66T",
+			"package": "Axs"
+		},
+		{
+			"url": "https://github.com/axs66/repo/blob/main/icon/svp.png",
+			"title": "SVP分屏",
+			"package": "com.Axs.split-view-pro"
+		},
+		{
+			"url": "https://github.com/axs66/repo/blob/main/icon/applecard.png",
+			"title": "App Lecard分屏",
+			"package": "com.nx.appcardlite"
+		},
+		{
+			"url": "https://github.com/axs66/repo/blob/main/icon/wechat.png",
+			"title": "全局圆角",
+			"package": "com.Axs.yuanjiao"
+		},
+		{
+			"url": "https://github.com/axs66/repo/blob/main/icon/dy.png",
+			"title": "抖音净化",
+			"package": "com.axs.dytweak"
+		},
+		{
+			"url": "https://github.com/axs66/repo/blob/main/icon/musiclizi.png",
+			"title": "灵动岛粒子动画",
+			"package": "com.Axs.musiclizi"
+		},
+		{
+			"url": "https://github.com/axs66/repo/blob/main/icon/keyboardhook.png",
+			"title": "原生输入法美化",
+			"package": "com.Axs.keyboardhook"
+		}
+
+	]
 }
