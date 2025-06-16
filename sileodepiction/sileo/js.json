@@ -22,12 +22,12 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# 空包插件，意在介绍，请勿安装。",
+                    "markdown": "空包插件，意在介绍，请勿安装。",
                     "useRawFormat": true,
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Axs\n- 一个纯业余爱好者，构建越狱源，仅方便自己平时需要。",
+                    "markdown": "一个纯业余爱好者，构建越狱源，仅方便自己平时需要。",
                     "useRawFormat": true,
                 },      
                {
