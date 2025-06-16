@@ -1,11 +1,11 @@
 {
 	"class": "FeaturedBannersView",
-	"itemSize": "{260, 150}",
-	"itemCornerRadius": 10,
+	"itemSize": "{200, 160}",
+	"itemCornerRadius": 5,
 	"banners": [
 		{
-			"url": "http://axs66.github.io/repo/images/logo.png",
-			"title": "",
+			"url": "http://axs66.github.io/repo/images/ewm.png",
+			"title": "绿泡泡：VCR66T",
 			"package": "com.axs.sileo"
 		},
 		{
