@@ -8939,6 +8939,63 @@ Name: o2Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
+Version: 17.12
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 30264
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_17.12_iphoneos-arm64.deb
+Size: 12408848
+MD5sum: 34df3332d7c09882c838e5148744f3fd
+SHA1: 8e326df1530f5aced2cc2b2d9f604c8ab2803194
+SHA256: a9d19cd3c04b0e6c75cf30bc9d706180edeafae8cf67c50cc86d311989fe8429
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 17.20
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 30360
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm64.deb
+Size: 12460948
+MD5sum: 0333fcbbf35f37ae9a02d34b4f2dddf1
+SHA1: f26ef321391dff88a303a2d993c20393cafd50fa
+SHA256: eed5bc1d2771d223276766d23a5221ebcb2c27de6770945157240c3d45b61c2e
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 17.20
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 30520
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm.deb
+Size: 12486256
+MD5sum: 6396a265f18f720819b1be850bc13a4e
+SHA1: b921e287bca561532a687ea1e74c9db80f65bd07
+SHA256: e077f7f97a9f5ce46d3fd5d0570dc523dc5fb3c65ff76f7ae9c62d42d1bbdfc5
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
 Version: 17.8.8
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
