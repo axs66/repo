@@ -4,8 +4,8 @@
 	"itemCornerRadius": 10,
 	"banners": [
 		{
-			"url": "http://axs66.github.io/repo/images/ewm.png",
-			"title": "绿泡泡：VCR66T",
+			"url": "http://axs66.github.io/repo/images/logo.png",
+			"title": "",
 			"package": "com.axs.sileo"
 		},
 		{
