@@ -7427,6 +7427,24 @@ Icon: https://axs66.github.io/repo/icon/appstore.png
 Name: StoreSwitchAccounts
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.netskao.wcabtestlocalbackup
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcabtestlocalbackup_1.1-1_iphoneos-arm64.deb
+Size: 2704
+MD5sum: 26b1c2486f43b96a2261a85cdc0b7091
+SHA1: 4c3670d82fa981cfbb408672454a77b4beb70180
+SHA256: 3eabe8f58f738b0e05db1477c33ab248573a2793d3985d977e96caaa01193da0
+Section: 微信插件
+Description: WeChat Enables AB Tested Local Backup, Only 8.0.50+
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCABTestLocalBackup微信自动备份聊天记录
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcabtestlocalbackup/js.json
+
 Package: com.netskao.wcdisablehotupdates
 Version: 1.1-1
 Architecture: iphoneos-arm64
