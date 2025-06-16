@@ -1,17 +1,17 @@
 {
 	"class": "FeaturedBannersView",
-	"itemSize": "{263, 148}",
+	"itemSize": "{150, 150}",
 	"itemCornerRadius": 10,
 	"banners": [
 		{
 			"url": "http://axs66.github.io/repo/images/ewm.png",
 			"title": "绿泡泡：VCR66T",
-			"package": "Axs"
+			"package": "com.axs.sileo"
 		},
 		{
 			"url": "http://axs66.github.io/repo/icon/svp.png",
 			"title": "SVP分屏",
-			"package": "com.Axs.split-view-pro"
+			"package": "com.axs.split-view-pro"
 		},
 		{
 			"url": "http://axs66.github.io/repo/icon/applecard.png",
@@ -21,7 +21,7 @@
 		{
 			"url": "http://axs66.github.io/repo/icon/wechat.png",
 			"title": "全局圆角",
-			"package": "com.Axs.yuanjiao"
+			"package": "com.axs.yuanjiao"
 		},
 		{
 			"url": "http://axs66.github.io/repo/icon/dy.png",
@@ -31,12 +31,12 @@
 		{
 			"url": "http://axs66.github.io/repo/icon/musiclizi.png",
 			"title": "灵动岛粒子动画",
-			"package": "com.Axs.musiclizi"
+			"package": "com.axs.musiclizi"
 		},
 		{
 			"url": "http://axs66.github.io/repo/icon/keyboardhook.png",
 			"title": "原生输入法美化",
-			"package": "com.Axs.keyboardhook"
+			"package": "com.axs.keyboardhook"
 		}
 
 	]
