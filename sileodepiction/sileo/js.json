@@ -24,7 +24,7 @@
           "class": "DepictionSeparatorView"
                 },      
                {
-                    "markdown": "# 空包插件，意在介绍，请勿安装。",
+                    "markdown": "空包插件，意在介绍，请勿安装。",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"                 
                 },
@@ -32,7 +32,7 @@
           "class": "DepictionSeparatorView"
                 },   
                {
-                    "markdown": "# 一个纯业余爱好者，构建越狱源，仅方便自己平时需要。",
+                    "markdown": "一个纯业余爱好者，构建越狱源，仅方便自己平时需要。",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"                          
                 },
@@ -66,6 +66,22 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+          "class": "DepictionSeparatorView"
+                }, 
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "空包插件，意在介绍，请勿安装。",
+                    "useRawFormat": true
+                },
+                {
+          "class": "DepictionSeparatorView"
+                }, 
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "只分享最好用的越狱插件，不明白怎么玩可以咨询微信：VCR66T。如果发现插件异常，麻烦即时反馈，谢谢各位！",
+                    "useRawFormat": true
+                },  
                {
                     "class": "DepictionMarkdownView",
                     "markdown": "1.空包插件，意在介绍，请勿安装。\n2.只分享最好用的越狱插件，不明白怎么玩可以咨询微信：VCR66T。如果发现插件异常，麻烦即时反馈，谢谢各位！",
