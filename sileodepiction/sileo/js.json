@@ -29,17 +29,6 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "一个纯业余爱好者，构建越狱源，仅方便自己平时需要。",
                     "useRawFormat": true,
-                },      
-               {
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{80, 175}",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://axs66.github.io/repo/images/cjms.png"
-                        }
-                    ]
                 },
                 {
                     "class": "DepictionSpacerView",
