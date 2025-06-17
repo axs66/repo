@@ -2571,6 +2571,24 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 图层破解插件1aaa3
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.Axs.horizontalsliders_0.0.1_iphoneos-arm64.deb
+Size: 10632
+MD5sum: cb9aa99b1664e9d05fe83a3a89b01d93
+SHA1: 7dfe0d63e6f9a9f930f56fe5266376fd66efbe76
+SHA256: 429235af16b42460928a30d3a6528f7d41821ec48fbf54acb8dfa42c25e53da9
+Section: Tweaks
+Description: 使控制中心的亮度和音量滑块水平滑动。
+Author: Nightwind
+Icon: https://axs66.github.io/repo/icon/horizontalsliders.png
+Name: HorizontalSliders控制中心水平滑动
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/horizontalsliders/js.json
+
 Package: com.Axs.jade
 Version: 1.0.5
 Architecture: iphoneos-arm64
