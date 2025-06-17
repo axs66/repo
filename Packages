@@ -1996,6 +1996,25 @@ Icon: https://axs66.github.io/repo/icon/daynightswitch.png
 Name: DayNightSwitch日月开关
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/daynightswitch/js.json
 
+Package: com.Axs.daynightswitch
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.Axs.daynightswitch_1.2_iphoneos-arm64.deb
+Size: 69184
+MD5sum: 965b6fa6e0d6f92008ee2d6132447f97
+SHA1: 6c4f26542570f1bc3c596d14a8b31d36c59ab0a9
+SHA256: c7c1688168e9c5632d7872325b32031fd67be4da03af6c436dee74a49f5fe629
+Section: Tweaks
+Description: Add some style to your switches
+Author: Finn Gaida
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/daynightswitch.png
+Name: DayNightSwitch日月开关
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/daynightswitch/js.json
+
 Package: com.Axs.denyphotoalbums
 Version: 1.2.1
 Architecture: iphoneos-arm64
