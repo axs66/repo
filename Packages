@@ -522,61 +522,6 @@ Name: 微信助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
 
 Package: com.25mao.miyou.rootless
-Version: 3.8-1
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.miyou.rootless_3.8-1_iphoneos-arm64.deb
-Size: 9025348
-MD5sum: 3eca461cad8588275e40c3ba2c3ccdae
-SHA1: 15c97303df64db8097063e522bf0d4cbf352f1a3
-SHA256: a8e2553328eec1d23ed8a0af30858576423d356eae816c0e346fa8adc7a2cf09
-Section: 微信插件
-Priority: optional
-Description: 微信助手-Rootless版
-Author: Mao
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信助手-Rootless
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
-
-Package: com.25mao.miyou.rootless
-Version: 3.8-2
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.miyou.rootless_3.8-2_iphoneos-arm64.deb
-Size: 8967800
-MD5sum: d369a9bb68628f1ead05c1549f977aac
-SHA1: 894da3dd1797917e0014f21b8da23a5a7ac26931
-SHA256: 052f347209181c8e10bc309fbf43613ea02a3fee25bb174c71cb1c9e22ccc9fc
-Section: 微信插件
-Priority: optional
-Description: 微信多功能插件
-Author: Mao
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
-
-Package: com.25mao.miyou.rootless
-Version: 3.8-3
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.miyou.rootless_3.8-3_iphoneos-arm64.deb
-Size: 9040072
-MD5sum: 4fb2bd483700bff031b11ff2ed1d7af2
-SHA1: b420b04ef8e91773f91c8525dd93457a2980b217
-SHA256: 6fdc954e98d850227771610955d4337c7ec4f7cf33a1f7040c2523313e8433f5
-Section: 微信插件
-Priority: optional
-Description: 微信多功能插件
-Author: Mao
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
-
-Package: com.25mao.miyou.rootless
 Version: 3.8-4
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
@@ -5298,74 +5243,6 @@ Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
 
 Package: com.HBWechatHelper.ailun
-Version: 1.8.3
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.8.3_iphoneos-arm64.deb
-Size: 11082796
-MD5sum: 7f89b870c54e38d65e5c675a22b3c5a7
-SHA1: 316a024ee3f4c719712b51a44fb2f0ebcc44dec4
-SHA256: aab9526e607de81159aeec243897994a51c0c64a63412a1b7685b96ccda719fd
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
-Version: 1.8.4
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.8.4_iphoneos-arm64.deb
-Size: 11184384
-MD5sum: f4893c7037ee7459c1051e4630a4b383
-SHA1: 05b2c3d7ee8892a9544784ad036aa43bf51908dc
-SHA256: ed35e65527163ef028645d0aeed63d4e6f760fa642c94595d33c8432687410d6
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
-Version: 1.8.5
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.8.5_iphoneos-arm64.deb
-Size: 11213992
-MD5sum: 3ec0d7fd3d2c9bac09c4c6db541c1dd2
-SHA1: 7efef0fa227cfcf52258de0b5775c28f3da76b9d
-SHA256: 28be6f30d12da3c009486ec4aee09a6f9b54609f8072ab13ed2d305fe07fd569
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
-Version: 1.8.6
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.8.6_iphoneos-arm64.deb
-Size: 11764356
-MD5sum: 90583c3e1f538155c31d438a9708abe8
-SHA1: ca2cbd60e38eaf650d3f2354c234643b911366e6
-SHA256: c050cfca43c57b0e7b73669e2df0a7564140ca5bae1eda9b874cc5333b2f13dd
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
 Version: 1.8.7
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
@@ -6075,23 +5952,6 @@ Description: 锤子助手插件
 Author: DumpApp
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 锤子助手-Rootless
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dumpapp/js.json
-
-Package: com.dumpapp.wechat-rootless
-Version: 2.0.5
-Architecture: iphoneos-arm64
-Maintainer: DumpApp
-Installed-Size: 28364
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/com.dumpapp.wechat-rootless_2.0.5_iphoneos-arm64.deb
-Size: 10438116
-MD5sum: 369a497200ab1de17d516a4c99ad2d3b
-SHA1: d573339a0b1e1a24d0a7905e2cec8fe18938e0c3
-SHA256: 44440cc4fa427d3f38ea76b3d8491951bb6001c04ef27b9522f0d7daa7080325
-Section: 微信插件
-Author: DumpApp
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 锤子助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dumpapp/js.json
 
 Package: com.dumpapp.wechat-rootless
@@ -6943,22 +6803,6 @@ Section: Tweaks
 Description: The Apple Watch homescreen experience brought to iOS
 Author: MTAC • ETHN
 Name: Bridge
-
-Package: com.nahtedetihw.airpodscompanion
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: Ethan Whited
-Installed-Size: 10668
-Depends: preferenceloader
-Filename: ./debs/com.nahtedetihw.airpodscompanion_1.4_iphoneos-arm64.deb
-Size: 10353096
-MD5sum: eede33623df6e07f3c3976d5c9a42404
-SHA1: 0874c25b17da566d445704ce1669ac136a7fef0e
-SHA256: c44cf0f14e4abd1937bf35846e50f71268fd76306ce3e39d9e9221e492febbff
-Section: Tweaks
-Description: Floating Noise Cancellation control next to volume slider
-Author: Ethan Whited
-Name: AirpodsCompanion
 
 Package: com.nahtedetihw.airpodscompanion
 Version: 1.5
@@ -8524,25 +8368,6 @@ Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
 Icon: https://axs66.github.io/repo/icon/MilkyWay.png
 Name: MilkyWay4-rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: jp.dcsyhi.zetsu
-Version: 1.6.1
-Architecture: iphoneos-arm64
-Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
-Installed-Size: 11989
-Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
-Filename: ./debs/jp.dcsyhi.zetsu_1.6.1_iphoneos-arm64.deb
-Size: 10174436
-MD5sum: 3473b74970db7f2d92fcc673ec749994
-SHA1: ecc28488a7aadceb2ade0f9feed351ee11576d9b
-SHA256: 12b13d8c910d3bc1784d0524934705d5df6ddc87c911ef2a87b04dfb45509eb3
-Section: Tweaks
-Description: Multitasking on iOS15 - iOS16.
-Tag: compatible_min::ios15.0
-Author: Dcsyhi <dcsyhi1998@gmail.com>
-Depiction: https://chariz.com/get/zetsu
-Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
-Name: Zetsu
 
 Package: jp.dcsyhi.zetsu
 Version: 1.6.2
