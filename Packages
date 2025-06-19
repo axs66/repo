@@ -1168,11 +1168,11 @@ Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.anthocrack2_1.0.0_iphoneos-arm64.deb
-Size: 2940
-MD5sum: 7a07dd2ec3754dfce4fa45d59e9974d4
-SHA1: f56c79257019b40c36f0a9766dc3860735e9c66f
-SHA256: 26529872bd1be3aa5bc23f9b47dc744bbc7ef129e884f7ab5b0393282129c28f
-Section: 插件依赖
+Size: 2932
+MD5sum: ac3df52961c90fb279edca70af361638
+SHA1: 3befde1e6a469c778174a627e61b471237a92672
+SHA256: 9f60437c4371fa69d7b967f1b2030dce930b764d7e8eb9e56571ea8accf61da6
+Section: Tweaks
 Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!
 Author: A <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/tweaks.png
@@ -2556,10 +2556,10 @@ Installed-Size: 152
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/com.Axs.limneoscrack-rootless_1.1-3_iphoneos-arm64.deb
 Size: 10540
-MD5sum: 0387e5bfb3945f1ece689be2d89fa935
-SHA1: cfa1f7e56c25fe71d97c3f263651a6685391d7ff
-SHA256: bcc43418236771e57beef25c6f2699e8241a529cc411d966b40524a5f21ddc37
-Section: 插件依赖
+MD5sum: 9e7d9b178ec6cd04dabc0834b568a0d8
+SHA1: bf15da1eaae757b7f7109afba06bed0059280069
+SHA256: 6a7afe62409404a587e6e32a9fe62c538610cfad33c53a190da5018c2286f6f6
+Section: Tweaks
 Description: 解锁Limneos所有插件全功能通话录音破解、NFC破解等等，可以下载官方插件，再安装本插件进行破解！
 Author: Netskao
 Name: Limneos 插件破解-Rootless
@@ -2930,15 +2930,15 @@ Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcu
 Conflicts: com.creaturecoding.shuffle
 Replaces: com.twickd.nightwind.onesettings
 Filename: ./debs/com.Axs.onesettings_2.2_iphoneos-arm64.deb
-Size: 207892
-MD5sum: a38f7968ea5ea980788aa03da3373b12
-SHA1: aa4eaf04baa4ed9c8942cd6d94c47fc2c6ce7a28
-SHA256: 502803f0dee211c6bb9a6437d9c7ef33023a694ae7b7ce89a8da6989e188b2b8
-Section: 越狱插件收纳
+Size: 207400
+MD5sum: 358db8e2233cee0c8622c35f9b2cedb7
+SHA1: ad2385c79f5b82018cc8836f068b0a4de0564fd2
+SHA256: 59c1445b221c39372526239cac2e3f3952c9ad8e81768f3536768d10cba0dbbd
+Section: Tweaks
 Description: A great enhancement to your Settings App!
 Author: Nightwind
 Icon: https://axs66.github.io/repo/icon/onesettings.png
-Name: OneSettings
+Name: OneSettings越狱插件收纳
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/onesettings/js.json
 
 Package: com.Axs.pancake
@@ -3524,16 +3524,16 @@ Installed-Size: 888
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
 Filename: ./debs/com.Axs.settingsrevamp_3.0.1_iphoneos-arm64.deb
-Size: 206840
-MD5sum: 31c6a776ac10154b135ec5dd50dd8c15
-SHA1: 111f1d5f1be03bf4d349442eb16b585585742832
-SHA256: 9e8ac6b040eed05c8b5c9abe7a5f8de545a4b1286f88d4c0b3744db7ee6cefff
-Section: 越狱插件收纳
+Size: 206476
+MD5sum: c4e74945bfaf2c8c22bad60adf52e461
+SHA1: c925034316f8002e8ec36463557b3ee952a6f49c
+SHA256: 3c2bb685e43344ed56b3190a175a6b2acebc7944267f73dc87f1a2c19c493baf
+Section: Tweaks
 Description: Customize the ios settings page
 Author: SOPPPra
 Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/SettingsRevamp.png
-Name: SettingsRevamp
+Name: SettingsRevamp越狱插件收纳
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/settingsrevamp/js.json
 
 Package: com.Axs.settingsrevamp.hh
@@ -3875,15 +3875,15 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj <0xkujz@gmail.com>
 Depends: firmware (>= 11)
 Filename: ./debs/com.Axs.storeswitcher2_1.0.4_iphoneos-arm64.deb
-Size: 14404
-MD5sum: 83c25b822f977f1462d5f9c33f773697
-SHA1: c6fc49bd48aea0ce9935324ff40475afdf2a8587
-SHA256: 8fe5e761dfee285296ed47f00de2e39e6944527425f7b4a730187d95d23cb4c5
-Section: 苹果商店账号切换
+Size: 14420
+MD5sum: 9f81b66d2a7a08a5d0a543c2af8658e0
+SHA1: 71988f4ec1d21324e5e26a93f07e8265127f1bcb
+SHA256: bf35dd273ea0159da8adbee24208c2ebc8e1a2a50e041fea00b7f123207b7322
+Section: Tweaks
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: 0xkuj <0xkujz@gmail.com>
 Icon: https://axs66.github.io/repo/icon/appstore.png
-Name: StoreSwitcher 2 (rootless)
+Name: StoreSwitcher2 苹果商店账号切换
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.strongerfi12
@@ -4908,11 +4908,11 @@ Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 14.0)
 Filename: ./debs/com.Axs.xinamine_0.0.5_iphoneos-arm64.deb
-Size: 70108
-MD5sum: 65d5c36f98eef11fc4b6d4589d48a114
-SHA1: 288294fa1ecf2c1b143c6bff849db7d03ea842f8
-SHA256: f61cc8be52b49cf7e3f62087a71ad9ba964ad748b87a0d47d951f6342b4b9420
-Section: 插件依赖
+Size: 70084
+MD5sum: 2bf9e2078106f5e7b69630f15fcf10c0
+SHA1: aac067fac45db1a000b3040de45b389019d0598f
+SHA256: 3e8939890b6efa09b57d14e58e9ea11491af9546d3b8d47a500c8844b9fd3754
+Section: Tweaks
 Description: Add Xina tweak compatibility to Dopamine没什么用的插件依赖，可能有人会用到，上传源里备份一下！
 Author: Sudo + Paisseon <qiaozhani000@163.com>
 Name: Xinamine
@@ -5395,18 +5395,18 @@ Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
 Filename: ./debs/com.creaturecoding.shuffle_1.6.2_iphoneos-arm64.deb
-Size: 254392
-MD5sum: f0770ba19f7efab53f0bd4b847e4a121
-SHA1: 71b7904df3723427fc207a54af39e7dc73440e2c
-SHA256: d89bc9ee1154b7e0b6aa4f217fc8cf3946bcae62b71aca5982084ae21d56674f
-Section: 越狱插件收纳
+Size: 254284
+MD5sum: 8ad03a7636d5fcb0fba2143b0f212d0c
+SHA1: 616146bb2e0cf4e015c8cd951f36521320f43144
+SHA256: 6d97becd660f23c85ad511c9c1bc7cdfc7924205441db14832e4e16806f84831
+Section: Tweaks
 Homepage: https://creaturecoding.com/
 Description: Organize your settings
 Tag: purpose::extension, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
-Name: Shuffle
+Name: Shuffle越狱插件收纳
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
 
 Package: com.curtin.pkc.rootless
@@ -6698,15 +6698,15 @@ Maintainer: Netskao
 Installed-Size: 460
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.netskao.storeswitchaccounts_1.1-4_iphoneos-arm64.deb
-Size: 102480
-MD5sum: b117f9abdaf6b7a6b94c2c3b27280527
-SHA1: 6ab76fa60c25883b925994aeaeb87a274d8d9b67
-SHA256: 3fc4b4df31f707ae856383762dea200be998aeec301392e2870245c96009c167
-Section: 苹果商店账号切换
+Size: 102348
+MD5sum: 6280f7e52b4cadc7d219f6583a9fce19
+SHA1: 4a1c7a5620ca5aa3f3b13f762782995b3ac62b23
+SHA256: 73425951c60fe7cc1e00cdd9301829617b016768491fd247197e40eed4a2eca1
+Section: Tweaks
 Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/appstore.png
-Name: StoreSwitchAccounts
+Name: StoreSwitchAccounts苹果商店账号切换
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.netskao.wcabtestlocalbackup
@@ -7205,6 +7205,25 @@ MD5sum: bcc74a3c7899a9be595959f7ebf3452e
 SHA1: 4e0a3fa5ae6f4f41dd2440f1f59dad864322f154
 SHA256: a6c3162a24f0dbb1c7fe571a1d38b7cdd97bec125b7d2803f901f6d1a944b3c1
 Section: 插件依赖
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev
+Tag: role::developer
+Author: Spark
+Icon: https://axs66.github.io/repo/icon/TweakIcon.png
+Name: libsparkcolourpicker
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sponsor: spark
+
+Package: com.spark.libsparkcolourpicker
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: spark
+Installed-Size: 424
+Filename: ./debs/com.spark.libsparkcolourpicker_1.0.2_iphoneos-arm64.deb
+Size: 71556
+MD5sum: 0edddb873c21891be90133786dc0e645
+SHA1: 408ae577aa31dbccd060b623413e7bd02272d18f
+SHA256: 9f38ebd420ec939860483918812735a883345b07f2fec6f46ea5b6184d59a9cd
+Section: Tweaks
 Description: Simple to implement, simple to use colour picker library. Built by SparkDev
 Tag: role::developer
 Author: Spark
