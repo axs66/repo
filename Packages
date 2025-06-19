@@ -2407,6 +2407,24 @@ Icon: https://axs66.github.io/repo/icon/jptext.png
 Name: 修改原生键盘上文字
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/jptext/js.json
 
+Package: com.Axs.kawyibeauty
+Version: 0.0.1-32+debug
+Architecture: iphoneos-arm64
+Maintainer: mumu
+Installed-Size: 352
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debs/com.Axs.kawyibeauty_0.0.1-32+debug_iphoneos-arm64.deb
+Size: 51688
+MD5sum: 3294db0d85fe8227396d4fec678dd9a7
+SHA1: e47a664d2bb22eaeb3e46d82d0cf8e95babdc71d
+SHA256: 727fa3480b621f3f96d5d629864c87ae967e4f4558a4b8e9fb76e52888544535
+Section: Tweaks
+Description: 为应用添加自定义GIF动画装饰效果
+Author: mumu
+Icon: https://axs66.github.io/repo/icon/kawyibeauty.png
+Name: KawyiBeauty动画效果
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/kawyibeauty/js.json
+
 Package: com.Axs.kbapp
 Version: 1.5
 Architecture: iphoneos-arm64
