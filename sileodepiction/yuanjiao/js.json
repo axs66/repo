@@ -96,28 +96,6 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "1. 修复配置失效的bug。2.修复 1.7.4 版本引起的微信卡顿bug。3.修复 1.7.4 版本引起的微信偶尔出现闪退bug。4.新增我的页面圆角。5.新增其他地方圆角，自行发现。6.新增图片返回动画。7.新增横幅视频多个素材上传保存。8.新增所有滑块数值支持手动输入（强迫症患者福音）.",
                     "useRawFormat": true
-                },
-               {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.6.6",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "\n1.增加清除配置.\n2.增加配置分享.\n3.增加输入框.",
-                    "useRawFormat": true
-                },
-               {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.6.5",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "\n1.优化.\n2.更改了配置路径，所以一定要去Filza软件里面，根目录搜索WCYuanJiao.plist，清除以kb为单位的旧版本配置！",
-                    "useRawFormat": true
                 }
             ]
         }
