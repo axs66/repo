@@ -1439,6 +1439,23 @@ Icon: https://axs66.github.io/repo/icon/bettercc.png
 Name: BetterCC
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.betteruiswitch
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao <qiaozhani000@163.com>
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.Axs.betteruiswitch_1.1_iphoneos-arm64.deb
+Size: 58436
+MD5sum: ae73a86add9c6af3ae77fa2bd9d50718
+SHA1: f8f490fb1d0164a91dcfb8651cb35586e4807c75
+SHA256: 970772230614c364f3f0251f1c3d879e501a6b30c5b4546868eaf2223eef891d
+Section: Tweaks
+Description: 给手机上的功能开关添加一个特效。这开关名称吾称之为淫荡开关。
+Author: TiaoTiao <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/ydkg.png
+Name: 淫荡开关
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/betteruiswitch/js.json
+
 Package: com.Axs.bigshot
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1620,20 +1637,19 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/ccmusic/js.json
 Package: com.Axs.centra
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: Axs
+Maintainer: Axs <qiaozhani000@163.com>
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.centra_1.0_iphoneos-arm64.deb
-Size: 54564
-MD5sum: f07098da70307e5bbf1e9405ba828ff1
-SHA1: 99f13395fcfe07b0efcab493afb0bd8e470a22ec
-SHA256: e72de72d43bd618b30ea88431ce1597b3fbb3bd4bc6315499f24de1265a2525a
+Size: 54588
+MD5sum: 4c85e0397344be4ed3e3bb1326bd624b
+SHA1: cd602741250447324c76cd4cdfe78daecdcaf849
+SHA256: dab66591fd51ca9d99f317ccf6eac9cffa0c169a320dca6e8f61e884f727ad47
 Section: 系统增强
 Description: 自定义控制中心中模块的大小，包括连接和其他模块。
-Author: Hitori
-Depiction: Axs
+Author: Hitori <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/centra.png
-Name: Centra
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Name: Centra自定义控制中心
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/centra/js.json
 
 Package: com.Axs.chromahomebarx
 Version: 1.0-2
@@ -2586,6 +2602,23 @@ Icon: https://axs66.github.io/repo/icon/ljm.png
 Name: 拦截猫vip
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ljm/js.json
 
+Package: com.Axs.llswitch
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Simon <qiaozhani000@163.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.llswitch_1.0_iphoneos-arm64.deb
+Size: 16228
+MD5sum: 1a7251955362b6ba54cb06202f2f4ed6
+SHA1: 36370889cd4491faf9fb0a68a4260b35aaeaa276
+SHA256: 84cbaab5c9e590e40e298d2c0faef67109baf99d384664981c1b68b20ce65d74
+Section: Tweaks
+Description: 把开关变成无聊的表情  开关不再卑微！
+Author: Simon <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/llswitch.png
+Name: 笑脸开关
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/llswitch/js.json
+
 Package: com.Axs.lockmusic
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -3318,6 +3351,23 @@ Author: ETHN <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/reachplayer.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
+
+Package: com.Axs.recordanywhere
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Muirey03 & lclrc <qiaozhani000@163.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.recordanywhere_1.1.0_iphoneos-arm64.deb
+Size: 4584
+MD5sum: cd68a5ac37ae51edbd354d13a66ba299
+SHA1: ae0424866b5323a797885f26e8c8ac9c0b46b4cc
+SHA256: ec869882725b1be076f1936613f9bf0e8ee460ee83e090343eff4605321cf820
+Section: 系统增强
+Description: 使手机在锁屏状态也可以继续录屏。
+Author: Muirey03 & lclrc <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/recordanywhere.png
+Name: 锁屏录屏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/recordanywhere/js.json
 
 Package: com.Axs.recorder-bubble
 Version: 0.0.1
