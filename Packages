@@ -7199,25 +7199,6 @@ Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: spark
 Installed-Size: 424
-Filename: ./debs/com.spark.libsparkcolourpicker_1.0.2.deb
-Size: 71280
-MD5sum: bcc74a3c7899a9be595959f7ebf3452e
-SHA1: 4e0a3fa5ae6f4f41dd2440f1f59dad864322f154
-SHA256: a6c3162a24f0dbb1c7fe571a1d38b7cdd97bec125b7d2803f901f6d1a944b3c1
-Section: 插件依赖
-Description: Simple to implement, simple to use colour picker library. Built by SparkDev
-Tag: role::developer
-Author: Spark
-Icon: https://axs66.github.io/repo/icon/TweakIcon.png
-Name: libsparkcolourpicker
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-Sponsor: spark
-
-Package: com.spark.libsparkcolourpicker
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: spark
-Installed-Size: 424
 Filename: ./debs/com.spark.libsparkcolourpicker_1.0.2_iphoneos-arm64.deb
 Size: 71556
 MD5sum: 0edddb873c21891be90133786dc0e645
