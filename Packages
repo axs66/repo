@@ -7761,6 +7761,24 @@ Icon: https://axs66.github.io/repo/icon/voicechanger.png
 Name: VoiceChanger XS通话变声器
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/voicechanger/js.json
 
+Package: org.swift.protobuf.swiftprotobuf
+Version: 1.29.0
+Architecture: iphoneos-arm64
+Maintainer: eevee
+Installed-Size: 10116
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb
+Size: 1445400
+MD5sum: 7f8053742c70e655c8235a333bd8f131
+SHA1: 75fd0c7ba9f277b835fafb15f9fe46e7ffb2f635
+SHA256: 15bccafbda544febe162fc80c261a5ea894a59ec24b88c502cf42c7760447096
+Section: System
+Description: Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Author: eevee
+Icon: https://axs66.github.io/repo/icon/swiftprotobuf.png
+Name: SwiftProtobuf
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/swiftprotobuf/js.json
+
 Package: wiki.qaq.colorfulwallpaperx
 Version: 4.6
 Architecture: iphoneos-arm64
