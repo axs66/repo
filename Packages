@@ -5706,23 +5706,6 @@ Icon: https://axs66.github.io/repo/icon/spotify.png
 Name: EeveeSpotify
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/spotify/js.json
 
-Package: com.ethanrdoesmc.arise
-Version: 1.2.3
-Architecture: iphoneos-arm64
-Maintainer: EthanRDoesMC
-Installed-Size: 1492
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
-Filename: ./debs/com.ethanrdoesmc.arise_1.2.3_iphoneos-arm64.deb
-Size: 823326
-MD5sum: 5c6622c2ef2090c54bcae2643fc5d5fc
-SHA1: 7dd950fba1eb69775191605dbc2f493c871f0459
-SHA256: 9154724e3c486ecd60a896c297fe708659da40124916dddfb723a0af79812a03
-Section: Tweaks
-Description: Customize and automate your lock screen.
-Author: EthanRDoesMC
-Icon: https://ethanrdoesmc.com/Logos/AriseIcon.png
-Name: Arise
-
 Package: com.ethxnn88.visibleisland
 Version: 2.0
 Architecture: iphoneos-arm64
