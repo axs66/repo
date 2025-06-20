@@ -6799,6 +6799,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCABTestLocalBackup微信自动备份聊天记录
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcabtestlocalbackup/js.json
 
+Package: com.netskao.wcabtesttimelineemoticonorimage
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wcabtesttimelineemoticonorimage_1.1-1_iphoneos-arm64.deb
+Size: 2404
+MD5sum: 04745da482f98ec3fa7f4e4a11adced8
+SHA1: ff92db4da65d539799238a82b12994490feb654d
+SHA256: 0662a473f2dbb4925ea0132e1230e96b6ac0ff6b60485f7a48590903b09c35d1
+Section: Netskao-Tweaks
+Description: 微信强开朋友圈发送图片评论，仅支持8.0.60+
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 朋友圈图片评论
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.netskao.wcdisablehotupdates
 Version: 1.1-1
 Architecture: iphoneos-arm64
