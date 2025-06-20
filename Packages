@@ -5724,6 +5724,24 @@ Icon: https://axs66.github.io/repo/icon/spotify.png
 Name: EeveeSpotify
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/spotify/js.json
 
+Package: com.eevee.spotify
+Version: 6.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1668
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/com.eevee.spotify_6.0_iphoneos-arm64.deb
+Size: 431360
+MD5sum: fc2a2bbc54989800b7b89d556c3cfca5
+SHA1: b20891a62b3f2b6506ca337467af36ae79bd640c
+SHA256: 5779fda5f0d13a5464e655e21277f9b880e7097cd9e32f05688c133c9437c83b
+Section: Tweaks
+Description: 像Spotilife一样，免费获得Spotify Premium的调整，可以显示歌词。配合活字印刷术印刷术效果也可以。
+Author: Eevee
+Icon: https://axs66.github.io/repo/icon/spotify.png
+Name: EeveeSpotify (Lessica Fork)
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/spotify/js.json
+
 Package: com.ethxnn88.visibleisland
 Version: 2.0
 Architecture: iphoneos-arm64
