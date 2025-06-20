@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "微信视图圆角控制，消息横幅粒子动画，视频特效等。9.9付费插件,添加微信 VCR66T 授权.",
+                    "markdown": "微信视图圆角控制，消息横幅粒子动画，视频特效等。  \n9.9付费插件，<br>添加微信 VCR66T 授权。",
                     "useRawFormat": true,
                 },      
                {
@@ -37,6 +37,14 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://axs66.github.io/repo/sileodepiction/yuanjiao/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/repo/sileodepiction/yuanjiao/Screenshot_03.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/repo/sileodepiction/yuanjiao/Screenshot_04.png"
                         }
                     ]
                 },
@@ -94,7 +102,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1. 修复配置失效的bug。2.修复 1.7.4 版本引起的微信卡顿bug。3.修复 1.7.4 版本引起的微信偶尔出现闪退bug。4.新增我的页面圆角。5.新增其他地方圆角，自行发现。6.新增图片返回动画。7.新增横幅视频多个素材上传保存。8.新增所有滑块数值支持手动输入（强迫症患者福音）.",
+                    "markdown": "1. 修复配置失效的bug。<br>2.修复 1.7.4 版本引起的微信卡顿bug。<br>3.修复 1.7.4 版本引起的微信偶尔出现闪退bug。<br>4.新增我的页面圆角。5.新增其他地方圆角，自行发现。6.新增图片返回动画。7.新增横幅视频多个素材上传保存。8.新增所有滑块数值支持手动输入（强迫症患者福音）.",
                     "useRawFormat": true
                 }
             ]
