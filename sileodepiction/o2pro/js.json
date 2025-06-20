@@ -119,6 +119,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 17.20<br>1.解决了一些已知问题。<br>2.解决了提出问题的人。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 17.9.1\n1.修复了分屏卡顿的问题。\n2.修复音乐岛可能发热的问题。",
                 },
                 {
