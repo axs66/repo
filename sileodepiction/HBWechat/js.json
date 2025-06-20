@@ -95,18 +95,18 @@
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "1.8.6",
+                    "title": "### 1.8.6",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.优化[消息类功能]-消息小尾巴.\n2.移除[自动化功能]-不稳定的功能.\n3.新增[禁用类功能]-禁用小尾巴显示。",
+                    "markdown": "1.优化[消息类功能]-消息小尾巴.<br>2.移除[自动化功能]-不稳定的功能.<br>3.新增[禁用类功能]-禁用小尾巴显示。",
                     "useRawFormat": true
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "1.8.5",
+                    "title": "### 1.8.5",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -117,46 +117,46 @@
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "1.8.1",
+                    "title": "### 1.8.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.修复部分可能导致异常的功能。\n2.修复合成背景音乐时闪退的问题。\n3.优化友圈小尾巴，减少繁琐的代码。\n4.移除应用自带的“反人类”礼物位置等功能。",
+                    "markdown": "1.修复部分可能导致异常的功能。<br>2.修复合成背景音乐时闪退的问题。<br>3.优化友圈小尾巴，减少繁琐的代码。<br>4.移除应用自带的“反人类”礼物位置等功能。",
                     "useRawFormat": true
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "1.8.0",
+                    "title": "### 1.8.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.修复卡包导致闪退的问题。\n2.修复免费点歌，新增点歌接口。\n3.需要重新进入消息类功能重新选择接口。\n4.部分带歌词，如听不了就是请求频繁风控了。",
+                    "markdown": "1.修复卡包导致闪退的问题。<br>2.修复免费点歌，新增点歌接口。<br>3.需要重新进入消息类功能重新选择接口。<br>4.部分带歌词，如听不了就是请求频繁风控了。",
                     "useRawFormat": true
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "1.7.8",
+                    "title": "### 1.7.8",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.临时修复微软语音接口，修复地区无法访问问题。\n2.支持导出本地音色配置，支持纳入本地音色配置，支持删除异常音色配置。\n3.新增音色记忆选择功能，新增添加本地明星音色配置。",
+                    "markdown": "1.临时修复微软语音接口，修复地区无法访问问题。<br>2.支持导出本地音色配置，支持纳入本地音色配置，支持删除异常音色配置。<br>3.新增音色记忆选择功能，新增添加本地明星音色配置。",
                     "useRawFormat": true
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "1.7.5",
+                    "title": "### 1.7.5",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.优化保存朋友圈实况。\n2.修复非实况版本保存图片闪退的问题。\n3.新增[特色类功能]-进入聊天界面自动呼出输入法。",
+                    "markdown": "1.优化保存朋友圈实况。<br>2.修复非实况版本保存图片闪退的问题。<br>3.新增[特色类功能]-进入聊天界面自动呼出输入法。",
                     "useRawFormat": true
                 }
             ]
