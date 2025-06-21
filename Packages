@@ -6823,11 +6823,11 @@ Maintainer: Nets
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.netskao.wcabtesttimelineemoticonorimage_1.1-1_iphoneos-arm64.deb
-Size: 2404
-MD5sum: 04745da482f98ec3fa7f4e4a11adced8
-SHA1: ff92db4da65d539799238a82b12994490feb654d
-SHA256: 0662a473f2dbb4925ea0132e1230e96b6ac0ff6b60485f7a48590903b09c35d1
-Section: Netskao-Tweaks
+Size: 2400
+MD5sum: 329723592bec4c2729cb494183ba7acb
+SHA1: 319b7c0aca617d533e4c0de729e803ae998712d5
+SHA256: 6b2149dfd50055561eba903f86dfee23a519a583f3c0527051e43c1d810f1eaa
+Section: 微信插件
 Description: 微信强开朋友圈发送图片评论，仅支持8.0.60+
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/wechat.png
@@ -7839,11 +7839,11 @@ Architecture: iphoneos-arm64
 Maintainer: eevee
 Installed-Size: 10116
 Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb
-Size: 1445400
-MD5sum: 7f8053742c70e655c8235a333bd8f131
-SHA1: 75fd0c7ba9f277b835fafb15f9fe46e7ffb2f635
-SHA256: 15bccafbda544febe162fc80c261a5ea894a59ec24b88c502cf42c7760447096
-Section: System
+Size: 1445836
+MD5sum: d2f00e5984ab8ebc3b949ba2b35e9fad
+SHA1: d6c130e6389de84a909ced7f67096524a69d2366
+SHA256: f1f39bb1c35a164af5b6944a3055d7eeb4ab2d1b959aeaa0dc8b24f954045842
+Section: Tweaks
 Description: Plugin and runtime library for using protobuf with Swift
 Tag: role::developer
 Author: eevee
