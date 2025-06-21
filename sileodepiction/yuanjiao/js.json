@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "功能介绍：<br>1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。<br>2.横幅通知：粒子动画，视频特效等。  <br>3.付费插件 9.9 授权，添加微信 VCR66T 授权。",
+                    "markdown": "功能介绍：<br>1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。<br>2.横幅通知：粒子动画，视频特效等。  <br>3.付费插件 9.9 授权，添加微信 CIA239 授权。",
                     "useRawFormat": true,
                 },      
                {
@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 6 月 17 日",
+                    "text": "2025 年 6 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -94,6 +94,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.8.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1. 新增发现页圆角。<br> 2. 新增对话界面，图片和视频下拉动画。<br> 3. 新增输入框语音状态下及外框圆角。<br> 4. 新增横幅通知功能的使用说明。<br> 5. 修复相册预览闪烁。<br> 6. 优化 1.8.2 版本中大家反馈的信息，自行发现。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "1.8.2",
