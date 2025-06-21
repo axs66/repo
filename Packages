@@ -4634,6 +4634,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WeChatPopVC返回手势
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechat-pop-vc/js.json
 
+Package: com.Axs.wechat-pop-vc
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.Axs.wechat-pop-vc_0.0.4_iphoneos-arm64.deb
+Size: 22024
+MD5sum: 7224447c938fbb78e26348c5a3bd33ab
+SHA1: 25a00641392fad28e0a705a4fe8a1ca6df41ce49
+SHA256: 6c0feb9a65ae7e7a1cdff47a2aa4080e25c15d784dd9359914ffb8070ddc9f80
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatPopVC返回手势
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechat-pop-vc/js.json
+
 Package: com.Axs.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64
