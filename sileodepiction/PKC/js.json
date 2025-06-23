@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://axs66.github.io/repo/images/Axslogo.png",
-    "tintColor": "#1DD660",
+    "tintColor": "#00BFFF",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -13,39 +13,22 @@
                     "action":"https://t.me/wxfx8",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
-                },
+                }, 
                {
                     "text":"✈交流群组",
                     "action":"https://t.me/oncar2",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
-                },
-                {
-                    "markdown": "群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、自动通过好友请求、自动互删好友等",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "预览",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
+                },      
                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、自动通过好友请求、自动互删好友等。",
+                    "useRawFormat": true,
+                },      
+               {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 0,
-                    "itemSize": "{150, 345}",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{150, 346}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
@@ -56,6 +39,13 @@
                             "url": "https://axs66.github.io/repo/sileodepiction/PKC/Screenshot_02.png"
                         }
                     ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -82,14 +72,6 @@
                     "title": "微信"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "0.7.1",
-                    "title": "插件版本"
-                },
-                {
                     "class": "DepictionTableTextView",
                     "text": "iOS 15 - iOS 16.5",
                     "title": "支持系统"
@@ -97,50 +79,41 @@
                 {
                     "class": "DepictionTableTextView",
                     "text": "2025 年 6 月 13 日",
-                    "title": "最后更新"
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
                 }
             ]
         },
         {
             "class": "DepictionStackView",
-            "tabname": "更新",
+            "tabname": "更新日志",
             "views": [
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 0.7.8</br>1.新增`AI图像生成`功能。</br>2.新增`AI视频生成`功能。</br>3.新增长按图分析（功能位置在AI-OpenAI-启用AI图分析）。</br>4.新增自动下载文件功能（可指定窗口自动下载收到的文件）。</br>5.优化`AI对话。</br>6.优化`关键词回复。</br>7.优化`消息统计`-`AI聊天分析`功能。</br>8.优化自动下载图、视频、文件在仅私聊模式下，增加特定群聊选择",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 0.7.4</br>1.新增`我邀请入群的群员`功能。</br>2.增加`自动下载图、视频`功能。</br>3.修复群设置页面查看`群近期操作`点击消息后，无法跳转定位问题。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.7.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 0.7.2</br>1.`群管标识`字体颜色自定义区分深色背景和浅色背景。</br>2.`标签Pro`修复错误显示问题。</br>3.修复艾特所有人员浮窗提示不生效问题。</br>4.修复壁纸等bug。",
+                    "markdown": "1.新增`AI图像生成`功能。<br>2.新增`AI视频生成`功能。<br>3.新增长按图分析（功能位置在AI-OpenAI-启用AI图分析）。<br>4.新增自动下载文件功能（可指定窗口自动下载收到的文件）。<br>5.优化`AI对话。<br>6.优化`关键词回复。<br>7.优化`消息统计`-`AI聊天分析`功能。<br>8.优化自动下载图、视频、文件在仅私聊模式下，增加特定群聊选择。",
+                    "useRawFormat": true
                 },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 0.7.0</br>1.`抖音解析`新增功能，支持视频解析、自动回复。</br>2.`引用Pro`新增功能。</br>3.`自定义文视图Api`优化功能，增加抹除按钮、页面优化、动态参数识别优化兼容存在“空格”的参数。</br>4.`PKC指令`部分回复文本录入框，支持快速引用PKC指令，更便捷地配置规则。</br>5.`群管理Pro`群黑名单检测时间优化，改为秒踢黑名单。</br>6.`关键词回复`增加自动撤回。</br>7.`设置入口`修复最新官方版本在设置页面没入口问题。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.7.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 0.6\n- 新增一个功能[匿名艾特]。\n新增一个功能[批量修改群昵称]",
-                },
-                {
-                    "class": "DepictionSeparatorView"
+                    "markdown": "1.新增`我邀请入群的群员`功能。<br>2.增加`自动下载图、视频`功能。<br>3.修复群设置页面查看`群近期操作`点击消息后，无法跳转定位问题.",
+                    "useRawFormat": true
                 }
             ]
         }
-    ],
+    ]
 }
