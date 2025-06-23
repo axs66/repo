@@ -2779,6 +2779,26 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 去除misaka匿名艾特次数限制
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.moorebarx15
+Version: 1.0.0~beta1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 968
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: net.tateu.moorebarx13, net.tateu.moorebarx16
+Filename: ./debs/com.Axs.moorebarx15_1.0.0~beta1.0.5_iphoneos-arm64.deb
+Size: 149940
+MD5sum: 453e0ca38bfad499c84409dda63071a7
+SHA1: 2ed7770df8327dcde0e627a86bebb73ab16cceac
+SHA256: 7f197c6533d7059e2a324b4f5735dc38e9ed48ad0adb5411a60e6fe6452c6223
+Section: 系统增强
+Description: More StatusBar icons.更多状态栏图标。
+Author: tateu
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/moorebarx15.png
+Name: MooreBarX15状态栏图标
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/moorebarx15/js.json
+
 Package: com.Axs.movenotification16
 Version: 1.0
 Architecture: iphoneos-arm64
