@@ -119,7 +119,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 17.20</br>1.解决了一些已知问题。</br>2.解决了提出问题的人。",
+                    "markdown": "### 17.20\n1.解决了一些已知问题。\n2.解决了提出问题的人。",
                 },
                 {
                     "class": "DepictionSeparatorView"
