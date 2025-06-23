@@ -84,7 +84,7 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "### 1.8.8",
+                    "title": "1.8.8",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -95,7 +95,7 @@
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "### 1.8.6",
+                    "title": "1.8.6",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -106,7 +106,7 @@
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "### 1.8.5",
+                    "title": "1.8.5",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -117,7 +117,7 @@
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "### 1.8.1",
+                    "title": "1.8.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -128,7 +128,7 @@
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "### 1.8.0",
+                    "title": "1.8.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -139,7 +139,7 @@
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "### 1.7.8",
+                    "title": "1.7.8",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -150,7 +150,7 @@
                 },
                {
                     "class": "DepictionSubheaderView",
-                    "title": "### 1.7.5",
+                    "title": "1.7.5",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
