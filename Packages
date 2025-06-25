@@ -3393,16 +3393,17 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/raisesparks/js.json
 Package: com.Axs.reachplayer
 Version: 2.6
 Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhani000@163.com>
-Depends: firmware (>=13.0), mobilesubstrate
+Maintainer: ETHN
+Installed-Size: 3636
+Depends: mobilesubstrate
 Filename: ./debs/com.Axs.reachplayer_2.6_iphoneos-arm64.deb
-Size: 117272
-MD5sum: dbf7ab8f4c189c71418eeb6be61d2f6e
-SHA1: 4d01504ae2e2cd87b671eb46f09858fb28c0daec
-SHA256: dd0b8e49e738117dbe1038af1a7e6efba13164103cb6a69eac0343de9903f120
-Section: Axs-Tweaks
-Description: Now Playing info in Reachability Window!一个好看的音乐窗口，可能有偶尔失效的bug！
-Author: ETHN <qiaozhani000@163.com>
+Size: 1141540
+MD5sum: 74e9f58596d290b6bd94c5ffe8a15a06
+SHA1: ca296d44729dd927d60661e42666675f778228a8
+SHA256: 2b815ddb43001c2cd0a1d62b9cd77eba6cc2da86b76b6e237debf74f004181e5
+Section: Tweaks
+Description: ReachPlayer便捷访问音乐专辑
+Author: ETHN
 Icon: https://axs66.github.io/repo/icon/reachplayer.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
@@ -7927,15 +7928,15 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
 Version: 17.20
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: lzsxcl
-Installed-Size: 30360
+Installed-Size: 30520
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm64.deb
-Size: 12460948
-MD5sum: 0333fcbbf35f37ae9a02d34b4f2dddf1
-SHA1: f26ef321391dff88a303a2d993c20393cafd50fa
-SHA256: eed5bc1d2771d223276766d23a5221ebcb2c27de6770945157240c3d45b61c2e
+Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm.deb
+Size: 12486256
+MD5sum: 6396a265f18f720819b1be850bc13a4e
+SHA1: b921e287bca561532a687ea1e74c9db80f65bd07
+SHA256: e077f7f97a9f5ce46d3fd5d0570dc523dc5fb3c65ff76f7ae9c62d42d1bbdfc5
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
@@ -7946,15 +7947,15 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
 Version: 17.20
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: lzsxcl
-Installed-Size: 30520
+Installed-Size: 30360
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm.deb
-Size: 12486256
-MD5sum: 6396a265f18f720819b1be850bc13a4e
-SHA1: b921e287bca561532a687ea1e74c9db80f65bd07
-SHA256: e077f7f97a9f5ce46d3fd5d0570dc523dc5fb3c65ff76f7ae9c62d42d1bbdfc5
+Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm64.deb
+Size: 12460948
+MD5sum: 0333fcbbf35f37ae9a02d34b4f2dddf1
+SHA1: f26ef321391dff88a303a2d993c20393cafd50fa
+SHA256: eed5bc1d2771d223276766d23a5221ebcb2c27de6770945157240c3d45b61c2e
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
