@@ -2160,11 +2160,11 @@ Maintainer: Netskao
 Installed-Size: 88
 Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
 Filename: ./debs/com.Axs.filzacrack_1.1-8_iphoneos-arm64.deb
-Size: 5028
-MD5sum: 9e83242e91cb29eab6ad11c534eed58f
-SHA1: 88f4a0ab963378d2f18727d90bbe9ea8e26b8717
-SHA256: e8446c41b2e5c2e34ee1825c8320952c7456f7c449f562d47a2e02decb4ab064
-Section: Axs-Tweaks
+Size: 5032
+MD5sum: 70c808c0a229f478c1c800c89b77118b
+SHA1: 0b7d99eb8fad79ecddc7205bc350258bf5c4e75d
+SHA256: 6691534e86f9bd726c902566ad198a28561b774f39536d39782281bfc9f96a3f
+Section: 应用程序
 Homepage: https://tigisoftware.com/cydia/
 Description: Filza unlock full functionality, the main program please install in the official source
 Author: Netskao
@@ -2238,15 +2238,15 @@ Maintainer: Nets
 Installed-Size: 5020
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.flexlist_1.4-2_iphoneos-arm64.deb
-Size: 1322024
-MD5sum: bb2842a0a2acb3fbca882e169481490f
-SHA1: d315c86672fe4242a63584c5e46b74d6651567d2
-SHA256: ceaa7551dc0488b5ff46ada9033fae127f9511531100d6af48926afdd7248430
-Section: Axs-Tweaks
+Size: 1322348
+MD5sum: cd16e4c9cc6de1ce245f469256c5ebe1
+SHA1: 1151bf32d6a59e239a816f5a52479b4a476c4e7d
+SHA256: 40116c3c124f329b924b533a054975e162f84b4fb61e38c18bc714d1bf15edf9
+Section: Tweaks
 Description: FLEXList is a wrapper tool for FLEX Tool
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/FLEXList.png
-Name: FLEXList
+Name: FLEXList 调试工具
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.freepip
@@ -4308,16 +4308,16 @@ Architecture: iphoneos-arm64
 Maintainer: kok3shi
 Depends: firmware (>= 15.0), cy+cpu.arm64, libcurl4, libssl3, usbmuxd
 Filename: ./debs/com.Axs.turdusmerula_1.0.2_iphoneos-arm64.deb
-Size: 508648
-MD5sum: 531373346c4de103933890ceef2d2ce6
-SHA1: 3ff67aad8946bcb4295d62ce5486df00cd51a849
-SHA256: 059bc95bc0682b3fe7a5d2f68905641523b9f722f7d6bc0fa01499ed18130cca
-Section: 应用程序
+Size: 508360
+MD5sum: 620ec455e56f58136101345f59fa375b
+SHA1: 5639759218f3bfcacdeaee785664678f2356e1c0
+SHA256: 85f2fd435a1140bf66d1ab35049571a3da531cdc7b32ed48bdb7b988488ab3da
+Section: tweaks
 Description: turdus merula是一个利用bootrom漏洞和SEP漏洞的工具，允许A9(X)和A10(X)设备恢复到旧版本的iOS/iPadOS，包括那些与最新签名SEP固件不兼容的设备。
 Author: Clarity, kok3shidoll, Mineek
 Depiction: https://sep.lol/
 Icon: https://axs66.github.io/repo/icon/turdusmerula.png
-Name: turdus merula
+Name: turdus merula 系统降级
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/turdusmerula/js.json
 
 Package: com.Axs.twistnturn
@@ -5764,17 +5764,16 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 977448
-MD5sum: be493d55bf0f24c4bbffe03d8b1239bd
-SHA1: afa90a94990d625cd00aad510f1b081921b3975e
-SHA256: 189fba655519bf4e0203bc40d2c1330107a46efb0263212ce6723a70586c423a
-Section: 系统增强
-Homepage: http://ib-soft.net/icleaner
+Size: 977940
+MD5sum: c4b35fae59d452c1c9faae28d8f65b01
+SHA1: 6cf99700c4209bdc346655f493980e159c0947fd
+SHA256: d3c24928d2cd7b49a92c526c52bf783ba9522986a5046510ba3be4b8801f91cd
+Section: 应用程序
+Homepage: https://axs66.github.io/repo
 Description: The first real iOS system cleanup and management utility
 Author: Ivano Bilenchi
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://axs66.github.io/repo/icon/iCleanerPro.png
-Name: iCleaner Pro
+Name: iCleaner Pro 小扫把
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/icleanerpro/js.json
 
 Package: com.foxfort.translomatic
