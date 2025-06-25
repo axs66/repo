@@ -4427,6 +4427,23 @@ Icon: https://axs66.github.io/repo/icon/volume-manager.png
 Name: 音量管理器
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/volume-manager/js.json
 
+Package: com.Axs.waktos
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: com.spark.libsparkcolourpicker, oldabi, preferenceloader, ws.hbang.common (>= 1.14), com.peterdev.libpddokdo
+Filename: ./debs/com.Axs.waktos_1.0.1_iphoneos-arm64.deb
+Size: 147952
+MD5sum: 2788b161e10ed904af52de0e51058c9f
+SHA1: b0b82bf36555ab98d29fbddfb8d2f82a3ebd5baa
+SHA256: 9e9c632f57fae919fef5f47bd37436c635fd2eec670820121ab3f97669ee4b99
+Section: Tweaks
+Description: 安卓风格的锁屏。注意：锁屏有通知时是另一种风格，无通知时才会介绍的风格！
+Author: alimaulana <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/waktos.png
+Name: Waktos安卓锁屏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/waktos/js.json
+
 Package: com.Axs.wcabtestvoicerecordview
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -7129,6 +7146,23 @@ Author: P2KDev
 Icon: https://axs66.github.io/repo/icon/tinge.png
 Name: Tinge角标自适应
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/tinge/js.json
+
+Package: com.peterdev.libpddokdo
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: Soongyu Kwon
+Installed-Size: 148
+Filename: ./debs/com.peterdev.libpddokdo_1.3.5_iphoneos-arm64.deb
+Size: 6532
+MD5sum: 69a06a470afb370ab761492337115c65
+SHA1: fdf856e837dfc4810063f142ca6c17bfbc62850a
+SHA256: 65aac884d4675e633bf5a3d929af85532ebf0ee4f2069292e45dadaabd118a0b
+Section: Tweaks
+Description: An awesome library to get current weather which provides by iOS Weater.app easily.
+Author: Soongyu Kwon
+Icon: https://axs66.github.io/repo/icon/libpddokdo.png
+Name: libPDDokdo
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/libpddokdo/js.json
 
 Package: com.pingfan.wechat
 Version: 2.2-1
