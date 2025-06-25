@@ -2190,6 +2190,26 @@ Icon: https://axs66.github.io/repo/icon/flex.png
 Name: FLEX 调试工具
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/flex/js.json
 
+Package: com.Axs.flex3
+Version: 1:3~Beta90
+Architecture: iphoneos-arm64
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
+Recommends: com.rpetrich.rocketbootstrap
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Filename: ./debs/com.Axs.flex3_1:3~Beta90_iphoneos-arm64.deb
+Size: 6329672
+MD5sum: c9f57ceee31b454ae08b761992d66939
+SHA1: df65e2c73b2424a9cb394ed8043228021b98c530
+SHA256: bc6000a9abc7317003ae842104e1524ba6ce455f419069a4916331ff67ca7b11
+Section: Tweaks
+Description: 开发您自己的调整并在Flex社区云上共享。Dopamine2.0可生效系统补丁，内置Legacy arm64e Support补丁。Xina2.0不要安装，不要安装！！！！
+Author: John Coates
+Icon: https://axs66.github.io/repo/icon/flex3.png
+Name: Flex 3 Beta90
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/flex3/js.json
+
 Package: com.Axs.flexibleexpression
 Version: 1.0.0
 Architecture: iphoneos-arm64
