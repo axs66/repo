@@ -1344,24 +1344,6 @@ Name: AutoScroll页面自动滑动
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/autoscroll/js.json
 Sponsor: Axs
 
-Package: com.Axs.awemedownloadmedia
-Version: 1.1-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 324
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.Axs.awemedownloadmedia_1.1-5_iphoneos-arm64.deb
-Size: 84956
-MD5sum: 72892473d7fb893b77dce3baf1110980
-SHA1: dbde80ee8c6f4c051941bfa273c73ca629588402
-SHA256: cd543ebadaaf077e57a41ece248b1241291d31ec02c910dca230f63c46d3275a
-Section: Axs-Tweaks
-Description: Aweme No Watermark Download Media. Tested only on version 30.3.0 and above
-Author: Netskao
-Icon: https://axs66.github.io/repo/icon/dy.png
-Name: AwemeDownloadMedia
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
 Package: com.Axs.backgrounderaction15
 Version: 0.1.0
 Architecture: iphoneos-arm64
@@ -2460,23 +2442,6 @@ Icon: https://axs66.github.io/repo/icon/kbapp.png
 Name: KBApp
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/kbapp/js.json
 
-Package: com.Axs.keyboard
-Version: 1.1-8
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 1060
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.Axs.keyboard_1.1-8_iphoneos-arm64.deb
-Size: 233660
-MD5sum: 69cc6bd6c91dfb6f843605ad0bf9944d
-SHA1: d8ea3eff48591d08108ea7fa97a7ca80f87c6333
-SHA256: 2bf5f8e3d9eefe963e41e55e1dc90b7f465efe326babdc142ff0bf58f871bd63
-Section: Axs-Tweaks
-Description: 自定义X键盘底部高度、地球底部高度等。可以解决1.3.7版Svp分屏开启后，地球或者语音按不动的问题。
-Author: Axs
-Name: 键盘高度、地球及语音融入键盘
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/jp/js.json
-
 Package: com.Axs.keyboardhook
 Version: 2.0-6+debug
 Architecture: iphoneos-arm64
@@ -3193,24 +3158,6 @@ Icon: https://axs66.github.io/repo/icon/prokeys.png
 Name: ProKeys键盘特效
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/prokeys/js.json
 
-Package: com.Axs.qqmusic
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.qqmusic_1.0.3_iphoneos-arm64.deb
-Size: 4984
-MD5sum: 0f1177f9640c5c5108b0a0a81236c36e
-SHA1: e53266b9d60651ec3983100f9fb70baa55c97c08
-SHA256: 3a99d19f73837ddda4a0f70a2141ab39c18d64ba6bf217db5fcdade950bf751e
-Section: Axs-Tweaks
-Description: 免费解锁臻品音质2.0，优化去除广告、精简个人主页。
-Author: Axs
-Icon: https://axs66.github.io/repo/icon/qqyy.png
-Name: QQ音乐增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-Sponsor: Axs
-
 Package: com.Axs.qqnotiavatar
 Version: 1.2-2
 Architecture: iphoneos-arm64
@@ -3228,23 +3175,6 @@ Author: Netskao
 Icon: https://axs66.github.io/repo/icon/qq.png
 Name: QQNotiAvatar
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.Axs.qqtc
-Version: 1.1.1-1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 1600
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.qqtc_1.1.1-1_iphoneos-arm64.deb
-Size: 577392
-MD5sum: a9dab2b07ccaeb0ba6065585ca26e777
-SHA1: 472bd91dd64e73a62cb1e4e564c4b70f374a7e11
-SHA256: bd6fe8ae356a251bf5a8e99d5497b5a029c4a3ce8a4129dc538f7e1b5e0180ce
-Section: Axs-Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
-Author: Axs
-Name: QQ新版防撤回
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.qsyy
 Version: 0.0.1
@@ -4086,23 +4016,6 @@ Author: P2KDev <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/tapticboard.png
 Name: TapticBoard键盘震动
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.Axs.telegram
-Version: 1.1-5
-Architecture: iphoneos-arm64
-Maintainer: IP Man
-Depends: mobilesubstrate
-Filename: ./debs/com.Axs.telegram_1.1-5_iphoneos-arm64.deb
-Size: 118800
-MD5sum: 1b2e5b0c73a62452c89515cf986ff8c0
-SHA1: 70b0b55ab9dbecd22111f100ace2c28ef19aa4ee
-SHA256: dce61ac5b3934e3cb9e9dde8710d591380c97e924426a8c83398b552fb9337c6
-Section: Axs-Tweaks
-Description: Telegram 增强，回车键发送消息，禁止右滑出现 My Story，单聊对话框显示对方 User ID
-Author: IP Man
-Icon: https://axs66.github.io/repo/icon/Telegram.png
-Name: Telegram 增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/telegram/js.json
 
 Package: com.Axs.textyle3
 Version: 1.0.1
@@ -7777,42 +7690,6 @@ Author: Nebula
 Depiction: nebula
 Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
 Name: Ding
-
-Package: netskao.awemepurification-rootless
-Version: 2.9-6
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 2480
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/netskao.awemepurification-rootless_2.9-6_iphoneos-arm64.deb
-Size: 1175440
-MD5sum: 1e4a2830bccccbf4d2ba3373cc9f9870
-SHA1: 86f212fd96ff58a6c17d7391f9dfe0e70fd3dd6d
-SHA256: d9bfa4eaf369cc7c96e6880af0aeed5e021dfed66af68a0b994461b40a6d679a
-Section: Axs-Tweaks
-Description: 抖音净化！设置位于抖音-设置，仅支持25.8.0及以上版本抖音
-Author: Netskao
-Icon: https://axs66.github.io/repo/icon/dy.png
-Name: 抖音净化-Rootless
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: netskao.tiktokhooks
-Version: 1.1-4
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 304
-Depends: mobilesubstrate, firmware (>= 9.3)
-Filename: ./debs/netskao.tiktokhooks_1.1-4_iphoneos-arm64.deb
-Size: 81000
-MD5sum: 97b1f7a42c9083227b1d909c2362860a
-SHA1: 64471ad78fe6a2a31836316c4148d4625ade63eb
-SHA256: 80ed62837d017e16dcf9a8d1868b958ed53d48bc823854e66306e5aee58cda2c
-Section: Axs-Tweaks
-Description: TikTok save no watermark videos, Click on the original share button use. TikTok regions can be selected on the settings page. Only version 20.7.0 and above are supported
-Author: Netskao
-Icon: https://axs66.github.io/repo/icon/tiktok.png
-Name: TikTok Hooks
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: netskao.wcpureextension
 Version: 4.2-6
