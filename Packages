@@ -180,16 +180,16 @@ Maintainer: 0xkuj
 Installed-Size: 808
 Depends: com.opa334.altlist
 Filename: ./debs/com.0xkuj.bubbleapps_3.0.0_iphoneos-arm64.deb
-Size: 256748
-MD5sum: b27cddab73697c814b72169d3390d525
-SHA1: 666a2f02b63fbc151c68513a3da2d5c56b841047
-SHA256: 341691a2e3ef6bcd5541ecc2c779a76b3dca6a4160cdeb7eb988c61f32307b13
-Section: Axs-Tweaks
-Description: Floating app buttons anywhere you want
+Size: 256768
+MD5sum: 973f1cae3e49e619d447b3a40ba11eae
+SHA1: 66289315322fbcb957645e7add8dd98fe232507b
+SHA256: f5c06f87ce0269de931ab4053181f72a4745b9d249a8f3a0ea65c087e8716419
+Section: Tweaks
+Description: Floating app buttons anywhere you want。浮动应用按钮在您想要的任何地方
 Author: 0xkuj
 Icon: https://axs66.github.io/repo/icon/bubbleapps.png
-Name: Bubble Apps
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Name: Bubble Apps桌面图标随心摆
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/bubbleapps/js.json
 
 Package: com.0xkuj.filzadirprobe
 Version: 1.4.1
@@ -576,19 +576,19 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/artworkspinner/js.js
 Package: com.82flex.iconrestore
 Version: 1.7
 Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
+Maintainer: Lessica
 Installed-Size: 444
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
-Size: 32056
-MD5sum: b9a0baf7cbb982d335da0bffa27150fe
-SHA1: beb9a9c08a8225d710a10dd7cbe64865521903f4
-SHA256: 3d83e47707e7e0249e387c1ea07ab681fe62d6b620e1e87c4657617264e7b6fb
-Section: Axs-Tweaks
-Description: Save and restore the layout of your icons.
-Author: Lessica <82flex@gmail.com>
+Size: 32076
+MD5sum: a0e911adc5894846e13e668ecb6e1681
+SHA1: 7c185267e503e51cdd720f8669e092d008466b96
+SHA256: 03f96c864f1ee28873439a89cc83ba26164a41c8221430b9310037c97bce34a3
+Section: Tweaks
+Description: Save and restore the layout of your icons.保存并还原图标的布局。
+Author: Lessica
 Icon: https://axs66.github.io/repo/icon/iconrestore.png
-Name: Icon Restore
+Name: Icon Restore 图标布局备份
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.82flex.noredirect
@@ -1049,15 +1049,15 @@ Maintainer: Nets
 Installed-Size: 796
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.Axs.actionbar_1.1-2_iphoneos-arm64.deb
-Size: 161684
-MD5sum: eb5392a448e8edb807e670d22a4ec80b
-SHA1: e698efb829e13071666d14aaa417782f86cfb401
-SHA256: ac558edb1de17d5e059838bb87d866e0f92d2f4f5ffd66c1eb8f0f6148a87d78
-Section: Axs-Tweaks
+Size: 162424
+MD5sum: 958b7ef49615810caf830f597f3c39c6
+SHA1: b03ce086000e3c19c47f44085600ca92c27d91ba
+SHA256: c8080ca9dcfb07c068d7d3869630f8532a4bcc9a7e9f1a9912a0bafb0f2790d7
+Section: Tweaks
 Description: 键盘底部显示[撤销] [选择] [粘贴]按钮。Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/actionbar.png
-Name: ActionBar Reborn
+Name: ActionBar Reborn 键盘底部工具
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.afhook
@@ -1463,15 +1463,16 @@ Maintainer: Axs
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
 Filename: ./debs/com.Axs.bigshot_1.1_iphoneos-arm64.deb
-Size: 19228
-MD5sum: 31365d1042dc619565497c42dcff9358
-SHA1: 19ef775069e2314b3e58474591eaec2b068d9b76
-SHA256: 572427424ea71c440861ee490959407896194dc30a94507468164dd792c0e756
-Section: Axs-Tweaks
+Size: 19296
+MD5sum: 214984b7996b1fab38176b48154749f7
+SHA1: c514832e6197646119fbfe540efd9d8943c4eef6
+SHA256: ef16f5b7db43e7877d6656d723a9d25c52a591b9451758155a7ecf45bee24629
+Section: Tweaks
 Description: 注意：此插件需要购买正版Snapper3。支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用。
 Author: Axs
+Icon: https://axs66.github.io/repo/icon/bigshot.png
 Name: BigShot长截图
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/bigshot/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/bigshot/js.json
 Sponsor: Axs
 
 Package: com.Axs.blacklist
@@ -1534,15 +1535,15 @@ Architecture: iphoneos-arm64
 Maintainer: BigBoss
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.bounceit_1.0.4_iphoneos-arm64.deb
-Size: 5544
-MD5sum: 97eb72141e67229d322213587e7927b4
-SHA1: c6308cd5acff2b2c90ce64a8fa569ff1700a9c05
-SHA256: 2f7b4c861c611c4131908f142dadc17ab67884097811fe32c149ca395e72b2c1
-Section: Axs-Tweaks
+Size: 5548
+MD5sum: 3a73a87e8a188d0af8d5af04397860c8
+SHA1: b5b82b5a6214ad7c29aea1f144ea963c05b6a684
+SHA256: f7adcea1f90fabcc00e166f74043ed6c012dc07a4563b3fb1aa3e6e11934d0ec
+Section: Tweaks
 Description: 添加弹跳效果动画
 Author: Jake James
 Icon: https://axs66.github.io/repo/icon/bounceit.png
-Name: Bounce It
+Name: Bounce It 弹跳效果动画
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/bounceit/js.json
 
 Package: com.Axs.bzhelper
@@ -1569,11 +1570,11 @@ Maintainer: Axs <qiaozhani000@163.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
 Filename: ./debs/com.Axs.carbridgecarplay_2.0.15_iphoneos-arm64.deb
-Size: 434212
-MD5sum: 6eed4046d20254dbde47c3ce5b82b2c8
-SHA1: 758825b4e2ab91a23fb7bbff0a1576126f3d8c3c
-SHA256: 3d1e0d69f07adfbfbe53046417fccac64a840fce20e7616906eccf331dbf0996
-Section: Axs-Tweaks
+Size: 434608
+MD5sum: c234f112e605f6c89435fbae32e1969a
+SHA1: 9a773e480fadc9b653697f88a83b8819e0ae917d
+SHA256: 17620bdc9ecf740aa94387c3dcf9194eb49fb5426df357d33000482b789872cc
+Section: Tweaks
 Description: Open any app in CarPlay!让不支持互联的软件显示在车机上！
 Author: leftyfl1p <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/CarBridge.png
@@ -1587,15 +1588,15 @@ Maintainer: Nets
 Installed-Size: 224
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/com.Axs.ccbadgeclear_1.2-6_iphoneos-arm64.deb
-Size: 25728
-MD5sum: 46f94e5da1a7d00b1eeffcb7b130e53b
-SHA1: 5a6bc230df9e1cc828ed393a857a856b13e192d8
-SHA256: acad18edffcf484784a7366fe63c338f8360467ba1b18e9c834dd6aae5c5d4ac
-Section: Axs-Tweaks
-Description: Quickly clean up all red badge on desktop via Control Center, Support iOS15+
+Size: 25872
+MD5sum: fd369d13c1c1a21ab2ae5daad27b5e17
+SHA1: 0ac08db8c16795747f6f3fd011311f82d6511ba0
+SHA256: e8b823f424f7516ec5471a22ddd9522da46dbf48f080b36f230a449b9c807194
+Section: Tweaks
+Description: Quickly clean up all red badge on desktop via Control Center, Support iOS15+。快速通过控制中心清理桌面上的所有红色徽章，支持ios15+
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/ccbadgeclear.png
-Name: CCBadgeClear
+Name: CCBadgeClear 控制中心清理角标
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.cclifttowake
@@ -1605,16 +1606,16 @@ Maintainer: Nets
 Installed-Size: 172
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/com.Axs.cclifttowake_1.1-1_iphoneos-arm64.deb
-Size: 16444
-MD5sum: 54443540f65c8a1a2cfbf5ebaccf8bb1
-SHA1: 3b1e9679a5fb1adea37acd4b88046d9d7413793c
-SHA256: a8706016530db4360713f2053b7d59bd178fef24194f2d409def6aeea76ad862
-Section: Axs-Tweaks
-Description: Quickly enable or disable Wake on Lift from Control Center, Support iOS15+
+Size: 16524
+MD5sum: 681c38a9ddadd4a7111c1c4eba953135
+SHA1: fecb349d0f01cd0f656c41b7d9dc9c5d0c01f7cb
+SHA256: a94807909dc5283d380004b2b4f23d29048cf08e9d56388d6b33ec0c8bca9610
+Section: Tweaks
+Description: Quickly enable or disable Wake on Lift from Control Center, Support iOS15+。快速启用或禁用从控制中心的升降机上的唤醒，支持ios15+
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/CCLiftToWake.png
-Name: CCLiftToWake
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Name: CCLiftToWake 控制中心唤醒
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/cclifttowake/js.json
 
 Package: com.Axs.ccmusic
 Version: 1.0.5
@@ -1713,15 +1714,15 @@ Maintainer: Nets
 Installed-Size: 1060
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.classickeyboardxs_1.1-8_iphoneos-arm64.deb
-Size: 233404
-MD5sum: e111cdfecea18e3b056471cf362106f2
-SHA1: ad5f732d19026028f5d971f00fa92fd0642187da
-SHA256: 64044232217fa3e3dada9ec7a84a5ef46659b366a5fd88b3b9c5b867a1f51d83
-Section: Axs-Tweaks
-Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.
+Size: 233408
+MD5sum: 97ba035ad9bce2f63b5b184f1451b508
+SHA1: bddfa0f7f1d8670770d13161a6fea6c2f6003d24
+SHA256: fcabd1930412418c08cfb4fee2709005a13eab977827ad472468c796fdf548ef
+Section: Tweaks
+Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.自定义X键盘底部的高度，地球底部的高度等。可以解决1.3.7版Svp分屏开启后，地球或者语音按不动的问题。。
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/ClassicKeyboardXS.png
-Name: ClassicKeyboardXS
+Name: ClassicKeyboardXS 键盘高度调整
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.copylogfix16
@@ -1731,15 +1732,16 @@ Maintainer: 0xkuj
 Installed-Size: 168
 Depends: me.tomt000.copylog, firmware (>= 16.0)
 Filename: ./debs/com.Axs.copylogfix16_1.0.1_iphoneos-arm64.deb
-Size: 6440
-MD5sum: 7b5348f04778d09082753e2268fa1347
-SHA1: 29aa3df57e78460848e72a57dd697162d37c71d1
-SHA256: 0674b17c2302bb4667aea8b2c034b22bc6887b3a8850ed6002814501696c9c38
-Section: Axs-Tweaks
+Size: 6468
+MD5sum: 2beba917cf3ca299b9ce8711dd3266ba
+SHA1: c0ef47a85046c07a200f3ec286ed635191c57ccd
+SHA256: 6a02f336237b54c2105215f62149c4e8f6bb49efcf0691bfe744693fb1c2acae
+Section: Tweaks
 Description: Fix copylog not working on iOS16
 Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/copylogfix16.png
 Name: CopyLogFix16
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/copylogfix16/js.json
 
 Package: com.Axs.cozybadges
 Version: 2.1
@@ -2064,15 +2066,16 @@ Maintainer: Axs
 Installed-Size: 504
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.ersatz_1.0.1_iphoneos-arm64.deb
-Size: 49180
-MD5sum: 9953dcffec1f71954ec54ed4d88767a6
-SHA1: 0e52ebd0e62277adee7b32328facb4c0807eeec3
-SHA256: 1d149f6e961a39b4b1113300de541b0990c939a01b09477a11c53b68e823f454
-Section: Axs-Tweaks
+Size: 49216
+MD5sum: daafbaf27ecb1eab4e925b17bcccdb16
+SHA1: 2b6192cc4856d74ac6c2c3e0d415094621858d92
+SHA256: a1252f659a497b94b7a146addf9c9d2cf4fb58a5cd700155f852cb027b675f65
+Section: Tweaks
 Description: Replace any text, system-wide! 全局替换任意位置的文字。可以用来自己汉化插件，也可以改自己想要显示的文字！
 Author: Skitty
+Icon: https://axs66.github.io/repo/icon/ersatz.png
 Name: Ersatz替换文字
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ersatz/js.json
 Sponsor: Axs
 
 Package: com.Axs.events
@@ -2270,11 +2273,11 @@ Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.Axs.h5gg_7.9.1_iphoneos-arm64.deb
-Size: 2104404
-MD5sum: bbe808177f3aa60ea2b104fd82e20466
-SHA1: 6bcde0b2d4d6463eacd1bd24fda1eef04a1dc345
-SHA256: 57c80c15530f2cb08bccab6d57e0c6caac5eb1b354a8a2f91b8177dcb341b091
-Section: Axs-Tweaks
+Size: 2104368
+MD5sum: a7cbfc6cc5eaaa9b9f58b8813048eb49
+SHA1: 677bc0ec111639f6175fe987bc6f869a9e84cb38
+SHA256: 4b6834e7cd330e52b903bc4fe15f10dd070d55c22dc9b13429ccca98fdc276b8
+Section: Tweaks
 Description: 游戏开挂神器，会用的使用，不会用的就不要安装。
 Author: tuancc
 Icon: https://axs66.github.io/repo/icon/h5gg.png
@@ -2342,11 +2345,11 @@ Architecture: iphoneos-arm64
 Maintainer: 1aaa3
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.hooktcs_1.0_iphoneos-arm64.deb
-Size: 91392
-MD5sum: 9aa8819bedd9cf7508766fac33aa83f9
-SHA1: 80063933c07a9efccee04cef73dc3009c8493546
-SHA256: c35067892cc0e7617c7181354de33f5bcf0bfac344f45926bf6e01a05afd6efa
-Section: Axs-Tweaks
+Size: 89824
+MD5sum: bb39ddfa02299360068c3130f186413e
+SHA1: 512a09f37b8cebcb5f2986e0c245e99314be121a
+SHA256: f542878c50e68171a7830d798bf179b12c167d4c69b084d4666121e38b13c83b
+Section: Tweaks
 Description: 删除图层时间限制，屏蔽服务器闪退。去你妈的图层时间限制。人妖嘉嘉去死！可提供抖音图层，小红书图层、快手图层等插件正常使用。
 Author: 1aaa3
 Icon: https://axs66.github.io/repo/icon/dy.png
@@ -2592,11 +2595,11 @@ Maintainer: Axs
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.ljm_0.0.1_iphoneos-arm64.deb
-Size: 8716
-MD5sum: 0cfb902a68b0683640512bcd67cfe0bf
-SHA1: 17309946c8319fa3b5e77639bdbb23da05b01067
-SHA256: 0d6a90e0d4ba2bbdf80e2c6e47a5b65dcb4b084bc5474f437f87a2e31be68c79
-Section: Axs-Tweaks
+Size: 8708
+MD5sum: 6082e3f32688ea042a26513993fe978d
+SHA1: 29e4de1f693b950f6025c4f86c47f2fecb0d7539
+SHA256: 4bff2661c530b6db61789f841779abfb622a643d703b0bdbf9ac8e6308538be5
+Section: Tweaks
 Description: 解锁拦截猫会员
 Author: A
 Icon: https://axs66.github.io/repo/icon/ljm.png
@@ -2680,12 +2683,12 @@ Architecture: iphoneos-arm64
 Maintainer: Mika <qiaozhani000@163.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.lyric_3.0_iphoneos-arm64.deb
-Size: 115868
-MD5sum: e9523501995f8532222850e7ee04a71b
-SHA1: c5a9b17a31f3b778e0c6408fb8b5feffac0506c6
-SHA256: fd31a74469ccd7b9da982e661528802225b32fc3a649008c2014388445c8a4c2
-Section: Axs-Tweaks
-Description: 适配任何带锁屏歌词的应用！
+Size: 116084
+MD5sum: dc8634960ef094d13bee806db7bf196c
+SHA1: a36ce5d2b6dc7f493553f43cd81f90d4700b456d
+SHA256: 7664c4e580648f0a9cb0e6c6aa5179685d10ec73213ccb72c0f1bd3aeda763bf
+Section: Tweaks
+Description: 适配任何带锁屏歌词的应用！不用授权也可以使用，不要浪费钱。
 Author: Mika <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/lyric.png
 Name: 桌面歌词
@@ -2825,11 +2828,11 @@ Maintainer: zqbb
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.musicrotation_0.0.3_iphoneos-arm64.deb
-Size: 8016
-MD5sum: 244d043e1174c121ac340fd4621e197f
-SHA1: 60d7a71822be76f6c594a06a2a5c97ff8d29ab9f
-SHA256: d61b53de8d0bc314b187ca897c7c265fbc118e278b7dc24c2c843f716a6dadcf
-Section: Axs-Tweaks
+Size: 8008
+MD5sum: 76a5af87a664ec9054fc2a59251772fe
+SHA1: e3eb88966c244d2ac10afcfdcca3c6a3bbf25ec2
+SHA256: 1f4d34d959dbb6a3454fd332c9d687f96d86bd8978d065c094908b1d727f14fa
+Section: Tweaks
 Description: 控制中心音乐专辑旋转。
 Author: zqbb
 Icon: https://axs66.github.io/repo/icon/musicrotation.png
@@ -2843,15 +2846,16 @@ Maintainer: uz.ra
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.muteplay_1.0_iphoneos-arm64.deb
-Size: 3856
-MD5sum: 5e20b5cdeac51fdbc78e3d17fde86e6e
-SHA1: aeca1361b6e41fd8681d56714c4a4182ff3e284e
-SHA256: d30ff201d4fdd9fa67e603f5f71845d0599e3af4ddfe0bc0dd6528ebac234ff7
-Section: Axs-Tweaks
+Size: 3896
+MD5sum: 38eba480a7344b1dd455fc3a3c98f5f6
+SHA1: 22420022f5694505164ae1ecff7468fce8e5e8c9
+SHA256: 691ad8a5bad050f5d7592c96efd934677bae1044d6fca3381efb6bff30225309
+Section: Tweaks
 Description: Mute notifications while playing music。播放音乐的时候，不会因为消息通知，影响音量大小。
 Author: uz.ra
-Icon: https://uz-ra.github.io/icons/MutePlay.png
+Icon: https://axs66.github.io/repo/icon/muteplay.png
 Name: MutePlay
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/muteplay/js.json
 
 Package: com.Axs.n95
 Version: 4.4
@@ -3130,15 +3134,16 @@ Maintainer: ichitaso
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
 Filename: ./debs/com.Axs.primalfolder2_0.1.2_iphoneos-arm64.deb
-Size: 50912
-MD5sum: 41382ed292b8820b858f84c450caa7b3
-SHA1: 86fab215166beebaea22080da92de48ee5e7d41c
-SHA256: 23194c4428ee58c29a74ab9ca5e4205235735ccd4c1bab8bc928558b8f5f75c3
-Section: Axs-Tweaks
+Size: 50964
+MD5sum: 253445523d0c8ff10670977b8a3129a0
+SHA1: 5168422c3f0031208073b3c6bcbbf5e13ff3eed6
+SHA256: a3523d49c9d70accd2cc929c1f044d42209e535d862ae998271f60f1759952be
+Section: Tweaks
 Description: 将文件夹显示为图标等多功能文件夹。
 Author: ichitaso
-Name: PrimalFolder2
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
+Icon: https://axs66.github.io/repo/icon/primalfolder2.png
+Name: PrimalFolder2 桌面图标多功能
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/primalfolder2/js.json
 
 Package: com.Axs.prokeys
 Version: 1.1.2
@@ -3165,15 +3170,15 @@ Maintainer: Nets
 Installed-Size: 204
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Filename: ./debs/com.Axs.qqnotiavatar_1.2-2_iphoneos-arm64.deb
-Size: 25644
-MD5sum: 4b6a13ddfa5efa60957e8b3a6fc9c960
-SHA1: 59e5ee50115a95e93ef9664d3892b7cbd045cee9
-SHA256: 4ec8860c8d5e4c7046596d4c6ba9360399ccfbb8bec0848c09957a40da91ccb5
-Section: Axs-Tweaks
+Size: 25692
+MD5sum: 14d6346b831a9c24dfc55141597a8c56
+SHA1: 180bc12142928188d6a401b8574e2dcb8bd25c9b
+SHA256: b5627b2c4b423eaa3fc3201c30cebcd82feafeca3d8234b745104215495b032b
+Section: Tweaks
 Description: Display Notification Avatars for QQ App using iOS15+ APIs
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/qq.png
-Name: QQNotiAvatar
+Name: QQ通知头像
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.qsyy
@@ -3362,16 +3367,16 @@ Maintainer: sunshinesong
 Installed-Size: 304
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/com.Axs.recorder-bubble_0.0.1_iphoneos-arm64.deb
-Size: 41848
-MD5sum: 94c1248923cbc6532ac2de67fb19206a
-SHA1: 08c185c8774fdbd260bc19771bb0b47008748c00
-SHA256: 5111cd3c230fe8585948e47b86ad5120ac3e65e2af56ca1de8c9ae84e9043725
-Section: Axs-Tweaks
+Size: 41852
+MD5sum: 120e9d32298d50d22d6d3705400a236c
+SHA1: ee89425b3a08c2372669c5221c01717008f8dfee
+SHA256: af7e53367ab27474ee9082fe7ec908148c21362dbf3f46814cbb9ebbe5b72797
+Section: Tweaks
 Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。
 Author: sunshinesong
 Icon: https://axs66.github.io/repo/icon/huaban.png
 Name: 录屏花瓣
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/recorder-bubble/js.json
 
 Package: com.Axs.recordpause
 Version: 2.0.2
@@ -3528,15 +3533,16 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.settingsrevamp.hh_2.1.1_iphoneos-arm64.deb
-Size: 7692
-MD5sum: 6ac6b080f06dfcbd50514272d8defa4b
-SHA1: 52da8ab7cfd9068f2ec3f6caea5d144820ac95e3
-SHA256: 0d68999b521bd65d1ebe03864a23440e5be977d921ca44b4a888f420f7c53752
-Section: Axs-Tweaks
+Size: 7708
+MD5sum: ea62c4c8246bf27e48df187b06c26550
+SHA1: 59d9f995a0d8dba8108cdf14cec604d7740ed16c
+SHA256: de9838349e43bdf2945d5e8dae7b34ea82e7ce501dae4423ce05440eac07a4cf
+Section: Tweaks
 Description: 将越狱插件收纳在一起，美观，方便管理，此插件为汉化，配合主包使用。
 Author: Axs
+Icon: https://axs66.github.io/repo/icon/settingsrevamp.png
 Name: SettingsRevamp汉化
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/settingsrevamp/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/settingsrevamp/js.json
 
 Package: com.Axs.settingswidgetss
 Version: 1.2.3
@@ -3601,11 +3607,11 @@ Maintainer: Skitty
 Installed-Size: 2236
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.sixls_1.1-1_iphoneos-arm64.deb
-Size: 1464204
-MD5sum: 67c57ee1e12b7c269bc2178e853369b5
-SHA1: 1441df1cb46ee58c4c6a1e234c5aa6b58a0b3da9
-SHA256: feb506d17972f6d2a0fa2881a40c451f11ccf0f32dfbafbc2e85714c39b6e513
-Section: Axs-Tweaks
+Size: 1463732
+MD5sum: 6ef7a20da065b6d40a0cbebaa8cc370e
+SHA1: 189639ad504b214dc12e3c78adcd1a51ac12d570
+SHA256: ee3160f8951f5a1fb639366e49369d6ff887526e2bea52a3375f9f9cef21ae3e
+Section: Tweaks
 Description: iOS 6 Style Lock Screen!
 Author: Axs
 Depiction: 将ios6的经典外观带到您的锁屏界面上，支持iOS 11到 16。目前功能：滑动解锁、通知、充电视图、声音等!
@@ -3641,15 +3647,15 @@ Maintainer: Nets
 Installed-Size: 900
 Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
 Filename: ./debs/com.Axs.smallbanners_1.2-8_iphoneos-arm64.deb
-Size: 201592
-MD5sum: 58c2bbf511bde52a38dc5e851bf44402
-SHA1: 0de4f1bf1929bcc63fbc196aad8c82e57cbf9479
-SHA256: 69797fd75fb48b9573f8d1ff327c4f18c6f3c9da7076e0cbdb4b90f8d0e32936
-Section: Axs-Tweaks
+Size: 201876
+MD5sum: 254dc5d256fcd69a1f7d161fee17c4d7
+SHA1: 60b49818100d97fc558463684795f5b5855e9549
+SHA256: a3cfd006d1fce1b6c3542ba69bc1f96a6fe9c4aec5d95605abbec2a8fa13d162
+Section: Tweaks
 Description: Small Notification Banners. Support iOS15+
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/SmallBanners.png
-Name: SmallBanners
+Name: SmallBanners 小通知横幅
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.smallboards
@@ -3825,17 +3831,17 @@ Maintainer: Axs
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.staypro_0.0.1_iphoneos-arm64.deb
-Size: 3604
-MD5sum: ec41eea67e76a8534c6933ded820da29
-SHA1: a6ca6ab12d73b70365f71ff63b96f9d7982207bf
-SHA256: 3f742630e85fb75c7a90f58bf4c7c00c6b97a6a730cc04b570add6c16e7b033e
-Section: Axs-Tweaks
+Size: 3616
+MD5sum: 65c95c401b60ec72b784b72275e76157
+SHA1: f696e97c507cb2729e428fa791602c3852b74398
+SHA256: 012c39eea21f405e6e1bbe3622647e54e76b544d4b93746c04d8a5ba65c52618
+Section: Tweaks
 Description: Enable Pro for Stay for Safari extension. Must be signed out to use Pro features.
 Author: 0xkuj
 Depiction: Axs
 Icon: https://axs66.github.io/repo/icon/staypro.png
 Name: Stay Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/staypro/js.json
 
 Package: com.Axs.stella
 Version: 1.1.3
@@ -3931,17 +3937,17 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwipeExtenderX/js.js
 Package: com.Axs.swipeextenderx
 Version: 0.0.2
 Architecture: iphoneos-arm64
-Maintainer: 来了老弟
+Maintainer: Axs
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.swipeextenderx_0.0.2_iphoneos-arm64.deb
 Size: 10388
-MD5sum: 83e99b9768dfcf7f142557b6a05da713
-SHA1: 6c9fff01d0bf978d1ff86ad18f5c8b8b35ed3ccc
-SHA256: 95e5a3fefe971ce07cf3b3a90f6c063313575fc7dd19e283e9cfeb1a56024402
-Section: Axs-Tweaks
+MD5sum: 29fb5543d8e01604c9acebfb5809182d
+SHA1: 31c49d6969580267ad68737ccca6fdce2a2d9b5d
+SHA256: 2387b0d59e5e8e5c096116a6c30d486e41b6a1fb41d48d1a8b6b2e73a9aaabff
+Section: Tweaks
 Description: 对插件设置进行汉化，方便你我他。
-Author: Axs
+Author: A
 Icon: https://axs66.github.io/repo/icon/swipeextender.png
 Name: SwipeExtenderX汉化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwipeExtenderX/js.json
@@ -4339,16 +4345,16 @@ Architecture: iphoneos-arm64
 Maintainer: Elias Limneos
 Installed-Size: 132
 Filename: ./debs/com.Axs.uncar_0.0.1-9_iphoneos-arm64.deb
-Size: 7368
-MD5sum: a5c3ee25ecb0dfdea9ad4e0544aef1a3
-SHA1: f2aa89bda128cbe057262a9cc2db5f45208adf65
-SHA256: b1325640980b0c0163ec63786b6f4713d36bbb3aaad897c2d2cd8e0370cf7f8b
-Section: Axs-Tweaks
+Size: 7384
+MD5sum: adb886588488c188e79c0042e976f8b9
+SHA1: 024e32b740851e55b4e7cd8b8e84ad5a2cd9741e
+SHA256: 054fd188596845d4641b8d9b86d929a4f04234b304c95d2e19dd96f347de6f01
+Section: Tweaks
 Description: 从捆绑包中提取 Asset.car 文件。从 Asset.car 文件中提取 png 图像的命令行工具。
 Tag: role::hacker
 Author: Elias Limneos
 Icon: https://axs66.github.io/repo/icon/TweakIcon.png
-Name: uncar
+Name: uncar 封包主题解压
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.videos
@@ -4805,11 +4811,11 @@ Maintainer: Axs
 Installed-Size: 348
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.Axs.wechatxkeyboard_1.6_iphoneos-arm64.deb
-Size: 60808
-MD5sum: 2d15376922b7cd8b9d7faac4faa80fef
-SHA1: 9dc049b597085d7686f0f8e6428cb1ad8a79ac92
-SHA256: 88f777aa56fc4e4186b41efca54f87b2d802224fd280776586efcd4d57ec6c77
-Section: Axs-Tweaks
+Size: 60924
+MD5sum: 409ca06eacf9811e4031dd184cddff48
+SHA1: be169228e6eb041f370c7c163be50d20bf8631ad
+SHA256: 8140b3947e8d00ab3c45f21144cf4605dd379e2ac2ac9946cc88c3f56a0a2e2c
+Section: Tweaks
 Description: 微信键盘自定义
 Author: Axs
 Icon: https://axs66.github.io/repo/icon/wechatxkeyboard.png
@@ -4823,15 +4829,16 @@ Maintainer: Axs
 Installed-Size: 884
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.weifeng_1.0_iphoneos-arm64.deb
-Size: 333864
-MD5sum: eedec2aa37ae822535637a2640b0d34b
-SHA1: c8374e62e13c726bee65e175c75c4e47fb5bf9c6
-SHA256: 5f844e166b2d56ed2a9a92c95fa84ee100cda686af8f8822f65388b3ad6ed2f0
-Section: Axs-Tweaks
+Size: 333876
+MD5sum: 9225b65e5f6f84a14762731005fae81b
+SHA1: 1f8c6b4bb4fd33916e10dd21f1261f0db2dd1cd6
+SHA256: ac6ec8a4e4beb775ae14dc727d4aa93b12236693cbb10408742d49d4e642b59e
+Section: Tweaks
 Description: 开启会员功能，去除你能看到的所有广告，适用威锋7.0.3及之后的版本！威锋APP在苹果商城下载！
 Author: 小果子
+Icon: https://axs66.github.io/repo/icon/weifeng.png
 Name: 解锁威锋vip
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/weifeng/js.json
 Sponsor: Axs
 
 Package: com.Axs.wtvrbglauncher
@@ -5610,11 +5617,11 @@ Maintainer: developlab
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.developlab.clickvibration_1.0_iphoneos-arm64.deb
-Size: 8200
-MD5sum: a272039dfea5e335d8063be634ff790e
-SHA1: aca76866e389915e24fe5fff0ce567b8baaf289f
-SHA256: bafed1ea075dd844cdc0bab1d30e13f73898e82b8e89567d11b2119023b9b8cd
-Section: Axs-Tweaks
+Size: 8204
+MD5sum: ae34a8458aa0a95130d596a99d128e3f
+SHA1: 746e24c8069c2ef650e6eb5f397a53e3dced36a7
+SHA256: 018d6900981f9872903df80a34998ef7f6afbca3d4a46b68abe7b978877c75a4
+Section: Tweaks
 Description: 点击或者滑动震动效果，以及声音效果
 Author: developlab
 Icon: https://axs66.github.io/repo/icon/clickvibration.png
@@ -6245,16 +6252,16 @@ Maintainer: 预言小猫
 Installed-Size: 6912
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.ketty.meowtimemachine_0.0.1-106+debug_iphoneos-arm64.deb
-Size: 2322808
-MD5sum: ee44614247106e5f1cee79ac31732100
-SHA1: dc6e2692d56074985ce3f640ebb13577ec792872
-SHA256: 25ed0ae5193fa4d339215ca1ea50fcbdb7659cdfd3444cba299653250eaf5cdf
-Section: Axs-Tweaks
+Size: 2322860
+MD5sum: f065c46b775fb9e9f8c6c574a99c3be4
+SHA1: 21a65911b8ee8881a1983be8b35233d64ed69a7c
+SHA256: 6e2a0b09e97a6472ef9cd75737b0756fd533f506ff0f9bad5a06bcbdf877e410
+Section: Tweaks
 Description: An awesome SwiftUI application!
 Author: 预言小猫
 Icon: https://axs66.github.io/repo/icon/meowtimemachine.png
 Name: MeowTimeMachine插件备份(含配置)
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/meowtimemachine/js.json
 
 Package: com.ketty.tweaktool
 Version: 0.0.1-252+debug
@@ -6263,16 +6270,16 @@ Maintainer: Ketty Allen
 Installed-Size: 452
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.ketty.tweaktool_0.0.1-252+debug_iphoneos-arm64.deb
-Size: 362776
-MD5sum: cc7f2debbb9bd0387148b4dca6c5333c
-SHA1: 4b03e4933b754593cd7717adf655c8090fce6f82
-SHA256: e415648ffde4d8aadb583cb88547b523a1c2607506a72c69e87f46c3842d1949
-Section: Axs-Tweaks
+Size: 362608
+MD5sum: b62cf36bf6ea8a70223ed9989f12f00b
+SHA1: 9334bbe18fe9a5d0dfd621fd34e99128087f2690
+SHA256: bee0a1ce112bf0eb09ebea26359f7294a38d65af0d822362947d71dec9a201e7
+Section: Tweaks
 Description: An awesome SwiftUI application!
 Author: Ketty Allen
 Icon: https://axs66.github.io/repo/icon/TweakTool.png
 Name: TweakTool
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/tweaktool/js.json
 
 Package: com.lclrc.hammerit
 Version: 1.7.0
@@ -6311,19 +6318,20 @@ Name: Hammer It
 Package: com.lclrc.snapper3.plugins
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: SquidForce(乌贼力量)
+Maintainer: Axs
 Installed-Size: 208
 Depends: mobilesubstrate (>= 1.0.5000)
 Filename: ./debs/com.lclrc.snapper3.plugins_1.0_iphoneos-arm64.deb
-Size: 33616
-MD5sum: 60e4f174cffcfbd90ca630eae6386518
-SHA1: 3036be876709e3b7e7405b36bd57e540d1495c60
-SHA256: ca0bd035973d4a9164098cc412eed08cd1e3e8f83d217224dc2b4834d78993b8
-Section: Axs-Tweaks
+Size: 33620
+MD5sum: 89e4ed35ba6315e63c023e4c32b42aee
+SHA1: c7946236e0a4f25759db297bcc9feae25ca46a88
+SHA256: 6b7f065ca3ace1fe2075ddb17544b7cdcf5764e550750329b428861615abcfc3
+Section: Tweaks
 Description: including iMark and Piiico for now
 Author: SquidForce
+Icon: https://axs66.github.io/repo/icon/Snapper3.png
 Name: Plugins For Snapper3
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/Piiico/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/Snapper3/js.json
 
 Package: com.lenglengyu.shortvideodl-rootless
 Version: 2.1.5K
@@ -7166,11 +7174,11 @@ Maintainer: Nets
 Installed-Size: 620
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Filename: ./debs/com.pxx917144686.surge_0.6_iphoneos-arm64.deb
-Size: 143984
-MD5sum: e8c36a89a9e170319d4b5c3005bc1e24
-SHA1: 2327795810198752a7f93c7bfceab021acd3612b
-SHA256: a7193939fbfd63a0b2d8ab64d2ba0d0b8c0b1f1de65e4abf688a60e92af416e6
-Section: Axs-Tweaks
+Size: 144184
+MD5sum: 1c18e05c670619decc21923c27910544
+SHA1: 2605fc3d2ebada3af6b4753d5dd89076a5fc95f6
+SHA256: dfdcd0518ed5c2f9559f4664d757641ef1fa4b7a5fbf9868bb1d7082e6c9f96c
+Section: Tweaks
 Description: 修复 “已知问题”
 Author: pxx917144686
 Icon: https://axs66.github.io/repo/icon/surge.png
