@@ -4966,6 +4966,24 @@ Icon: https://axs66.github.io/repo/icon/xmly.png
 Name: 喜马拉雅极速版vip
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/xmly/js.json
 
+Package: com.Axs.xxhook
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: xx
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.xxhook_1.0.4_iphoneos-arm64.deb
+Size: 30064
+MD5sum: 94d24445b88afaefdc401222d595a427
+SHA1: d8bc8b854606777056d2bda1665fdadd559af4b2
+SHA256: c27f568790e7a95f9691a397c5ea5eda72c8457163e45f02f2c5406b4f81c883
+Section: 微信插件
+Description: 此插件不能单独使用，是可以让圆角插件，微信“我的”页面顶部区域实现自定义的两款插件（我的背景图片，动态背景 gif）正常运行的一款插件，你可以理解为依赖。
+Author: xx
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信“我的”页面顶部区域背景自定义 Vip
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxhook/js.json
+
 Package: com.Axs.xxtouch
 Version: 5.2.1
 Architecture: iphoneos-arm64
@@ -7866,15 +7884,15 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
 Version: 17.20
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: lzsxcl
-Installed-Size: 30520
+Installed-Size: 30360
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm.deb
-Size: 12486256
-MD5sum: 6396a265f18f720819b1be850bc13a4e
-SHA1: b921e287bca561532a687ea1e74c9db80f65bd07
-SHA256: e077f7f97a9f5ce46d3fd5d0570dc523dc5fb3c65ff76f7ae9c62d42d1bbdfc5
+Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm64.deb
+Size: 12460948
+MD5sum: 0333fcbbf35f37ae9a02d34b4f2dddf1
+SHA1: f26ef321391dff88a303a2d993c20393cafd50fa
+SHA256: eed5bc1d2771d223276766d23a5221ebcb2c27de6770945157240c3d45b61c2e
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
@@ -7885,15 +7903,15 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
 Version: 17.20
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: lzsxcl
-Installed-Size: 30360
+Installed-Size: 30520
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm64.deb
-Size: 12460948
-MD5sum: 0333fcbbf35f37ae9a02d34b4f2dddf1
-SHA1: f26ef321391dff88a303a2d993c20393cafd50fa
-SHA256: eed5bc1d2771d223276766d23a5221ebcb2c27de6770945157240c3d45b61c2e
+Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm.deb
+Size: 12486256
+MD5sum: 6396a265f18f720819b1be850bc13a4e
+SHA1: b921e287bca561532a687ea1e74c9db80f65bd07
+SHA256: e077f7f97a9f5ce46d3fd5d0570dc523dc5fb3c65ff76f7ae9c62d42d1bbdfc5
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
