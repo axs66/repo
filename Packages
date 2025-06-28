@@ -387,6 +387,24 @@ Icon: https://axs66.github.io/repo/icon/safari.png
 Name: SafariX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
 
+Package: com.0xkuj.safarix
+Version: 1.9.9
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 928
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.9_iphoneos-arm64.deb
+Size: 315672
+MD5sum: 05d6f5147a47f9d00b4c0c8db86af2d4
+SHA1: 66b1fd8c4c751d4708d7265f41e022cf6c33690b
+SHA256: 8b3e92ccfdb5bcfb6b1880ce11cc3bbd1298bca4bd58a849f0dff6644af49699
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/safari.png
+Name: SafariX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-5
 Architecture: iphoneos-arm64
@@ -1798,6 +1816,24 @@ Icon: https://axs66.github.io/repo/icon/cozybadges.png
 Name: CozyBadges彩色通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
+
+Package: com.Axs.custom-notification-sound
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.Axs.custom-notification-sound_1.0.0_iphoneos-arm64.deb
+Size: 59128
+MD5sum: 5af21d5dbbc7fec7441835904fb4fab1
+SHA1: 0007a843c3404ae25f7b6f1acaa4af9e1338ece6
+SHA256: d998aa6d37199418992af57883c7fbb9db94b474b54117aeb7832efdb05da043
+Section: 微信插件
+Description: 自定义微信联系人通知声音（似乎对mp3文件不太友好）。使用方式：在对话框中，长按对方头像即可。
+Author: be-huge
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信联系人通知声音自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/custom-notification-sound/js.json
 
 Package: com.Axs.daynightswitch
 Version: 1.1
