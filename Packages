@@ -242,6 +242,23 @@ Icon: https://axs66.github.io/repo/icon/filza.png
 Name: FilzaDirProbe
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/filzadirprobe/js.json
 
+Package: com.0xkuj.filzadirprobe
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/com.0xkuj.filzadirprobe_1.7.1_iphoneos-arm64.deb
+Size: 33116
+MD5sum: 7c28540cc6982dc52691328767d7a7f2
+SHA1: 13bd84dca4c6e48c06ff323465da088802597eaa
+SHA256: 813fe38e114a63b78d4117eb3d60441e6f21a126a802f1b7de37ea82917fd380
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/filza.png
+Name: FilzaDirProbe
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/filzadirprobe/js.json
+
 Package: com.0xkuj.notificationsgroupcount
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -2563,13 +2580,13 @@ Maintainer: Axs
 Installed-Size: 452
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.ldd_2.0.0_iphoneos-arm64.deb
-Size: 38004
-MD5sum: 0e1e7824785cdb9d4d06b072d938f9b4
-SHA1: b73e75f211384bd796a7a8d91c811f8eaa445178
-SHA256: c7dcc406d12d34e7b332539dfe1cccbbf8bb8a9a64d78b604ac6e0fbd991969e
+Size: 37984
+MD5sum: 294d5e4ded0f7fa94831584e08dfff74
+SHA1: 0ebcfc0df3541eadf83755a8c99f6dd221dc1c87
+SHA256: 7c512f803bf2f6d7220085a1fc6247263cff1a44ab8c6ee7cb0618314eb4ccd3
 Section: 灵动岛
 Description: 自定义灵动岛背景边框背景!
-Author: A
+Author: Liuf
 Icon: https://axs66.github.io/repo/icon/ldd.png
 Name: 灵动岛背景边宽自定义
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ldd/js.json
