@@ -2561,14 +2561,14 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: liuf
 Installed-Size: 356
-Depends: mobilesubstrate,com.axs.flex3
+Depends: mobilesubstrate
 Filename: ./debs/com.Axs.lddgifbg_1.0.0_iphoneos-arm64.deb
-Size: 15916
-MD5sum: 26d1a9946f1be504190a987ce2320664
-SHA1: 315feb641124431bd349b7695b10e43277fbb642
-SHA256: 7e39d4eedd9ab539bff2c2874f50dd21f0e932a0143ef03239cf10f09750bf75
+Size: 16004
+MD5sum: fad26300807dc4ed2770d6b11e359581
+SHA1: 8c77eec5f7a0cfb05b07b31a34f327453f5a3f52
+SHA256: ea1396b2c9aaf4596bbd2fa555db8f4e7504e01201d72bec870fe2b6352d0a62
 Section: 灵动岛
-Description: 灵动岛GIF背景 i!
+Description: 灵动岛GIF背景!无根用户需要在https://axs66.github.io/repo源里面安装Flex 3 Beta90依赖，不然会安全模式。隐根用户直接安装即可
 Author: liuf
 Icon: https://axs66.github.io/repo/icon/lddgifbg.png
 Name: 灵动岛GIF背景
