@@ -2556,6 +2556,24 @@ Icon: https://axs66.github.io/repo/icon/latchkey.png
 Name: Latchkey
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/latchkey/js.json
 
+Package: com.Axs.ldd
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 452
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.ldd_2.0.0_iphoneos-arm64.deb
+Size: 38004
+MD5sum: 0e1e7824785cdb9d4d06b072d938f9b4
+SHA1: b73e75f211384bd796a7a8d91c811f8eaa445178
+SHA256: c7dcc406d12d34e7b332539dfe1cccbbf8bb8a9a64d78b604ac6e0fbd991969e
+Section: 灵动岛
+Description: 自定义灵动岛背景边框背景!
+Author: A
+Icon: https://axs66.github.io/repo/icon/ldd.png
+Name: 灵动岛背景边宽自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ldd/js.json
+
 Package: com.Axs.lddgifbg
 Version: 1.0.0
 Architecture: iphoneos-arm64
