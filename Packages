@@ -501,26 +501,6 @@ Name: 微信助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
 
 Package: com.25mao.miyou.rootless
-Version: 3.8-5
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.miyou.rootless_3.8-5_iphoneos-arm64.deb
-Size: 8991640
-MD5sum: 986b961a848cc7b42cd5c0c6fa21c5f9
-SHA1: da5d3ca65727b3ac345e693933acabae54b8679b
-SHA256: 90f1ac9b0f8c983c1720a96abe0b776f4031d200d99b2d7be4ec6d750ef79043
-Section: 微信插件
-Priority: optional
-Homepage: https://alist.138686.xyz
-Description: 微信助手
-Author: Mao
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 微信助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
-
-Package: com.25mao.miyou.rootless
 Version: 3.8-6
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
