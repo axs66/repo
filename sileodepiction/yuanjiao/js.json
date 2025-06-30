@@ -10,19 +10,19 @@
             "views": [
                 {
                     "text":"✈分享频道",
-                    "action":"https://t.me/wxfx8",
+                    "action":"https://t.me/WCYuanJiao",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
                 }, 
                {
                     "text":"✈交流群组",
-                    "action":"https://t.me/oncar2",
+                    "action":"https://t.me/QYuanJiao",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "功能介绍：<br>1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。<br>2.横幅通知：粒子动画，视频特效等。  <br>3.付费插件 9.9 授权，添加微信 CIA239 授权。",
+                    "markdown": "功能介绍：<br>1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。<br>2.横幅通知：粒子动画，视频特效等。<br>3.我的页面顶栏：粒子动画；静态图片(jpg、png格式)；动态图片(gif格式)的玩法；粒子可以叠加。头像、微信名字、微信号均可以自定义（比如隐藏，大小，位置等等，特别是位置可以按坐标体系调整）。  <br>4.付费插件 9.9 授权，添加微信VCR66T授权。",
                     "useRawFormat": true,
                 },      
                {
@@ -45,6 +45,22 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://axs66.github.io/repo/sileodepiction/yuanjiao/Screenshot_04.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/repo/sileodepiction/yuanjiao/Screenshot_05.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/repo/sileodepiction/yuanjiao/Screenshot_06.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/repo/sileodepiction/yuanjiao/Screenshot_07.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/repo/sileodepiction/yuanjiao/Screenshot_08.png"
                         }
                     ]
                 },
@@ -76,12 +92,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "CIA239",
+                    "text": "VCR66T",
                     "title": "微信"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 6 月 21 日",
+                    "text": "2025 年 7 月 1 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -94,6 +110,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.8.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1. 头像圆角：增加单独控制功能。<br> 2. 横幅通知：新增视频随机触发，新增联系人单独设置。<br>3.新增我的界面：<br>  a.支持粒子，<br>  b.支持静态图片 (jpg,png 格式)，<br>  c.支持动态图片（gif 格式）；<br>  d.粒子可以和图片叠加，头像、微信名字、微信号均可以自定义（比如隐藏、大小，位置、内容、颜色等自定义，特别是位置可以按坐标体系调整）。<br> 4.聊天界面：新增对话顶栏+底栏设置。<br> 5. 聊天界面：优化UI，每个功能区的圆角+边款宽度和颜色一 一对应。<br> 6. 其他圆角：由于机友隐藏部分功能导致的圆角半圆情况，所以新增发现页、我的页面单独个性化设置。<br> 7. 其他说明：我的页面、发现页面由于主题透明，看不见圆角效果的，需要去主题找到weui_color_new.xml并修改里面的BG_0和BG_1的颜色代码。<br> 8. 优化 1.8.3 版本中大家反馈的信息，自行发现。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "1.8.3",
