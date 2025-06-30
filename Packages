@@ -4168,6 +4168,24 @@ Icon: https://axs66.github.io/repo/icon/switchtheme2.png
 Name: 写轮眼开关(红）
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
 
+Package: com.Axs.switchtheme3
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: baiy
+Installed-Size: 5520
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.switchtheme3_1.0.0_iphoneos-arm64.deb
+Size: 47348
+MD5sum: 24a0c184b9e1e9dfdf5ebe05b59589ec
+SHA1: ece86e7b630a858e69d1763ff4a9389a2c01593f
+SHA256: 495ceb9d4a06192e02849be0f69403181f24cf721289f3e8107948f424de521d
+Section: Tweaks
+Description: 这是一款全新的Line-iOS动态开关，搭配Line微信主题绝配，丝滑的动画体验，极致的简约。
+Author: 白衣
+Icon: https://axs66.github.io/repo/icon/switchtheme3.png
+Name: SwitchTheme-Line开关
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
+
 Package: com.Axs.tapticboard
 Version: 1.2
 Architecture: iphoneos-arm64
