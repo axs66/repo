@@ -1653,6 +1653,24 @@ Icon: https://axs66.github.io/repo/icon/CarBridge.png
 Name: CarBridge汽车互联
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/CarBridge/js.json
 
+Package: com.Axs.cc18
+Version: 1.1.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000), firmware (<= 18.0)
+Filename: ./debs/com.Axs.cc18_1.1.0-1+debug_iphoneos-arm64.deb
+Size: 24436
+MD5sum: b0860f66d4a6fc3054c1ad0a34b54670
+SHA1: 0983bdbd53fc1da39794024d532223eb40a23346
+SHA256: 1e7e94e0c733e229f34d36562a4b8709f8b4b81c0075e795aca8d33b5dfd70f8
+Section: Tweaks
+Description: iOS18样式控制中心 基于作者dvntm的开源文件编译 并增加更多玩法!
+Author: dvntm & liuf
+Icon: https://axs66.github.io/repo/icon/cc18.png
+Name: CC18(带设置项)
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/cc18/js.json
+
 Package: com.Axs.ccbadgeclear
 Version: 1.2-6
 Architecture: iphoneos-arm64
@@ -2082,10 +2100,10 @@ Maintainer: Axs
 Installed-Size: 348
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.dynamicnotland_1.2.4_iphoneos-arm64.deb
-Size: 12180
-MD5sum: 16a64ec9786e7e9a3f8f5b184b64298a
-SHA1: 1d675a05a4b8daf825e075ef05f70e2802f7b104
-SHA256: 0088f1faf22a2626455229444d2482bad958ae3c98d5f0d81be499734fc572a1
+Size: 21216
+MD5sum: 4e26e38cbbbf0264ec57433e379a420d
+SHA1: 71b50de197f3567afae54d7e996ea8a5b1531c0b
+SHA256: abe6550b37743f5517a8c893ad7009a3e1555245934f623ce6507a9cc18a7d08
 Section: 灵动岛
 Description: 在14Pro系列上，隐藏未使用时的灵动岛
 Author: Nathan
@@ -2376,6 +2394,24 @@ Author: Soh Satoh & SINI
 Icon: https://axs66.github.io/repo/icon/freepip.png
 Name: FreePIP窗口模式
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/freepip/js.json
+
+Package: com.Axs.gps
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1308
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.Axs.gps_0.3_iphoneos-arm64.deb
+Size: 247560
+MD5sum: d0b5954ab57f6bdaad0ed2a970ff63b0
+SHA1: 928a85920147ef74817b0a367221071ae2b71cae
+SHA256: 4407614c7c3293b0a8933fa97c3699d0bb3ff0ad9207c9806f5d5070de7efdbd
+Section: 系统赠送
+Description: 功能强大的iOS位置工具
+Author: pxx917144686
+Icon: https://axs66.github.io/repo/icon/gps.png
+Name: GPS++
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/gps/js.json
 
 Package: com.Axs.h5gg
 Version: 7.9.1
