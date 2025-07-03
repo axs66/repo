@@ -1669,6 +1669,24 @@ Icon: https://axs66.github.io/repo/icon/ccbadgeclear.png
 Name: CCBadgeClear 控制中心清理角标
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.ccglow
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.ccglow_1.0.0_iphoneos-arm64.deb
+Size: 22968
+MD5sum: 336f3d4e8f689440696f71acdb3aec5b
+SHA1: f0cb7972bcb6e3edaa16cb9a81b3c694f01a6b8d
+SHA256: 1c02d1689f90438b0c7854ae6412241aa9473053c9b0fc63c94fb9a9f9a67893
+Section: Tweaks
+Description: 新版控制中心发光。
+Author: Simon
+Icon: https://axs66.github.io/repo/icon/togglow.png
+Name: 控制中心发光
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ccglow/js.json
+
 Package: com.Axs.cclifttowake
 Version: 1.1-1
 Architecture: iphoneos-arm64
