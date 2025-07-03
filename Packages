@@ -2894,13 +2894,14 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Package: com.Axs.mineland
 Version: 2.0-6+debug
 Architecture: iphoneos-arm64
+Maintainer: Axs
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Filename: ./debs/com.Axs.mineland_2.0-6+debug_iphoneos-arm64.deb
-Size: 99232
-MD5sum: f4f987675cf56c175cab54d61eeedce0
-SHA1: a4d81a03afe5532aaf9d4303d3ed91cf3fd0dc32
-SHA256: 64769defd6b13d28f352e70f50ee07246fc227021640f7425c547c09229cc5bd
+Size: 99212
+MD5sum: 7d71e131d89a2ed6d15e95d880a40fbd
+SHA1: 52a5fe63b257a8cd9ac4aaff6630fc3c32b945b7
+SHA256: 31206fdf03532147891e42c04594d2755eb1c87b9df98f0fc4c9a7b49bdbf855
 Section: 灵动岛
 Description: 药丸爆改感叹号。仅支持16系统，对灵动岛进行调整，如透明度位置或比例，非灵动岛机型可强开灵动岛。Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran.
 Author: A
