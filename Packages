@@ -7368,6 +7368,25 @@ Name: Choicy
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.opa334.choicy
+Version: 1.5.3
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 1136
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.opa334.choicy_1.5.3_iphoneos-arm64.deb
+Size: 161888
+MD5sum: ad66b8fa98fcb734b1b04415382a9a12
+SHA1: 16f2f4d7b5c721ee91093016a0b7512df93492b8
+SHA256: 4607698c6520d7dc2df5f28062a9f6cba3d7b80bbb1030a34f1624c29b1318a1
+Section: 系统增强
+Description: 屏蔽越狱检测工具
+Author: opa334
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/choicy.png
+Name: Choicy
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/choicy/js.json
+
 Package: com.opa334.trollstorehelper
 Version: 2.0.15
 Architecture: iphoneos-arm64
