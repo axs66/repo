@@ -520,6 +520,26 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/miyou/js.json
 
+Package: com.25mao.wepet
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Installed-Size: 1472
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.wepet_1.0-1_iphoneos-arm64.deb
+Size: 429488
+MD5sum: e49869ae19fc0b33ce8e97b1438bc600
+SHA1: 6cbe2340ae03dc84ac2e299fbb914e4aefbb5a90
+SHA256: 2aa58590483aac51624c6e9006f523f281f23e4850fc8f9086c719dbe3661e73
+Section: 微信插件
+Priority: optional
+Description: 它只会在你的屏幕上跑来跑去。
+Author: Mao
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微小皮
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wepet/js.json
+
 Package: com.25mao.youquan.rootless
 Version: 3.0-9
 Architecture: iphoneos-arm64
