@@ -5912,6 +5912,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: PKC
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/PKC/js.json
 
+Package: com.developlab.appbadge
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: developlab
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.developlab.appbadge_1.0_iphoneos-arm64.deb
+Size: 8184
+MD5sum: c8155e015ee95e0d0431a0a5ce6f0b1d
+SHA1: 6b8ba79605eb55d4c2d444205791dc642b12d487
+SHA256: 555baf98423ec2d485b49b08a93fea9f34c3c751e8652c7917092866617e40b2
+Section: Tweaks
+Description: 在刘海或灵动岛下显示app icon和名称
+Author: developlab
+Icon: https://axs66.github.io/repo/icon/appbadge.png
+Name: AppBadge顶部显示当前app图标及名称
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/appbadge/js.json
+
 Package: com.developlab.clickvibration
 Version: 1.0
 Architecture: iphoneos-arm64
