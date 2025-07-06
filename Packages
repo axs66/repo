@@ -1096,6 +1096,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 主题助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCThemes/js.json
 
+Package: com.Axs.WCThemes
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCThemes_1.0-3_iphoneos-arm64.deb
+Size: 90948
+MD5sum: 53b086353fc0316b4ae5b914df9abe3a
+SHA1: e8dd75c719180180a0365b496bef5330da2e398f
+SHA256: 2a7093c0f5aa193f733dec5b4cfef8d4ea031a14d7333c0ab6c82308439ad3df
+Section: 微信插件
+Priority: optional
+Description: 微信主题助手，快捷兑换，主题推荐,纯享版。
+Author: 热心网友
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCThemes主题助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCThemes/js.json
+
 Package: com.Axs.WCToolGesture
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -6377,6 +6394,24 @@ Size: 68504
 MD5sum: 1d805e33539f2bc318e40ba91830d28d
 SHA1: 913332826fe604adef929d66feca0bb3eb9c3fda
 SHA256: 64e02f1534538c3acc9f215e41a6149b4b6f150a7e377bc5acf97b4630667106
+Section: 微信插件
+Description: 目前的功能包含：视频倍速手势、悬浮提示、头像时间自定义、隐藏系统时间、消息防撤回自定义、语音转发、长按消息预览等.
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCPulse
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
+
+Package: com.huami.WCPulse
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 404
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-1_iphoneos-arm64.deb
+Size: 69372
+MD5sum: 34185c9c4900b4836cf86a968b756c0e
+SHA1: 357fe34715245df5ab3b2b2bfead3a99733c7f9b
+SHA256: 6c1f354011cf300be049d90991abe371d97fc5b4a958e30d04ba0c5395ccdcb0
 Section: 微信插件
 Description: 目前的功能包含：视频倍速手势、悬浮提示、头像时间自定义、隐藏系统时间、消息防撤回自定义、语音转发、长按消息预览等.
 Author: huami
