@@ -1905,6 +1905,25 @@ Name: CozyBadges彩色通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.crane
+Version: 1.3.16-4
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 3232
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.Axs.crane_1.3.16-4_iphoneos-arm64.deb
+Size: 602064
+MD5sum: 0ea1284788d3784cceb012c0ee9b575c
+SHA1: b4f802b13f6e96696d33f1987ec341d895d72362
+SHA256: 6454141f0c70862918a11864ab5fcea8c94751359ef573551c5d8f328f4c55d6
+Section: 系统赠送
+Description: Multiple containers for your applications!让你的 APP 应用程序的多开！
+Author: opa334
+Icon: https://axs66.github.io/repo/icon/crane.png
+Name: Crane 应用多开
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/crane/js.json
+
 Package: com.Axs.custom-notification-sound
 Version: 1.0.0
 Architecture: iphoneos-arm64
