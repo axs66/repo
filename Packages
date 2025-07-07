@@ -2611,6 +2611,26 @@ Icon: https://axs66.github.io/repo/icon/visionos.png
 Name: ios26控制中心
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ios26/js.json
 
+Package: com.Axs.ios26
+Version: 0.4.9.9b
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/com.Axs.ios26_0.4.9.9b_iphoneos-arm64.deb
+Size: 23648
+MD5sum: d6c5277297cec586a9db66dc720638f8
+SHA1: 0136ec82c3e56ad3ee9d5da98348ac9f421c9e0a
+SHA256: e9f303231114dca97469817131a9da2b1bf884e18610cd0bddf5056cc216f6a9
+Section: Tweaks
+Description: 一款模仿iOS26样式的控制中心插件，安装注销生效。
+Author: therealhoodboy
+Icon: https://axs66.github.io/repo/icon/visionos.png
+Name: ios26控制中心
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ios26/js.json
+
 Package: com.Axs.jade
 Version: 1.0.5
 Architecture: iphoneos-arm64
