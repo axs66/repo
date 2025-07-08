@@ -1269,6 +1269,24 @@ Icon: https://axs66.github.io/repo/icon/akara.png
 Name: Akara控制中心
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/akara/js.json
 
+Package: com.Axs.alwaysdark
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.Axs.alwaysdark_1.2.3_iphoneos-arm64.deb
+Size: 37772
+MD5sum: a2eb09decd55e7b2318e3b43571da083
+SHA1: ca5abaad095c9a659f483fd663fe67af93cdb723
+SHA256: ec0b6d96ec15959ab7ca3718291840627b030c3ed65e2e5c1fce090a89c06605
+Section: 系统增强
+Description: 运行特定的应用程序始终处于黑暗/光模式
+Author: KingPuffdaddi
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/alwaysdark.png
+Name: AlwaysDark
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/alwaysdark/js.json
+
 Package: com.Axs.analytics
 Version: 0.0.4
 Architecture: iphoneos-arm64
@@ -1689,6 +1707,24 @@ Author: iosrxwy
 Icon: https://axs66.github.io/repo/icon/bzhelper.png
 Name: bzhelper
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/bzhelper/js.json
+
+Package: com.Axs.calculatorhistory
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.calculatorhistory_1.2_iphoneos-arm64.deb
+Size: 24164
+MD5sum: 7196f1a3013d25afbdc2fc390f656759
+SHA1: 50dd041e48ae5fb73b36db51b7f547e046a1a9f4
+SHA256: 53107466ebe9e5e6fd4b412afe35d8639aee1b2a320bc113bbf265d4e2464db4
+Section: 系统增强
+Description: Calculator gains history!记录苹果自带计算器历史计算过程！
+Author: fiore
+Icon: https://axs66.github.io/repo/icon/calculatorhistory.png
+Name: CalculatorHistory 苹果计算器历史记录
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/calculatorhistory/js.json
 
 Package: com.Axs.carbridgecarplay
 Version: 2.0.15
@@ -7785,6 +7821,25 @@ Author: Snail
 Icon: https://axs66.github.io/repo/icon/autovpn.png
 Name: AutoVPN
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/autovpn/js.json
+
+Package: com.spark.libsparkapplist
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Spark
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.libsparkapplist_1.1.0_iphoneos-arm64e.deb
+Size: 26300
+MD5sum: 9628b1afe06179d87e124dda7ae37a39
+SHA1: 8135726891cbd4d516386e3e55d330bf64e6e35a
+SHA256: 3dccf39e46ea8e71fd890880d8f2a4672d18cb142899368e1def8e6111077c17
+Section: Tweaks
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Icon: https://axs66.github.io/repo/icon/libsparkapplist.png
+Name: libSparkAppList
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.spark.libsparkcolourpicker
 Version: 1.0.2
