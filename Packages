@@ -2706,6 +2706,24 @@ Icon: https://axs66.github.io/repo/icon/visionos.png
 Name: ios26控制中心
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ios26/js.json
 
+Package: com.Axs.ioskaifa
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 624
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.ioskaifa_0.0.1_iphoneos-arm64.deb
+Size: 135512
+MD5sum: 04eca495b632baf6670095707a325bcd
+SHA1: 25f4733afb43e5f2b8d0647589edc9dc942b2053
+SHA256: f3365198716ce6c7c7f05eb1f8b202c7e577460ddf4943dda01c255178341275
+Section: Tweaks
+Description: 解锁VIP
+Author: HW
+Icon: https://axs66.github.io/repo/icon/ioskaifa.png
+Name: iOS开发教程 vip
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ioskaifa/js.json
+
 Package: com.Axs.jade
 Version: 1.0.5
 Architecture: iphoneos-arm64
