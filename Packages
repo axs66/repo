@@ -2549,15 +2549,15 @@ Maintainer: Axs
 Installed-Size: 104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.fuckwechatads_1.0.2_iphoneos-arm64.deb
-Size: 16916
-MD5sum: 5a591561a212c8111f09e10e26536620
-SHA1: daeeafcd960f1f52f0361eb75ae91e128d823367
-SHA256: 6063ed931341745795c849689627bdf07ec0e93aa761d7b7a57706aa93ac203b
+Size: 16896
+MD5sum: 0dd5c9e3143c81f71d9d1d4a5f1cd2c9
+SHA1: 1a116bca7dfa92ce74bec5ab50d50c9cfcfd0482
+SHA256: b2ec29e004cb3f8223d59d9afca8574447b8125bcfea797ac6e8de6cddfd4018
 Section: 微信插件
 Description: 微信去广告
 Author: A
 Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: FuckWeChatAds
+Name: 微信去广告
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/fuckwechatads/js.json
 
 Package: com.Axs.gps
