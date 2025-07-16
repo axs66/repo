@@ -2560,6 +2560,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信去广告
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/fuckwechatads/js.json
 
+Package: com.Axs.geltouch
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.geltouch_5.2.0_iphoneos-arm64.deb
+Size: 14036
+MD5sum: af7e3a9fda4404a4fb15f63d3eb7382c
+SHA1: 417f06f68acbea4922ccfd2c5c142473ec59196e
+SHA256: 7b829f7bc31f608258879bf3bf700f7159dd5afcc47e44736a3fbaa313ab0067
+Section: 微信插件
+Description: 微信图标点击动画动效，模拟果冻弹性反馈！
+Author: baiy
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信图标果冻动画
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/geltouch/js.json
+
 Package: com.Axs.gps
 Version: 0.3
 Architecture: iphoneos-arm64
