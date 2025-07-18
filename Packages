@@ -739,6 +739,24 @@ Icon: https://axs66.github.io/repo/icon/singlevpn.png
 Name: Single VPN
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axd.wcenabledictaion
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axd.wcenabledictaion_1.0.0_iphoneos-arm64.deb
+Size: 3108
+MD5sum: 9e8f75647995f2d3372308159c928743
+SHA1: 53cae7278f903ff9f0dc35b81582502b0373d1ea
+SHA256: 317a6714cfa52bd700f32288dff79bbc714ce8db45cd5d7c31753ea7818e4bab
+Section: 微信插件
+Description: 聊天界面输入框右边，语音按钮，识别能力很不错。
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 输入框右侧语音功能
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcenabledictaion/js.json
+
 Package: com.Axs.3dappversionspoofer
 Version: 2.1.1
 Architecture: iphoneos-arm64
