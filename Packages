@@ -3321,6 +3321,23 @@ Icon: https://axs66.github.io/repo/icon/musiclizi.png
 Name: 粒子动画
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/musiclizi/js.json
 
+Package: com.Axs.musicplayer
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Filename: ./debs/com.Axs.musicplayer_0.0.1_iphoneos-arm64.deb
+Size: 5816
+MD5sum: 577e168e2e4bcff6a42e9b9332cc1dc6
+SHA1: 7ad11e530f265d8840ea4caa44d8675074158221
+SHA256: 45673cde414152d60e36a55d476e9725741356f01897b61934e45db977f0ce96
+Section: Tweaks
+Description: 控制中心音乐播放器仿ios18样式!
+Author: liuf
+Icon: https://axs66.github.io/repo/icon/musicplayer.png
+Name: iOS18音乐播放器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/musicplayer/js.json
+
 Package: com.Axs.musicrotation
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -5621,6 +5638,24 @@ Icon: https://axs66.github.io/repo/icon/zeppelinreborn.png
 Name: Zeppelin Reborn个性图标
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/zeppelinreborn/js.json
 Sponsor: Axs
+
+Package: com.Axs.zfk
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.zfk_1.0.0_iphoneos-arm64.deb
+Size: 15572
+MD5sum: 3300df862d5b2cb6fd8af142d45c79c1
+SHA1: a1c08953d570fff9c3211c947d9bcb873971db67
+SHA256: 5f3126aacef26a277db734edcd9f28262436a9a9cc2d1a3ef334d585b000db96
+Section: Tweaks
+Description: 将控制中心主副卡显示为自己喜欢的图片 可自定义 有设置项可自定义高低上下!
+Author: liuf
+Icon: https://axs66.github.io/repo/icon/zfk.png
+Name: 主副卡自定义图片
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/zfk/js.json
 
 Package: com.Axs.zxbsp
 Version: 0.0.3
