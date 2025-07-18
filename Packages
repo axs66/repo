@@ -594,6 +594,24 @@ Icon: https://axs66.github.io/repo/icon/amlyrics.png
 Name: AMLyrics苹果音乐歌词
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/amlyrics/js.json
 
+Package: com.82flex.amlyrics
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.amlyrics_1.0_iphoneos-arm64.deb
+Size: 12148
+MD5sum: 06e56429d195cd9d997da18d91a4f099
+SHA1: 811518ff48164a1402e362c6f47e5adc6d027ff2
+SHA256: 3fb1527396b6394e186a030587aca74a049828e4178be763413aa91943ef1cb5
+Section: 系统增强
+Description: 该插件可以让系统自带的AppleMusic歌词进行优化，配合活字印刷术效果更棒。
+Author: Lessica <82flex@gmail.com>
+Icon: https://axs66.github.io/repo/icon/amlyrics.png
+Name: AMLyrics苹果音乐歌词
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/amlyrics/js.json
+
 Package: com.82flex.artworkspinner
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -7743,6 +7761,29 @@ Depiction: https://axs66.github.io/repo
 Icon: https://axs66.github.io/repo/icon/choicy.png
 Name: Choicy
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/choicy/js.json
+
+Package: com.opa334.choicy
+Version: 1.5.3-2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1122
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.opa334.choicy_1.5.3-2_iphoneos-arm64.deb
+Size: 161424
+MD5sum: ffe00290b19b38c4c57b24361c133bbc
+SHA1: 1a236aae835bbc94e11af52bbf5a5aed892d18ec
+SHA256: e431572b771479bfec105bacae0c9ed821d5833a363952305dae33279e2c604b
+Section: 系统增强
+Homepage: https://axs66.github.io/repo
+Description: 屏蔽越狱检测工具
+Tag: purpose::extension
+Author: opa334
+Depiction: https://t.me/wxfx8
+Dev: opa334
+Icon: https://axs66.github.io/repo/icon/choicy.png
+Name: Choicy
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/choicy/js.json
+Sponsor: A
 
 Package: com.opa334.trollstorehelper
 Version: 2.0.15
