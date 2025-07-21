@@ -5574,13 +5574,15 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Filename: ./debs/com.Axs.yuanjiao_1.8.5_iphoneos-arm64.deb
-Size: 483764
-MD5sum: 5aadb6d251039e29b8bc7ef9e3b700ae
-SHA1: 2f5b9014bc4461711f72bca48ca8c3e7f9db1698
-SHA256: 1435d34151e7bdcd8f057c4d111fb0e05e45d623e818075d217832e4ab5fbfae
+Size: 483504
+MD5sum: 9b127c630e9f9e35f29245cff7473f1e
+SHA1: 5529ea9a004390a9d6c4877311d206eedd520816
+SHA256: 00fc1a8b8c6d7eef001066bd4432404b3eefa365d1938ac24177c19c1b0396e9
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
+Tag: role::tweak, section::ios
 Author: A
+Depiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 全局圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
