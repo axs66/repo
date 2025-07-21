@@ -26,11 +26,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python (if needed)
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
       - name: Run generate_packages.sh
         run: |
           chmod +x ./generate_packages.sh
