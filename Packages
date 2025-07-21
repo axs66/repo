@@ -4711,6 +4711,25 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemePro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
+Package: com.Axs.themepro
+Version: 3.9.8
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: ./debs/com.Axs.themepro_3.9.8_iphoneos-arm64.deb
+Size: 5792300
+MD5sum: 598e3dccf6cafe988887c54e71f5f321
+SHA1: 06f5874b2afdc9316f392438264c4a345f83cd14
+SHA256: 76c8f921d90b3d5aadd726ded45b8d64e67e1763cf9fd2cfdb5c41de91713cd4
+Section: 微信插件
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemePro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
 Package: com.Axs.thermalpatcher
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
@@ -6318,6 +6337,24 @@ SHA1: ee55d40d1c4df73c9270edf1d35b1bcd0b533348
 SHA256: d1daab2e0f137e476e8a169dc7784873447cea928f5f210380a6d00dffdc71f2
 Section: 微信插件
 Description: 1:1 复刻“微信净化”插件，保留红包功能。注意：不可与“微信净化”共存。
+Author: DumpApp
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 锤子助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dumpapp/js.json
+
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.8
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 28576
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.dumpapp.wechat-rootless_2.0.8_iphoneos-arm64.deb
+Size: 10524044
+MD5sum: 2dbfd63a503bcf68215ac9d708f353a9
+SHA1: fd33fe11ca3ced59cabaf1f29067e3ff0dee46a9
+SHA256: b6b7368ddddff39d246c562f732a5df6b97d27fa725b57092ec63460fa7902fd
+Section: 微信插件
+Description: 锤子助手插件
 Author: DumpApp
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 锤子助手
@@ -8338,6 +8375,23 @@ Size: 4175792
 MD5sum: 55766c7cc0d61c3ee86b544ea937cb59
 SHA1: e04907b919aa3b59e4afa1b723ad5e285fd69638
 SHA256: bd1610cfd77a97634cd25cb0cdc94a07180db4c5f021e6fc15e87c0221d08089
+Section: 微信插件
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.1.1_iphoneos-arm64.deb
+Size: 3978504
+MD5sum: f7206515293dddefb77ee0776ffc04cc
+SHA1: 29cbb4f7914d4a19553839f3747acfc1d9743a03
+SHA256: e085ab366e5a6e191bb454560056dbc51f293975099843307298f466753a8e86
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
