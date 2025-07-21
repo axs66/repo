@@ -1,15 +1,19 @@
 {
   "minVersion": "2.0",
   "headerImage": "https://axs66.github.io/repo/banner.png",
-  "tintColor": "#007aff",
+  "tintColor": "#FF9500",
   "tabs": [
     {
       "tabname": "介绍",
       "views": [
         {
-          "markdown": "## 插件介绍\n\n- 支持 iOS 14 - 17\n- 自定义设置界面\n- 安装后需要 Respring"
+          "markdown": "## 全局圆角\n\n支持微信多个界面的圆角美化效果。\n\n- iOS 12 - 17\n- 需要 Respring\n- 9.9 元授权，请添加微信 VCR66T"
         }
       ]
     }
-  ]
+  ],
+  "sponsor": {
+    "title": "授权购买",
+    "url": "http://q4.qlogo.cn/headimg_dl?dst_uin=1107621373&spec=640"
+  }
 }
