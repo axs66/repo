@@ -1,29 +1,31 @@
 #!/bin/bash
 
-# Exit immediately if a command exits with a non-zero status.
 set -e
-set -x  # Enable debug mode
+set -x
 
-# Define the directory containing .deb files
+# 切换到脚本所在目录，确保路径一致
+cd "$(dirname "$0")"
+
+# Define debs directory
 DEB_DIR="./debs"
 
-# Ensure the debs directory exists
+# 检查 debs 目录是否存在
 if [ ! -d "$DEB_DIR" ]; then
-  echo "Directory $DEB_DIR does not exist."
+  echo "❌ Error: Directory $DEB_DIR does not exist."
   exit 1
 fi
 
-# List contents of DEB_DIR for debugging
-ls -l "$DEB_DIR"
+# 列出 .deb 文件
+ls -lh "$DEB_DIR"
 
-# Generate the Packages file
+# 生成 Packages 文件
 dpkg-scanpackages -m "$DEB_DIR" > Packages
 
-# Compress the Packages file
+# 生成压缩版本
 bzip2 -fks Packages
 gzip -fk Packages
 
-# Create the Release file
+# 创建 Release 文件
 cat <<EOF > Release
 Origin: Axs Repo
 Label: Axs Repo
@@ -34,3 +36,5 @@ Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: 自用插件分享，有问题请卸载！！！
 EOF
+
+echo "✅ Repository metadata generated successfully."
