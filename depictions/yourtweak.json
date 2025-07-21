@@ -1,0 +1,15 @@
+{
+  "minVersion": "2.0",
+  "headerImage": "https://axs66.github.io/repo/banner.png",
+  "tintColor": "#007aff",
+  "tabs": [
+    {
+      "tabname": "介绍",
+      "views": [
+        {
+          "markdown": "## 插件介绍\n\n- 支持 iOS 14 - 17\n- 自定义设置界面\n- 安装后需要 Respring"
+        }
+      ]
+    }
+  ]
+}
