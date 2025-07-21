@@ -120,24 +120,6 @@ Name: 微信小布丁
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wxxbd/js.json
 
 Package: codes.aurora.kayoko
-Version: 2.7
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 936
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/codes.aurora.kayoko_2.7_iphoneos-arm64.deb
-Size: 123820
-MD5sum: d6f3462d42cb6441038045037f311dcd
-SHA1: f665ea45f1f98ac4f74f7d24298489ceacedbe1e
-SHA256: d29dd71c9f6b03bd5ea2b62386e17bb310e31b7a05a4b736c88a18cf26db5cc4
-Section: 系统增强
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Icon: https://axs66.github.io/repo/icon/kayoko.png
-Name: Kayoko
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: codes.aurora.kayoko
 Version: 2.8
 Architecture: iphoneos-arm64
 Maintainer: Lessica
