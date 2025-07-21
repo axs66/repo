@@ -23,6 +23,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Cancel any in-progress Pages deployment
+        run: |
+          gh api repos/${{ github.repository }}/pages/deployments \
+             --method GET --jq '.[] | select(.status=="in_progress") | .id' \
+             | xargs -I {} gh api repos/${{ github.repository }}/pages/deployments/{} --method DELETE || true
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}
+          
       - name: Checkout
         uses: actions/checkout@v4
 
