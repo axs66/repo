@@ -45,8 +45,8 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
-          git add Packages Packages.bz2 Packages.gz _redirects
-          git commit -m "Update Packages & _redirects" || echo "No changes to commit"
+          git add Packages Packages.bz2 Packages.gz
+          git commit -m "Update Packages" || echo "No changes to commit"
           git push https://${{ secrets.PAT }}@github.com/axs66/repo.git HEAD:main
 
       - name: Setup Pages
