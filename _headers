@@ -1,0 +1,17 @@
+/Packages.zst
+  Content-Type: application/zstd
+
+/Packages
+  Content-Type: text/plain
+
+/Packages.gz
+  Content-Type: application/gzip
+
+/Packages.bz2
+  Content-Type: application/x-bzip2
+
+/Release
+  Content-Type: text/plain
+
+/debs/*
+  Content-Type: application/vnd.debian.binary-package
