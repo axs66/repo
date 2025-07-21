@@ -41,9 +41,6 @@ jobs:
       - name: Output Packages files
         run: ls -l Packages*
 
-      - name: Generate _redirects
-        run: echo "/apt/*    /:splat    200" > _redirects
-
       - name: Commit updated Packages
         run: |
           git config --local user.name "github-actions"
