@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 4 月 8 日",
+                    "text": "2025 年 7 月 20 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,7 +88,7 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "2.0.2-1",
+                    "title": "2.1.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
