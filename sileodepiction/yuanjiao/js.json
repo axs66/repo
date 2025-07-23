@@ -10,13 +10,13 @@
             "views": [
                 {
                     "text":"✈分享频道",
-                    "action":"https://t.me/WCYuanJiao",
+                    "action":"https://t.me/wxfx8",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
                 }, 
                {
                     "text":"✈交流群组",
-                    "action":"https://t.me/QYuanJiao",
+                    "action":"https://t.me/oncar2",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
                 },      
@@ -97,7 +97,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 7 月 1 日",
+                    "text": "2025 年 7 月 22 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -110,6 +110,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.8.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                        "markdown": "1.我的界面：重新构建代码、新增支持MOV和MP4格式素材。<br> 2. 新增底栏动画：自适应模式，方便用户设置，1分钟就可以设置好。<br> 3. 其他圆角：重新构建代码、新增主页界面（即消息列表）、通讯录界面、资料设置界面（包含微信系统设置、各插件设置界面等）。<br> 4. 其他说明：其他圆角的5各设置页面由于主题透明，看不见圆角效果的，需要去主题找到weui_color_new.xml并修改里面的BG_0和BG_1的颜色代码。<br> 5. 优化 1.8.5 版本中大家反馈的信息，自行发现。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "1.8.5",
