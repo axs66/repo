@@ -4341,6 +4341,24 @@ Icon: https://axs66.github.io/repo/icon/springanimations.png
 Name: SpringAnimations桌面动画
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/springanimations/js.json
 
+Package: com.Axs.stageduo
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 4900
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debs/com.Axs.stageduo_1.2_iphoneos-arm64.deb
+Size: 3072372
+MD5sum: e2ae717416e78f1036cb5306437b412c
+SHA1: e4fa1a4f5c7729ad7277e180aeb4b782384959b6
+SHA256: 5b4b969416deed87416f8a10393388407d9c7e0e829aecb70fea9b7e1fba98ad
+Section: 分屏插件
+Description: Stage Manager Reimagined for iPhone
+Author: tomt000
+Icon: https://axs66.github.io/repo/icon/stageduo.png
+Name: Dynamic Stage上下分屏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/stageduo/js.json
+
 Package: com.Axs.staypro
 Version: 0.0.1
 Architecture: iphoneos-arm64
