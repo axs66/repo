@@ -6001,6 +6001,42 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 抖音净化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
+Package: com.axs.immortalizerjailed
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.axs.immortalizerjailed_2.2_iphoneos-arm64.deb
+Size: 38688
+MD5sum: 718e24c807fb46126df2c708bd6a4222
+SHA1: 121f3f89aaac92979013424128404d4795f64254
+SHA256: 444ca701c533c4feabf0ac2a17a590ce30ff3c3382744b1c602455454091b0ae
+Section: 微信插件
+Description: A tweak that keeps apps alive，这个插件的作用可以让你的app即使在后台，也能无限期地运行在前台！无需越狱或TrollStore，您只需将插件注入您想要使用的 IPA 即可。会有一个可以拖动的浮动按钮，你可以点击它来切换 Immortalizer 的状态。
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ImmortalizerJailed真后台
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/immortalizerjailed/js.json
+
+Package: com.axs.immortalizerjailed
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: Axs
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.axs.immortalizerjailed_2.2_iphoneos-arm64e.deb
+Size: 38622
+MD5sum: 6ecb54523035542ba95c49cd10f8b181
+SHA1: d6d34ae2014f4e0118b7b1d296331e84ac5fe54e
+SHA256: 68f43709b7a164fce90e11e675d65de0ffd3332b64afb17a30a7bff6d1f1d6da
+Section: 微信插件
+Description: A tweak that keeps apps alive，这个插件的作用可以让你的app即使在后台，也能无限期地运行在前台！无需越狱或TrollStore，您只需将插件注入您想要使用的 IPA 即可。会有一个可以拖动的浮动按钮，你可以点击它来切换 Immortalizer 的状态。
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ImmortalizerJailed真后台
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/immortalizerjailed/js.json
+
 Package: com.axs.rma
 Version: 1.0
 Architecture: iphoneos-arm64
