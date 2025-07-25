@@ -2001,6 +2001,25 @@ Icon: https://axs66.github.io/repo/icon/ClassicKeyboardXS.png
 Name: ClassicKeyboardXS 键盘高度调整
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.copylog
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2240
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/com.Axs.copylog_1.7.1_iphoneos-arm64.deb
+Size: 1036632
+MD5sum: 4a772d6c42683e3e509aae5b69ec36e2
+SHA1: bb788853d37e92753b0d20deade02c09af5c08f7
+SHA256: af4762989414bc92779425cd71c932c7571322a7335e9ab17bb4c1ddbf53d94a
+Section: 系统增强
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Icon: https://axs66.github.io/repo/icon/copylog.png
+Name: CopyLog剪贴板
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/copylog/js.json
+
 Package: com.Axs.copylogfix16
 Version: 1.0.1
 Architecture: iphoneos-arm64
