@@ -1157,6 +1157,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信优化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
 
+Package: com.Axs.WCElite
+Version: 1.3-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCElite_1.3-1_iphoneos-arm64.deb
+Size: 494808
+MD5sum: 0e61d99d71edd2e11a3c3a4464baa68b
+SHA1: f3f5ff815930eecf71ef1db12b2586168e06a817
+SHA256: a46898d14b1df4c340fb3443318ac36896e139e1fee5857e98e611be2aa154c3
+Section: 微信插件
+Priority: optional
+Description: 微信优化，基于WechatEnhance_1.1.9开源版优化。
+Author: 热心网友＆雪糕
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信优化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
+
 Package: com.Axs.WCThemes
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -6935,6 +6952,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCPulse
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
 
+Package: com.huami.WCPulse
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 404
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.1-3_iphoneos-arm64.deb
+Size: 71468
+MD5sum: 6852a2ba31c02b394a77ea7da2717bca
+SHA1: 0a625fea68dd8edae70cbe611c46c20817b285f1
+SHA256: 05b94a06820eb9a4be2318bc13c770834e2ddb841395f92ba1beecccca826223
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCPulse
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
+
 Package: com.huami.wcnicknameavatarstyle
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -7754,6 +7789,24 @@ Author: Netskao
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信禁用热更新
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.netskao.wcdisablehotupdates
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcdisablehotupdates_1.1-2_iphoneos-arm64.deb
+Size: 2364
+MD5sum: 1ddb30bafc7c50ed33e8dabea8d58f88
+SHA1: 324af0157f535dab47aa115a4e54aa26a160615a
+SHA256: 167912d6fc9f04bc454ef419e39fa7500db42d00ed95bca92ee66f9f9279ee02
+Section: 微信插件
+Description: WeChat Disable Hot Updates
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信禁用热更新
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcdisablehotupdates/js.json
 
 Package: com.netskao.wcmypageinfocenter
 Version: 1.1-2
