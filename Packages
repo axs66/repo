@@ -5466,6 +5466,30 @@ Name: 解锁威锋vip
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/weifeng/js.json
 Sponsor: Axs
 
+Package: com.Axs.whiteccborders
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Installed-Size: 388
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debs/com.Axs.whiteccborders_1.0.0_iphoneos-arm64.deb
+Size: 44000
+MD5sum: 0dca2020d9a865f9fbe122f79ebacd92
+SHA1: fe5dc7883a899d4d8f14808390aca98821cd40c0
+SHA256: d17ce83c52a02fdb7224eeffe8dcd20360cf594e6e4b8058ec2ecee4197fb4d2
+Section: Tweaks
+Priority: optional
+Homepage: https://alist.138686.xyz
+Description: 自定义控制中心边宽宽度及圆角弧度！
+Tag: purpose::extension
+Author: CydiaGeek
+Depiction: https://axs66.github.io/repo
+Dev: lucaluca86
+Icon: https://axs66.github.io/repo/icon/whiteccborders.png
+Name: 控制中心圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/whiteccborders/js.json
+Sponsor: thebigboss.org
+
 Package: com.Axs.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
