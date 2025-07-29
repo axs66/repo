@@ -7001,10 +7001,10 @@ Maintainer: Axs
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.huami.WCPulse_1.1-4_iphoneos-arm64.deb
-Size: 101180
-MD5sum: 33537c0cb5806e4c234eb14c50e4f38a
-SHA1: 93b6b15a93d28f14d82122a656fc74d00c540e60
-SHA256: fdab9a1512ef70b2110ec197446ec7696f3a62a2646a23fd740333b2c654527e
+Size: 101604
+MD5sum: 4343393464c845de770b0c2ee04c01aa
+SHA1: 0f05efb253e5ecb7f8a7ef8eb4eda9fbe1110c66
+SHA256: 49171068faefdc92ddc46ed427b9916e619d0a68d49b69a0b9a09b4c24f50f53
 Section: 微信插件
 Description: 微信插件。特色:分组功能
 Author: huami
