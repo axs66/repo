@@ -4982,6 +4982,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 随机小姐姐
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/videos/js.json
 
+Package: com.Axs.view
+Version: 8.8.8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.view_8.8.8_iphoneos-arm64.deb
+Size: 2392960
+MD5sum: e89167a238d93c7826da68cb8fd646e1
+SHA1: a115590ff233c940d9a56b57355625eb73a90065
+SHA256: 507d640a1142c2a6383aeddc2d2aeba34d4a46621fbfbdf925f578c9ce6b66bf
+Section: 微信插件
+Description: 微信无后台推送详情.
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信无后台推送详情
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/view/js.json
+
 Package: com.Axs.virtualmemory
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -7001,10 +7019,10 @@ Maintainer: Axs
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.huami.WCPulse_1.1-4_iphoneos-arm64.deb
-Size: 101604
-MD5sum: 4343393464c845de770b0c2ee04c01aa
-SHA1: 0f05efb253e5ecb7f8a7ef8eb4eda9fbe1110c66
-SHA256: 49171068faefdc92ddc46ed427b9916e619d0a68d49b69a0b9a09b4c24f50f53
+Size: 101176
+MD5sum: 51bd601bcbdbb594bf92bebb77ecd2c7
+SHA1: 0a93a30a0168653e971eb2309f4f18017c56342a
+SHA256: 14407bb6557e5664f5aafd0760fd3afb57c1ce9bf73c626c75f6e5a0aced3945
 Section: 微信插件
 Description: 微信插件。特色:分组功能
 Author: huami
