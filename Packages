@@ -2465,6 +2465,26 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/ezswipe/js.json
 Sponsor: Axs
 
 Package: com.Axs.faka
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: xuegao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.faka_1.0.5_iphoneos-arm64.deb
+Size: 2224672
+MD5sum: 52998ef5e20079264b14ccd0381a4995
+SHA1: cc4d5b8ddbea8c909b411206938490bcf6370624
+SHA256: acb27e4ff28fd5e9608536b6914cb616e777d09afbaf84773648a45cb8dc47c0
+Section: 微信插件
+Priority: optional
+Homepage: https://alist.138686.xyz
+Description: 微信自动发卡，本地发卡，api发卡。
+Author: xuegao
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 自动发卡
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/faka/js.json
+
+Package: com.Axs.faka
 Version: 1.0.9
 Architecture: iphoneos-arm64
 Maintainer: xuegao
@@ -2480,6 +2500,26 @@ Homepage: https://axs66.github.io/repo
 Description: 微信自动发卡，本地发卡，api发卡
 Author: xuegao
 Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 自动发卡
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/faka/js.json
+
+Package: com.Axs.faka
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: xuegao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.faka_1.1.5_iphoneos-arm64.deb
+Size: 4724336
+MD5sum: f63d930ff440743b43c1e61f4be56155
+SHA1: 30f8b5179cb151c8c7a41d709582e4f665270e88
+SHA256: b22291fec1d79be7aa0e0f4de54a382dc39ccac4856d1c25718b1fb3c8029758
+Section: 微信插件
+Priority: optional
+Homepage: https://alist.138686.xyz
+Description: 微信自动发卡1.1.5，本地发卡，api发卡。1.0.5版本才是免费版本。
+Author: xuegao
+Depiction: https://axs66.github.io/repo
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 自动发卡
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/faka/js.json
