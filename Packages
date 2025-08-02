@@ -2082,11 +2082,11 @@ Installed-Size: 3232
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debs/com.Axs.crane_1.3.16-4_iphoneos-arm64.deb
-Size: 602064
-MD5sum: 0ea1284788d3784cceb012c0ee9b575c
-SHA1: b4f802b13f6e96696d33f1987ec341d895d72362
-SHA256: 6454141f0c70862918a11864ab5fcea8c94751359ef573551c5d8f328f4c55d6
-Section: 系统赠送
+Size: 603524
+MD5sum: 03d93f0f5ff2026472f15bf176773196
+SHA1: 47516d32d630fcd525f4707773edade3526bd864
+SHA256: 61aa2c68f812f18fd33a3cdb76681aebf7f9bcfd3a426296a8c8c1c73b6e4c40
+Section: 系统增强
 Description: Multiple containers for your applications!让你的 APP 应用程序的多开！
 Author: opa334
 Icon: https://axs66.github.io/repo/icon/crane.png
@@ -2719,11 +2719,11 @@ Maintainer: Axs
 Installed-Size: 1308
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/com.Axs.gps_0.3_iphoneos-arm64.deb
-Size: 247560
-MD5sum: d0b5954ab57f6bdaad0ed2a970ff63b0
-SHA1: 928a85920147ef74817b0a367221071ae2b71cae
-SHA256: 4407614c7c3293b0a8933fa97c3699d0bb3ff0ad9207c9806f5d5070de7efdbd
-Section: 系统赠送
+Size: 248140
+MD5sum: 2e67397da0c5bd482990e911c42f23ea
+SHA1: b9d5a6bf6c9b4fe66cf189c4fa84fd62b0a8afc0
+SHA256: fbd80a92899ef2497b0e6b81a3c2e9e54ee273525e72d47602a3f4356ba0c092
+Section: 系统增强
 Description: 功能强大的iOS位置工具
 Author: pxx917144686
 Icon: https://axs66.github.io/repo/icon/gps.png
