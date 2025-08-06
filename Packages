@@ -2107,24 +2107,6 @@ Icon: https://axs66.github.io/repo/icon/copylog.png
 Name: CopyLog剪贴板
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/copylog/js.json
 
-Package: com.Axs.copylogfix16
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 168
-Depends: me.tomt000.copylog, firmware (>= 16.0)
-Filename: ./debs/com.Axs.copylogfix16_1.0.1_iphoneos-arm64.deb
-Size: 6468
-MD5sum: 2beba917cf3ca299b9ce8711dd3266ba
-SHA1: c0ef47a85046c07a200f3ec286ed635191c57ccd
-SHA256: 6a02f336237b54c2105215f62149c4e8f6bb49efcf0691bfe744693fb1c2acae
-Section: Tweaks
-Description: Fix copylog not working on iOS16
-Author: 0xkuj
-Icon: https://axs66.github.io/repo/icon/copylogfix16.png
-Name: CopyLogFix16
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/copylogfix16/js.json
-
 Package: com.Axs.cozybadges
 Version: 2.1
 Architecture: iphoneos-arm64
