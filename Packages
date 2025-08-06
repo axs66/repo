@@ -1832,6 +1832,24 @@ Icon: https://axs66.github.io/repo/icon/bounceit.png
 Name: Bounce It 弹跳效果动画
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/bounceit/js.json
 
+Package: com.Axs.bridge
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 7088
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common
+Filename: ./debs/com.Axs.bridge_1.1_iphoneos-arm64.deb
+Size: 4946224
+MD5sum: f8249f29fc1fe7d8f963ee2217d5df5e
+SHA1: 9aba22d46b8bf0ececf2d1425216285800277df1
+SHA256: f150623b09db11a6bb22c21d90c25d27f1500053750b4b145f3d4171e7759a8f
+Section: 系统增强
+Description: The Apple Watch homescreen experience brought to iOS
+Author: MTAC • ETHN
+Icon: https://axs66.github.io/repo/icon/bridge.png
+Name: Bridge 桌面应用随意摆
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/bridge/js.json
+
 Package: com.Axs.bzhelper
 Version: 1.6.5
 Architecture: iphoneos-arm64
@@ -7639,22 +7657,6 @@ Author: mikifp <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/griddy.png
 Name: Griddy
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
-Package: com.mtac.bridge
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: MTAC • ETHN
-Installed-Size: 7088
-Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common
-Filename: ./debs/com.mtac.bridge_1.1_iphoneos-arm64.deb
-Size: 4958880
-MD5sum: 2460a2016e51fdc52d426924eabb1cd5
-SHA1: 8ee8deef6fa14f674b2c1b22eb3fbc78fdfa5048
-SHA256: 5f9f3dedcbd9f2bc29c806543daf9ddd710e6827073bc849e3eb4193eae72d7e
-Section: Tweaks
-Description: The Apple Watch homescreen experience brought to iOS
-Author: MTAC • ETHN
-Name: Bridge
 
 Package: com.nahtedetihw.airpodscompanion
 Version: 1.5
