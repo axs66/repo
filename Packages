@@ -739,6 +739,24 @@ Icon: https://axs66.github.io/repo/icon/singlevpn.png
 Name: Single VPN
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.82flex.singlevpn
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.6_iphoneos-arm64.deb
+Size: 29004
+MD5sum: 001a51d6984bc0c2d25eb69e7b752aa1
+SHA1: c19cfd485715e042a5dc68e9faea8575e1282c68
+SHA256: 2698195064afafefdba7abb0d7515e65449bf6f9caab1d440759f05ecaec2067
+Section: Tweaks
+Description: 将VPN状态和无线状态组合到一个图标中。
+Author: 82Flex <82flex@gmail.com>
+Icon: https://axs66.github.io/repo/icon/singlevpn.png
+Name: Single VPN
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
 Package: com.Axd.wcenabledictaion
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -5701,6 +5719,24 @@ SHA256: bd9aaf3c2b072d6c7d2eabc4751e93abd31f3e5a0582e393a7fca9928f10f216
 Section: 系统增强
 Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
+Icon: https://axs66.github.io/repo/icon/xxtouch.png
+Name: XXTouch Elite
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxtouch/js.json
+
+Package: com.Axs.xxtouch
+Version: 5.3.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 60220
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.Axs.xxtouch_5.3.0_iphoneos-arm64.deb
+Size: 20428232
+MD5sum: 346fbacf3f1b5e90ce3e5ea88070aa8d
+SHA1: 6c5c9d4faa6150f9c272d817dab58b1da7ee6465
+SHA256: 134d6afc1e14373660e0a95b54b33e5dfd81e1e555cbe5733dfa45e34ae6150f
+Section: 系统增强
+Description: xxtouch是一款ios自定义脚本的自动化工具（连点器or按键精灵）
+Author: 82Flex
 Icon: https://axs66.github.io/repo/icon/xxtouch.png
 Name: XXTouch Elite
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxtouch/js.json
