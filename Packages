@@ -6398,6 +6398,25 @@ Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicd
 Name: DesktopLyrics
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
 
+Package: com.brend0n.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64.deb
+Size: 622852
+MD5sum: f2b6ab7f889ba36e42e781cae78d6e5a
+SHA1: e119078e2c45867a7b9a9285580266a505b6caf3
+SHA256: 3c4390a2eeca554eec0baacb5eb76a7de04768eb0dac0e1cdeb627e05ee7151f
+Section: 系统增强
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
+Author: Brend0n
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/qqmusicdesktoplyrics.png
+Name: DesktopLyrics 桌面歌词
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/qqmusicdesktoplyrics/js.json
+
 Package: com.creaturecoding.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm64
