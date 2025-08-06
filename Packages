@@ -4226,25 +4226,6 @@ Icon: https://axs66.github.io/repo/icon/ShowMyTouches.png
 Name: ShowMyTouches触摸轨迹
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.Axs.singlevpns
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green, com.82flex.singlevpn.orange
-Filename: ./debs/com.Axs.singlevpns_1.1_iphoneos-arm64.deb
-Size: 27544
-MD5sum: 4259b1789c362bd3364b9c54b0ae7400
-SHA1: 5fce105d78eb04dd22e7de4247c14204ed4f1e5d
-SHA256: 09d4d872609def6f714b5a2ff115d777f8b8207b6caea02ae501bca51d35d50d
-Section: Tweaks
-Description: Combine VPN state and wireless state into one icon.
-Author: 82Flex <82flex@gmail.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
-Name: Single VPN 上色
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/ThemePro/js.json
-
 Package: com.Axs.sixls
 Version: 1.1-1
 Architecture: iphoneos-arm64
