@@ -5774,14 +5774,14 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.Axs.yuanjiao_1.8.5_iphoneos-arm.deb
-Size: 496900
-MD5sum: 81882051fba4f48a653b117cb895ff2c
-SHA1: 410351e58e1caf23a1d7946fc6abfc00756b5742
-SHA256: 7acd0f686c1f4f34fe27faffc4a21f25a7f9a49bbd87d973db2cefa2caa413a5
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.yuanjiao_1.8.5_iphoneos-arm64e.deb
+Size: 483764
+MD5sum: e152c2d49df7bb75a45d17901c62d132
+SHA1: 41c54bd667bf076fd5545cc953ca2fb928cb9dc2
+SHA256: cecc3420a2f5eeeb88639efb526609cb0258d0f9c767ffab3d3ad7e4d3d0dbf6
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -5810,31 +5810,14 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.5
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.yuanjiao_1.8.5_iphoneos-arm64e.deb
-Size: 483764
-MD5sum: e152c2d49df7bb75a45d17901c62d132
-SHA1: 41c54bd667bf076fd5545cc953ca2fb928cb9dc2
-SHA256: cecc3420a2f5eeeb88639efb526609cb0258d0f9c767ffab3d3ad7e4d3d0dbf6
-Section: 微信插件
-Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
-Author: A
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 全局圆角
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
-
-Package: com.Axs.yuanjiao
-Version: 1.8.6
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64.deb
-Size: 635692
-MD5sum: 55484d35e0fc1c4c87324657bb95803c
-SHA1: 0754aaa5d17584a7715faa7b466bc323e78b6279
-SHA256: 6c3e54b562c6cbd98a7ac5be3c604fe526c687fbdb92c55991b12cd646ca4f17
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.Axs.yuanjiao_1.8.5_iphoneos-arm.deb
+Size: 496900
+MD5sum: 81882051fba4f48a653b117cb895ff2c
+SHA1: 410351e58e1caf23a1d7946fc6abfc00756b5742
+SHA256: 7acd0f686c1f4f34fe27faffc4a21f25a7f9a49bbd87d973db2cefa2caa413a5
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -5869,6 +5852,23 @@ Size: 635660
 MD5sum: 3ca83a0106cb2e3761046b3f652c71fa
 SHA1: c09bd601c8486f04026bf73d009dd17f3c18ffe4
 SHA256: 100ff08023940a5cb361a91ffcfd5dee37a4cfafb26ca6e0932e6f857a423d67
+Section: 微信插件
+Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+
+Package: com.Axs.yuanjiao
+Version: 1.8.6
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64.deb
+Size: 635692
+MD5sum: 55484d35e0fc1c4c87324657bb95803c
+SHA1: 0754aaa5d17584a7715faa7b466bc323e78b6279
+SHA256: 6c3e54b562c6cbd98a7ac5be3c604fe526c687fbdb92c55991b12cd646ca4f17
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -6086,6 +6086,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
 
+Package: com.HBWechatHelper.ailun
+Version: 1.9.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.9.0_iphoneos-arm64.deb
+Size: 11862588
+MD5sum: 13ae164b9de2d57ef4854e4c44cb03e7
+SHA1: 66694ea7b47be19972e2a290022a25899c910518
+SHA256: 9c1be14691b74490667ae4d9bf3faec2b7e2efbe32c88faa48d7aa8514300df5
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
+
 Package: com.anthopak.quickprefs-rootless
 Version: 1.3.3
 Architecture: iphoneos-arm64
@@ -6221,24 +6238,6 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
 Package: com.axs.immortalizerjailed
 Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/com.axs.immortalizerjailed_2.2_iphoneos-arm64.deb
-Size: 38688
-MD5sum: 718e24c807fb46126df2c708bd6a4222
-SHA1: 121f3f89aaac92979013424128404d4795f64254
-SHA256: 444ca701c533c4feabf0ac2a17a590ce30ff3c3382744b1c602455454091b0ae
-Section: 微信插件
-Description: A tweak that keeps apps alive，这个插件的作用可以让你的app即使在后台，也能无限期地运行在前台！无需越狱或TrollStore，您只需将插件注入您想要使用的 IPA 即可。会有一个可以拖动的浮动按钮，你可以点击它来切换 Immortalizer 的状态。
-Author: A
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: ImmortalizerJailed真后台
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/immortalizerjailed/js.json
-
-Package: com.axs.immortalizerjailed
-Version: 2.2
 Architecture: iphoneos-arm64e
 Maintainer: Axs
 Installed-Size: 156
@@ -6248,6 +6247,24 @@ Size: 38622
 MD5sum: 6ecb54523035542ba95c49cd10f8b181
 SHA1: d6d34ae2014f4e0118b7b1d296331e84ac5fe54e
 SHA256: 68f43709b7a164fce90e11e675d65de0ffd3332b64afb17a30a7bff6d1f1d6da
+Section: 微信插件
+Description: A tweak that keeps apps alive，这个插件的作用可以让你的app即使在后台，也能无限期地运行在前台！无需越狱或TrollStore，您只需将插件注入您想要使用的 IPA 即可。会有一个可以拖动的浮动按钮，你可以点击它来切换 Immortalizer 的状态。
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ImmortalizerJailed真后台
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/immortalizerjailed/js.json
+
+Package: com.axs.immortalizerjailed
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.axs.immortalizerjailed_2.2_iphoneos-arm64.deb
+Size: 38688
+MD5sum: 718e24c807fb46126df2c708bd6a4222
+SHA1: 121f3f89aaac92979013424128404d4795f64254
+SHA256: 444ca701c533c4feabf0ac2a17a590ce30ff3c3382744b1c602455454091b0ae
 Section: 微信插件
 Description: A tweak that keeps apps alive，这个插件的作用可以让你的app即使在后台，也能无限期地运行在前台！无需越狱或TrollStore，您只需将插件注入您想要使用的 IPA 即可。会有一个可以拖动的浮动按钮，你可以点击它来切换 Immortalizer 的状态。
 Author: A
@@ -7276,6 +7293,24 @@ SHA1: 48da906b30f66360dd917efdd86982817d068c38
 SHA256: ab88b510eafa67fa89ddca65698f8c378ac49fadbc6e09383ca77f055e57fcef
 Section: 微信插件
 Description: WCPulse，特色：分组功能
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCPulse
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
+
+Package: com.huami.WCPulse
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 892
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.2-3_iphoneos-arm64.deb
+Size: 172152
+MD5sum: c7ab9845c65453250e4db92a5451db5d
+SHA1: 2f353f45896c98d209698d22d626c9fdd12a80d7
+SHA256: 2b5b916406e8fae31d3a117f76da1cf0e7c654db1f0fa3b6e2532381c63774d0
+Section: 微信插件
+Description: WCPulse
 Author: huami
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCPulse
@@ -9325,15 +9360,15 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
 Version: 17.22
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: lzsxcl
-Installed-Size: 30344
+Installed-Size: 30376
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.22_iphoneos-arm.deb
-Size: 12449524
-MD5sum: 9efe0476bd23965599612038d6b7cc90
-SHA1: 29d0fab796cbc82bad721f9a65b64b98a5e2648e
-SHA256: 1c2d4033be32ffd28346a4a81851f02086f716f37f8344b2a316015f0156b745
+Filename: ./debs/xc.lzsxcl.o2pro_17.22_iphoneos-arm64.deb
+Size: 12458824
+MD5sum: 9113789017411289a33924b7db11c94d
+SHA1: 9de4e54baa9f15f519120e258329c113b73c788e
+SHA256: 920ab855505c819122c22e6116f39d617b73c884a0d2eee9a343d869b7547d04
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
@@ -9344,15 +9379,15 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
 Version: 17.22
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: lzsxcl
-Installed-Size: 30376
+Installed-Size: 30344
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.22_iphoneos-arm64.deb
-Size: 12458824
-MD5sum: 9113789017411289a33924b7db11c94d
-SHA1: 9de4e54baa9f15f519120e258329c113b73c788e
-SHA256: 920ab855505c819122c22e6116f39d617b73c884a0d2eee9a343d869b7547d04
+Filename: ./debs/xc.lzsxcl.o2pro_17.22_iphoneos-arm.deb
+Size: 12449524
+MD5sum: 9efe0476bd23965599612038d6b7cc90
+SHA1: 29d0fab796cbc82bad721f9a65b64b98a5e2648e
+SHA256: 1c2d4033be32ffd28346a4a81851f02086f716f37f8344b2a316015f0156b745
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
