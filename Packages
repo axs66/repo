@@ -3515,24 +3515,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 去除misaka匿名艾特次数限制
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.Axs.mitsuhaforever
-Version: 1.4.3
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, com.Axs.xinamine
-Filename: ./debs/com.Axs.mitsuhaforever_1.4.3_iphoneos-arm64.deb
-Size: 165420
-MD5sum: a892b307bc609d139be37b52d4188cd4
-SHA1: b7026f3cba5f611ea1c32377cedfefdd96db2f3c
-SHA256: 7007a232d293cd0eec2e02df92acccc4ad148101eb077bdcc24df9fa7bf43226
-Section: Tweaks
-Description: 功能包括：Mitsuha Forever允许您显示波浪，栏，线，Siri或点样式作为Apple Music和Spotify等应用程序中的音频可视化。•带有频率而不是振幅的波形•自定义可视化外观设置•自定义可视化点和属性的数量•自定义动态，SIRI和自定义颜色样式•自定义颜色alpha•自定义定位•自定义可视化器速度和灵敏度。
-Author: Ryan Nair
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/mitsuhaforever.png
-Name: Mitsuha Forever
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/mitsuhaforever/js.json
-
 Package: com.Axs.moorebarx15
 Version: 1.0.0~beta1.0.5
 Architecture: iphoneos-arm64
@@ -3588,24 +3570,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 消息屏蔽助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/msgfilt/js.json
 Sponsor: admin@25mao.com
-
-Package: com.Axs.mshfplayer
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 876
-Depends: firmware (>= 15.0), com.ryannair05.audiosnapshotserver2
-Filename: ./debs/com.Axs.mshfplayer_0.0.1_iphoneos-arm64.deb
-Size: 456280
-MD5sum: 34b03cdc0b90afc1e0f5395df0dc1b77
-SHA1: e78859e341df2c47ff3b4616c9b17a1e2c7f504d
-SHA256: e1848fcb792dd8c163252b892c06e5109c305d12f349cd5184a6c6824c2e00c0
-Section: Tweaks
-Description: 桌面音频
-Author: lhh
-Icon: https://axs66.github.io/repo/icon/mshfplayer.png
-Name: MashPlayer桌面音频
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/mshfplayer/js.json
 
 Package: com.Axs.musiclizi
 Version: 1.1.8
