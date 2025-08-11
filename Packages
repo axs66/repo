@@ -1867,6 +1867,24 @@ Icon: https://axs66.github.io/repo/icon/bzhelper.png
 Name: bzhelper
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/bzhelper/js.json
 
+Package: com.Axs.cahighfps
+Version: 2.1.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.Axs.cahighfps_2.1.3_iphoneos-arm64.deb
+Size: 16016
+MD5sum: ffc21405d9817d60ab9dfd93974479b5
+SHA1: ec5cbe985104ad77d74c3241f4787f5e2449f449
+SHA256: 34b396e70d13af68c57017c1cc93560a8263c9f6548a64b64d885cb586bb304d
+Section: 系统增强
+Description: 这是一款非常不错的免费锁120Hz刷新率的插件，适用于iPhone13Pro以上机型。让CoreAnimation应用使用最高可用帧率。帧率和颜色可以自定义。
+Author: PoomSmart
+Icon: https://axs66.github.io/repo/icon/cahighfps.png
+Name: CAHighFPS-120刷新率
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/cahighfps/js.json
+
 Package: com.Axs.calculatorhistory
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -2270,6 +2288,24 @@ Icon: https://axs66.github.io/repo/icon/designer.png
 Name: Designer锁屏美化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/designer/js.json
 
+Package: com.Axs.designer
+Version: 1.5.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.designer_1.5.4_iphoneos-arm64.deb
+Size: 11957512
+MD5sum: 93b42a4376dcca5d9f88049976da3395
+SHA1: 690413e40497d5dea5769b23aa44d78d8ca3eb45
+SHA256: 534385997ea0c0a0306d1a2ee643915bffa0d385a80f39d1827c01eefc2b29f1
+Section: Tweaks
+Description: 在锁定屏幕和主屏幕的小功能，主题选择或隐藏某选项。主题非常的好看，自己制作，或者找人要都可以，自行体验！桌面小组件也支持呢！
+Author: JunesiPhone
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/designer.png
+Name: Designer锁屏美化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/designer/js.json
+
 Package: com.Axs.dismissalert
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -2647,6 +2683,24 @@ Icon: https://axs66.github.io/repo/icon/filza.png
 Name: Filza Crack
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.filzaswipeselect
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.filzaswipeselect_0.0.2_iphoneos-arm64.deb
+Size: 8700
+MD5sum: e4d792fb5a68040c1463b28208f7954c
+SHA1: 150c5ead9d6dad328aa78d5afd432a445481b083
+SHA256: 1b77e4b8fe19cb5b90c80fa01da8b2aa68ba46c1aea4361ca526cae4a7d9f6af
+Section: 应用程序
+Description: Filza 支持滑动多选文件，告别逐个点击
+Author: korboy
+Icon: https://axs66.github.io/repo/icon/filza.png
+Name: Filza滑动多选
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/filzaswipeselect/js.json
+
 Package: com.Axs.flex
 Version: 1.0-3+debug
 Architecture: iphoneos-arm64
@@ -2798,6 +2852,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信图标果冻动画
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/geltouch/js.json
 
+Package: com.Axs.googletranslatedownload
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.googletranslatedownload_1.0.0_iphoneos-arm64.deb
+Size: 9244
+MD5sum: 83ad8b06a142bfb0cd52c8a0aef69ff6
+SHA1: fabdddc34d1941745921d39838da36f4be3965ea
+SHA256: 2bc74a14982af4032598b4e86d28d4808c75c155dc61482e5172dd7a441897c3
+Section: Tweaks
+Description: 长按 Google 翻译中的图片译文，即可直接保存至相册
+Author: waruhachi
+Icon: https://axs66.github.io/repo/icon/googletranslatedownload.png
+Name: 谷歌-软件增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/googletranslatedownload/js.json
+
 Package: com.Axs.gps
 Version: 0.3
 Architecture: iphoneos-arm64
@@ -2923,6 +2994,24 @@ Icon: https://axs66.github.io/repo/icon/horizontalsliders.png
 Name: HorizontalSliders控制中心水平滑动
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/horizontalsliders/js.json
 
+Package: com.Axs.infuseplus
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1156
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.infuseplus_2.3.1_iphoneos-arm64.deb
+Size: 422184
+MD5sum: 5d28e179213f24289f95ec842e5e987b
+SHA1: 8b3db9ccb782f57e22ad98571dcacdcc600a84a4
+SHA256: 317e4937986883dae340138a28aa845ab2462bbf82ef40da56aafe8ca6fd9a26
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://axs66.github.io/repo/icon/infuseplus.png
+Name: Infuse Plus
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/infuseplus/js.json
+
 Package: com.Axs.ios26
 Version: 0.4.3
 Architecture: iphoneos-arm64
@@ -2998,6 +3087,23 @@ Author: HW
 Icon: https://axs66.github.io/repo/icon/ioskaifa.png
 Name: iOS开发教程 vip
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ioskaifa/js.json
+
+Package: com.Axs.iossecuritysuite
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.iossecuritysuite_1.0.0_iphoneos-arm64.deb
+Size: 3184
+MD5sum: 3ae5ad3aa54aefcc630db6a1f9a8fb1f
+SHA1: e646f94d7b01639043c0e350b4bcce2b9d8db57a
+SHA256: d6735366d41c8900f4b94adc3843b320aecc59135c5a7c43b204803c190b34fa
+Section: 系统增强
+Description: 绕过 iOSSecuritySuite 越狱检测
+Author: waruhachi
+Icon: https://axs66.github.io/repo/icon/iossecuritysuite.png
+Name: iOSSecuritySuite屏蔽越狱检测
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/iossecuritysuite/js.json
 
 Package: com.Axs.jade
 Version: 1.0.5
@@ -3409,6 +3515,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 去除misaka匿名艾特次数限制
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.mitsuhaforever
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, com.Axs.xinamine
+Filename: ./debs/com.Axs.mitsuhaforever_1.4.3_iphoneos-arm64.deb
+Size: 165420
+MD5sum: a892b307bc609d139be37b52d4188cd4
+SHA1: b7026f3cba5f611ea1c32377cedfefdd96db2f3c
+SHA256: 7007a232d293cd0eec2e02df92acccc4ad148101eb077bdcc24df9fa7bf43226
+Section: Tweaks
+Description: 功能包括：Mitsuha Forever允许您显示波浪，栏，线，Siri或点样式作为Apple Music和Spotify等应用程序中的音频可视化。•带有频率而不是振幅的波形•自定义可视化外观设置•自定义可视化点和属性的数量•自定义动态，SIRI和自定义颜色样式•自定义颜色alpha•自定义定位•自定义可视化器速度和灵敏度。
+Author: Ryan Nair
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/mitsuhaforever.png
+Name: Mitsuha Forever
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/mitsuhaforever/js.json
+
 Package: com.Axs.moorebarx15
 Version: 1.0.0~beta1.0.5
 Architecture: iphoneos-arm64
@@ -3464,6 +3588,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 消息屏蔽助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/msgfilt/js.json
 Sponsor: admin@25mao.com
+
+Package: com.Axs.mshfplayer
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 876
+Depends: firmware (>= 15.0), com.ryannair05.audiosnapshotserver2
+Filename: ./debs/com.Axs.mshfplayer_0.0.1_iphoneos-arm64.deb
+Size: 456280
+MD5sum: 34b03cdc0b90afc1e0f5395df0dc1b77
+SHA1: e78859e341df2c47ff3b4616c9b17a1e2c7f504d
+SHA256: e1848fcb792dd8c163252b892c06e5109c305d12f349cd5184a6c6824c2e00c0
+Section: Tweaks
+Description: 桌面音频
+Author: lhh
+Icon: https://axs66.github.io/repo/icon/mshfplayer.png
+Name: MashPlayer桌面音频
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/mshfplayer/js.json
 
 Package: com.Axs.musiclizi
 Version: 1.1.8
