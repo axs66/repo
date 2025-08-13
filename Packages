@@ -3426,6 +3426,24 @@ Icon: https://axs66.github.io/repo/icon/lockscreen.png
 Name: 锁屏优化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockscreen/js.json
 
+Package: com.Axs.looky
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.Axs.looky_1.0.4_iphoneos-arm64.deb
+Size: 54728
+MD5sum: 52c2d8154b290e7716ccd237a01fa8a4
+SHA1: 09953ff70e3408823783e8337d157cb917da6c54
+SHA256: def9b2fe73e63742f9ec3ffddca4ac956d1f31bfa7f2e2bd41e39fb8f5a756c8
+Section: Tweaks
+Description: Effortless Elegant lock screen notification experience!很炫酷的锁屏通知。功能介绍：比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。
+Author: EllaSP
+Icon: https://axs66.github.io/repo/icon/looky.png
+Name: Looky 锁屏通知
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/looky/js.json
+
 Package: com.Axs.lynxtwo
 Version: 2.5.4
 Architecture: iphoneos-arm64
