@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "很炫酷的锁屏通知。功能介绍：<br>功能介绍：比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。",
+                    "markdown": "很炫酷的锁屏通知。<br>功能介绍：比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。",
                     "useRawFormat": true,
                 },      
                {
