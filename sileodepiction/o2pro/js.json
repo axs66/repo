@@ -98,7 +98,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "17.9.1",
+                    "text": "17.24-1",
                     "title": "插件版本"
                 },
                 {
@@ -108,7 +108,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 6 月 15 日",
+                    "text": "2025 年 8 月 5 日",
                     "title": "最后更新"
                 }
             ]
@@ -119,91 +119,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 17.20\n1.解决了一些已知问题。\n2.解决了提出问题的人。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 17.9.1\n1.修复了分屏卡顿的问题。\n2.修复音乐岛可能发热的问题。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 17.8.8\n1.解决了一些已知问题。\n2.解决了提出问题的人。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },     
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 17.8\n1.解决了一些已知问题。\n2.解决了提出问题的人。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },    
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 17.4\n1.解决了一些已知问题。\n2.解决了提出问题的人。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                }, 
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 17.3.3\n1.紧急修复分屏白屏 bug。\n2.修复安全模式及添加新用户。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                }, 
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 17.2\n1.导播台新增第三排。\n2.解决了提出问题的人。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 17.0.1\n1.阶段更新支持 键盘、跑马灯、不想努力了、宠物（不包含自定义）。\n2.解决了提出问题的人。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 16.6\n1.解决了一些已知问题。\n2.解决了提出问题的人。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 15.0\n1.鬼火全权限可用。\n2.新功能全权限可用（自行探索-导播台）。\n3.活动期间用户 赠送（直达-键盘）。\n4.解决了一些已知问题。\n5.解决了提出问题的人。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 13.3\n1.添加部分用户直达权限。\n2.修复 iOS14 闪退/安全模式问题。\n3.提升流畅度。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 13.2\n1.提升稳定性。\n2.修复部分用户来电视频不生效。\n3.新增内部独享功能:果奶悬浮键盘和果奶悬浮键盘自适应。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 13.0\n1.更新 悬浮键盘的新版本。\n2.侧栏完全对外放开 全权限可用。\n3. 已知来电视频免费用户可用。\n4. 即将开放另一功能免费给用户。\n5. （第3和4项功能，无需购买、无需Token）。",
+                    "markdown": "### 17.24-1\n1.解决了一些已知问题。\n2.解决了提出问题的人。",
                 },
                 {
                     "class": "DepictionSeparatorView"
