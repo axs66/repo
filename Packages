@@ -119,6 +119,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信小布丁
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wxxbd/js.json
 
+Package: co.dynastic.ios.lib.flora
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 492
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Filename: ./debs/co.dynastic.ios.lib.flora_1.0_iphoneos-arm64.deb
+Size: 91944
+MD5sum: 3773dc79e6e4b2e7580e5d7363449b39
+SHA1: 4843f89eed1160ed56585b0f45885e879ae6f81e
+SHA256: 73a9a6f833969da3b5c6d623207da71772582e24eaa02d1aaf98bede25fc3d20
+Section: Tweaks
+Description: Common Dynastic utilities.依赖！ShortLook插件依赖！
+Tag: role::developer
+Author: Dynastic
+Name: libflora插件依赖-Rootless
+Sponsor: Axs
+
 Package: codes.aurora.kayoko
 Version: 2.8
 Architecture: iphoneos-arm64
@@ -2994,6 +3012,22 @@ Icon: https://axs66.github.io/repo/icon/horizontalsliders.png
 Name: HorizontalSliders控制中心水平滑动
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/horizontalsliders/js.json
 
+Package: com.Axs.ibisPaintX
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.ibisPaintX_0.1-1_iphoneos-arm64.deb
+Size: 192180
+MD5sum: a5162050f9c2a8ddb377b3ec047c2d7a
+SHA1: 607f31750a98ec4d2d2c2bf5a42689466823f8af
+SHA256: f74539789d0b3325d501aabb4ee095c0abffce561791fc82642ee2c19c1cd172
+Section: 破解插件
+Description: 爱笔思画解锁会员
+Author: iosrxwy
+Icon: https://axs66.github.io/repo/icon/ibisPaintX.png
+Name: 爱笔思画X 解锁VIP
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ibisPaintX/js.json
+
 Package: com.Axs.infuseplus
 Version: 2.3.1
 Architecture: iphoneos-arm64
@@ -4329,6 +4363,23 @@ Author: shepgoba
 Icon: https://axs66.github.io/repo/icon/settingswidgetss.png
 Name: SettingsWidgets设置小部件
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.shortlook
+Version: 1.0.24
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: mobilesubstrate, firmware (>= 16.0), co.dynastic.ios.lib.flora, oldabi
+Filename: ./debs/com.Axs.shortlook_1.0.24_iphoneos-arm64.deb
+Size: 1281824
+MD5sum: b7d748dc80c4943a189c3b906faa2fa1
+SHA1: dd963a6e9fd4024c7789f588486b59def1b31a9f
+SHA256: 271ac0a22286995fdf74ff40a363f0b53ec349c03fe7315cfd2c629ab334763c
+Section: Tweaks
+Description: ShortLook将全屏显示您的通知。当您收到通知时，ShortLook会显示在锁定的iPhone上，它采用了漂亮的全屏设计，可以远距离阅读。注意：需要安装Legacy arm64e Support兼容层，仅支持iOS 16无根越狱的一部分App。
+Author: Dynastic <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/shortlook.png
+Name: ShortLook 全屏通知
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortlook/js.json
 
 Package: com.Axs.showmytouches
 Version: 1.2.1
