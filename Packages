@@ -2197,44 +2197,6 @@ Name: DockX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dockx/js.json
 
 Package: com.Axs.douyinhelper
-Version: 1.1-7
-Architecture: iphoneos-arm64
-Maintainer: XUUᶻ
-Installed-Size: 1176
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.Axs.douyinhelper_1.1-7_iphoneos-arm64.deb
-Size: 224520
-MD5sum: b4baa14675f226edf403f4f71014835d
-SHA1: 5472842bd7a6743c60f278d8117975dd06dee801
-SHA256: 0f0de3435d284af6abd97a99533552c64c0619d81ffa4187a86a710f742bfc67
-Section: Tweaks
-Priority: optional
-Description: 双指长按或设置页面调出
-Author: XUUᶻ
-Icon: https://axs66.github.io/repo/icon/dy.png
-Name: 抖音助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
-
-Package: com.Axs.douyinhelper
-Version: 1.2-1
-Architecture: iphoneos-arm64
-Maintainer: XUUᶻ
-Installed-Size: 1192
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.Axs.douyinhelper_1.2-1_iphoneos-arm64.deb
-Size: 236580
-MD5sum: ab9e0cdfafaa841ad3b7148cd438f7b2
-SHA1: f79764b16e0a7b9406911fcbcbf71c5d3c4e2faf
-SHA256: dacc2392cb6f7fa216d5799e00913433ba4fe4497d72ea5b880d4f1c60e0073a
-Section: Tweaks
-Priority: optional
-Description: 双指长按或设置页面调出
-Author: XUUᶻ
-Icon: https://axs66.github.io/repo/icon/dy.png
-Name: 抖音助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak.json
-
-Package: com.Axs.douyinhelper
 Version: 1.2-2
 Architecture: iphoneos-arm64
 Maintainer: XUUᶻ
@@ -2877,27 +2839,6 @@ Description: 一款模仿iOS26样式的控制中心插件，安装注销生效�
 Author: therealhoodboy
 Icon: https://axs66.github.io/repo/icon/visionos.png
 Name: iOS26控制中心
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/ios26/js.json
-
-Package: com.Axs.ios26
-Version: 0.4.9.6b
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 220
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
-Conflicts: com.dvntm.cc18
-Provides: com.cureux.cc26
-Filename: ./debs/com.Axs.ios26_0.4.9.6b_iphoneos-arm64.deb
-Size: 20036
-MD5sum: 97cad0764e2f7f0525021db484378702
-SHA1: bfc44c45a1e6894580ccaba4596b5c8e51dc451a
-SHA256: 655d8203b440d941ec03455ece2535e34ce8416ebd109bc5f44faf3cbc552dcc
-Section: Tweaks
-Description: 一款模仿iOS26样式的控制中心插件，安装注销生效。
-Author: therealhoodboy
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/visionos.png
-Name: ios26控制中心
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ios26/js.json
 
 Package: com.Axs.ios26
