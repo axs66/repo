@@ -9067,42 +9067,6 @@ Name: 主题盒子
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
 
 Package: com.tencent.themebox
-Version: 2.0.5-1
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 8704
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.tencent.themebox_2.0.5-1_iphoneos-arm64.deb
-Size: 3864412
-MD5sum: 5678e7ef4176d89416e7a8658d67004c
-SHA1: e634aacd44732327170a3526391c9fae739e9e9d
-SHA256: c715eacf1220132c67a5a8b8db12c4fca96f29b1c37e68f9d5fbb02f04083c6d
-Section: 微信插件
-Description: 微信主题盒子
-Author: WeChat
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 主题盒子
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
-
-Package: com.tencent.themebox
-Version: 2.0.6-1
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 9108
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.tencent.themebox_2.0.6-1_iphoneos-arm64.deb
-Size: 3979568
-MD5sum: c40aedd4c3c28160855c02fcd9c20964
-SHA1: c4b3bffb24c498daa0eba71a9c43752e4fa49bc0
-SHA256: d44771b24e61250348324e588f904954170ef5d85b9adad6443c5be1e2142edc
-Section: 微信插件
-Description: 微信主题盒子
-Author: WeChat
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 主题盒子
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
-
-Package: com.tencent.themebox
 Version: 2.0.7-1
 Architecture: iphoneos-arm64
 Maintainer: WeChat
@@ -9131,24 +9095,6 @@ Size: 4014912
 MD5sum: aba173e954df7b29d129fee663ca82d7
 SHA1: 60c570d84190052082c451b2db680b49c0363f09
 SHA256: 2fb3e7c66b65ae8a8b9610a431b2283c68c8c09f655b88d3236d50ae772a3490
-Section: 微信插件
-Description: 微信主题盒子
-Author: WeChat
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 主题盒子
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/themebox/js.json
-
-Package: com.tencent.themebox
-Version: 2.0.9-1
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 9516
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.tencent.themebox_2.0.9-1_iphoneos-arm64.deb
-Size: 4175792
-MD5sum: 55766c7cc0d61c3ee86b544ea937cb59
-SHA1: e04907b919aa3b59e4afa1b723ad5e285fd69638
-SHA256: bd1610cfd77a97634cd25cb0cdc94a07180db4c5f021e6fc15e87c0221d08089
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
