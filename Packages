@@ -3730,6 +3730,25 @@ Icon: https://axs66.github.io/repo/icon/n95.png
 Name: N95
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/n95/js.json
 
+Package: com.Axs.neowave16
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 8756
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.neowave16_1.0.0_iphoneos-arm64.deb
+Size: 528968
+MD5sum: fcfe12604b79a29eeb65844f58490d0d
+SHA1: 7b1f10b27ec0b2ee7feca0595b28708d5cc1b192
+SHA256: 8424c1dc68ac8f84a451aaf77e82090a113f49b50fa964c90d751e0d81ab73db
+Section: Tweaks
+Description: Siri唤醒显示色彩渐变边缘动画
+Author: SHTM
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/neowave16.png
+Name: Siri唤醒边缘动画
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/neowave16/js.json
+
 Package: com.Axs.net.hideserialnumber
 Version: 0.0.4
 Architecture: iphoneos-arm64
