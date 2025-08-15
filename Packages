@@ -5898,24 +5898,6 @@ Name: xxhook
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxhook/js.json
 
 Package: com.Axs.xxtouch
-Version: 5.2.1
-Architecture: iphoneos-arm64
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 55512
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.Axs.xxtouch_5.2.1_iphoneos-arm64.deb
-Size: 19323472
-MD5sum: b86fe6c2d3a1548cc06b950ce4cb68b2
-SHA1: 94f0767591cdf1b881193f987d5915033be467d3
-SHA256: bd9aaf3c2b072d6c7d2eabc4751e93abd31f3e5a0582e393a7fca9928f10f216
-Section: 系统增强
-Description: XXTouch is a powerful and flexible automation tool for iOS.
-Author: 82Flex <82flex@gmail.com>
-Icon: https://axs66.github.io/repo/icon/xxtouch.png
-Name: XXTouch Elite
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxtouch/js.json
-
-Package: com.Axs.xxtouch
 Version: 5.3.0
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -6248,40 +6230,6 @@ Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
 
 Package: com.HBWechatHelper.ailun
-Version: 1.8.7
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.8.7_iphoneos-arm64.deb
-Size: 11438132
-MD5sum: b8e6f30d75d17f18b0cc0c2dddf0b58f
-SHA1: 8888e47cf7bdd242c1581d3bf1005c02d664e4dd
-SHA256: 6559476dc51970b10b8d304c811836f1a34d5abb8e39891738527ca66f48cb39
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
-Version: 1.8.8
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.8.8_iphoneos-arm64.deb
-Size: 11590280
-MD5sum: 37f2f8d2b13029fd7841e1b2faa908bc
-SHA1: 8855327cf35042c7db64a4670608601b75507e2c
-SHA256: a462e420d9ef988caff51ecc2afee47c79fbb6f4c17d791e9bbf7283a1bf0835
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
 Version: 1.8.9
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -6291,40 +6239,6 @@ Size: 11569352
 MD5sum: 7329456a4bb5bdcdbe988e44cb8d2c57
 SHA1: a521004887168f08dee288dbf0278a983728ab16
 SHA256: e5afde4d5627fd5643f922e6b29f53c640786d52708e99ede21a764fe1580a82
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
-Version: 1.9.0
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.9.0_iphoneos-arm64.deb
-Size: 11862588
-MD5sum: 13ae164b9de2d57ef4854e4c44cb03e7
-SHA1: 66694ea7b47be19972e2a290022a25899c910518
-SHA256: 9c1be14691b74490667ae4d9bf3faec2b7e2efbe32c88faa48d7aa8514300df5
-Section: 微信插件
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
-
-Package: com.HBWechatHelper.ailun
-Version: 1.9.1
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun_1.9.1_iphoneos-arm64.deb
-Size: 11618564
-MD5sum: b032c18d62089b6e7a428e787a7d0299
-SHA1: 0ee3208a44cdea10eb2630012c07bec414c76d50
-SHA256: 37b5867dc810815e2cdeb76ecdd06288c4a511085232cb67a1e767c57a33198b
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai
@@ -9602,44 +9516,6 @@ Name: ColorfulWallpaperX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: xc.lzsxcl.o2pro
-Version: 17.12
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 30264
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.12_iphoneos-arm64.deb
-Size: 12408848
-MD5sum: 34df3332d7c09882c838e5148744f3fd
-SHA1: 8e326df1530f5aced2cc2b2d9f604c8ab2803194
-SHA256: a9d19cd3c04b0e6c75cf30bc9d706180edeafae8cf67c50cc86d311989fe8429
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.20
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 30360
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.20_iphoneos-arm64.deb
-Size: 12460948
-MD5sum: 0333fcbbf35f37ae9a02d34b4f2dddf1
-SHA1: f26ef321391dff88a303a2d993c20393cafd50fa
-SHA256: eed5bc1d2771d223276766d23a5221ebcb2c27de6770945157240c3d45b61c2e
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
 Version: 17.22
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
@@ -9707,25 +9583,6 @@ Size: 12452380
 MD5sum: f3ac6197d057c693c1141128d31f34ac
 SHA1: ffd96dbc8240ae26b4e4d0c513fc232895f63d35
 SHA256: 9f028c7ae853b7ba8458532845b8ddc74d1a0237396638619e791b9a6b0a46cb
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.8.8
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 13552
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.8.8_iphoneos-arm64.deb
-Size: 4767968
-MD5sum: 10ff4483fccec92dfcb9b08a9f17d682
-SHA1: 624ed02c033440ea1c2bb6acdcc835fa80623e77
-SHA256: c6bab09514f662ea43727856206ca083fa1c6ab14fed5cfac01e7bd3a9901dce
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
