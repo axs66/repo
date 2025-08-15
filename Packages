@@ -3737,10 +3737,10 @@ Maintainer: Axs
 Installed-Size: 8756
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.neowave16_1.0.0_iphoneos-arm64.deb
-Size: 528968
-MD5sum: fcfe12604b79a29eeb65844f58490d0d
-SHA1: 7b1f10b27ec0b2ee7feca0595b28708d5cc1b192
-SHA256: 8424c1dc68ac8f84a451aaf77e82090a113f49b50fa964c90d751e0d81ab73db
+Size: 495484
+MD5sum: 920268fc4b42212e2f526c1812ef90ac
+SHA1: 161239834b6d1ad70b61cea0cf40ada32cf4678c
+SHA256: fb834db106350d2c373798addc3f9c4097e480e7632d74cbbc22b6236f6bf623
 Section: Tweaks
 Description: Siri唤醒显示色彩渐变边缘动画
 Author: SHTM
