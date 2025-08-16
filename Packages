@@ -1883,6 +1883,24 @@ Icon: https://axs66.github.io/repo/icon/ccmusic.png
 Name: 控制中心音乐模块动画
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ccmusic/js.json
 
+Package: com.Axs.ccuiplayer
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.ccuiplayer_1.0.7_iphoneos-arm64.deb
+Size: 45960
+MD5sum: 193482315664286f5f6aba9fb66c6800
+SHA1: e606abf448a895413fe10825871dabef5807ea33
+SHA256: cab7707ba4b913315ad4557dabe41ae837619d27b87395c76263c9fec1d54f0d
+Section: 控制中心
+Description: 控制中心音频窗口背景插件
+Author: 🐶
+Icon: https://axs66.github.io/repo/icon/ccuiplayer.png
+Name: CCUIPlayer 控制中心音频背景
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ccuiplayer/js.json
+
 Package: com.Axs.centerswitcherlabels
 Version: 0.0.1
 Architecture: iphoneos-arm64
