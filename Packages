@@ -952,28 +952,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: SwitchPro微信开关美化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/SwitchPro/js.json
 
-Package: com.Axs.ThemePro
-Version: 3.8.7
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: MustangYM
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Provides: ThemePro
-Filename: ./debs/com.Axs.ThemePro_3.8.7_iphoneos-arm64.deb
-Size: 5834468
-MD5sum: 47f755b58e608f19bee888b7dd1bc58f
-SHA1: 3c8aa4cecccff0b81bf98d79d6475bd98848d101
-SHA256: a21b8b1a5f077f8bac15ece0dcf3b449061fc52f202de56e4bb0473fc0a2b84a
-Section: 微信插件
-Priority: optional
-Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
-Author: MustangYM
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: ThemePro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
-
 Package: com.Axs.WCEhance
 Version: 1.1-8
 Architecture: iphoneos-arm64
@@ -4758,18 +4736,21 @@ Name: ThemePro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
 Package: com.Axs.themepro
-Version: 4.0.8
+Version: 4.0.9
 Architecture: iphoneos-arm64
-Maintainer: Axs
+Essential: no
+Maintainer: MustangYM
 Depends: mobilesubstrate
 Conflicts: ThemePro
 Replaces: ThemePro
-Filename: ./debs/com.Axs.themepro_4.0.8_iphoneos-arm64.deb
-Size: 6275156
-MD5sum: 5915058347cd0287caf8ee0aaccf2efe
-SHA1: d1af2db820640801f9e5d1efc3aea0589bcf7752
-SHA256: 987a1370d62d8516abf909121e625c3715d752dba1434dfb33d118f269579263
+Provides: ThemePro
+Filename: ./debs/com.Axs.themepro_4.0.9_iphoneos-arm64.deb
+Size: 6219968
+MD5sum: 8a588e143025bd07479867566a6584da
+SHA1: f440b5925154807838f664621d5427ee8a04c6ef
+SHA256: 55adcf5cbae37fc80baaa581eeacbce73ad8130e91d508be63588d3446122493
 Section: 微信插件
+Priority: optional
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Author: MustangYM
 Icon: https://axs66.github.io/repo/icon/wechat.png
