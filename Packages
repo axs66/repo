@@ -1006,6 +1006,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
 
+Package: com.Axs.WCEhance
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCEhance_1.2-2_iphoneos-arm64.deb
+Size: 1729940
+MD5sum: 5fc9699b0c670db6cedcbcecfe64e8c1
+SHA1: 61f93d3cf3eba49f823b69f0c0c720b18eb7d1cc
+SHA256: b7cd111bc03176a45d8a2ca1a089ec12c6735849c24077fb47528ec6b4cafd33
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信增强
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
+
 Package: com.Axs.WCElite
 Version: 1.2-6
 Architecture: iphoneos-arm64
@@ -4757,6 +4775,28 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemePro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
+Package: com.Axs.themepro
+Version: 4.1.0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/com.Axs.themepro_4.1.0_iphoneos-arm64.deb
+Size: 6258304
+MD5sum: 821115a148ce236c65b31dac62dcd128
+SHA1: bc2bacf2b2470f159fb1f393f9e20eeb0983a2ce
+SHA256: d19e063579b9af47de7c8d555673f64a76f0d51327d699f82027873553d4a3af
+Section: 微信插件
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemePro-4.1.0-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
 Package: com.Axs.thermalpatcher
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
@@ -8334,6 +8374,25 @@ Size: 514784
 MD5sum: 0e07832e3d69035bae78908bb55b3ea5
 SHA1: ef0c4c3d079628406339790e40275eeb5a726dbb
 SHA256: c32618afc8a9301bd9c054d3acfeaba8566ac63c2c5882b84ce54c9ab96b10a8
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 酸果
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/sutuplus/js.json
+
+Package: com.sutuplus.releasefugu15
+Version: 5.9.9-4-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1780
+Depends: mobilesubstrate
+Filename: ./debs/com.sutuplus.releasefugu15_5.9.9-4-1_iphoneos-arm64.deb
+Size: 516072
+MD5sum: ddaf299c0a9d19941d69aa4481acd3c1
+SHA1: 8627e412555084b113715fe23f4e39eae2297c85
+SHA256: 726ddbaf12f4474112b9ce8ca089215e51a1900c31d7489b3b17b2989451073d
 Section: 微信插件
 Description: 微信主题插件
 Author: 苏兔
