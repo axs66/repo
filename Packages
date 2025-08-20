@@ -2322,6 +2322,26 @@ Name: DynamicPeninsula灵动半岛
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dynamicpeninsula/js.json
 Sponsor: Axs
 
+Package: com.Axs.dyyy
+Version: 2.2-8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2504
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.dyyy_2.2-8_iphoneos-arm64.deb
+Size: 495172
+MD5sum: 43d0f45fcf14a4a44ee48fadcb68e31d
+SHA1: c26ae91db1b96d9b85f708e9d1032a30ed2430da
+SHA256: 3b8c1d8fcf1c57e1eec8ab2d0de511422066db1c3b6e6be4f8c24a0eebc8792b
+Section: Tweaks
+Priority: optional
+Homepage: https://axs66.github.io/repo
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://axs66.github.io/repo/icon/dy.png
+Name: DYYY
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
+
 Package: com.Axs.eneko
 Version: 1.4.2
 Architecture: iphoneos-arm64
@@ -3278,6 +3298,24 @@ Size: 55128
 MD5sum: 279aa44b2bfff1d1bc5d5284c0b7f2e9
 SHA1: 48219ca96e8374447a6728225657f6c1f203bd48
 SHA256: e188eaaa1c08ec8cf2aa9e022121a9d61ca7a5b4f17d408e06f87955d89a5636
+Section: Tweaks
+Description: 很炫酷的锁屏通知。功能介绍：比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。
+Author: EllaSP
+Icon: https://axs66.github.io/repo/icon/looky.png
+Name: Looky 锁屏通知
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/looky/js.json
+
+Package: com.Axs.looky
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.Axs.looky_1.0.6_iphoneos-arm64.deb
+Size: 55880
+MD5sum: 397f295152d67f03f129bd90b63e9b28
+SHA1: 2824bca9fba449dbf18eaa05a7fa9e6f2f7d32c9
+SHA256: 258aac2157649063d2c83f76fe71a36e394f096f1c029508baab43a47eabf67d
 Section: Tweaks
 Description: 很炫酷的锁屏通知。功能介绍：比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。
 Author: EllaSP
@@ -4795,6 +4833,28 @@ Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成
 Author: MustangYM
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ThemePro-4.1.0-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
+
+Package: com.Axs.themepro
+Version: 4.1.4
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/com.Axs.themepro_4.1.4_iphoneos-arm64.deb
+Size: 6256604
+MD5sum: 3859aa84e0d3ac6e40933520a41932d3
+SHA1: 107ab62e0bf5752d6ea9c4287692bfc0cbd1957d
+SHA256: bfca37551c648e067de21f4bba8e761a26d5df3e90e436aa801d209e42cf29d1
+Section: 微信插件
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ThemePro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/themepro/js.json
 
 Package: com.Axs.thermalpatcher
