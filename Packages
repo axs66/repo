@@ -1804,6 +1804,26 @@ Icon: https://axs66.github.io/repo/icon/cc18.png
 Name: CC18(带设置项)
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/cc18/js.json
 
+Package: com.Axs.cc18s
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/com.Axs.cc18s_0.0.3_iphoneos-arm64.deb
+Size: 4640
+MD5sum: c5a37185706f6abf1005017f9be7ead3
+SHA1: e1194a0ec8e9241056173a19b4e9a252c0934676
+SHA256: 95eaef60225cfb5f5a9c368a12eabda7b8fe896b40c9ddceab1e3aa2e9c73966
+Section: 控制中心
+Description: iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://axs66.github.io/repo/icon/cc18s.png
+Name: 仿ios18控制中心圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/cc18s/js.json
+
 Package: com.Axs.ccbadgeclear
 Version: 1.2-6
 Architecture: iphoneos-arm64
