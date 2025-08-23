@@ -1197,6 +1197,24 @@ Icon: https://axs66.github.io/repo/icon/actionbar.png
 Name: ActionBar Reborn 键盘底部工具
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.adguard
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1756
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.adguard_0.0.1_iphoneos-arm64.deb
+Size: 347176
+MD5sum: d4efafc84cfbfd291858f171fa18eabf
+SHA1: 92fe53b691b94a1c938ff721c2dd024df5430bdb
+SHA256: d1e89460c1ac716edce732326d2daa7b4367f64cc40d386a1bd6b1aac987e570
+Section: 插件破解
+Description: AdGuard解锁会员，AdGuard 是 Safari 的超高效广告拦截器。它不仅可以删除烦人的 广告，还可以通过高级跟踪保护保护您的隐私。适用于 ios 的 AdGuard 是一款开源应用，它完全透明且安全。
+Author: 🅷🆆
+Icon: https://axs66.github.io/repo/icon/adguard.png
+Name: AdGuard 解锁会员
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/adguard/js.json
+
 Package: com.Axs.afhook
 Version: 3.5.0
 Architecture: iphoneos-arm64
