@@ -1204,12 +1204,12 @@ Maintainer: Axs
 Installed-Size: 1756
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.adguard_0.0.1_iphoneos-arm64.deb
-Size: 347176
-MD5sum: d4efafc84cfbfd291858f171fa18eabf
-SHA1: 92fe53b691b94a1c938ff721c2dd024df5430bdb
-SHA256: d1e89460c1ac716edce732326d2daa7b4367f64cc40d386a1bd6b1aac987e570
-Section: 插件破解
-Description: AdGuard解锁会员，AdGuard 是 Safari 的超高效广告拦截器。它不仅可以删除烦人的 广告，还可以通过高级跟踪保护保护您的隐私。适用于 ios 的 AdGuard 是一款开源应用，它完全透明且安全。
+Size: 347024
+MD5sum: ffd4da28343434db084e1f762bf7388b
+SHA1: d81e3ea39545e9f5a7625983698fc5fdc591d58b
+SHA256: 24b588374b58f46c484be881cc7f6882087b8cf7204b833dd681ef85e43b0eb3
+Section: 破解插件
+Description: AdGuard解锁会员。AdGuard 是 Safari 的超高效广告拦截器。它不仅可以删除烦人的 广告，还可以通过高级跟踪保护保护您的隐私。
 Author: 🅷🆆
 Icon: https://axs66.github.io/repo/icon/adguard.png
 Name: AdGuard 解锁会员
@@ -1441,6 +1441,24 @@ Author: Mineek
 Icon: https://axs66.github.io/repo/icon/appstore.png
 Name: AppStoreTroller
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/appstoretroller/js.json
+
+Package: com.Axs.aptv
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1448
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.aptv_0.0.1_iphoneos-arm64.deb
+Size: 291180
+MD5sum: 55cd028008221bf451ff9e0abd04971f
+SHA1: c5eca8257794d276ce0d85b7d6688e92671b1e51
+SHA256: 932ab34c3040a14b01a0740bec22ecc6a413e5b61fae90988cf5044d14c56eb7
+Section: 破解插件
+Description: APTV解锁永久SVIP
+Author: 🅷🆆
+Icon: https://axs66.github.io/repo/icon/aptv.png
+Name: APTV 解锁会员
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/aptv/js.json
 
 Package: com.Axs.aria
 Version: 0.9.8~RC
@@ -2603,6 +2621,24 @@ Author: korboy
 Icon: https://axs66.github.io/repo/icon/filza.png
 Name: Filza滑动多选
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/filzaswipeselect/js.json
+
+Package: com.Axs.fkjdcvip
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1708
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.fkjdcvip_0.0.1_iphoneos-arm64.deb
+Size: 342064
+MD5sum: 4f6aea71d8775fd3e79c401be19a7317
+SHA1: ccaf900467becc19cd16f6034b844f53f343c3c6
+SHA256: 0395f540348e4db5a642074c4c467151ee7258c2c20ecd921d647eae5ebac1b4
+Section: 破解插件
+Description: 疯狂背单词 解锁vip
+Author: 🅷🆆
+Icon: https://axs66.github.io/repo/icon/fkjdcvip.png
+Name: 疯狂背单词 解锁会员
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/fkjdcvip/js.json
 
 Package: com.Axs.flex
 Version: 1.0-3+debug
@@ -5672,6 +5708,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信URL扩展-Rootless
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
+
+Package: com.Axs.xczs
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1208
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.xczs_0.0.1_iphoneos-arm64.deb
+Size: 248824
+MD5sum: 38bb47087dc8a76648a8d5002b6defef
+SHA1: 838d510924868562e4eb256cee8ca6db9c66433b
+SHA256: d9ea674463eafd90587b5fb6a8b1a86305e3857aa5028cbab0bfb6695beb5277
+Section: 破解插件
+Description: 相册助手解锁VIP
+Author: 🅷🆆
+Icon: https://axs66.github.io/repo/icon/xczs.png
+Name: 相册助手 解锁会员
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/xczs/js.json
 
 Package: com.Axs.xinamine
 Version: 0.0.5
