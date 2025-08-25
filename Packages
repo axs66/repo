@@ -2567,6 +2567,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 自动发卡
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/faka/js.json
 
+Package: com.Axs.fake5ga
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.fake5ga_1.0.0_iphoneos-arm64.deb
+Size: 6304
+MD5sum: 2610a5e68ef0a3273ec20d60d7a0658a
+SHA1: 98acef488d14dba615d5e9df34f26041916fe770
+SHA256: 9794cc99c8193aff6b33c8a893779cbd38eed56809cbfa80df1574fe22253ba7
+Section: Tweaks
+Description: 假的5GA
+Author: SHTM
+Icon: https://axs66.github.io/repo/icon/fake5ga.png
+Name: 伪装5GA网络
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/fake5ga/js.json
+
 Package: com.Axs.fbo
 Version: 0.0.1
 Architecture: iphoneos-arm64
