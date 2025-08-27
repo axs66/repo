@@ -22,7 +22,7 @@
                 },
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "iOS设备的VNC服务器，允许远程访问和控制设备的屏幕。",
+                    "markdown": "iOS设备的VNC服务器，允许远程访问和控制设备的屏幕。<br><br>一、前提条件<br>1. 越狱设备支持 iOS 14 ~ 16 • 要用的是 Rootless 越狱（比如 Dopamine、Palera1n rootless 模式）。 <br> 2. 包管理器（Sileo、Zebra 等）• 类似 Cydia，可以用来安装第三方源里的 tweak。<br> 3. 电脑端 VNC 客户端• macOS / Windows / Linux 都有，比如 RealVNC、TightVNC、TigerVNC 等。<br> <br>二、使用 TrollVNC <br>1. 获取设备的 Wi-Fi IP：在 iPhone 设置 → Wi-Fi → 点击当前网络 → 记下 IPv4 地址（如 192.168.1.23）。<br> 2. 在电脑上打开 VNC 客户端 • 输入 iPhone 的 IP 地址。 • 默认端口一般是 5900（如果没改的话，就是 192.168.1.23:5900）。 <br> 3. 连接成功后，电脑上就能看到你的 iPhone 屏幕，并且可以用鼠标键盘操作。<br> <br> ⚠️ 注意事项<br> • 安全性：不要在公共 Wi-Fi 下随便开，因为 VNC 默认不加密，很容易被截取。<br> • 性能：VNC 的流畅度取决于 Wi-Fi 网络，别期待像 AirPlay 一样丝滑。<br>• 用途：常见于调试、展示操作，或者远程控制自己的 iOS 设备。",
                     "useRawFormat": true,
                 },
                {
