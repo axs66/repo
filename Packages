@@ -5096,6 +5096,24 @@ Icon: https://axs66.github.io/repo/icon/trollleds.png
 Name: TrollLEDs手电筒
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.trollvnc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.Axs.trollvnc_1.0_iphoneos-arm64.deb
+Size: 343288
+MD5sum: 9d3f7e627392be94fddb1ef45bd39454
+SHA1: 74b63c35691e37bf168540a7349b2d9cab82c55e
+SHA256: 0deb896ac0dc0e7ac9f96355dd85dc5fd352da11204ea61071be2bf2f5e6a79a
+Section: 系统增强
+Description: iOS设备的VNC服务器，允许远程访问和控制设备的屏幕。
+Author: 82Flex
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/trollvnc.png
+Name: TrollVNC
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/trollvnc/js.json
+
 Package: com.Axs.turdusmerula
 Version: 1.0.2
 Architecture: iphoneos-arm64
