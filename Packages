@@ -6257,6 +6257,24 @@ Icon: https://axs66.github.io/repo/icon/MilkyWay.png
 Name: MilkyWay4-iOS16Fix
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.axs.contactsfs
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: axs
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.contactsfs_1.0.1_iphoneos-arm64.deb
+Size: 32576
+MD5sum: 95ce870401a4bbd9021dabdcb060eed0
+SHA1: 5a901312c90f7f07ba56ebed27c59fee8daa7306
+SHA256: 8c409d07235c35dc022d399ca660ca2ed2232ddbe1a86883681609cf12a05cb1
+Section: Tweaks
+Description: 通话来电全屏显示联系人预设头像。
+Author: A
+Icon: https://axs66.github.io/repo/icon/contactsfs.png
+Name: ContactsFS 来电全屏显示头像
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/contactsfs/js.json
+
 Package: com.axs.dytweak
 Version: 3.0.5
 Architecture: iphoneos-arm64
