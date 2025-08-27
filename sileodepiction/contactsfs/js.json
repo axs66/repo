@@ -1,0 +1,99 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://axs66.github.io/repo/images/Axslogo.png",
+    "tintColor": "#00BFFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text":"✈分享频道",
+                    "action":"https://t.me/wxfx8",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                }, 
+               {
+                    "text":"✈交流群组",
+                    "action":"https://t.me/oncar2",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "通话来电全屏显示联系人预设头像。",
+                    "useRawFormat": true,
+                },      
+               {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{150, 346}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/repo/sileodepiction/yuanjiao/Screenshot_01.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "A先生",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "VCR66T",
+                    "title": "微信"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 8 月 27 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                        "markdown": "1.初始发布。",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ]
+}
