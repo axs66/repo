@@ -5924,6 +5924,23 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.5
+Architecture: iphoneos-arm
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.Axs.yuanjiao_1.8.5_iphoneos-arm.deb
+Size: 496900
+MD5sum: 81882051fba4f48a653b117cb895ff2c
+SHA1: 410351e58e1caf23a1d7946fc6abfc00756b5742
+SHA256: 7acd0f686c1f4f34fe27faffc4a21f25a7f9a49bbd87d973db2cefa2caa413a5
+Section: 微信插件
+Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+
+Package: com.Axs.yuanjiao
+Version: 1.8.5
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
@@ -5937,23 +5954,6 @@ Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天�
 Tag: role::tweak, section::ios
 Author: A
 Depiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 全局圆角
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
-
-Package: com.Axs.yuanjiao
-Version: 1.8.5
-Architecture: iphoneos-arm
-Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.Axs.yuanjiao_1.8.5_iphoneos-arm.deb
-Size: 496900
-MD5sum: 81882051fba4f48a653b117cb895ff2c
-SHA1: 410351e58e1caf23a1d7946fc6abfc00756b5742
-SHA256: 7acd0f686c1f4f34fe27faffc4a21f25a7f9a49bbd87d973db2cefa2caa413a5
-Section: 微信插件
-Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
-Author: A
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 全局圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
@@ -5977,14 +5977,14 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.6
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
-Size: 635660
-MD5sum: 3ca83a0106cb2e3761046b3f652c71fa
-SHA1: c09bd601c8486f04026bf73d009dd17f3c18ffe4
-SHA256: 100ff08023940a5cb361a91ffcfd5dee37a4cfafb26ca6e0932e6f857a423d67
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64.deb
+Size: 635692
+MD5sum: 55484d35e0fc1c4c87324657bb95803c
+SHA1: 0754aaa5d17584a7715faa7b466bc323e78b6279
+SHA256: 6c3e54b562c6cbd98a7ac5be3c604fe526c687fbdb92c55991b12cd646ca4f17
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -5994,14 +5994,14 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64.deb
-Size: 635692
-MD5sum: 55484d35e0fc1c4c87324657bb95803c
-SHA1: 0754aaa5d17584a7715faa7b466bc323e78b6279
-SHA256: 6c3e54b562c6cbd98a7ac5be3c604fe526c687fbdb92c55991b12cd646ca4f17
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
+Size: 635660
+MD5sum: 3ca83a0106cb2e3761046b3f652c71fa
+SHA1: c09bd601c8486f04026bf73d009dd17f3c18ffe4
+SHA256: 100ff08023940a5cb361a91ffcfd5dee37a4cfafb26ca6e0932e6f857a423d67
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -6517,24 +6517,6 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/tie-gesture/js.json
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
-Size: 623244
-MD5sum: d639a2ed4bc02f3f0dea0475cf6289f6
-SHA1: 0d4cbbcaa83a7113ad2764e285462a6db32b0f75
-SHA256: 76e47ff936062bb565916ad9601614f9c180b6b949172266fd073bf6c8dce21d
-Section: Tweaks
-Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
-Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
-Name: DesktopLyrics
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
-
-Package: com.brend0n.qqmusicdesktoplyrics
-Version: 0.3.9~b1
-Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 2748
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
@@ -6550,6 +6532,24 @@ Depiction: https://axs66.github.io/repo
 Icon: https://axs66.github.io/repo/icon/qqmusicdesktoplyrics.png
 Name: DesktopLyrics 桌面歌词
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/qqmusicdesktoplyrics/js.json
+
+Package: com.brend0n.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
+Size: 623244
+MD5sum: d639a2ed4bc02f3f0dea0475cf6289f6
+SHA1: 0d4cbbcaa83a7113ad2764e285462a6db32b0f75
+SHA256: 76e47ff936062bb565916ad9601614f9c180b6b949172266fd073bf6c8dce21d
+Section: Tweaks
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
+Name: DesktopLyrics
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
 
 Package: com.creaturecoding.shuffle
 Version: 1.6.2
@@ -7212,6 +7212,24 @@ SHA1: a29e11c0804b8ae2531fc4e91a285f9000206171
 SHA256: 6208a91af9f34acad569245c6231b431c2e6d99deeae743760f25f0c1d4e9c04
 Section: 微信插件
 Description: WCPulse，特色：分组功能
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCPulse
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
+
+Package: com.huami.WCPulse
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 988
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.2-5_iphoneos-arm64.deb
+Size: 192012
+MD5sum: 47dfbff382e059d0ee2647cbcf207a97
+SHA1: 8b4529d28641c7d071ef1dcb6bd8121dac9ef8d9
+SHA256: 6ae81b3c1ae343bd8247c3d318e62834a17adfcac16d919d34d54790de369aeb
+Section: 微信插件
+Description: WCPulse
 Author: huami
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCPulse
