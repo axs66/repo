@@ -5202,6 +5202,24 @@ Icon: https://axs66.github.io/repo/icon/trollvnc.png
 Name: TrollVNC 远程控制
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/trollvnc/js.json
 
+Package: com.Axs.trollvnc
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5264
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.Axs.trollvnc_1.6_iphoneos-arm64.deb
+Size: 1437796
+MD5sum: 49e0c80f0533e74591a904be1d088cfc
+SHA1: c02efd8b2d9d1bea26c6fb11181bb247532b4cf3
+SHA256: 33190d6d0afc05ed7993a569d503fd9ed1e94c44ef35d1239369681b1a6fb7c7
+Section: Tweaks
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://axs66.github.io/repo/icon/trollvnc.png
+Name: TrollVNC 远程控制
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/trollvnc/js.json
+
 Package: com.Axs.turdusmerula
 Version: 1.0.2
 Architecture: iphoneos-arm64
