@@ -7668,20 +7668,20 @@ Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
 Package: com.mtac.vitreux
 Version: 1.1
 Architecture: iphoneos-arm64
-Maintainer: MTAC
+Maintainer: Axs
 Installed-Size: 6160
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
 Filename: ./debs/com.mtac.vitreux_1.1_iphoneos-arm64.deb
-Size: 129244
-MD5sum: ab3d2dd5e8d4c6943186fd2495596671
-SHA1: 9e8e1852921a23a01aeebc43d39a46d1bcc79bc0
-SHA256: 803669e095c5e7e5eb6c19336668aa5605b4ec72aee560a870f515b231da83b7
+Size: 129496
+MD5sum: 8697fa44c1d6c5fa0a8894da7c2ccfae
+SHA1: a45eb97282cc5424bb402eaac63c78b87ca35355
+SHA256: 4a2f76ce6940c5bbbac0cb85c8071618cd28639973a4e41627d87591e0417986
 Section: Tweaks
 Description: 1.主打 iOS 26 系统液态玻璃设计。2.让旧系统体验液态玻璃风格。3.目前版本，效果主要体现在锁屏、主屏、控制中心、通知、App 资源库、小组件等。4.自定义选项丰富。可以自定义模糊设置等。5.目前仅仅支持 SpringBoard 范围。6.支持 iOS 15.x - 16.x 系统。
 Author: MTAC
-Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
+Icon: https://axs66.github.io/repo/icon/vitreux.png
 Name: Vitreux 液态玻璃
-Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/vitreux/js.json
 
 Package: com.nahtedetihw.airpodscompanion
 Version: 1.5
