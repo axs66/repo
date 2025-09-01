@@ -4672,6 +4672,23 @@ Icon: https://axs66.github.io/repo/icon/stella.png
 Name: Stella
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/stella/js.json
 
+Package: com.Axs.stheno
+Version: 12.0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debs/com.Axs.stheno_12.0_iphoneos-arm64.deb
+Size: 325820
+MD5sum: 00df01c82166c68d5dc3be6f38f3f72b
+SHA1: 8075fa3d27a4e65c42f8cca7de52c8a4d3a8cf10
+SHA256: c5faffcecdd4dda4f3920b2f5ac0ee28f9b1b1d43769c03aaf177eab9c8426d9
+Section: 分屏插件
+Description: Medusa!分屏插件。无设置项，安装即生效。这授权版本，仅支持抖音和微信分屏。
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/stheno.png
+Name: Stheno 分屏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/stheno/js.json
+
 Package: com.Axs.storeswitcher2
 Version: 1.0.4
 Architecture: iphoneos-arm64
