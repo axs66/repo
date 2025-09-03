@@ -5238,6 +5238,24 @@ Icon: https://axs66.github.io/repo/icon/trollvnc.png
 Name: TrollVNC 远程控制
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/trollvnc/js.json
 
+Package: com.Axs.trollvnc
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5280
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.Axs.trollvnc_1.9_iphoneos-arm64.deb
+Size: 1439592
+MD5sum: 94ed48dcc02cbaa9db0466b19341b3f5
+SHA1: bba392ac685a94c772dd4c83cd07ebd84727ba4e
+SHA256: 1b731aa6cfbbca8ab4a98a59806e2433811011df777c172c7771f67c63792ae2
+Section: Tweaks
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://axs66.github.io/repo/icon/trollvnc.png
+Name: TrollVNC 远程控制
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/trollvnc/js.json
+
 Package: com.Axs.turdusmerula
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -7411,6 +7429,24 @@ Author: huami
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCPulse
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
+
+Package: com.huami.WCPush2Chat
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPush2Chat_1.0-2_iphoneos-arm64.deb
+Size: 35636
+MD5sum: a4ceaf63e272ace8681c8520dc1ad1d8
+SHA1: b6ecb9b6b5a45983f8b0b26b2e32bf99935e50e4
+SHA256: de0eb80529b35d51b2a65d0d11809bb8ffd247e2e15f238650ca71637ca687db
+Section: 微信插件
+Description: WCPush2Chat
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCPush2Chat 消息直达
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPush2Chat/js.json
 
 Package: com.huami.wcnicknameavatarstyle
 Version: 2.1
