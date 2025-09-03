@@ -1536,6 +1536,24 @@ Icon: https://axs66.github.io/repo/icon/arise.png
 Name: Arise
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/arise/js.json
 
+Package: com.Axs.arizona
+Version: 0.9.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 796
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.Axs.arizona_0.9.2_iphoneos-arm64.deb
+Size: 427824
+MD5sum: 8c2d860643b2c628944c3189a29cedea
+SHA1: 29749400d43fa89097c0b75c05cce1a8cf717c9a
+SHA256: 24f2b522b13ec48b2d29d7185faad49f14431367a9c23f48a3f1d373962735b1
+Section: 插件
+Description: 自定义锁屏时间等位置。
+Author: Luki
+Icon: https://axs66.github.io/repo/icon/arizona.png
+Name: Arizona 锁屏美化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/arizona/js.json
+
 Package: com.Axs.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64
