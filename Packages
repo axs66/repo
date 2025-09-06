@@ -2868,17 +2868,17 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Package: com.Axs.floaty
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: EllaSP
+Maintainer: Axs
 Installed-Size: 508
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debs/com.Axs.floaty_1.0_iphoneos-arm64.deb
-Size: 59036
-MD5sum: 1621fe2a235380df24eb7200b77b3985
-SHA1: ffd0f5cb54a67f321bf5298036f1a4838ebef04b
-SHA256: cb708886f03112c0a016d7f56c00e29d185ca8cc039414512bc8a0d2e8683ed8
-Section: Tweaks
+Size: 59868
+MD5sum: c8ac4421e891e7679fdf0702b81a3676
+SHA1: 4b4814e7a5b4bb89cc6fc01fc3c0127b630e30f9
+SHA256: bbb98388b00693c92027b2f488ad21f140a3dfdf358d74d485b5df8b7b10c11d
+Section: 系统增强
 Description: Floaty：您的横幅，重新构想。这是一个完整的通知中心，围绕直观的手势和深层定制。
-Author: EllaSP
+Author: Ella89SP
 Icon: https://axs66.github.io/repo/icon/floaty.png
 Name: Floaty 横幅通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/floaty/js.json
