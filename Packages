@@ -405,6 +405,23 @@ Icon: https://axs66.github.io/repo/icon/safari.png
 Name: SafariX
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
 
+Package: com.0xkuj.safarix
+Version: 1.9.9.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64.deb
+Size: 315460
+MD5sum: 4253a28d204661919b92faed4632922c
+SHA1: 6a6c23c0306885bdd38d0a8a5dd3776e2f32638b
+SHA256: 71805dcdeae07951cbeabcaf6f0072ca1e970c920158f8f854df0e8208ad0565
+Section: 系统增强
+Description: 此插件为iPhone自带浏览器增强插件，功能非常的多，强烈建议用safari的用户下载！
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/safari.png
+Name: SafariX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-5
 Architecture: iphoneos-arm64
@@ -1353,6 +1370,24 @@ Depiction: https://axs66.github.io/repo
 Icon: https://axs66.github.io/repo/icon/alwaysdark.png
 Name: AlwaysDark
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/alwaysdark/js.json
+
+Package: com.Axs.amplify
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 3604
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.amplify_1.0-1_iphoneos-arm64.deb
+Size: 743524
+MD5sum: a695b5ba5f1a79ada37fce3e9e7ba00a
+SHA1: 8c4706567a889194b1e3e94f2883a7b93e278e56
+SHA256: dd8d7218188cad21debf8bb43ff5fce8e2f88437212037e5f7271a32188037a7
+Section: 微信插件
+Description: AmpLify - 聚焦美化 焕新体验
+Author: SHTM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: AmpLify
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/amplify/js.json
 
 Package: com.Axs.analytics
 Version: 0.0.4
@@ -2829,6 +2864,24 @@ Author: Netskao
 Icon: https://axs66.github.io/repo/icon/FLEXList.png
 Name: FLEXList 调试工具
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.Axs.floaty
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.Axs.floaty_1.0_iphoneos-arm64.deb
+Size: 59036
+MD5sum: 1621fe2a235380df24eb7200b77b3985
+SHA1: ffd0f5cb54a67f321bf5298036f1a4838ebef04b
+SHA256: cb708886f03112c0a016d7f56c00e29d185ca8cc039414512bc8a0d2e8683ed8
+Section: Tweaks
+Description: Floaty：您的横幅，重新构想。这是一个完整的通知中心，围绕直观的手势和深层定制。
+Author: EllaSP
+Icon: https://axs66.github.io/repo/icon/floaty.png
+Name: Floaty 横幅通知
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/floaty/js.json
 
 Package: com.Axs.freepip
 Version: 0.0.5
