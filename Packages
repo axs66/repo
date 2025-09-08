@@ -3113,6 +3113,24 @@ Icon: https://axs66.github.io/repo/icon/infuseplus.png
 Name: Infuse Plus
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/infuseplus/js.json
 
+Package: com.Axs.injectipa
+Version: 1.5-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 948
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.Axs.injectipa_1.5-1_iphoneos-arm64.deb
+Size: 310768
+MD5sum: 99d52aecf27065c5d87e1a6b6af99d5e
+SHA1: 9f7b46f294d7c918254001fd26313fe45847a9f4
+SHA256: d060ebb6bdf1035ff1b935f49d29db190d54ef6bf121f95c90efdc07350f0fae
+Section: 系统增强
+Description: InjectIPA Tool。<br>1.添加资源至根目录支持多个。<br>2.注入WeChat时支持-t开启WeChat插件加载库, 使用后可在微信设置页面（禁用插件中查看）动态禁用插件。<br>3.修改标识符功能优化支持同时修改组件中对应标识。<br>4.支持高级注入, 例如注入HBB无后台推送。例如-j "/path/libMMHBBackPush_8.1.dylib:ProtobufLite.framework"。<br><br>需要使用双引号包裹, 冒号分割 前部分为需要注入的dylib路径 后部分为需要注入进的框架名称。<br>对于需要多个-d -j参数的话 直接写多个-d -j参数即可。
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/injectipa.png
+Name: injectipa
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/injectipa/js.json
+
 Package: com.Axs.ios26
 Version: 0.4.3
 Architecture: iphoneos-arm64
