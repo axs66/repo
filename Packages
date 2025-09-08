@@ -2189,6 +2189,24 @@ Icon: https://axs66.github.io/repo/icon/classickeyboardxs.png
 Name: ClassicKeyboardXS 键盘高度调整
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/classickeyboardxs/js.json
 
+Package: com.Axs.classickeyboardxs
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.classickeyboardxs_1.1-9_iphoneos-arm64.deb
+Size: 275932
+MD5sum: 171ae972af027d45256a2d9f28d5d7f3
+SHA1: 897c7fe6800d309b0d713d6d132cc638c70d348e
+SHA256: 7329f44595532b0184703ebc7ab11c79e7225083c76b2d9f91a3940d8a487691
+Section: 系统增强
+Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.自定义X键盘底部的高度，地球底部的高度等。可以解决1.3.7版Svp分屏开启后，地球或者语音按不动的问题。
+Author: Netskao
+Icon: https://axs66.github.io/repo/icon/classickeyboardxs.png
+Name: ClassicKeyboardXS 键盘高度调整
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/classickeyboardxs/js.json
+
 Package: com.Axs.copylog
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -3120,12 +3138,18 @@ Maintainer: Axs
 Installed-Size: 948
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.Axs.injectipa_1.5-1_iphoneos-arm64.deb
-Size: 310768
-MD5sum: 99d52aecf27065c5d87e1a6b6af99d5e
-SHA1: 9f7b46f294d7c918254001fd26313fe45847a9f4
-SHA256: d060ebb6bdf1035ff1b935f49d29db190d54ef6bf121f95c90efdc07350f0fae
+Size: 310808
+MD5sum: d558e1d44de6c28650686460062f1a8c
+SHA1: 456555bd39737e538dfd6c1e648b8afd922aa2e7
+SHA256: 074072fda9828cdfbb4fc701ecfa9755a9d700b4138f62c0b71e564bd4262809
 Section: 系统增强
-Description: InjectIPA Tool。<br>1.添加资源至根目录支持多个。<br>2.注入WeChat时支持-t开启WeChat插件加载库, 使用后可在微信设置页面（禁用插件中查看）动态禁用插件。<br>3.修改标识符功能优化支持同时修改组件中对应标识。<br>4.支持高级注入, 例如注入HBB无后台推送。例如-j "/path/libMMHBBackPush_8.1.dylib:ProtobufLite.framework"。<br><br>需要使用双引号包裹, 冒号分割 前部分为需要注入的dylib路径 后部分为需要注入进的框架名称。<br>对于需要多个-d -j参数的话 直接写多个-d -j参数即可。
+Description: InjectIPA Tool。
+ * 1.添加资源至根目录支持多个。
+ * 2.注入WeChat时支持-t开启WeChat插件加载库, 使用后可在微信设置页面（禁用插件中查看）动态禁用插件。
+ * 3.修改标识符功能优化支持同时修改组件中对应标识。
+ * 4.支持高级注入, 例如注入HBB无后台推送。例如-j "/path/libMMHBBackPush_8.1.dylib:ProtobufLite.framework"。
+ * 5.需要使用双引号包裹, 冒号分割 前部分为需要注入的dylib路径 后部分为需要注入进的框架名称。
+ * 6.对于需要多个-d -j参数的话 直接写多个-d -j参数即可。
 Author: Netskao
 Icon: https://axs66.github.io/repo/icon/injectipa.png
 Name: injectipa
