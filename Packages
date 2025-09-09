@@ -2901,6 +2901,24 @@ Icon: https://axs66.github.io/repo/icon/floaty.png
 Name: Floaty 横幅通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/floaty/js.json
 
+Package: com.Axs.floaty
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.Axs.floaty_1.2_iphoneos-arm64.deb
+Size: 59780
+MD5sum: 7c86693c100286eb133dc176d329fa16
+SHA1: c1a5c3a5fe1289f627f187aab1f8a8b22348b5f0
+SHA256: b305addb51844ebee1b703b8c2e79b99723eb7a1d933a584c1e0c82466fa9762
+Section: 系统增强
+Description: Floaty：您的横幅，重新构想。这是一个完整的通知中心，围绕直观的手势和深层定制。
+Author: EllaSP
+Icon: https://axs66.github.io/repo/icon/floaty.png
+Name: Floaty 横幅通知
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/floaty/js.json
+
 Package: com.Axs.freepip
 Version: 0.0.5
 Architecture: iphoneos-arm64
@@ -3621,6 +3639,27 @@ SHA1: 2824bca9fba449dbf18eaa05a7fa9e6f2f7d32c9
 SHA256: 258aac2157649063d2c83f76fe71a36e394f096f1c029508baab43a47eabf67d
 Section: Tweaks
 Description: 很炫酷的锁屏通知。功能介绍：比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。
+Author: EllaSP
+Icon: https://axs66.github.io/repo/icon/looky.png
+Name: Looky 锁屏通知
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/looky/js.json
+
+Package: com.Axs.looky
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.Axs.looky_1.2_iphoneos-arm64.deb
+Size: 56288
+MD5sum: 2563ce3435a87d22d61537e245dd9394
+SHA1: 96e536c4d573241fa718c8ea450ffe48704a029c
+SHA256: 460c9b786166801132c1c38fe6ba6e7af474c6df82ab9961cb5aa5afdd6c37ac
+Section: 系统增强
+Description: Effortless Elegant lock screen notification experience!
+ * 很炫酷的锁屏通知。
+ * 功能介绍：
+ * 比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。
 Author: EllaSP
 Icon: https://axs66.github.io/repo/icon/looky.png
 Name: Looky 锁屏通知
