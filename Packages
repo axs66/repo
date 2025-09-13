@@ -3736,6 +3736,23 @@ Icon: https://axs66.github.io/repo/icon/qqyy.png
 Name: MiniLsp锁屏迷你播放器
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/minilsp/js.json
 
+Package: com.Axs.minotaur
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/com.Axs.minotaur_1.2.2_iphoneos-arm64.deb
+Size: 147100
+MD5sum: 1cbc3db3ec80d27b8ecb66d72784bac1
+SHA1: e96a88dd61b1a22b808ffb8dc52b9d96e02ac5c2
+SHA256: e07d038037b5a2bc672eb5b750d84948814c6ca33622390cb3886d26898ab2c5
+Section: Tweaks
+Description: 设备状态栏中的通知样式风格。
+Author: Muirey03
+Icon: https://axs66.github.io/repo/icon/minotaur.png
+Name: Minotaur 横幅通知
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/minotaur/js.json
+
 Package: com.Axs.misaka
 Version: 0.1-1+debug
 Architecture: iphoneos-arm64
