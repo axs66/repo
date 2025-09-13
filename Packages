@@ -4534,6 +4534,25 @@ Icon: https://axs66.github.io/repo/icon/settingswidgetss.png
 Name: SettingsWidgets设置小部件
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.shijima
+Version: 1.3.2-drmfree
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 4692
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Recommends: libarchive13 (>= 3.7.2), com.opa334.altlist (>= 1.0.10)
+Filename: ./debs/com.Axs.shijima_1.3.2-drmfree_iphoneos-arm64.deb
+Size: 954360
+MD5sum: f362286ce918fa76d4adbecd47bedcca
+SHA1: 2be5d1643dea851e749301429f2c6dfee2ee474c
+SHA256: 83275fd9cb69ae1cff716e5a6bc70c32bc96c35bddebfdc599b5104de6aa716f
+Section: Tweaks
+Description: 手机宠物，让你的苹果手机多一些互动。
+Author: pixelomer
+Icon: https://axs66.github.io/repo/icon/shijima.png
+Name: Shijima 手机宠物
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/shijima/js.json
+
 Package: com.Axs.shortlook
 Version: 1.0.24
 Architecture: iphoneos-arm64
