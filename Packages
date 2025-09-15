@@ -8043,10 +8043,10 @@ Maintainer: MTAC
 Installed-Size: 6204
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
 Filename: ./debs/com.mtac.vitreux_1.2_iphoneos-arm64.deb
-Size: 107324
-MD5sum: 31ca2ccd475cf55d50ca01f0fa50604d
-SHA1: 984ae54caad91686e6522d44f043f9268893c3d7
-SHA256: 3e97052425c36fc5bb7e0bf22d6ba60accba7f2a7f274aff340a37959e63e3e4
+Size: 107680
+MD5sum: 93d26bb9e71301da7567c4a7c555c08f
+SHA1: 9f548364ce1f4b6c9900ca4a47acf5e9b7d88b49
+SHA256: df31a29b576f74710876723438af2894e4ab95dafb90daf5a7a18eb30f7d335f
 Section: Tweaks
 Description:
  * 1.主打 iOS 26 系统液态玻璃设计。
