@@ -8067,10 +8067,10 @@ Maintainer: Axs
 Installed-Size: 7028
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
 Filename: ./debs/com.mtac.vitreux_1.4_iphoneos-arm64.deb
-Size: 424804
-MD5sum: bd987e87839d63bbf0c20a8488f4b557
-SHA1: 4a8b2ffc59fa44bf037fb70d4d65feb0ab21dd4a
-SHA256: ae4f01598e2f8807539a49caabee44b7ec76d92c569450272c6848aafe6c710a
+Size: 121300
+MD5sum: 5a9ed2795d088ca751fcc1001e36bc05
+SHA1: b25d03b6705ed0776ac2097087afa8ab6c603f9a
+SHA256: d73919662745826eefc79262d8004a552a4d74952dd71a51592f257ddebaa91e
 Section: Tweaks
 Description: A recreation of Liquid Glass
   * 1.主打 iOS 26 系统液态玻璃设计。
