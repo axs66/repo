@@ -4259,6 +4259,24 @@ Icon: https://axs66.github.io/repo/icon/qsyy.png
 Name: 汽水音乐
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/qsyy/js.json
 
+Package: com.Axs.qzkwechat
+Version: 4.0-1
+Architecture: iphoneos-arm64
+Maintainer: Meo
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.qzkwechat_4.0-1_iphoneos-arm64.deb
+Size: 40904
+MD5sum: 3d3a012758f129fb09b604750b03e839
+SHA1: aae9e0fbf065a3d540a3165ff444e31b4c572d0f
+SHA256: fd52381028c6d232b95164d7623b7111568351c65226c83449811da04420ef51
+Section: 微信插件
+Description: 重新集合了一些功能。
+Author: Meo
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信QZK设置
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/qzkwechat/js.json
+
 Package: com.Axs.raisesparks
 Version: 1.0.6
 Architecture: iphoneos-arm64
