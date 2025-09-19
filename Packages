@@ -3198,11 +3198,11 @@ Maintainer: Axs
 Installed-Size: 964
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.Axs.injectipa_1.5-2_iphoneos-arm64.deb
-Size: 318552
-MD5sum: b1752d458b0445cf1493f0e76a3d23ff
-SHA1: 423df46fe01fd1a04f7a75c35c2074877218cf91
-SHA256: 8c281ab8541f629bb4cc94dd59034104c8fcc3ca58fc4ede2480d9fbb3a1dfea
-Section: 微信增强
+Size: 318640
+MD5sum: f68ba4e2f1778b0138e01e64a0aeba93
+SHA1: a928fed559fa879645fba464d43781546e509fe6
+SHA256: 9c800c0271ff5987fa4326f03f6f1b2928f949875692b9fd2a3749d9175f2112
+Section: 系统增强
 Description: InjectIPA Tool。
   * 1.添加资源至根目录支持多个。
   * 2.注入WeChat时支持-t开启WeChat插件加载库, 使用后可在微信设置页面（禁用插件中查看）动态禁用插件。
