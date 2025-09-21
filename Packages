@@ -7736,10 +7736,10 @@ Maintainer: huami
 Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.huami.WCPush2Chat_1.0-2_iphoneos-arm64.deb
-Size: 35636
-MD5sum: a4ceaf63e272ace8681c8520dc1ad1d8
-SHA1: b6ecb9b6b5a45983f8b0b26b2e32bf99935e50e4
-SHA256: de0eb80529b35d51b2a65d0d11809bb8ffd247e2e15f238650ca71637ca687db
+Size: 35856
+MD5sum: 3f6ea0f21e6d918029563442fc0a55b9
+SHA1: 7f6d85688af45781914290545bc91d4f0772c9cf
+SHA256: 7b7318ae26a9c6f803496a53c1806062720490db5e16325b553f60b4aefb3e1d
 Section: 微信插件
 Description: WCPush2Chat
 Author: huami
