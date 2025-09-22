@@ -2547,16 +2547,16 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Filename: ./debs/com.Axs.dyurl_1.0_iphoneos-arm64.deb
-Size: 13020
-MD5sum: 90f4cf421af2f0c65d06f851ebecb0ce
-SHA1: 3dd2d313780040a18b71884f7eca5d5fa736dcee
-SHA256: b45efdac6ccc8b50a7355e0613dea32c5c5cdf22881d344b006ac167769c9705
+Size: 13036
+MD5sum: 097935bc201300d3a39cc54923608ef9
+SHA1: 46fd25f9498815cdeffdc03966a3af2548113705
+SHA256: a9d66971b90219f9e1d00c04fcf5cd6be6c6c015c99170bcaf6317dc6a21d46c
 Section: Tweaks
 Description: 使dyyy插件的保存音频功能，获取音频URL链接，结合Axs源里面的微信点歌封面自定义插件，实现在微信点歌的播放内容，是您获取的抖音音乐。
 Author: A
 Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 获取抖音音频URL
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/dyurl/js.json
 
 Package: com.Axs.dyyy
 Version: 2.2-8
@@ -6097,12 +6097,12 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Filename: ./debs/com.Axs.wechatsong_2.5.5_iphoneos-arm64.deb
-Size: 71108
-MD5sum: 7fc873168d95d5a90ae681f451cb8016
-SHA1: be09782dba8eba3c0bd3fa3840b48798f8786f3e
-SHA256: 4956d28921aee67e22c1c8a2950ec7d6a2fdfe45a368ab2bf07ece829154e975
+Size: 71116
+MD5sum: ab32d448de7653dd2fd9c563d7c72c3f
+SHA1: 02684168f12a648cfc6fe65299280ae09ab0ba2d
+SHA256: 4de0f6ff4e1a3d084a05e768793537efb050f7b7984f16c0cd8baa0ee450af36
 Section: 微信插件
-Description: 点歌封面自定义
+Description: 点歌封面自定义，结合源里面的抖音音频url插件，可以实现在微信点歌，播放你选择抖音音乐。操作方法见抖音音频url插件。
 Author: A
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 点歌封面自定义
