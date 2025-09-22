@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.1",
+                    "text": "2.5.5",
                     "title": "插件版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 5 月 14 日",
+                    "text": "2025 年 9 月 19 日",
                     "title": "最后更新"
                 }
             ]
@@ -101,6 +101,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.5.5\n1.点歌封面自定义，结合源里面的抖音音频url插件，可以实现在微信点歌，播放你选择抖音音乐。操作方法见抖音音频url插件。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.3\n1.修复配置可能重置的问题。",
