@@ -4968,6 +4968,24 @@ Icon: https://axs66.github.io/repo/icon/stheno.png
 Name: Stheno 分屏
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/stheno/js.json
 
+Package: com.Axs.stheno
+Version: 13.14
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debs/com.Axs.stheno_13.14_iphoneos-arm64.deb
+Size: 221544
+MD5sum: bb6b0245c72577d3e9ed981cb01ba893
+SHA1: 5815d3683e0dba958ee8f6bb31b84acd560c3944
+SHA256: 135dd8f6ab1199ed28c75b74664f90cbc8c4d72a9585878907d531d01fb1da6b
+Section: 分屏插件
+Description: Medusa!分屏插件。无设置项，安装即生效。
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/stheno.png
+Name: Stheno 分屏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/stheno/js.json
+
 Package: com.Axs.storeswitcher2
 Version: 1.0.4
 Architecture: iphoneos-arm64
