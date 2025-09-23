@@ -6294,6 +6294,24 @@ Icon: https://axs66.github.io/repo/icon/xczs.png
 Name: 相册助手 解锁会员
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/xczs/js.json
 
+Package: com.Axs.xianyuadkiller
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 268
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: ./debs/com.Axs.xianyuadkiller_1.5.5_iphoneos-arm64.deb
+Size: 40276
+MD5sum: 25bda8e97899c2e9d4fe4344f6e440bc
+SHA1: 2dd217aa333d42124244a0692beeb67586a2015c
+SHA256: cd0e199872282f6b81be479a8ee04fb669f4589d03ba48671219c6eecf7c9494
+Section: Tweaks
+Description: 闲鱼首页、详情页底栏透明度自定义调节（在我的右上角），闲鱼启动广告通杀！且秒进主页面！
+Author: ylr
+Icon: https://axs66.github.io/repo/icon/xianyuadkiller.png
+Name: 闲鱼去广告及美化
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/xianyuadkiller/js.json
+
 Package: com.Axs.xinamine
 Version: 0.0.5
 Architecture: iphoneos-arm64
