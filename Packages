@@ -6221,6 +6221,24 @@ Name: 控制中心圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/whiteccborders/js.json
 Sponsor: thebigboss.org
 
+Package: com.Axs.wifimasterkeyadkiller
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: ./debs/com.Axs.wifimasterkeyadkiller_1.5.5_iphoneos-arm64.deb
+Size: 11120
+MD5sum: d1afa146a55c8c3b97c8ff2ecfc2c96b
+SHA1: 06931af9512dedcc6d22dbbc61f87e4e57702a2d
+SHA256: b3201782c2bd5ad59f0e285dd13552c922878c105a6387d2ef32987c293ceecb
+Section: 破解插件
+Description: Wifi万能钥匙去开屏、首页、用户页以及列表页等烦人广告！
+Author: ylr
+Icon: https://axs66.github.io/repo/icon/wifimasterkeyadkiller.png
+Name: WiFi万能钥匙去广告
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wifimasterkeyadkiller/js.json
+
 Package: com.Axs.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
