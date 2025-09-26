@@ -9398,6 +9398,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 酸果
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/sutuplus/js.json
 
+Package: com.sutuplus.releasefugu15
+Version: 6.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1816
+Depends: mobilesubstrate
+Filename: ./debs/com.sutuplus.releasefugu15_6.0.0-1_iphoneos-arm64.deb
+Size: 526056
+MD5sum: 99c153aa256c7b339446e788dbc70611
+SHA1: c65c091ea1eb6de9490ed03bc657a4134f121c7e
+SHA256: ec733406156fb571bd0ce9bbd524717cb07502aa1dde47ec284f0bf9901853a7
+Section: 微信插件
+Description: 微信美化插件
+Author: 苏兔
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 酸果
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/sutuplus/js.json
+
 Package: com.tencent.themebox
 Version: 1.0.1-1
 Architecture: iphoneos-arm64
