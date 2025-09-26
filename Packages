@@ -4951,6 +4951,24 @@ Icon: https://axs66.github.io/repo/icon/stella.png
 Name: Stella
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/stella/js.json
 
+Package: com.Axs.steppy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.steppy_1.0_iphoneos-arm64.deb
+Size: 9752
+MD5sum: 045ad319a44ab85aae3fcfbe1f6c0a00
+SHA1: af124661a4242b10e3d055e53196220d999e9c04
+SHA256: ef34f4ad25b2c8fdec41f8d36d8822a7cfda0afc7bf7078f2a34deca4aa37d11
+Section: 系统增强
+Description: Spoof your steps!使用巨魔注入器TrollFools注入要修改运动步数的APP，当然也可以sileo直接安装
+Author: uz.ra
+Icon: https://axs66.github.io/repo/icon/steppy.png
+Name: Steppy 步数修改器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/steppy/js.json
+
 Package: com.Axs.stheno
 Version: 12.0
 Architecture: iphoneos-arm64
