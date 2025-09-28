@@ -1534,6 +1534,24 @@ Icon: https://axs66.github.io/repo/icon/appstore.png
 Name: AppStoreTroller
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/appstoretroller/js.json
 
+Package: com.Axs.appstoretroller
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.appstoretroller_0.1.2_iphoneos-arm64.deb
+Size: 28476
+MD5sum: 8245aaec2fd3fd70c5555ac8c33e056d
+SHA1: 838e80dfc7aa61d88a57e94269428b968bae531c
+SHA256: 80718adb698a5ae2fc239dd4f75469e819be59d820012f56dfd70f4e08150cd9
+Section: Tweaks
+Description: 将iOS版本伪装成合理的版本，并获取需求高iOS版本的应用。
+Author: Mineek
+Depiction: https://t.me/wxfx8
+Icon: https://axs66.github.io/repo/icon/appstore.png
+Name: AppStoreTroller
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/appstoretroller/js.json
+
 Package: com.Axs.aptv
 Version: 0.0.1
 Architecture: iphoneos-arm64
