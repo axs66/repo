@@ -4008,30 +4008,15 @@ Package: com.Axs.newfeature
 Version: 5.2.0
 Architecture: iphoneos-arm64
 Maintainer: Axs
-Installed-Size: 456
+Installed-Size: 496
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.newfeature_5.2.0_iphoneos-arm64.deb
-Size: 60156
-MD5sum: 1af8adae69b1dae3e958198a8d38a926
-SHA1: 5b33f3d52569731b8745ac8ba78573c737ec8d87
-SHA256: 759ba43f476d472fdee26cc5c49ff98ada55a3cc4e274aaf0e448ab5a5f14b1c
+Size: 68756
+MD5sum: 83ef0c31a682959f95b3cde3edf8151b
+SHA1: 7b23e96771059f6094f6b2631b6aaab823179f43
+SHA256: a4255d3af0ab4ff3c123d48679ca39e0766a1e2ae7f51aba8bd12af99e0f42db
 Section: 微信插件
-Description: 插件功能介绍(Netskao)：
-   * ⭐️微信输入框自定义
-   * 1.微信朋友圈小尾巴自定义，功能位于：朋友圈发送界面
-   * 2.微信各功能图标颜色随机变化
-   * 3.微信键盘隐藏Logo
-   * 4.微信通行密钥，功能位于：设置→账号安全
-   * 5.聊天记录备份，8.0.50+。功能位于：设置→通用→聊天记录管理→备份与恢复里面
-   * 6.AP悬浮窗功能，8.0.54+
-   * 7.折叠单聊框功能，8.0.55+。功能位于：聊天窗口右上角点进去消息免打扰开启后
-   * 8.聊天发送实时照片，8.0.57+
-   * 9.微信语音弧形发送按钮，8.0.60+
-   * 10.微信朋友圈图片评论代码，8.0.60+
-   * 11.删除联系人保留聊天记录，8.0.62+
-   * 12.WBNoAds微信去广告
-   * 13.微信输入框语音转述功能
-   * 14.微信添加全局屏幕中间返回功能
+Description: 一个简单的微信插件。
 Author: Axs
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: NewFeature
