@@ -1425,6 +1425,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: AmpLify
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/amplify/js.json
 
+Package: com.Axs.amplify
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 3752
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.amplify_1.0-2_iphoneos-arm64.deb
+Size: 773580
+MD5sum: 13969a756a8d761a41015ec5bd82a5bc
+SHA1: 099d556e86ee28eb240760be03483d10db7b7996
+SHA256: 5704cde41e8f035e1d50a04100e2c3cc3d1b46d58100d6e4d65b6dbd0b10dd9f
+Section: 微信插件
+Description: AmpLify - 聚焦美化 焕新体验
+Author: SHTM
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: AmpLify
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/amplify/js.json
+
 Package: com.Axs.analytics
 Version: 0.0.4
 Architecture: iphoneos-arm64
