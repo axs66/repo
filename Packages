@@ -861,6 +861,24 @@ Name: Axon美化通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/Axon/js.json
 Sponsor: Axs
 
+Package: com.Axs.BebopKeys
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: com.axs.laetus
+Filename: ./debs/com.Axs.BebopKeys_1.1_iphoneos-arm64.deb
+Size: 199680
+MD5sum: f9e079ecc01604a6bd91bdc2551b28ed
+SHA1: caccdb2f14816b5c27ea8186038424dd10f0f146
+SHA256: bc4104560b1fd82b7801ff0c1714d378c6070dfac4732e5ce80a0b753b4c3cf6
+Section: Tweaks
+Description: 通过Laetus插件激活的输入法键盘专用主题。
+Author: rahwan3d
+Icon: https://axs66.github.io/repo/icon/BebopKeys.png
+Name: BebopKeys 系统键盘主题
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/BebopKeys/js.json
+Sponsor: Axs
+
 Package: com.Axs.BypassWechatMSG
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -10009,6 +10027,25 @@ Size: 12458016
 MD5sum: 875750f96106a68ba4eb443585737d53
 SHA1: 09ca80409611482f545147cc1aa52dc4f2c3b850
 SHA256: cef1bf1dcc32794165c118c23a86978f842c45e1ca737f6b82e8538ab9032765
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 17.26
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 30504
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_17.26_iphoneos-arm64.deb
+Size: 12471872
+MD5sum: 6cbe45d276e62d2b1f6e367184ac0c10
+SHA1: c84fdd5a46554172402ce4baf5f85df4ce669115
+SHA256: 4730d290e28b13aced18f60dcb2d2f8d72fa3401374c150ed5e333e6d7c92177
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
