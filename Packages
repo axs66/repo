@@ -5770,6 +5770,25 @@ Icon: https://axs66.github.io/repo/icon/waktos.png
 Name: Waktos安卓锁屏
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/waktos/js.json
 
+Package: com.Axs.waqt
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.waqt_1.4_iphoneos-arm64.deb
+Size: 35076
+MD5sum: ba9dea16a75f9745c9018f8b3907f431
+SHA1: 9c2ace66b55c0118c256e33096117da997893197
+SHA256: 76ac75dbffcd5d359cc5912e5016a7f974273665e117c40b3847d98594ab60a0
+Section: Tweaks
+Description: Know more than just the current time!没有购买电话助手和nicebar的用户可以使用此款免费插件进行时间日期自定义。
+Author: P2KDev
+Icon: https://axs66.github.io/repo/icon/waqt.png
+Name: 状态栏日期时间自定义
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/waqt/js.json
+Sponsor: Axs
+
 Package: com.Axs.wcabtestvoicerecordview
 Version: 1.1-1
 Architecture: iphoneos-arm64
