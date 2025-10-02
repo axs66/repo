@@ -1201,6 +1201,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCElite 微信优化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCElite/js.json
 
+Package: com.Axs.WCSafeMode
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.WCSafeMode_1.0-1_iphoneos-arm64.deb
+Size: 4032
+MD5sum: 3bb388c69f9a71abe87f5314b1d9a712
+SHA1: f66c48d0381318727374b75ffc3605454cd6d7e6
+SHA256: 87c44b5b8c14c17293c628188c1a9f2e35d4215572a7c663274eea61829a0b8c
+Section: 微信插件
+Description: 长按「我」页面头像1秒手动触发微信安全模式（资源清理），正常情况的微信不要安装，会清空一些资源，请慎重。
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCSafeMode 主动安全模式
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCSafeMode/js.json
+
 Package: com.Axs.WCThemes
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -1843,6 +1861,24 @@ Icon: https://axs66.github.io/repo/icon/bigshot.png
 Name: BigShot长截图
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/bigshot/js.json
 Sponsor: Axs
+
+Package: com.Axs.bizhi
+Version: 1.0.0-6
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.bizhi_1.0.0-6_iphoneos-arm64.deb
+Size: 3320
+MD5sum: 16aa5e72d9c4d28ab0bcde60cce1026a
+SHA1: bd344cf8de05903f7853ec50adc305e18d95d7e8
+SHA256: 7a4c0f6257b9a68bd75eae2a0a0be533787e8ee49bdb98ba4edb29914cc1f023
+Section: 破解插件
+Description: 壁纸(5.0.3版本)解锁会员
+Author: fries
+Icon: https://axs66.github.io/repo/icon/bizhi.png
+Name: 壁纸vip
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/bizhi/js.json
 
 Package: com.Axs.blacklist
 Version: 0.0.5
@@ -3467,6 +3503,24 @@ Name: 强制使用第三方键盘
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.ksctzs
+Version: 1.0.0-7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.ksctzs_1.0.0-7_iphoneos-arm64.deb
+Size: 3456
+MD5sum: c9fc0235779754a15d9570ca0a15922b
+SHA1: f78faaf875f161b47b5c5e124318dc4565b746a2
+SHA256: 034401f62c51a7351a1cb5e132925f7c86285ed999180ba7c08f9ad462fc2130
+Section: 破解插件
+Description: 苹果商店搜索“口算出题助手”下载，然后安装这个插件即可解锁vip。尽在2.5.9版本测试。
+Author: fries
+Icon: https://axs66.github.io/repo/icon/ksctzs.png
+Name: 口算出题助手vip
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/ksctzs/js.json
+
 Package: com.Axs.kuaidou
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -4293,6 +4347,24 @@ Depiction: https://axs66.github.io/repo
 Icon: https://axs66.github.io/repo/icon/prokeys.png
 Name: ProKeys键盘特效
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/prokeys/js.json
+
+Package: com.Axs.qnsmw
+Version: 1.0.0-8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.qnsmw_1.0.0-8_iphoneos-arm64.deb
+Size: 5600
+MD5sum: 9773945b764486f08953ce03d0322f7a
+SHA1: 945b2679a65c77c0787e23ceb54355f64722b93f
+SHA256: efe32e043eb6924be30bcb95323adf868d75e5af1b7c627a7649346cd098e5dc
+Section: 破解插件
+Description: 扫描全能王(6.92.0版本)解锁会员
+Author: fries
+Icon: https://axs66.github.io/repo/icon/qnsmw.png
+Name: 扫描全能王vip
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/qnsmw/js.json
 
 Package: com.Axs.qqnotiavatar
 Version: 1.2-2
