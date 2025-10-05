@@ -2207,6 +2207,25 @@ Icon: https://axs66.github.io/repo/icon/cellbadge.png
 Name: CellBadge 系统设置图标前缀
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/cellbadge/js.json
 
+Package: com.Axs.cellbadge
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 432
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.cellbadge_1.0.1_iphoneos-arm64.deb
+Size: 36416
+MD5sum: 1c00620037c40bed1af280221e1eb989
+SHA1: aa8b100842c1fb7954d0ccf3bb7ffaaf2f7de570
+SHA256: 3515e73c7b4078527783fec624b66fa4bf578101298765a90bccb6a5ffc01a6a
+Section: Tweaks
+Priority: optional
+Description: 为设置列表中的项目添加自定义图标前缀，支持iOS 14.5+
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/cellbadge.png
+Name: CellBadge 系统设置前缀图标
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/cellbadge/js.json
+
 Package: com.Axs.centerswitcherlabels
 Version: 0.0.1
 Architecture: iphoneos-arm64
