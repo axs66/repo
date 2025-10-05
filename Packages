@@ -5195,6 +5195,24 @@ Icon: https://axs66.github.io/repo/icon/stheno.png
 Name: Stheno 分屏
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/stheno/js.json
 
+Package: com.Axs.stheno
+Version: 77.1.4.7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/com.Axs.stheno_77.1.4.7_iphoneos-arm64.deb
+Size: 221660
+MD5sum: 7d55785a768b53b44cc1a300681df9d0
+SHA1: 3b64686b383dda44a02284997dd33ebe84118518
+SHA256: 9115fd16bc515ab2d8ab2b94b8ba9ed67fcecfbf860b53cb9a323737dd5fb23e
+Section: 分屏插件
+Description: stheno分屏插件。无设置项，安装即生效。插件里面有使用方法。
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/stheno.png
+Name: Stheno 分屏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/stheno/js.json
+
 Package: com.Axs.storeswitcher2
 Version: 1.0.4
 Architecture: iphoneos-arm64
