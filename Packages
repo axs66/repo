@@ -3412,6 +3412,48 @@ Icon: https://axs66.github.io/repo/icon/jade.png
 Name: Jade
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/jade/js.json
 
+Package: com.Axs.jikan
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.jikan_1.0-1_iphoneos-arm64.deb
+Size: 19456
+MD5sum: 51c605bffd771e61d3b57d952c0d877c
+SHA1: c04b7bba8fccac313db9dc4555b989bfb3e259f5
+SHA256: 250ec3e621ef6307bf2da7a646477e68352d202a726de1664180b262d4f05e04
+Section: 系统增强
+Description: 功能介绍：在锁定屏幕上显示全额充电的估计时间。
+   * 修复了原代码中的安全问题。
+   * Axs源中1.0.1是英文版本，1.0.2是汉化版本。
+   * 无设置项，安装即生效
+Author: waruhachi
+Icon: https://axs66.github.io/repo/icon/jikan.png
+Name: 锁屏显示充电剩余时间
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/jikan/js.json
+
+Package: com.Axs.jikan
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.jikan_1.0-2_iphoneos-arm64.deb
+Size: 20456
+MD5sum: 59e914b6a9a2460e26bdf3a9ede0675e
+SHA1: 5639ba5e3b7f2a07081dacb7c7a8c73ba1f62142
+SHA256: f4d715cc9bccfeb03fa07727979bbd14c3426af46ce774787a07ad6652dc9bc0
+Section: 系统增强
+Description: 功能介绍：在锁定屏幕上显示全额充电的估计时间。
+   * 修复了原代码中的安全问题。
+   * Axs源中1.0.1是英文版本，1.0.2是汉化版本。
+   * 无设置项，安装即生效
+Author: waruhachi
+Icon: https://axs66.github.io/repo/icon/jikan.png
+Name: 锁屏显示充电剩余时间
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/jikan/js.json
+
 Package: com.Axs.jptext
 Version: 1.0
 Architecture: iphoneos-arm64
