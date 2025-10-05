@@ -2188,6 +2188,25 @@ Icon: https://axs66.github.io/repo/icon/ccuiplayer.png
 Name: CCUIPlayer 控制中心音频背景
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/ccuiplayer/js.json
 
+Package: com.Axs.cellbadge
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 420
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.cellbadge_1.0.0_iphoneos-arm64.deb
+Size: 34484
+MD5sum: d7717f87def950096b2b0657f4c7a433
+SHA1: ae6b194af6adc951260b77a7117f805d129db977
+SHA256: 04e6a96cdaa6c174d47a79dccb0e5ccdb6c38d3734298047c53c2a19697ff67e
+Section: Tweaks
+Priority: optional
+Description: 为设置列表中的项目添加自定义图标前缀，支持iOS 14.5+
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/cellbadge.png
+Name: CellBadge 系统设置图标前缀
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/cellbadge/js.json
+
 Package: com.Axs.centerswitcherlabels
 Version: 0.0.1
 Architecture: iphoneos-arm64
