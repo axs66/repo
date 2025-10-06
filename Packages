@@ -3171,6 +3171,24 @@ Icon: https://axs66.github.io/repo/icon/gps.png
 Name: GPS++
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/gps/js.json
 
+Package: com.Axs.guodong
+Version: 8.8.8
+Architecture: iphoneos-arm64
+Maintainer: baiy
+Installed-Size: 436
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.guodong_8.8.8_iphoneos-arm64.deb
+Size: 66004
+MD5sum: 7e913f2dda6e4ae8be47fb11924a3bbc
+SHA1: fd1986f7595373b64bbbb5e0214b4421a1957ac3
+SHA256: c38aa805122c1c3bfbac4082f439b2741ac1d40add488faca1d807e33d639f88
+Section: 微信插件
+Description: 给Wechat套上一层玻璃质感的图标。
+Author: 白衣
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信美化助手
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/guodong/js.json
+
 Package: com.Axs.h5gg
 Version: 7.9.1
 Architecture: iphoneos-arm64
