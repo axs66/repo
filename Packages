@@ -4537,6 +4537,23 @@ Icon: https://axs66.github.io/repo/icon/qsyy.png
 Name: 汽水音乐
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/qsyy/js.json
 
+Package: com.Axs.quickreply
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.quickreply_1.3_iphoneos-arm64.deb
+Size: 636464
+MD5sum: 28b586c65454d9d97ed6e76cd5c64d1c
+SHA1: 2a86c1e0622faf552b183e29cc2a8b2eaa3d842a
+SHA256: 694060023758589089429103c8d73a79b1344f75f3042eaf04184553a4e92cc9
+Section: 微信插件
+Description: 微信内通知
+Author: QuickReply
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信内通知
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/quickreply/js.json
+
 Package: com.Axs.qzkwechat
 Version: 4.0-1
 Architecture: iphoneos-arm64
