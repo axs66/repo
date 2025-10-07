@@ -2502,21 +2502,22 @@ Name: Designer锁屏美化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/designer/js.json
 
 Package: com.Axs.designer
-Version: 1.5.4
+Version: 1.5.5
 Architecture: iphoneos-arm64
 Maintainer: Axs
+Installed-Size: 20612
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.Axs.designer_1.5.4_iphoneos-arm64.deb
-Size: 11957512
-MD5sum: 93b42a4376dcca5d9f88049976da3395
-SHA1: 690413e40497d5dea5769b23aa44d78d8ca3eb45
-SHA256: 534385997ea0c0a0306d1a2ee643915bffa0d385a80f39d1827c01eefc2b29f1
+Filename: ./debs/com.Axs.designer_1.5.5_iphoneos-arm64.deb
+Size: 5798568
+MD5sum: f00e77a9ca8ebc1801b6f6e872d29b32
+SHA1: 0776dc6cc2d8a45283d3b071968142f7e6e93976
+SHA256: 3c8131554bb84f5214ce89532c223e65e0d33364e58c8a02e8f47cfae9521cbb
 Section: Tweaks
-Description: 在锁定屏幕和主屏幕的小功能，主题选择或隐藏某选项。主题非常的好看，自己制作，或者找人要都可以，自行体验！桌面小组件也支持呢！
+Description: Design layouts for lockscreen and homescreen
 Author: JunesiPhone
-Depiction: https://axs66.github.io/repo
+Depiction: https://t.me/wxfx8
 Icon: https://axs66.github.io/repo/icon/designer.png
-Name: Designer锁屏美化
+Name: Designer 锁屏美化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/designer/js.json
 
 Package: com.Axs.dismissalert
