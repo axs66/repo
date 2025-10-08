@@ -10107,6 +10107,27 @@ Icon: https://axs66.github.io/repo/icon/vnodebypass.png
 Name: vnodebypass
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: kr.xsf1re.vnodebypass
+Version: 0.4.7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.7_iphoneos-arm64.deb
+Size: 66124
+MD5sum: 09fda0b37c72a3b2142483f897637a86
+SHA1: 1cb23b731338d87bf69531cb9c1bd7de5c4afdcb
+SHA256: b9a47528698600739f21ed4ca2360d7ef32a0d7fb17c1275db266ea4e1f7b5ad
+Section: 系统增强
+Description: 功能介绍
+   * 很强力的一款屏蔽越狱检测的工具。但同时也很难删除，删除教程如下：
+   * 点击启用,然后打开你需要打开的软件，使用完毕后一定要点禁用,不然很多插件都失效了!
+   * 这个插件不好删除,sileo删不掉的话要去Filza根目录里搜vnode,搜到的文件全部删除,然后去多巴胺里重启用户空间即可!
+   * 仅支持iOS15-16系统Dopamine2越狱。
+Author: XsF1re
+Icon: https://axs66.github.io/repo/icon/nodebypass.png
+Name: Vnodebypass 屏蔽越狱检测
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/nodebypass/js.json
+
 Package: love.litten.rose
 Version: 1.1.0
 Architecture: iphoneos-arm64
