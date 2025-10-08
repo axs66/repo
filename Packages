@@ -7268,6 +7268,24 @@ Icon: https://axs66.github.io/repo/icon/dy.png
 Name: 抖音净化
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
 
+Package: com.axs.floatingtag
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 128
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.4)
+Filename: ./debs/com.axs.floatingtag_1.0.0_iphoneos-arm64.deb
+Size: 24190
+MD5sum: 0b8c9b823162e6ac4f33d01755938326
+SHA1: 59b8e855becb93a6934da978db7b29c592a7fa57
+SHA256: 12435b29b307d466df7dffc6f41e5ba546f07f8af331e23e3b0b5d7c67d01901
+Section: 微信插件
+Description: 挂在搜索框右边的悬浮标签插件
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatFloatingTag
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/floatingtag/js.json
+
 Package: com.axs.immortalizerjailed
 Version: 2.2
 Architecture: iphoneos-arm64
