@@ -2353,24 +2353,6 @@ Icon: https://axs66.github.io/repo/icon/classickeyboardxs.png
 Name: ClassicKeyboardXS 键盘高度调整
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/classickeyboardxs/js.json
 
-Package: com.Axs.clipmaster
-Version: 1.0-3+fix2
-Architecture: iphoneos-arm64
-Maintainer: huami && shtm
-Installed-Size: 1464
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
-Filename: ./debs/com.Axs.clipmaster_1.0-3+fix2_iphoneos-arm64.deb
-Size: 411036
-MD5sum: 36fa6339d7d1324051a52c91dca1efe0
-SHA1: 788c280e63128cfbf9f5af33fe15fc10e5d0dd94
-SHA256: 3ec58c4f8a50e946c49b057b58c485c10eb4a4b13b27e313eb135d30ca3c18bc
-Section: 微信插件
-Description: 智能截图,OCR。此插件为破解版，安装后会注入一个mistora破解库，需要关注公众号，授权后可以直接删除mistora，依然可以用。有能力请支持正版。
-Author: huami && shtm
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: ClipMaster
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/clipmaster/js.json
-
 Package: com.Axs.copylog
 Version: 1.7.1
 Architecture: iphoneos-arm64
