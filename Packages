@@ -3799,20 +3799,18 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/llswitch/js.json
 Package: com.Axs.lockmusic
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 168
+Maintainer: Axs <qiaozhani000@163.com>
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.Axs.lockmusic_1.0_iphoneos-arm64.deb
-Size: 3152
-MD5sum: b0185c596d496750c94bbb9127b4ddc8
-SHA1: 40fe69124e91cfa57c689176452d731a8384232e
-SHA256: 4ccb370182f02e0081f92d95ed90de3fb3af4e108121b23d8c1e648591d736ca
-Section: Tweaks
+Size: 3132
+MD5sum: 70d3d7ec9620f3d65b5d56f9dae043b9
+SHA1: 60169b7f24cd6887791c2c442ae66e4eda0d3c40
+SHA256: 68850108fb38cd73d97ff3dd8c74565da87d1e20ed2ff7e7d249fedc9ff7f507
+Section: D-媒体类插件
 Description: 隐藏锁屏音乐控件，仅支持ios16，无设置项，安装生效。
-Author: wkk
+Author: A <qiaozhani000@163.com>
 Icon: https://axs66.github.io/repo/icon/musicrotation.png
 Name: HideLockMusic隐藏锁屏音乐控件
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.Axs.lockscreen
 Version: 1.1
