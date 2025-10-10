@@ -6720,20 +6720,18 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxtouch/js.json
 Package: com.Axs.xxuegao
 Version: 1.0-2
 Architecture: iphoneos-arm64
-Maintainer: 一个快捷搜索各大插件功能的插件。方便懒人
+Maintainer: Axs
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.Axs.xxuegao_1.0-2_iphoneos-arm64.deb
-Size: 1184420
-MD5sum: cfc240ea5ffe10f52b3402bc72cdfd33
-SHA1: f3682219153076670e278d1b77ceeba92a3f87f8
-SHA256: d4ca46024e1b52bfcd27dee27806dce19f4c823087fab15f6d54317e8554c4dc
-Section: 微信插件
-Priority: optional
+Size: 1184744
+MD5sum: af70b42f0b87f806fab871c5dede443b
+SHA1: e0bcc5729b33b28669eec333f524db997f877d2a
+SHA256: f82f55dcb9273ef43897d9bc2e4a132753588a224e7a11bc0edc38dcdb3f8251
+Section: A-微信插件
+Description: 一个快捷搜索各大插件功能的插件。方便懒人
 Author: xuegao
-Depiction: https://repo.138686.xyz
 Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: xxuegao
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxuegao/js.json
+Name: 小雪糕
 
 Package: com.Axs.yuanjiao
 Version: 1.8.2
