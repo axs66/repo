@@ -3820,13 +3820,13 @@ Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
 Filename: ./debs/com.Axs.lockmusic_1.0_iphoneos-arm64.deb
-Size: 3132
-MD5sum: 70d3d7ec9620f3d65b5d56f9dae043b9
-SHA1: 60169b7f24cd6887791c2c442ae66e4eda0d3c40
-SHA256: 68850108fb38cd73d97ff3dd8c74565da87d1e20ed2ff7e7d249fedc9ff7f507
-Section: D-媒体类插件
+Size: 3128
+MD5sum: aa557e67d9d1061189a75fcb1c11853d
+SHA1: 0921b92e82542fd5dd877a3ee6886c21eefba1a3
+SHA256: 97f88c1e4673d69486b04b352e43ab7c8bcab165cb05047c62943d74aa241585
+Section: Tweaks
 Description: 隐藏锁屏音乐控件，仅支持ios16，无设置项，安装生效。
-Author: A <qiaozhani000@163.com>
+Author: A
 Icon: https://axs66.github.io/repo/icon/musicrotation.png
 Name: HideLockMusic隐藏锁屏音乐控件
 
@@ -6723,11 +6723,11 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.Axs.xxuegao_1.0-2_iphoneos-arm64.deb
-Size: 1184744
-MD5sum: af70b42f0b87f806fab871c5dede443b
-SHA1: e0bcc5729b33b28669eec333f524db997f877d2a
-SHA256: f82f55dcb9273ef43897d9bc2e4a132753588a224e7a11bc0edc38dcdb3f8251
-Section: A-微信插件
+Size: 1185484
+MD5sum: 4728f9c063693a753a41bef159ff8c5a
+SHA1: 7812ea087086d4d187c8b6c95bfe9474a9de8e86
+SHA256: 506e4d28ad4c37b410144f127b155ef6c8c71b5348de7b17f5cd3521fb5359c0
+Section: 微信插件
 Description: 一个快捷搜索各大插件功能的插件。方便懒人
 Author: xuegao
 Icon: https://axs66.github.io/repo/icon/wechat.png
