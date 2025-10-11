@@ -8218,6 +8218,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: WCPulse
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
 
+Package: com.huami.WCPulse
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1024
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.2-6_iphoneos-arm64.deb
+Size: 201596
+MD5sum: 8eb0739c6d5d60e924b713ba8df8b98f
+SHA1: 07ec6a6ce72de586d1848d12e35bc5e820a70afa
+SHA256: 9c2164aa47ab6e0d332b58429d439b1350c701f42e1f2c69f9c034879890b263
+Section: 微信插件
+Description: WCPulse，分组插件，有主题盒子的可以忽略这个插件
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCPulse 微信分组
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCPulse/js.json
+
 Package: com.huami.WCPush2Chat
 Version: 1.0-2
 Architecture: iphoneos-arm64
