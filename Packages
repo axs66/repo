@@ -2262,6 +2262,24 @@ Icon: https://axs66.github.io/repo/icon/centra.png
 Name: Centra自定义控制中心
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/centra/js.json
 
+Package: com.Axs.chatgpt
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.chatgpt_1.0.0_iphoneos-arm64.deb
+Size: 4204
+MD5sum: 78d2a723970a557ede74529179b61a20
+SHA1: df265ced65ebdd2015e04539001b36237209c421
+SHA256: aa769ff1c907710d227ad57ea51a2df7aa89442f9c6878bd0acc4e7211b16370
+Section: Tweaks
+Description: 去掉ChatGPT每次打开都让更新系统的弹窗
+Author: A
+Icon: https://axs66.github.io/repo/icon/chatgpt.png
+Name: ChatGPT 隐藏更新提示
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/chatgpt/js.json
+
 Package: com.Axs.chromahomebarx
 Version: 1.0-2
 Architecture: iphoneos-arm64
@@ -8004,6 +8022,25 @@ Author: Michael
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信小底栏
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.hitori.misaki
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.hitori.misaki_2.2_iphoneos-arm64.deb
+Size: 306372
+MD5sum: 50e5e37a9b8ce78d666f9f8d83ac6b33
+SHA1: bb2bee5050b6e203be219ef0f5810ef57d088888
+SHA256: 17d4d7026ab58037eaaba7941ae1d548d9c7067d7eeb2ae89c025fe45e9bddf7
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
 
 Package: com.hk.rootless.cc
 Version: 2.0.5.5
