@@ -5725,6 +5725,23 @@ Icon: https://axs66.github.io/repo/icon/trollleds.png
 Name: TrollLEDs手电筒
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
+Package: com.Axs.trollpad
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/com.Axs.trollpad_1.3_iphoneos-arm64.deb
+Size: 29428
+MD5sum: cc4897240f93fd00b6bc79ea3b8a6de5
+SHA1: acdf7b7a7cedba8680e931ced3a0dc26e81b08a8
+SHA256: 426c00f01fdec22d3da7cfe8c770e68fb932d0819e17978b618c85d0cbd14079
+Section: 系统增强
+Description: Troll SpringBoard into thinking it's running on iPadOS.仿iPad后台样式，iPad的dock栏，也可以分屏，插件已汉化，安装注销生效！拖动后台分屏！
+Author: khanhduytran0
+Icon: https://axs66.github.io/repo/icon/trollpad.png
+Name: TrollPad 后台窗口
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/trollpad/js.json
+
 Package: com.Axs.trollvnc
 Version: 1.0
 Architecture: iphoneos-arm64
