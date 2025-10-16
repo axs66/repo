@@ -7354,6 +7354,52 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ImmortalizerJailed真后台
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/immortalizerjailed/js.json
 
+Package: com.axs.lockplayer
+Version: 3.20
+Architecture: iphoneos-arm64e
+Maintainer: Axs
+Installed-Size: 1448
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.axs.lockplayer_3.20_iphoneos-arm64e.deb
+Size: 460184
+MD5sum: 64732ecacf26ca3089b7863c6686fb64
+SHA1: 14e40de5f2645892ec7e904f0532d0db6e331609
+SHA256: e5a3108c51c8c98c3158ccfdd7c2ac5b775359f005c561a9d861b4ae07f8673a
+Section: Tweaks
+Description: lockplayer锁屏播放器，功能介绍：
+   *  1.点击专辑封面：跳转到当前播放 App。
+   *  2.背景中部点击：播放/暂停。
+   *  3.向左滑：上一曲；向右滑：下一曲。
+   *  4.安装本插件后：原生锁屏播放器自动隐藏，仅显示 LockPlayer 面板。
+   *  5.进度条：支持拖动定位，松手后自动更新播放进度。
+Author: Ethan Whited & lhh & Axs
+Icon: https://axs66.github.io/repo/icon/lockplayer.png
+Name: LockPlayer 锁屏迷你播放器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
+
+Package: com.axs.lockplayer
+Version: 3.20
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1448
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.axs.lockplayer_3.20_iphoneos-arm64.deb
+Size: 460216
+MD5sum: a4e1bdf4d9bd01735aed616a32de6608
+SHA1: 41d28fba6cd68c73264b2819852852d4601a1f18
+SHA256: 9661b190822855bbee1eedcd52d305ec38605af312556f1e31c66a80420ac01f
+Section: Tweaks
+Description: lockplayer锁屏播放器，功能介绍：
+   *  1.点击专辑封面：跳转到当前播放 App。
+   *  2.背景中部点击：播放/暂停。
+   *  3.向左滑：上一曲；向右滑：下一曲。
+   *  4.安装本插件后：原生锁屏播放器自动隐藏，仅显示 LockPlayer 面板。
+   *  5.进度条：支持拖动定位，松手后自动更新播放进度。
+Author: Ethan Whited & lhh & Axs
+Icon: https://axs66.github.io/repo/icon/lockplayer.png
+Name: LockPlayer 锁屏迷你播放器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
+
 Package: com.axs.rma
 Version: 1.0
 Architecture: iphoneos-arm64
