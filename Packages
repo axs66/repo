@@ -8735,42 +8735,6 @@ Icon: https://axs66.github.io/repo/icon/shortvideodl.png
 Name: 短视频助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/shortvideodl/js.json
 
-Package: com.lhh.lockplayer
-Version: 2.10
-Architecture: iphoneos-arm64
-Maintainer: lhh
-Installed-Size: 2772
-Depends: firmware (>= 16.0), com.mrgcgamer.libgcuniversal
-Filename: ./debs/com.lhh.lockplayer_2.10_iphoneos-arm64.deb
-Size: 205472
-MD5sum: 5fcc544d2f6f7b2f2c5a8f57852283d6
-SHA1: 323b2d0cb4b5cd63036289b29bc240c2766ccc59
-SHA256: aa10e74bacdfaf66f7820470189f3bfb4220f1fd027a04d04b604d7234cbcc8f
-Section: Tweaks
-Description: 锁屏播放器，想隐藏原生自带的播放器，可以在源里面的搜索：隐藏锁屏音乐控件
-Author: lhh
-Icon: https://axs66.github.io/repo/icon/lockplayer.png
-Name: LockPlayer锁屏播放器
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
-
-Package: com.lhh.lockplayer
-Version: 2.9
-Architecture: iphoneos-arm64
-Maintainer: lhh
-Installed-Size: 2748
-Depends: firmware (>= 15.0)
-Filename: ./debs/com.lhh.lockplayer_2.9_iphoneos-arm64.deb
-Size: 182992
-MD5sum: 4e29264a4fb09307ebe1d8a285396068
-SHA1: 13c42c00044568e372d1c6c668288056dd3c3ff6
-SHA256: d08dc321718539c3d2a617288bce80d77c4a463189e5af9f970657ca1d07a8a6
-Section: Tweaks
-Description: 锁屏播放器，想隐藏原生自带的播放器，可以在源里面的搜索：隐藏锁屏音乐控件
-Author: lhh
-Icon: https://axs66.github.io/repo/icon/lockplayer.png
-Name: LockPlayer锁屏播放器
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
-
 Package: com.mikifp.griddy
 Version: 1.0.3
 Architecture: iphoneos-arm64
