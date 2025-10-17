@@ -3923,6 +3923,23 @@ Icon: https://axs66.github.io/repo/icon/looky.png
 Name: Looky 锁屏通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/looky/js.json
 
+Package: com.Axs.lstimeseconds
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3
+Installed-Size: 432
+Filename: ./debs/com.Axs.lstimeseconds_0.3_iphoneos-arm64.deb
+Size: 38072
+MD5sum: a1ea0fa8796f68e95b462a23a3a1b63f
+SHA1: dd6332bc9dbc1286b66c37a85b3ff4a077d048da
+SHA256: a4ddc1ad65a7c086a52ebf76de8f9916bd3f7cc716c3535520b5cc4b82075f53
+Section: Tweaks
+Description: 锁屏时间增加秒数。
+Author: b4db1r3
+Icon: https://axs66.github.io/repo/icon/lstimeseconds.png
+Name: LSTimeSeconds 锁屏秒钟
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lstimeseconds/js.json
+
 Package: com.Axs.lynxtwo
 Version: 2.5.4
 Architecture: iphoneos-arm64
@@ -4084,6 +4101,25 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 消息屏蔽助手
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/msgfilt/js.json
 Sponsor: admin@25mao.com
+
+Package: com.Axs.mshfplayer
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 876
+Depends: firmware (>= 15.0), com.ryannair05.audiosnapshotserver2
+Filename: ./debs/com.Axs.mshfplayer_0.0.1_iphoneos-arm64.deb
+Size: 86448
+MD5sum: 6777700ea6ce5acd25aa51465a58eae1
+SHA1: abc3ca717a1cb3428a634c634a9645f2f6512a54
+SHA256: 978ef70f00b6a5e04f2c64d92e4ba909774a396aa53249ebc87554a7576329bc
+Section: Tweaks
+Description: 手机有声音时会跳动波浪！
+Author: lhh
+Icon: https://axs66.github.io/repo/icon/mshfplayer.png
+Name: MashPlayer 音乐波浪
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/mshfplayer/js.json
+Sponsor: Axs
 
 Package: com.Axs.musiclizi
 Version: 1.1.8
