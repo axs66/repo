@@ -7400,6 +7400,52 @@ Icon: https://axs66.github.io/repo/icon/lockplayer.png
 Name: LockPlayer 锁屏迷你播放器
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
 
+Package: com.axs.lockplayer
+Version: 3.21
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1464
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.axs.lockplayer_3.21_iphoneos-arm64.deb
+Size: 460792
+MD5sum: 1a6fd77bf8c5f71b55f395e2574c28a8
+SHA1: 7f51492d9fe5907ca7d7adc20bef875981e3964d
+SHA256: 31402ef7d11eb9f86aa4858283862cea8e3c95ea7eb3e3414566088299294ea8
+Section: Tweaks
+Description: lockplayer锁屏播放器，功能介绍：
+   *  1.点击专辑封面：跳转到当前播放 App。
+   *  2.背景中部点击：播放/暂停。
+   *  3.向左滑：上一曲；向右滑：下一曲。
+   *  4.安装本插件后：原生锁屏播放器自动隐藏，仅显示 LockPlayer 面板。
+   *  5.进度条：支持拖动定位，松手后自动更新播放进度。
+Author: Ethan Whited & lhh & Axs
+Icon: https://axs66.github.io/repo/icon/lockplayer.png
+Name: LockPlayer 锁屏迷你播放器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
+
+Package: com.axs.lockplayer
+Version: 3.21
+Architecture: iphoneos-arm64e
+Maintainer: Axs
+Installed-Size: 1464
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.axs.lockplayer_3.21_iphoneos-arm64e.deb
+Size: 460720
+MD5sum: a93f19a6b9a40da3824d97e14087220b
+SHA1: b8df5812ac17ee7ec21bd20780ca411e62f74c4d
+SHA256: b750e3abe949292a3550008d28c44aa1fbaff0cd118a815010d90eb8f244532f
+Section: Tweaks
+Description: lockplayer锁屏播放器，功能介绍：
+   *  1.点击专辑封面：跳转到当前播放 App。
+   *  2.背景中部点击：播放/暂停。
+   *  3.向左滑：上一曲；向右滑：下一曲。
+   *  4.安装本插件后：原生锁屏播放器自动隐藏，仅显示 LockPlayer 面板。
+   *  5.进度条：支持拖动定位，松手后自动更新播放进度。
+Author: Ethan Whited & lhh & Axs
+Icon: https://axs66.github.io/repo/icon/lockplayer.png
+Name: LockPlayer 锁屏迷你播放器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
+
 Package: com.axs.rma
 Version: 1.0
 Architecture: iphoneos-arm64
