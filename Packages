@@ -6213,6 +6213,25 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信增强
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcehance/js.json
 
+Package: com.Axs.wchook
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 240
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.wchook_1.0-2_iphoneos-arm64.deb
+Size: 28176
+MD5sum: 76f8bab9b0f521f19aa658ab75b44e08
+SHA1: 25d1871acaa5967d76db6ba26384804335c96ad1
+SHA256: 9cf921d215c91da13065fd55883d00dc4b349251c5d19a279afae957c0a0eff6
+Section: 微信插件
+Priority: optional
+Description: 带动画的微信消息手势左滑引用，点击引用快速跳转到原消息
+Author: vita
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCHook
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wchook/js.json
+
 Package: com.Axs.wcplugins.rootless
 Version: 0.1-3
 Architecture: iphoneos-arm64
@@ -6861,6 +6880,24 @@ Description: 一个快捷搜索各大插件功能的插件。方便懒人
 Author: xuegao
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 小雪糕
+
+Package: com.Axs.xxuegao
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: xuegao
+Installed-Size: 3584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.xxuegao_1.1-4_iphoneos-arm64.deb
+Size: 1622160
+MD5sum: 3bcd2fd80fe3047f98e6a89f131093b9
+SHA1: 1c6a1b88e7fccfcc42b0c5de24189800a59d67c2
+SHA256: 35313e9aebaa80a9d653aa99681d81f8692fe10d3afae1c7aeccacd6ec92c2d2
+Section: 微信插件
+Description: 一个快捷搜索各大插件功能的插件。方便懒人
+Author: xuegao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 小雪糕
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxuegao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.2
