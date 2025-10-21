@@ -4339,6 +4339,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: NewFeature
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
 
+Package: com.Axs.newfeature
+Version: 5.2.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.newfeature_5.2.1_iphoneos-arm64.deb
+Size: 46732
+MD5sum: e197fe0cdf33f23b6d1932f73483f15c
+SHA1: d9ae7e0d2d7b9e59d41980bf809ae9921ac57d5d
+SHA256: c2d4132b1e7e80d4a3734240e26d84180f1e943c498c59a4b58011df305c7e51
+Section: 微信插件
+Description: 一个简单的微信插件。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: NewFeature
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
+
 Package: com.Axs.ocd5
 Version: 5.4.1.1
 Architecture: iphoneos-arm64
@@ -7022,14 +7040,14 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.6
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
-Size: 635660
-MD5sum: 3ca83a0106cb2e3761046b3f652c71fa
-SHA1: c09bd601c8486f04026bf73d009dd17f3c18ffe4
-SHA256: 100ff08023940a5cb361a91ffcfd5dee37a4cfafb26ca6e0932e6f857a423d67
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm.deb
+Size: 650960
+MD5sum: 91ebd42a3894b2b112aa1635ea9b6b0d
+SHA1: 7a6152b7d11af5af42a227038730a82f53aff844
+SHA256: b7647b234c0a06cfdefb9f3b1739bf3c7317a1d62eaa75b5e066078ee82e3ba2
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -7039,14 +7057,14 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.6
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm.deb
-Size: 650960
-MD5sum: 91ebd42a3894b2b112aa1635ea9b6b0d
-SHA1: 7a6152b7d11af5af42a227038730a82f53aff844
-SHA256: b7647b234c0a06cfdefb9f3b1739bf3c7317a1d62eaa75b5e066078ee82e3ba2
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
+Size: 635660
+MD5sum: 3ca83a0106cb2e3761046b3f652c71fa
+SHA1: c09bd601c8486f04026bf73d009dd17f3c18ffe4
+SHA256: 100ff08023940a5cb361a91ffcfd5dee37a4cfafb26ca6e0932e6f857a423d67
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -7486,24 +7504,6 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/floatingtag/js.json
 
 Package: com.axs.immortalizerjailed
 Version: 2.2
-Architecture: iphoneos-arm64e
-Maintainer: Axs
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/com.axs.immortalizerjailed_2.2_iphoneos-arm64e.deb
-Size: 38622
-MD5sum: 6ecb54523035542ba95c49cd10f8b181
-SHA1: d6d34ae2014f4e0118b7b1d296331e84ac5fe54e
-SHA256: 68f43709b7a164fce90e11e675d65de0ffd3332b64afb17a30a7bff6d1f1d6da
-Section: 微信插件
-Description: A tweak that keeps apps alive，这个插件的作用可以让你的app即使在后台，也能无限期地运行在前台！无需越狱或TrollStore，您只需将插件注入您想要使用的 IPA 即可。会有一个可以拖动的浮动按钮，你可以点击它来切换 Immortalizer 的状态。
-Author: A
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: ImmortalizerJailed真后台
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/immortalizerjailed/js.json
-
-Package: com.axs.immortalizerjailed
-Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 156
@@ -7520,28 +7520,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: ImmortalizerJailed真后台
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/immortalizerjailed/js.json
 
-Package: com.axs.lockplayer
-Version: 3.20
-Architecture: iphoneos-arm64
+Package: com.axs.immortalizerjailed
+Version: 2.2
+Architecture: iphoneos-arm64e
 Maintainer: Axs
-Installed-Size: 1448
-Depends: firmware (>= 15.0)
-Filename: ./debs/com.axs.lockplayer_3.20_iphoneos-arm64.deb
-Size: 460216
-MD5sum: a4e1bdf4d9bd01735aed616a32de6608
-SHA1: 41d28fba6cd68c73264b2819852852d4601a1f18
-SHA256: 9661b190822855bbee1eedcd52d305ec38605af312556f1e31c66a80420ac01f
-Section: Tweaks
-Description: lockplayer锁屏播放器，功能介绍：
-   *  1.点击专辑封面：跳转到当前播放 App。
-   *  2.背景中部点击：播放/暂停。
-   *  3.向左滑：上一曲；向右滑：下一曲。
-   *  4.安装本插件后：原生锁屏播放器自动隐藏，仅显示 LockPlayer 面板。
-   *  5.进度条：支持拖动定位，松手后自动更新播放进度。
-Author: Ethan Whited & lhh & Axs
-Icon: https://axs66.github.io/repo/icon/lockplayer.png
-Name: LockPlayer 锁屏迷你播放器
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.axs.immortalizerjailed_2.2_iphoneos-arm64e.deb
+Size: 38622
+MD5sum: 6ecb54523035542ba95c49cd10f8b181
+SHA1: d6d34ae2014f4e0118b7b1d296331e84ac5fe54e
+SHA256: 68f43709b7a164fce90e11e675d65de0ffd3332b64afb17a30a7bff6d1f1d6da
+Section: 微信插件
+Description: A tweak that keeps apps alive，这个插件的作用可以让你的app即使在后台，也能无限期地运行在前台！无需越狱或TrollStore，您只需将插件注入您想要使用的 IPA 即可。会有一个可以拖动的浮动按钮，你可以点击它来切换 Immortalizer 的状态。
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: ImmortalizerJailed真后台
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/immortalizerjailed/js.json
 
 Package: com.axs.lockplayer
 Version: 3.20
@@ -7567,16 +7562,16 @@ Name: LockPlayer 锁屏迷你播放器
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
 
 Package: com.axs.lockplayer
-Version: 3.21
-Architecture: iphoneos-arm64e
+Version: 3.20
+Architecture: iphoneos-arm64
 Maintainer: Axs
-Installed-Size: 1464
+Installed-Size: 1448
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.axs.lockplayer_3.21_iphoneos-arm64e.deb
-Size: 463256
-MD5sum: dc2d969b2fe6758ff23efb1e018f4501
-SHA1: 121a99749807fa6dfc7799f089b89f98ed71f554
-SHA256: 60da55964dbdbce1888cc9dbbee40ef92e10367b70296e7808a7f9c7951a94f0
+Filename: ./debs/com.axs.lockplayer_3.20_iphoneos-arm64.deb
+Size: 460216
+MD5sum: a4e1bdf4d9bd01735aed616a32de6608
+SHA1: 41d28fba6cd68c73264b2819852852d4601a1f18
+SHA256: 9661b190822855bbee1eedcd52d305ec38605af312556f1e31c66a80420ac01f
 Section: Tweaks
 Description: lockplayer锁屏播放器，功能介绍：
    *  1.点击专辑封面：跳转到当前播放 App。
@@ -7600,6 +7595,29 @@ Size: 463566
 MD5sum: 9f71173535829e9108ddb66b47d11faf
 SHA1: 217a5693180a5e5b91f6af9afc7bd9b647915020
 SHA256: 682ba4f52dcc27926783efeec141323d9ee252b57b231fe5e91a0aac9ae23afa
+Section: Tweaks
+Description: lockplayer锁屏播放器，功能介绍：
+   *  1.点击专辑封面：跳转到当前播放 App。
+   *  2.背景中部点击：播放/暂停。
+   *  3.向左滑：上一曲；向右滑：下一曲。
+   *  4.安装本插件后：原生锁屏播放器自动隐藏，仅显示 LockPlayer 面板。
+   *  5.进度条：支持拖动定位，松手后自动更新播放进度。
+Author: Ethan Whited & lhh & Axs
+Icon: https://axs66.github.io/repo/icon/lockplayer.png
+Name: LockPlayer 锁屏迷你播放器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lockplayer/js.json
+
+Package: com.axs.lockplayer
+Version: 3.21
+Architecture: iphoneos-arm64e
+Maintainer: Axs
+Installed-Size: 1464
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.axs.lockplayer_3.21_iphoneos-arm64e.deb
+Size: 463256
+MD5sum: dc2d969b2fe6758ff23efb1e018f4501
+SHA1: 121a99749807fa6dfc7799f089b89f98ed71f554
+SHA256: 60da55964dbdbce1888cc9dbbee40ef92e10367b70296e7808a7f9c7951a94f0
 Section: Tweaks
 Description: lockplayer锁屏播放器，功能介绍：
    *  1.点击专辑封面：跳转到当前播放 App。
@@ -7664,11 +7682,11 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.axs.rma_1.0_iphoneos-arm64.deb
-Size: 25184
-MD5sum: 3320cfa3d087f03237c46dbd1449b478
-SHA1: cb81206fa056f463b879a13c1d4540de927334e5
-SHA256: 70b586918c362bd6be032a66f8e1c7c867a5138dbf1b52785fbf9eb101b464a6
+Filename: ./debs/com.Axs.rma_1.0_iphoneos-arm64.deb
+Size: 25116
+MD5sum: 1e3d63c75838a47a668c35fef4b3a1a8
+SHA1: a81355eb2732d1f890ac67909a3fafe8ced4fb4c
+SHA256: 2570317ffc5df9631640444095f2a7662335c80063bf3444d969864513636b2d
 Section: Tweaks
 Description: A Lightweight Reachability Manager
 Author: A
@@ -7682,11 +7700,11 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.rma_1.0_iphoneos-arm64.deb
-Size: 25116
-MD5sum: 1e3d63c75838a47a668c35fef4b3a1a8
-SHA1: a81355eb2732d1f890ac67909a3fafe8ced4fb4c
-SHA256: 2570317ffc5df9631640444095f2a7662335c80063bf3444d969864513636b2d
+Filename: ./debs/com.axs.rma_1.0_iphoneos-arm64.deb
+Size: 25184
+MD5sum: 3320cfa3d087f03237c46dbd1449b478
+SHA1: cb81206fa056f463b879a13c1d4540de927334e5
+SHA256: 70b586918c362bd6be032a66f8e1c7c867a5138dbf1b52785fbf9eb101b464a6
 Section: Tweaks
 Description: A Lightweight Reachability Manager
 Author: A
@@ -7786,6 +7804,24 @@ Sileodepiction: https://axs66.github.io/repo/sileodepiction/tie-gesture/js.json
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
+Size: 623244
+MD5sum: d639a2ed4bc02f3f0dea0475cf6289f6
+SHA1: 0d4cbbcaa83a7113ad2764e285462a6db32b0f75
+SHA256: 76e47ff936062bb565916ad9601614f9c180b6b949172266fd073bf6c8dce21d
+Section: Tweaks
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
+Name: DesktopLyrics
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
+
+Package: com.brend0n.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 2748
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
@@ -7801,24 +7837,6 @@ Depiction: https://axs66.github.io/repo
 Icon: https://axs66.github.io/repo/icon/qqmusicdesktoplyrics.png
 Name: DesktopLyrics 桌面歌词
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/qqmusicdesktoplyrics/js.json
-
-Package: com.brend0n.qqmusicdesktoplyrics
-Version: 0.3.9~b1
-Architecture: iphoneos-arm64
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
-Size: 623244
-MD5sum: d639a2ed4bc02f3f0dea0475cf6289f6
-SHA1: 0d4cbbcaa83a7113ad2764e285462a6db32b0f75
-SHA256: 76e47ff936062bb565916ad9601614f9c180b6b949172266fd073bf6c8dce21d
-Section: Tweaks
-Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
-Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
-Name: DesktopLyrics
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
 
 Package: com.creaturecoding.shuffle
 Version: 1.6.2
