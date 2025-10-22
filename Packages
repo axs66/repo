@@ -6953,6 +6953,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 小雪糕
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxuegao/js.json
 
+Package: com.Axs.xxuegao
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 3584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.xxuegao_1.1-6_iphoneos-arm64.deb
+Size: 2166444
+MD5sum: 505e7abbf735b4a49e0bb7b9fb9b2ced
+SHA1: 3ec26a8275dd95c9388de7b960a2de146005ff04
+SHA256: 704ad874881f3eb206431d41f68923f3ca43bc9e5f388e130167ce5ec7911285
+Section: 微信插件
+Description: 一个快捷搜索各大插件功能的插件，方便懒人。
+Author: xuegao
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 小雪糕
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/xxuegao/js.json
+
 Package: com.Axs.yuanjiao
 Version: 1.8.2
 Architecture: iphoneos-arm64
