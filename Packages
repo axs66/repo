@@ -4393,6 +4393,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: NewFeature
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
 
+Package: com.Axs.newfeature
+Version: 5.2.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 340
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.newfeature_5.2.3_iphoneos-arm64.deb
+Size: 57736
+MD5sum: 81b1cda9ee88a5d135ec41f4145191d7
+SHA1: 574418c6ad9f6446e2526f1ef52f0ee305592db0
+SHA256: e0ac4e3e9812d641f2a7af2b13486a60c73319ce18f93ca64c91d86f7e5dc758
+Section: 微信插件
+Description: 一个简单的微信插件。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: NewFeature
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
+
 Package: com.Axs.ocd5
 Version: 5.4.1.1
 Architecture: iphoneos-arm64
