@@ -2788,14 +2788,14 @@ Version: 1.5.1
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 440
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.axs.onesettings
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.eneko_1.5.1_iphoneos-arm64.deb
-Size: 60568
-MD5sum: e7d6ca7dafa04152a1e6cb136c4338db
-SHA1: a392542bbf9a3c05cb3f988dd26ffdeea4e604dc
-SHA256: 80510ddf6611f0ea46e68d2c7a0b443de3d9e344944ae99608497280e6643af9
+Size: 60660
+MD5sum: 48ff4737bc624cde90b4e868d848bfc9
+SHA1: d86d2aeb5c943fe8aab5e62c65631790e453c3b2
+SHA256: 2f3ca8531362b748f35af62efc5a9fd4127cf30aa7c6ec159b17a989bb3917c3
 Section: Tweaks
-Description: 壁纸插件，将你喜欢的视频设置成桌面或者锁屏壁纸
+Description: 壁纸插件，将你喜欢的视频设置成桌面或者锁屏壁纸，需要安装onesettings收纳插件，在本源里面搜索onesettings安装即可。
 Author: Traurige & Axs
 Icon: https://axs66.github.io/repo/icon/eneko.png
 Name: Eneko 动态壁纸
