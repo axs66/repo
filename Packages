@@ -2783,6 +2783,24 @@ Icon: https://axs66.github.io/repo/icon/eneko.png
 Name: Eneko 动态壁纸
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/eneko/js.json
 
+Package: com.Axs.eneko
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.axs.onesettings
+Filename: ./debs/com.Axs.eneko_1.5.1_iphoneos-arm64.deb
+Size: 60568
+MD5sum: e7d6ca7dafa04152a1e6cb136c4338db
+SHA1: a392542bbf9a3c05cb3f988dd26ffdeea4e604dc
+SHA256: 80510ddf6611f0ea46e68d2c7a0b443de3d9e344944ae99608497280e6643af9
+Section: Tweaks
+Description: 壁纸插件，将你喜欢的视频设置成桌面或者锁屏壁纸
+Author: Traurige & Axs
+Icon: https://axs66.github.io/repo/icon/eneko.png
+Name: Eneko 动态壁纸
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/eneko/js.json
+
 Package: com.Axs.eqe
 Version: 2.2.24
 Architecture: iphoneos-arm64
