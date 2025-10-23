@@ -2770,12 +2770,12 @@ Version: 1.5.0
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 440
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.axs.onesettings
 Filename: ./debs/com.Axs.eneko_1.5.0_iphoneos-arm64.deb
-Size: 60596
-MD5sum: 51fb7ba333d2da76f3a54cd922260fb0
-SHA1: 4f501e1e52ff0c59c225bb50ab0a9c3985f6d38e
-SHA256: 3c8543bc75fefa8546142fa360b0028fa6287ee9d554a26dc8a9ee4339ed72f7
+Size: 60604
+MD5sum: 39dee60d9d1e5eb13cce2885e2fd8454
+SHA1: 401d9938681040dfce3d31be0849f743d406efa7
+SHA256: d6a52dd85130482de67b7d90df19cb88d76851bf81e62f9edd9e8369439d2152
 Section: Tweaks
 Description: 动态壁纸(锁屏+桌面)，去除了LibGcUniversal依赖
 Author: Traurige & Axs
