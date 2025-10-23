@@ -5908,6 +5908,24 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信头像圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/touxiang/js.json
 
+Package: com.Axs.trolldecryptjb
+Version: 1.3.1-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1392
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), lldb
+Filename: ./debs/com.Axs.trolldecryptjb_1.3.1-1_iphoneos-arm64.deb
+Size: 280584
+MD5sum: bd6be3e20c68642752fc0e8a80a6675d
+SHA1: 0a5f41115fa03c307cc4339a6b51249e83775dc1
+SHA256: 6a1519967b55e2162fb65a6a7f4d50d60e8cecd51158d44527c0943eb427c8aa
+Section: 系统增强
+Description: Decrypt Appstore App that require higher iOS，only ios15-16
+Author: 34306
+Icon: https://axs66.github.io/repo/icon/trolldecryptjb.png
+Name: TrollDecryptJB
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/trolldecryptjb/js.json
+
 Package: com.Axs.trollleds
 Version: 1.8.1
 Architecture: iphoneos-arm64
