@@ -2431,6 +2431,23 @@ Name: CozyBadges彩色通知
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.cr4shed
+Version: 4.3.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2404
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11),  com.axs.libnotifications, cm90.crossoveripc
+Filename: ./debs/com.Axs.cr4shed_4.3.2_iphoneos-arm64.deb
+Size: 198152
+MD5sum: 70e5d3dcdd8f91114db56ea835f328bb
+SHA1: 37da5e601187554242794ec3a5d754dd50a6587f
+SHA256: 33b9dc3389c8d157f36ba3133f5f78f3bd7e2bcec58fbce848d42c3c17bdec53
+Section: Tweaks
+Description: 查看崩溃日志，提交给Ai告诉问题出在哪里。安装此插件前，必须先安装Ldid插件，默认源就有，否则闪退。
+Author: Muirey03
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Cr4shed 崩溃日志
+
 Package: com.Axs.crane
 Version: 1.3.16-4
 Architecture: iphoneos-arm64
@@ -3818,6 +3835,28 @@ Author: lddxz
 Icon: https://axs66.github.io/repo/icon/lddxz.png
 Name: 灵动岛旋转
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/lddxz/js.json
+
+Package: com.Axs.libnotifications
+Version: 0.3-6-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 376
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.Axs.libnotifications_0.3-6-1+debug_iphoneos-arm64.deb
+Size: 14680
+MD5sum: 9b627616581b3f188b29431cf11beaeb
+SHA1: 2c36baa19140288af92a3004b85333e21514b5a7
+SHA256: 5373e276eb4641d5a32f0a68af626640f0d6c8f040abfc7cdbe0f57594243dcb
+Section: Tweaks
+Priority: optional
+Homepage: https://axs66.github.io/repo
+Description: App notification library.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Depiction: https://repo.138686.xyz
+Dev: cokepokes
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+Name: libnotifications
+Sponsor: Axs
 
 Package: com.Axs.limneoscrack-rootless
 Version: 1.1-3
