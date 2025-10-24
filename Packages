@@ -2456,15 +2456,16 @@ Maintainer: Axs
 Installed-Size: 2404
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11),  com.axs.libnotifications, cm90.crossoveripc
 Filename: ./debs/com.Axs.cr4shed_4.3.2_iphoneos-arm64.deb
-Size: 198152
-MD5sum: 70e5d3dcdd8f91114db56ea835f328bb
-SHA1: 37da5e601187554242794ec3a5d754dd50a6587f
-SHA256: 33b9dc3389c8d157f36ba3133f5f78f3bd7e2bcec58fbce848d42c3c17bdec53
+Size: 198300
+MD5sum: 1b178706da89e21446c3e4dbd5237235
+SHA1: c31b106d0afc56457be175ef5eb0bf053ae243a5
+SHA256: 866fa9c838b7f7a2f8af2292a4d676b0572ac3d7d2aa394c2eff3be0f4132604
 Section: Tweaks
 Description: 查看崩溃日志，提交给Ai告诉问题出在哪里。安装此插件前，必须先安装Ldid插件，默认源就有，否则闪退。
 Author: Muirey03
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: https://axs66.github.io/repo/icon/cr4shed.png
 Name: Cr4shed 崩溃日志
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/cr4shed/js.json
 
 Package: com.Axs.crane
 Version: 1.3.16-4
