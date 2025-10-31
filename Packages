@@ -6513,6 +6513,26 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信插件管理
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcplugins/js.json
 
+Package: com.Axs.wcsimplify
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.wcsimplify_1.5.5_iphoneos-arm64.deb
+Size: 23368
+MD5sum: f96c900a4168fa57426d359bdf877fae
+SHA1: a6fb44e1506298c67616ebdf92d865684e0b9365
+SHA256: 82802a20d98cf56b1b18d0fdebd9da873f170f0eebb05167519c43a2b10c009d
+Section: 微信插件
+Description: 功能介绍：
+    *   顶栏低栏样式调整(全透明、半透明、毛玻璃)。
+    *   呼出方式：长按任意顶部导航栏。
+Author: ylr
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCSimplify
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcsimplify/js.json
+
 Package: com.Axs.wctextcolor
 Version: 1.5
 Architecture: iphoneos-arm64
