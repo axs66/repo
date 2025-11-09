@@ -4565,6 +4565,33 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: NewFeature
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
 
+Package: com.Axs.newfeature
+Version: 5.3.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1144
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.newfeature_5.3.5_iphoneos-arm64.deb
+Size: 240508
+MD5sum: 1cc6139b724b89470cb25d761fc38a5d
+SHA1: 12084a9af2cec299fff7cde66eb4f271b1928527
+SHA256: 9dd1b7ee627ea1e8b80d00c576c201bd5e25bf2ca90b8dc2cf86d993f4d0c157
+Section: 微信插件
+Description: 一个简单的微信插件。功能介绍：
+    *   1.账号信息：用户信息、应用信息、签名信息。
+    *   2.内测功能：微信各版本灰度功能提前享用。
+    *   3.输入窗口：聊天界面输入框美化及增强功能。
+    *   4.实用功能：时间渐变旋转背景、SVG图标随机颜色、微信输入法隐藏Logo、消息左滑引用、引用消息点击跳转、全屏三击截图、全屏返回手势。
+    *   5.附件布局：聊天功能面板 2x5布局(可自定义排序）。
+    *   6.微信头像：自定义主页和聊天界面的微信头像位置，即在线状态，头像周边自定义特效。
+    *   7.微信铭牌：支持微信群聊界面，昵称后面显示铭牌（支持png/gif素材）。
+    *   8.底部背景：支持微信群聊界面，+号背景自定义素材（支持png/gif/mp4格式素材）。
+    *   9.其他功能：隐藏我的二维码、图片边缘点击关闭、图片信息扩展、朋友圈消息尾巴、微信去广告。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: NewFeature
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
+
 Package: com.Axs.ocd5
 Version: 5.4.1.1
 Architecture: iphoneos-arm64
@@ -8423,6 +8450,25 @@ SHA256: 7b7299936ddf1dfc5834c5ff2859807f672bf9d1d7fee648b3679b884e2fbbdd
 Section: 微信插件
 Priority: optional
 Homepage: https://t.me/wxfx8
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: PKC
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.8-4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootless_0.8-4_iphoneos-arm64.deb
+Size: 956072
+MD5sum: 3c875e4f0f8ed0f7addafd6f64752698
+SHA1: 263097796689c187e6a3df74cfe1ecb8509751f3
+SHA256: 29254a87d568747d2ea2687658cb1dc1fbc44b9ff30bad4e58fa30265506a759
+Section: 微信插件
+Priority: optional
+Homepage: https://axs66.github.io/repo
 Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Author: Curtin
 Icon: https://axs66.github.io/repo/icon/wechat.png
