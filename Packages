@@ -7454,6 +7454,24 @@ Icon: https://axs66.github.io/repo/icon/zfk.png
 Name: 主副卡自定义图片
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/zfk/js.json
 
+Package: com.Axs.zhedie
+Version: 1.0.0-196
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 244
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.zhedie_1.0.0-196_iphoneos-arm64.deb
+Size: 33804
+MD5sum: b7c9129c28f290869e97c78b0a3a20d3
+SHA1: 6adf46451e3706a759cda42a522b793c18c12e14
+SHA256: 71fb4e4c6904def30c424e3a5ff55a466919d00cdf5e3f15e9ff7c0f1d008ce2
+Section: 微信插件
+Description: 折叠栏动画，无设置下，安装生效
+Author: mokey
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 折叠栏动画
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/zhedie/js.json
+
 Package: com.Axs.zxbsp
 Version: 0.0.3
 Architecture: iphoneos-arm64
