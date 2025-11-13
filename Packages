@@ -1361,6 +1361,25 @@ Icon: https://axs66.github.io/repo/icon/adguard.png
 Name: AdGuard 解锁会员
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/adguard/js.json
 
+Package: com.Axs.aerial
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 672
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.aerial_1.0_iphoneos-arm64.deb
+Size: 104384
+MD5sum: 2f169a8fab6dc6806f04209a0fc605a5
+SHA1: ca5afbf7194b77067f0baa9bfb94296de1267367
+SHA256: 07e2b6b7ce887f71a4dc0dd049e2bc812520a3b52ef4cb00aadf4e2b1a77ec26
+Section: 分屏插件
+Description: Stage Manager, redesigned for iOS.长按桌面app，开启功能，目前一堆bug
+Author: uzra
+Depiction: https://alist.138686.xyz
+Icon: https://axs66.github.io/repo/icon/aerial.png
+Name: Aerial
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/aerial/js.json
+
 Package: com.Axs.afhook
 Version: 3.5.0
 Architecture: iphoneos-arm64
