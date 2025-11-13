@@ -5820,6 +5820,24 @@ Icon: https://axs66.github.io/repo/icon/switchtheme3.png
 Name: SwitchTheme-Line开关
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
 
+Package: com.Axs.switchtheme4
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.switchtheme4_1.0.0_iphoneos-arm64.deb
+Size: 50132
+MD5sum: 0a893f50ab49cb96be7201f228abd09a
+SHA1: 746d9be6d4f885e292c1767b41be5da80396d399
+SHA256: d282b52c3eaffd0f0823683fe044350f50b6b34762f88f9445ed794efd07a944
+Section: Tweaks
+Description: 开关美化插件。
+Author: 白衣
+Icon: https://axs66.github.io/repo/icon/switchtheme4.png
+Name: 皮卡丘开关
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
+
 Package: com.Axs.tapticboard
 Version: 1.2
 Architecture: iphoneos-arm64
