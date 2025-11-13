@@ -4592,6 +4592,32 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: NewFeature
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
 
+Package: com.Axs.newfeature
+Version: 5.3.7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.newfeature_5.3.7_iphoneos-arm64.deb
+Size: 245464
+MD5sum: 26a920e7e8b7e8826404921ac5f5bd92
+SHA1: 200fa7ac2124682f3246ffb6b95a19699686a43d
+SHA256: 9e3fb8a425d9ecb6ea4414c9c64a1cd2a20a97db023fa688db5b68a56c998dff
+Section: 微信插件
+Description: 一个简单的微信插件。功能介绍：
+    *   1.账号信息：用户信息、应用信息、签名信息。
+    *   2.内测功能：微信各版本灰度功能提前享用。
+    *   3.输入窗口：聊天界面输入框美化及增强功能。
+    *   4.实用功能：时间渐变旋转背景、SVG图标随机颜色、微信输入法隐藏Logo、消息左滑引用、引用消息点击跳转、全屏三击截图、全屏返回手势、朋友圈显示详细时间。
+    *   5.附件布局：聊天功能面板 2x5布局(可自定义排序）。
+    *   6.微信头像：自定义主页和聊天界面的微信头像位置，即在线状态，头像周边自定义特效。
+    *   7.微信铭牌：支持微信群聊界面，昵称后面显示铭牌（支持png/gif素材）。
+    *   8.其他功能：隐藏我的二维码、图片边缘点击关闭、图片信息扩展、朋友圈消息尾巴、微信去广告。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: NewFeature
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
+
 Package: com.Axs.ocd5
 Version: 5.4.1.1
 Architecture: iphoneos-arm64
