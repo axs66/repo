@@ -1380,6 +1380,24 @@ Icon: https://axs66.github.io/repo/icon/aerial.png
 Name: Aerial
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/aerial/js.json
 
+Package: com.Axs.aerial
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: uz.ra
+Installed-Size: 692
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.aerial_1.1_iphoneos-arm64.deb
+Size: 107716
+MD5sum: bd26f6581a4aa9d62c80d19dd27210bd
+SHA1: 00e3085bc62593b053df4147375caa39f16c2c62
+SHA256: da8566b3ba118d34434f64947fcb4f4dfe05d552fce716dfe7e195fc5d6eb54e
+Section: 分屏插件
+Description: Stage Manager, redesigned for iOS
+Author: uz.ra
+Icon: https://axs66.github.io/repo/icon/aerial.png
+Name: Aerial
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/aerial/js.json
+
 Package: com.Axs.afhook
 Version: 3.5.0
 Architecture: iphoneos-arm64
