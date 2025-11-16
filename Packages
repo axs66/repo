@@ -1886,6 +1886,24 @@ Description: 电池管理器 Battman
 Author: Torrekie <me@torrekie.dev>
 Name: Battman
 
+Package: com.Axs.battman
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Torrekie
+Depends: firmware (>= 12.0), cy+model.iphone (>= 10.1) | cy+model.ipad (>= 8.1), libintl8 | libintl
+Filename: ./debs/com.Axs.battman_1.0.2_iphoneos-arm64.deb
+Size: 379424
+MD5sum: 9e6619810e9c7bef196f5854f8be7f14
+SHA1: aa92441f17c7d73a25f04aeeb97cdae2f8b79372
+SHA256: 5cf265e8dfec78d2b9a7cc5be6b70c66186e4f3dce96917d1653d7fbbd01439c
+Section: Applications
+Homepage: https://axs66.github.io/repo
+Description: 电池管理器 Battman Battman 是一款轻量级应用程序，可提供深入的 实时电池信息。从充电 电流、电压、温度，到 不充电原因、适配器信息、 智能充电、低功耗模式和配件 检测.
+Author: Torrekie
+Icon: https://axs66.github.io/repo/icon/battman.png
+Name: Battman 电池管理器
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/battman/js.json
+
 Package: com.Axs.betterbili
 Version: 2.3.3
 Architecture: iphoneos-arm64
@@ -4668,6 +4686,34 @@ Description: 一个简单的微信插件。功能介绍：
     *   6.微信头像：自定义主页和聊天界面的微信头像位置，即在线状态，头像周边自定义特效。
     *   7.微信铭牌：支持微信群聊界面，昵称后面显示铭牌（支持png/gif素材）。
     *   8.其他功能：隐藏我的二维码、图片边缘点击关闭、图片信息扩展、朋友圈消息尾巴、微信去广告。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: NewFeature
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
+
+Package: com.Axs.newfeature
+Version: 5.3.9
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1308
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.newfeature_5.3.9_iphoneos-arm64.deb
+Size: 276400
+MD5sum: 6c1a4ad881f0c3d45c1da8609ef9aefb
+SHA1: 636c9e58c54bccdb4781426358cf9a0784ec8596
+SHA256: 668a782ce1bb77b5267e7b1f0346581cc10bb70afdfbf0de3393c521a9e5ee25
+Section: 微信插件
+Description: 一个简单的微信插件。功能介绍：
+    *   1.账号信息：用户信息、应用信息、签名信息。
+    *   2.内测功能：微信各版本灰度功能提前享用。
+    *   3.输入窗口：聊天界面输入框美化及增强功能。
+    *   4.实用功能：朋友圈显示详细时间、微信输入法隐藏Logo、隐藏微信号、消息左滑引用、引用消息点击跳转、全屏三击截图、全屏返回手势。
+    *   5.附件布局：聊天功能面板 2x5布局(可自定义排序）。
+    *   6.美化功能：微信头像-自定义主页和聊天界面的微信头像位置，即在线状态，头像周边自定义特效。
+                   微信铭牌-支持微信群聊界面，昵称后面显示铭牌（支持png/gif素材）。
+                   首页+号背景、消息长按菜单背景、底部背景等均支持png、gif、mp4、mov素材。
+                   时间星空背景、SVG图标随机颜色。
+    *   7.其他功能：隐藏我的二维码、图片边缘点击关闭、图片信息扩展、朋友圈消息尾巴、微信去广告。
 Author: Axs
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: NewFeature
